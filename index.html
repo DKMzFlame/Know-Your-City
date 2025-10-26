@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian City Information Finder</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section class="stats-bar">
+        <div class="stats-container">
+            <span class="stats-label">Total Cities Added:</span>
+            <span id="cityCount">0</span>
+        </div>
+    </section>
+    <div class="container">
+        <header>
+            <h1>Indian City Information Finder</h1>
+            <p>Find the best schools, restaurants, and hospitals in Indian cities</p>
+        </header>
+
+        <main>
+            <div class="search-section">
+                <div class="search-container">
+                    <input type="text" id="cityInput" placeholder="Enter a city name...">
+                    <button id="searchBtn">Search</button>
+                </div>
+                
+                <div class="category-selection">
+                    <h2>Select a category:</h2>
+                    <div class="category-buttons">
+                        <button class="category-btn" data-category="school">Schools</button>
+                        <button class="category-btn" data-category="restaurant">Restaurants</button>
+                        <button class="category-btn" data-category="hospital">Hospitals</button>
+                        <button class="category-btn" data-category="weather">Weather</button>
+                        <button class="category-btn" data-category="touristspot">Tourist Spots</button>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="results-section">
+                <div id="cityInfo" class="city-info.hidden">
+                    <h2 id="cityName">City Name</h2>
+                    <div id="categoryTitle" class="category-title">Category</div>
+                    <div id="results" class="results-container">
+                        <!-- Results will be displayed here -->
+                    </div>
+                </div>
+                <div id="noResults" class="no-results hidden">
+                    <p>No results found. Please try another city or category.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var el = document.getElementById('cityCount');
+            try {
+                if (el && typeof cityDatabase !== 'undefined' && cityDatabase) {
+                    var count = Object.keys(cityDatabase).length;
+                    el.textContent = String(count);
+                }
+            } catch (e) {}
+        });
+    </script>
+    <section class="category-details">
+        <h2>Our Categories</h2>
+        <div class="category-cards">
+            <div class="category-card" id="schools-card">
+                <div class="card-icon">🏫</div>
+                <h3>Schools</h3>
+                <p>Discover the finest educational institutions across India's vibrant cities. Our comprehensive database features top-rated schools with detailed information about their academic excellence, faculty qualifications, infrastructure facilities, and extracurricular programs. We provide insights into curriculum offerings, from CBSE and ICSE to international boards like IB and Cambridge. Find schools with specialized programs in science, technology, arts, or sports. Our listings include student-teacher ratios, campus amenities, transportation options, and fee structures to help parents make informed decisions about their children's education journey. Whether you're looking for prestigious boarding schools, day schools with modern facilities, or institutions with specific teaching methodologies, our platform helps you find the perfect educational fit for your child's unique needs and aspirations.</p>
+            </div>
+            <div class="category-card" id="restaurants-card">
+                <div class="card-icon">🍽️</div>
+                <h3>Restaurants</h3>
+                <p>Embark on a culinary adventure through India's diverse food landscape with our extensive restaurant listings. From authentic regional cuisines to international fine dining experiences, our platform showcases the best eateries in every city. Explore establishments ranging from heritage restaurants serving traditional recipes passed down through generations to trendy cafés offering fusion creations. Our detailed profiles include cuisine specialties, signature dishes, price ranges, ambiance descriptions, and operating hours. Discover restaurants with special features like rooftop dining, live music, cultural performances, or waterfront views. Find vegetarian havens, street food paradises, or luxury dining destinations. Whether you're craving the fiery spices of Chettinad, the subtle flavors of Kashmiri cuisine, the seafood delicacies of coastal regions, or international gourmet experiences, our comprehensive guide helps food enthusiasts find their perfect dining destination for every occasion, mood, and budget.</p>
+            </div>
+            <div class="category-card" id="hospitals-card">
+                <div class="card-icon">🏥</div>
+                <h3>Hospitals</h3>
+                <p>Access comprehensive information about leading healthcare facilities across India's major cities and emerging medical hubs. Our detailed hospital listings feature renowned multi-specialty hospitals, specialized care centers, and cutting-edge medical institutions. Find essential details about medical specialties, doctor profiles, technological capabilities, accreditations, and patient services. Our platform provides insights into hospitals with advanced departments for cardiology, oncology, neurology, orthopedics, pediatrics, and more. Discover facilities offering specialized treatments like robotic surgery, organ transplantation, advanced cancer therapies, or regenerative medicine. Our listings include information about emergency services, diagnostic capabilities, inpatient facilities, outpatient departments, and telemedicine options. We also highlight hospitals known for medical tourism, offering international patient services including language assistance, accommodation arrangements, and visa support. Whether seeking routine care, specialized treatment, or emergency services, our comprehensive guide helps patients and families make informed healthcare decisions with confidence and peace of mind.</p>
+            </div>
+            <div class="category-card" id="weather-card">
+                <div class="card-icon">🌦️</div>
+                <h3>Weather</h3>
+                <p>Stay updated with the latest weather conditions in cities across India. Our weather category provides real-time information on temperature, humidity, wind speed, and forecasts for the coming days. Whether you're planning a trip, commuting, or just curious about the climate, our platform helps you prepare for any weather. Get details on seasonal changes, monsoon updates, and extreme weather alerts to keep you and your loved ones safe and informed.</p>
+            </div>
+            <div class="category-card" id="touristspot-card">
+                <div class="card-icon">🏛️</div>
+                <h3>Tourist Spots</h3>
+                <p>Discover the most captivating tourist attractions across India's vibrant cities. From ancient monuments and heritage sites to modern landmarks and natural wonders, our comprehensive guide helps you explore the best tourist destinations. Each listing includes detailed information about historical significance, visiting hours, entry fees, and nearby amenities. Whether you're interested in architectural marvels, cultural experiences, scenic viewpoints, or entertainment venues, our platform provides all the essential details to plan your perfect sightseeing adventure. Find popular tourist spots with ratings, visitor reviews, best times to visit, and travel tips to make your exploration memorable and hassle-free.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="about-section">
+        <div class="about-container">
+            <h2>About the Developers</h2>
+            <p class="about-description">This project was developed by a talented team of developers passionate about creating useful web applications.</p>
+            <div class="developers-grid">
+                <div class="developer-card">
+                    <div class="developer-icon">👨‍💻</div>
+                    <h3>Divyansh Kumar Maurya</h3>
+                    <p>Full Stack Developer</p>
+                </div>
+                <div class="developer-card">
+                    <div class="developer-icon">👨‍💻</div>
+                    <h3>Adarsh Kumar Singh</h3>
+                    <p>Frontend Developer</p>
+                </div>
+            <div class="developer-card">
+                <div class="developer-icon">👨‍💻</div>
+                <h3>Purushottam Misra</h3>
+                <p>Backened Deveploer</p>
+            </div>
+            <div class="developer-card">
+                <div class="developer-icon">👨‍💻</div>
+                <h3>Sashwat Singh</h3>
+                <p>Frontend Developer</p>
+            </div>
+            <div class="developer-card">
+                <div class="developer-icon">👨‍💻</div>
+                <h3>Qaim Ansari</h3>
+                <p>Backend Developer</p>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 City Information Finder</p>
+    </footer>
+</body>
+</html>
