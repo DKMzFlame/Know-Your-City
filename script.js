@@ -4160,8 +4160,188 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Buxa Fort', rating: 4.6, address: 'Buxa, near Jalpaiguri', description: 'Historic fort located amidst the scenic Dooars hills.' }
     ]
 },
-
-
+'darjeeling': { 
+    schools: [
+        { name: 'St. Paul’s School', rating: 4.9, address: 'Jalapahar, Darjeeling, West Bengal 734103', description: 'One of India’s oldest and most prestigious boarding schools with a scenic campus.' },
+        { name: 'Loreto Convent', rating: 4.8, address: 'Chauk Bazaar, Darjeeling, West Bengal 734101', description: 'Renowned girls’ school emphasizing academics and holistic education.' },
+        { name: 'Mount Hermon School', rating: 4.7, address: 'North Point, Darjeeling, West Bengal 734104', description: 'Historic co-educational boarding school offering ICSE and ISC curriculum.' },
+        { name: 'St. Joseph’s School (North Point)', rating: 4.8, address: 'North Point, Darjeeling, West Bengal 734104', description: 'Jesuit-run school known for academic excellence and discipline.' }
+    ],
+    restaurants: [
+        { name: 'Kunga Restaurant', rating: 4.8, address: 'Chauk Bazaar, Darjeeling, West Bengal 734101', description: 'Family-run Tibetan restaurant famous for momos and thukpa.' },
+        { name: 'Glenary’s Bakery & Café', rating: 4.9, address: 'Nehru Road, Darjeeling, West Bengal 734101', description: 'Iconic colonial-era café serving continental and bakery delights.' },
+        { name: 'Sonam’s Kitchen', rating: 4.7, address: 'Dr. Zakir Hussain Rd, Darjeeling, West Bengal 734101', description: 'Cozy café offering breakfast, pancakes, and good coffee.' },
+        { name: 'Keventer’s', rating: 4.8, address: 'Nehru Road, Darjeeling, West Bengal 734101', description: 'Famous heritage eatery known for sausages, sandwiches, and milkshakes.' }
+    ],
+    hospitals: [
+        { name: 'Darjeeling District Hospital', rating: 4.6, address: 'Lebong Cart Road, Darjeeling, West Bengal 734104', description: 'Main government hospital providing general medical services.' },
+        { name: 'Planters Hospital', rating: 4.5, address: 'Chowrasta, Darjeeling, West Bengal 734101', description: 'Private hospital catering to residents and tourists alike.' },
+        { name: 'Lions Eye Hospital', rating: 4.4, address: 'Darjeeling, West Bengal 734101', description: 'Specialized eye hospital providing advanced ophthalmic care.' },
+        { name: 'Jubilee Sanatorium', rating: 4.3, address: 'Lebong, Darjeeling, West Bengal 734104', description: 'Old sanatorium offering general and respiratory care.' }
+    ],
+    touristSpots: [
+        { name: 'Tiger Hill', rating: 4.9, address: 'Darjeeling, West Bengal 734101', description: 'Famous sunrise viewpoint overlooking Mount Kanchenjunga.' },
+        { name: 'Batasia Loop', rating: 4.8, address: 'Darjeeling, West Bengal 734102', description: 'Scenic railway loop with panoramic views and war memorial.' },
+        { name: 'Darjeeling Himalayan Railway', rating: 4.9, address: 'Darjeeling, West Bengal 734101', description: 'UNESCO World Heritage toy train route offering scenic rides.' },
+        { name: 'Peace Pagoda', rating: 4.7, address: 'West Point, Darjeeling, West Bengal 734104', description: 'Japanese-built Buddhist pagoda offering tranquility and views.' }
+    ]
+},
+'siliguri': { 
+    schools: [
+        { name: 'Delhi Public School Siliguri', rating: 4.8, address: 'Dagapur, Siliguri, West Bengal 734003', description: 'CBSE-affiliated school offering modern facilities and excellent academics.' },
+        { name: 'Don Bosco School', rating: 4.7, address: 'Sevoke Road, Siliguri, West Bengal 734001', description: 'Renowned school focusing on academics and character building.' },
+        { name: 'St. Joseph’s High School', rating: 4.6, address: 'Hill Cart Road, Siliguri, West Bengal 734003', description: 'One of Siliguri’s oldest and most reputed institutions.' },
+        { name: 'Nirmala Convent School', rating: 4.5, address: 'Pradhan Nagar, Siliguri, West Bengal 734003', description: 'Popular ICSE school providing holistic education for all-round growth.' }
+    ],
+    restaurants: [
+        { name: 'Around the Corner', rating: 4.8, address: 'Sevoke Road, Siliguri, West Bengal 734001', description: 'Trendy café serving continental and Asian cuisine.' },
+        { name: 'Hi Spirits Café', rating: 4.7, address: 'Don Bosco More, Siliguri, West Bengal 734001', description: 'Lively café offering snacks, coffee, and great ambiance.' },
+        { name: 'Indian Pagoda', rating: 4.6, address: 'Sevoke Road, Siliguri, West Bengal 734001', description: 'Famous multi-cuisine restaurant serving Indian and Chinese dishes.' },
+        { name: 'The Loft Café & Restaurant', rating: 4.7, address: 'Don Bosco Colony, Siliguri, West Bengal 734001', description: 'Stylish dining space with fusion food and rooftop seating.' }
+    ],
+    hospitals: [
+        { name: 'Neotia Getwel Healthcare Centre', rating: 4.8, address: 'Matigara, Siliguri, West Bengal 734010', description: 'Modern multi-specialty hospital providing quality healthcare.' },
+        { name: 'Anandaloke Hospital', rating: 4.6, address: 'Sevoke Road, Siliguri, West Bengal 734001', description: 'Popular healthcare facility with advanced diagnostics and emergency care.' },
+        { name: 'North Bengal Medical College & Hospital', rating: 4.5, address: 'Sushrutanagar, Siliguri, West Bengal 734012', description: 'Major government hospital serving the region.' },
+        { name: 'Dr. Chhang’s Super Specialty Hospital', rating: 4.7, address: 'Sevoke Road, Siliguri, West Bengal 734001', description: 'Private hospital offering multi-specialty treatment and surgical care.' }
+    ],
+    touristSpots: [
+        { name: 'Mahananda Wildlife Sanctuary', rating: 4.8, address: 'Sevoke, Siliguri, West Bengal 734005', description: 'Lush sanctuary with elephants, leopards, and birdwatching trails.' },
+        { name: 'Coronation Bridge', rating: 4.7, address: 'Sevoke, Siliguri, West Bengal 734005', description: 'Historic British-era bridge over the Teesta River offering scenic views.' },
+        { name: 'ISKCON Temple Siliguri', rating: 4.8, address: 'ISKCON Road, Siliguri, West Bengal 734001', description: 'Beautiful temple dedicated to Lord Krishna with serene surroundings.' },
+        { name: 'Salugara Monastery', rating: 4.6, address: 'Salugara, Siliguri, West Bengal 734008', description: 'Peaceful Buddhist monastery with a 100-foot stupa built by Tibetan monks.' }
+    ]
+},
+'darjeeling': { 
+    schools: [
+        { name: 'St. Paul’s School', rating: 4.9, address: 'Jalapahar, Darjeeling, West Bengal 734103', description: 'One of India’s oldest and most prestigious boarding schools.' },
+        { name: 'Loreto Convent School', rating: 4.8, address: 'Lebong Cart Road, Darjeeling, West Bengal 734104', description: 'Renowned girls’ school known for academic excellence and discipline.' },
+        { name: 'Mount Hermon School', rating: 4.7, address: 'North Point, Darjeeling, West Bengal 734104', description: 'Historic school offering ICSE curriculum with scenic campus.' },
+        { name: 'St. Joseph’s School (North Point)', rating: 4.9, address: 'North Point, Darjeeling, West Bengal 734104', description: 'Premier Jesuit-run institution with a long legacy of excellence.' }
+    ],
+    restaurants: [
+        { name: 'Glenary’s', rating: 4.8, address: 'Nehru Road, Darjeeling, West Bengal 734101', description: 'Famous bakery and restaurant offering continental dishes with a colonial charm.' },
+        { name: 'Kunga Restaurant', rating: 4.7, address: 'Gandhi Road, Darjeeling, West Bengal 734101', description: 'Popular Tibetan restaurant serving momos, thukpa, and local delicacies.' },
+        { name: 'Sonam’s Kitchen', rating: 4.6, address: 'Dr. Zakir Hussain Road, Darjeeling, West Bengal 734101', description: 'Cozy spot offering English breakfast and homemade food.' },
+        { name: 'Revolver Restaurant', rating: 4.5, address: 'Gandhi Road, Darjeeling, West Bengal 734101', description: 'Themed restaurant inspired by The Beatles, serving Nepali and Indian dishes.' }
+    ],
+    hospitals: [
+        { name: 'Darjeeling District Hospital', rating: 4.5, address: 'Laden La Road, Darjeeling, West Bengal 734101', description: 'Major government hospital serving the hill region.' },
+        { name: 'Planters Hospital', rating: 4.6, address: 'Lal Kothi Road, Darjeeling, West Bengal 734101', description: 'Multi-specialty private hospital providing essential healthcare services.' },
+        { name: 'Himalayan Nursing Home', rating: 4.4, address: 'Lebong Cart Road, Darjeeling, West Bengal 734104', description: 'Trusted local healthcare center with experienced staff.' },
+        { name: 'Goodricke Medical Centre', rating: 4.5, address: 'North Point, Darjeeling, West Bengal 734104', description: 'Healthcare facility serving tea garden workers and residents.' }
+    ],
+    touristSpots: [
+        { name: 'Tiger Hill', rating: 4.9, address: 'Darjeeling, West Bengal 734104', description: 'Famous sunrise point offering panoramic views of Mount Kanchenjunga.' },
+        { name: 'Batasia Loop', rating: 4.8, address: 'Hill Cart Road, Darjeeling, West Bengal 734102', description: 'Iconic spiral railway track with beautiful gardens and a war memorial.' },
+        { name: 'Padmaja Naidu Himalayan Zoological Park', rating: 4.7, address: 'Jawahar Parbat, Darjeeling, West Bengal 734101', description: 'High-altitude zoo home to snow leopards and red pandas.' },
+        { name: 'Peace Pagoda', rating: 4.8, address: 'Jalapahar Hill, Darjeeling, West Bengal 734104', description: 'Buddhist shrine offering peaceful atmosphere and stunning views.' }
+    ]
+},
+'krishnanagar': { 
+    schools: [
+        { name: 'St. Joseph’s Convent High School', rating: 4.8, address: 'Don Bosco Road, Krishnanagar, West Bengal 741101', description: 'Reputed convent school known for its quality education and discipline.' },
+        { name: 'Krishnanagar Collegiate School', rating: 4.7, address: 'R.N. Tagore Road, Krishnanagar, West Bengal 741101', description: 'Historic government school offering strong academics and co-curriculars.' },
+        { name: 'Julien Day School', rating: 4.6, address: 'Bhatjangla, Krishnanagar, West Bengal 741101', description: 'Private English-medium school affiliated with ICSE board.' },
+        { name: 'St. Mary’s English School', rating: 4.5, address: 'P.O. Krishnanagar, West Bengal 741101', description: 'Popular CBSE school offering modern learning environment.' }
+    ],
+    restaurants: [
+        { name: 'Krishnagar Rajbhog', rating: 4.7, address: 'R.N. Tagore Road, Krishnanagar, West Bengal 741101', description: 'Famous for Bengali sweets, especially chhana-based delicacies.' },
+        { name: 'The Food Court', rating: 4.6, address: 'Nadia District, Krishnanagar, West Bengal 741101', description: 'Modern restaurant serving Indian, Chinese, and continental dishes.' },
+        { name: 'Aahar Restaurant', rating: 4.5, address: 'N.S. Road, Krishnanagar, West Bengal 741101', description: 'Casual dining place offering North Indian and Bengali food.' },
+        { name: 'The Hangout Café', rating: 4.4, address: 'Cinema Road, Krishnanagar, West Bengal 741101', description: 'Trendy café popular among youth for snacks and beverages.' }
+    ],
+    hospitals: [
+        { name: 'Krishnanagar District Hospital', rating: 4.5, address: 'Nadia, Krishnanagar, West Bengal 741101', description: 'Main government hospital serving the district with general facilities.' },
+        { name: 'Narayana Multispeciality Hospital', rating: 4.7, address: 'Bhatjangla, Krishnanagar, West Bengal 741101', description: 'Modern private hospital providing quality medical care.' },
+        { name: 'Krishnanagar Nursing Home', rating: 4.4, address: 'Bosepara, Krishnanagar, West Bengal 741101', description: 'Private healthcare facility offering maternity and surgical services.' },
+        { name: 'Apollo Diagnostic Centre', rating: 4.6, address: 'R.N. Tagore Road, Krishnanagar, West Bengal 741101', description: 'Advanced diagnostic and pathology services in the city.' }
+    ],
+    touristSpots: [
+        { name: 'Rajbari Palace', rating: 4.8, address: 'Nadia District, Krishnanagar, West Bengal 741101', description: 'Historic royal palace known for its architecture and cultural importance.' },
+        { name: 'Roman Catholic Church', rating: 4.7, address: 'Don Bosco Road, Krishnanagar, West Bengal 741101', description: 'Beautiful old church known for its peaceful ambiance and design.' },
+        { name: 'Ghurni Clay Modellers Village', rating: 4.8, address: 'Ghurni, Krishnanagar, West Bengal 741101', description: 'Famous for traditional clay sculptures and artisan workshops.' },
+        { name: 'Jalangi River Bank', rating: 4.6, address: 'Krishnanagar, West Bengal 741101', description: 'Scenic riverside area ideal for relaxation and evening walks.' }
+    ]
+},
+'coochbehar': { 
+    schools: [
+        { name: 'Kendriya Vidyalaya Cooch Behar', rating: 4.8, address: 'Kalyani, Cooch Behar, West Bengal 736101', description: 'CBSE-affiliated school providing high-quality education and co-curriculars.' },
+        { name: 'Don Bosco School', rating: 4.7, address: 'Madan Mohan Road, Cooch Behar, West Bengal 736101', description: 'Renowned private school offering holistic education and discipline.' },
+        { name: 'Cooch Behar Jenkins School', rating: 4.6, address: 'Cooch Behar, West Bengal 736101', description: 'Historic government school with a strong academic reputation.' },
+        { name: 'Sunity Academy', rating: 4.5, address: 'Sunity Road, Cooch Behar, West Bengal 736101', description: 'Popular school for science and arts education, affiliated to WBBSE.' }
+    ],
+    restaurants: [
+        { name: 'The Royal Dine', rating: 4.7, address: 'Sunity Road, Cooch Behar, West Bengal 736101', description: 'Upscale restaurant serving Indian and Chinese cuisines.' },
+        { name: 'Food Factory', rating: 4.6, address: 'Cooch Behar, West Bengal 736101', description: 'Modern eatery known for fast food and family-friendly ambiance.' },
+        { name: 'Kasturi Restaurant', rating: 4.5, address: 'Madan Mohan Road, Cooch Behar, West Bengal 736101', description: 'Authentic Bengali cuisine restaurant famous for fish and sweets.' },
+        { name: 'Aahar Family Restaurant', rating: 4.4, address: 'BS Road, Cooch Behar, West Bengal 736101', description: 'Casual dining spot serving Indian and continental food.' }
+    ],
+    hospitals: [
+        { name: 'MJN Medical College & Hospital', rating: 4.6, address: 'Cooch Behar, West Bengal 736101', description: 'Major government medical institution offering multi-specialty care.' },
+        { name: 'Cooch Behar District Hospital', rating: 4.5, address: 'Sunity Road, Cooch Behar, West Bengal 736101', description: 'Main public healthcare facility serving local residents.' },
+        { name: 'Apollo Clinic', rating: 4.7, address: 'BS Road, Cooch Behar, West Bengal 736101', description: 'Private diagnostic and healthcare center providing modern services.' },
+        { name: 'New Life Nursing Home', rating: 4.4, address: 'Kalyani, Cooch Behar, West Bengal 736101', description: 'Trusted local hospital for maternity and general treatment.' }
+    ],
+    touristSpots: [
+        { name: 'Cooch Behar Rajbari Palace', rating: 4.9, address: 'Sunity Road, Cooch Behar, West Bengal 736101', description: 'Magnificent royal palace showcasing Indo-Saracenic architecture.' },
+        { name: 'Madan Mohan Temple', rating: 4.8, address: 'Cooch Behar, West Bengal 736101', description: 'Ancient Hindu temple dedicated to Lord Krishna and Balaram.' },
+        { name: 'Sagardighi', rating: 4.7, address: 'Near Rajbari, Cooch Behar, West Bengal 736101', description: 'Scenic lake surrounded by colonial-era buildings and temples.' },
+        { name: 'Baneswar Shiva Temple', rating: 4.6, address: 'Baneswar, Cooch Behar, West Bengal 736133', description: 'Historic Shiva temple with a pond of sacred turtles.' }
+    ]
+},
+'midnapore': { 
+    schools: [
+        { name: 'Kendriya Vidyalaya Midnapore', rating: 4.7, address: 'Vidyasagar University Campus, Midnapore, West Bengal 721102', description: 'CBSE school known for academic excellence and holistic learning.' },
+        { name: 'St. Paul’s School', rating: 4.6, address: 'Rangamati, Midnapore, West Bengal 721101', description: 'Well-reputed English-medium school emphasizing discipline and values.' },
+        { name: 'Midnapore Collegiate School', rating: 4.8, address: 'Midnapore Town, West Bengal 721101', description: 'Historic institution providing quality secondary education.' },
+        { name: 'DAV Public School', rating: 4.5, address: 'Chandrakona Road, Midnapore, West Bengal 721201', description: 'Renowned private school focusing on academics and character development.' }
+    ],
+    restaurants: [
+        { name: 'Royal Spice Restaurant', rating: 4.7, address: 'Rangamati, Midnapore, West Bengal 721101', description: 'Popular family restaurant serving North Indian and Chinese cuisines.' },
+        { name: 'Food Junction', rating: 4.6, address: 'Station Road, Midnapore, West Bengal 721101', description: 'Casual dining spot known for affordable and tasty meals.' },
+        { name: 'Taste of Bengal', rating: 4.5, address: 'Panskura Road, Midnapore, West Bengal 721101', description: 'Authentic Bengali food served with homely flavors.' },
+        { name: 'The Café Adda', rating: 4.4, address: 'Vidyasagar University Area, Midnapore, West Bengal 721102', description: 'Trendy café popular among students and young professionals.' }
+    ],
+    hospitals: [
+        { name: 'Midnapore Medical College and Hospital', rating: 4.7, address: 'Vidyasagar Road, Midnapore, West Bengal 721101', description: 'Leading government hospital offering multi-specialty healthcare.' },
+        { name: 'Life Line Nursing Home', rating: 4.5, address: 'Rangamati, Midnapore, West Bengal 721101', description: 'Private healthcare facility with good emergency and maternity care.' },
+        { name: 'Rama Krishna Mission Seva Pratishthan', rating: 4.6, address: 'Midnapore Town, West Bengal 721101', description: 'Charitable hospital offering compassionate medical services.' },
+        { name: 'Apollo Diagnostics', rating: 4.4, address: 'Station Road, Midnapore, West Bengal 721101', description: 'Advanced diagnostic center with pathology and imaging services.' }
+    ],
+    touristSpots: [
+        { name: 'Chandrakona Fort', rating: 4.7, address: 'Chandrakona, Midnapore, West Bengal 721201', description: 'Historic fort showcasing medieval architecture and scenic surroundings.' },
+        { name: 'Jhargram Palace', rating: 4.8, address: 'Jhargram, West Bengal 721507', description: 'Beautiful heritage palace and popular tourist destination.' },
+        { name: 'Gopegarh Eco Park', rating: 4.6, address: 'Gopegarh, Midnapore, West Bengal 721102', description: 'Eco-tourism park ideal for picnics and nature walks.' },
+        { name: 'Karnagarh Temple Complex', rating: 4.7, address: 'Karnagarh, Midnapore, West Bengal 721101', description: 'Ancient temple complex dedicated to Goddess Durga and Lord Shiva.' }
+    ]
+},
+'suri': { 
+    schools: [
+        { name: 'Suri Vidyasagar College', rating: 4.7, address: 'College Road, Suri, West Bengal 731101', description: 'Prestigious institution offering higher secondary and degree programs.' },
+        { name: 'Suri Balika Vidyapith', rating: 4.6, address: 'Rabindra Pally, Suri, West Bengal 731101', description: 'Renowned girls’ school providing quality education under WBBSE board.' },
+        { name: 'Suri High School', rating: 4.5, address: 'Suri Town, West Bengal 731101', description: 'Government-aided school with strong academic results and experienced faculty.' },
+        { name: 'St. Mary’s English School', rating: 4.6, address: 'Bolpur Road, Suri, West Bengal 731101', description: 'English-medium school focusing on modern learning methods and co-curriculars.' }
+    ],
+    restaurants: [
+        { name: 'Flavours Restaurant', rating: 4.7, address: 'Suri Bus Stand, Suri, West Bengal 731101', description: 'Multi-cuisine restaurant serving Indian, Chinese, and continental dishes.' },
+        { name: 'The Hungry Bowl', rating: 4.6, address: 'Station Road, Suri, West Bengal 731101', description: 'Popular spot for snacks, biryani, and fast food.' },
+        { name: 'Aahar Veg Restaurant', rating: 4.5, address: 'Court More, Suri, West Bengal 731101', description: 'Pure vegetarian restaurant offering North and South Indian meals.' },
+        { name: 'Adda Junction Café', rating: 4.4, address: 'Rabindra Pally, Suri, West Bengal 731101', description: 'Trendy café known for its coffee, burgers, and lively ambiance.' }
+    ],
+    hospitals: [
+        { name: 'Suri Sadar Hospital', rating: 4.5, address: 'Hospital Road, Suri, West Bengal 731101', description: 'Main government hospital providing general and emergency healthcare.' },
+        { name: 'Life Line Nursing Home', rating: 4.6, address: 'Court More, Suri, West Bengal 731101', description: 'Private nursing home offering multi-specialty services.' },
+        { name: 'Apollo Diagnostics', rating: 4.4, address: 'Bolpur Road, Suri, West Bengal 731101', description: 'Diagnostic center with advanced pathology and imaging facilities.' },
+        { name: 'Medicare Clinic', rating: 4.5, address: 'Suri Town, West Bengal 731101', description: 'Private clinic providing quality consultation and healthcare.' }
+    ],
+    touristSpots: [
+        { name: 'Bakreshwar Temple', rating: 4.8, address: 'Bakreshwar, near Suri, West Bengal 731102', description: 'Sacred temple dedicated to Lord Shiva with nearby hot springs.' },
+        { name: 'Hot Springs of Bakreshwar', rating: 4.7, address: 'Bakreshwar, Birbhum, near Suri, West Bengal 731102', description: 'Natural geothermal springs attracting devotees and tourists alike.' },
+        { name: 'Tarapith Temple', rating: 4.9, address: 'Tarapith, near Suri, West Bengal 731233', description: 'Famous Shakti Peeth temple dedicated to Goddess Tara.' },
+        { name: 'Amra Forest Park', rating: 4.5, address: 'Suri-Bolpur Road, Suri, West Bengal 731101', description: 'Peaceful park ideal for picnics and nature walks.' }
+    ]
+},
 
 
 
