@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { name: 'Tata Memorial Hospital', rating: 4.9, address: 'Dr. E Borges Road, Parel, Mumbai, Maharashtra 400012', description: 'Specialized cancer research and treatment center.' },
                 { name: 'Jaslok Hospital', rating: 4.6, address: '15, Dr. Deshmukh Marg, Mumbai, Maharashtra 400026', description: 'Multi-specialty hospital with renowned medical professionals.' }
             ],
-            touristspots: [
+            touristSpots: [
                 { name: 'Gateway of India', rating: 4.9, address: 'Apollo Bunder, Colaba, Mumbai, Maharashtra 400001', description: 'Iconic arch monument built in Indo-Saracenic style, overlooking the Arabian Sea.' },
                 { name: 'Marine Drive', rating: 4.8, address: 'Netaji Subhash Chandra Bose Road, Mumbai, Maharashtra 400020', description: 'Famous seaside promenade known as the Queen\'s Necklace, offering stunning sunset views.' },
                 { name: 'Elephanta Caves', rating: 4.7, address: 'Elephanta Island, Mumbai Harbour, Maharashtra 400094', description: 'UNESCO World Heritage site featuring ancient cave temples dedicated to Lord Shiva.' },
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Multi-specialty hospital offering quality healthcare and surgical facilities.' 
         }
     ],
-    touristspots: [
+    touristSpots: [
         { name: 'Bara Imambara', rating: 4.8, address: 'Husainabad, Lucknow, Uttar Pradesh 226003', description: 'Historic Mughal-era monument famous for its central hall and labyrinth (Bhul Bhulaiya).' },
         { name: 'Rumi Darwaza', rating: 4.7, address: 'Husainabad, Lucknow, Uttar Pradesh 226003', description: 'Iconic 18th-century gateway symbolizing Lucknow’s heritage.' },
         { name: 'Ambedkar Memorial Park', rating: 4.6, address: 'Gomti Nagar, Lucknow, Uttar Pradesh 226010', description: 'Massive sandstone park featuring statues and beautiful architecture.' },
@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern hospital offering advanced facilities and specialized medical services.' 
         }
     ],
-    touristspots: [
+    touristSpots: [
         { name: 'Taj Mahal', rating: 5.0, address: 'Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001', description: 'UNESCO World Heritage Site and symbol of love built by Emperor Shah Jahan.' },
         { name: 'Agra Fort', rating: 4.8, address: 'Rakabganj, Agra, Uttar Pradesh 282003', description: 'Massive 16th-century Mughal fort made of red sandstone and marble.' },
         { name: 'Mehtab Bagh', rating: 4.6, address: 'Opposite Taj Mahal, across Yamuna River, Agra, Uttar Pradesh', description: 'Scenic garden offering stunning sunset views of the Taj Mahal.' },
@@ -293,7 +293,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility offering advanced treatments and surgical care.' 
         }
     ],
-    touristspots: [
+    touristSpots: [
         { name: 'Allen Forest Zoo', rating: 4.6, address: 'Azad Nagar, Kanpur, Uttar Pradesh 208002', description: 'Popular zoological park with wildlife and green areas.' },
         { name: 'J.K. Temple', rating: 4.5, address: 'Civil Lines, Kanpur, Uttar Pradesh 208001', description: 'Beautiful temple known for intricate architecture and spiritual ambience.' },
         { name: 'Moti Jheel', rating: 4.6, address: 'Kanpur, Uttar Pradesh 208001', description: 'Scenic lake area with boating, walking paths, and recreational spaces.' },
@@ -379,7 +379,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Private hospital known for emergency care and general medicine services.' 
         }
     ],
-         touristspots: [
+         touristSpots: [
         { name: 'Triveni Sangam', rating: 5.0, address: 'Prayagraj, Uttar Pradesh 211001', description: 'Confluence of the Ganges, Yamuna, and mythical Saraswati rivers, major pilgrimage site.' },
         { name: 'Allahabad Fort', rating: 4.7, address: 'Near Sangam, Prayagraj, Uttar Pradesh 211001', description: 'Historic fort built by Emperor Akbar in 1583, overlooking the Yamuna river.' },
         { name: 'Anand Bhavan', rating: 4.6, address: 'Civil Lines, Prayagraj, Uttar Pradesh 211001', description: 'Historic house museum of the Nehru family, showcasing India’s freedom struggle.' },
@@ -465,7 +465,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Comprehensive healthcare center offering specialized treatments and surgeries.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Okhla Bird Sanctuary', rating: 4.7, address: 'Okhla, Noida, Uttar Pradesh 201301', description: 'Protected wetland area with diverse migratory birds and natural trails.' },
         { name: 'Worlds of Wonder (WOW)', rating: 4.6, address: 'Sector 38A, Noida, Uttar Pradesh 201301', description: 'Popular amusement and water park with rides for all ages.' },
         { name: 'Botanical Garden, Noida', rating: 4.5, address: 'Sector 38, Noida, Uttar Pradesh 201301', description: 'Lush garden with seasonal flowers, trees, and walking paths.' },
@@ -551,7 +551,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Trusted healthcare facility known for quality service and patient care.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Swarn Jayanti Park', rating: 4.6, address: 'Raj Nagar, Ghaziabad, Uttar Pradesh 201001', description: 'Large urban park with walking tracks, gardens, and recreational areas.' },
         { name: 'Shipra Mall', rating: 4.4, address: 'Vasundhara, Ghaziabad, Uttar Pradesh 201012', description: 'Popular shopping and entertainment complex with restaurants and cinema.' },
         { name: 'ISKCON Temple Ghaziabad', rating: 4.7, address: 'Vaishali, Ghaziabad, Uttar Pradesh 201012', description: 'Spiritual temple complex with vibrant architecture and cultural events.' },
@@ -637,7 +637,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Specialty hospital offering excellent diagnostic and surgical facilities.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Augarnath Temple', rating: 4.7, address: 'Augarnath, Meerut, Uttar Pradesh 250002', description: 'Historic Hindu temple dedicated to Lord Shiva, attracting many pilgrims.' },
         { name: 'Shahpeer Tomb & Shrine', rating: 4.5, address: 'Shahpeer, Meerut, Uttar Pradesh 250001', description: 'Ancient tomb and spiritual site with beautiful architecture.' },
         { name: 'St. John’s Church', rating: 4.4, address: 'Civil Lines, Meerut, Uttar Pradesh 250001', description: 'Colonial-era church known for its historic significance and architecture.' },
@@ -723,7 +723,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Trusted healthcare facility providing quality care across specialties.' 
         }
     ],
-         touristspots: [
+         touristSpots: [
         { name: 'Gorakhnath Temple', rating: 4.8, address: 'Gorakhnath, Gorakhpur, Uttar Pradesh 273001', description: 'Famous temple dedicated to Guru Gorakhnath, major pilgrimage site.' },
         { name: 'Geeta Press', rating: 4.6, address: 'Gorakhpur, Uttar Pradesh 273001', description: 'Historic press known for publishing religious texts and books.' },
         { name: 'Ramgarh Tal', rating: 4.5, address: 'Gorakhpur, Uttar Pradesh 273001', description: 'Scenic lake with boating facilities and park surroundings.' },
@@ -895,7 +895,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility offering emergency care and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Aligarh Fort', rating: 4.6, address: 'Aligarh, Uttar Pradesh 202001', description: 'Historic fort built by Mughal rulers, showcasing impressive architecture.' },
         { name: 'Sir Syed Academy', rating: 4.5, address: 'Aligarh Muslim University, Aligarh, Uttar Pradesh 202002', description: 'Cultural and educational landmark within AMU campus.' },
         { name: 'Jama Masjid', rating: 4.4, address: 'Aligarh, Uttar Pradesh 202001', description: 'Historic mosque known for its beautiful architecture and heritage.' },
@@ -981,7 +981,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility providing specialized treatments and diagnostics.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Jhansi Fort', rating: 4.8, address: 'Jhansi, Uttar Pradesh 284001', description: 'Historic fort built in the 17th century, famous for its role in the 1857 rebellion.' },
         { name: 'Rani Mahal', rating: 4.6, address: 'Jhansi, Uttar Pradesh 284001', description: 'Palace of Rani Lakshmibai, now a museum showcasing artifacts and history.' },
         { name: 'St. Jude Church', rating: 4.4, address: 'Jhansi, Uttar Pradesh 284001', description: 'Colonial-era church known for its architecture and peaceful ambience.' },
@@ -1067,7 +1067,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility offering specialized treatments and quality care.' 
         }
     ],
-         touristspots: [
+         touristSpots: [
         { name: 'Chandni Mahal', rating: 4.6, address: 'Moradabad, Uttar Pradesh 244001', description: 'Historic palace showcasing Mughal-era architecture and heritage.' },
         { name: 'Mangal Pandey Park', rating: 4.5, address: 'Moradabad, Uttar Pradesh 244001', description: 'Public park with gardens, walking paths, and recreational spaces.' },
         { name: 'Government Museum Moradabad', rating: 4.4, address: 'Civil Lines, Moradabad, Uttar Pradesh 244001', description: 'Museum displaying historical artifacts and local heritage items.' },
@@ -1153,7 +1153,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Trusted healthcare facility offering emergency services and treatment.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Ram Janmabhoomi', rating: 5.0, address: 'Ayodhya, Uttar Pradesh 224123', description: 'Birthplace of Lord Rama, major pilgrimage and religious site.' },
         { name: 'Hanuman Garhi', rating: 4.8, address: 'Ayodhya, Uttar Pradesh 224123', description: 'Ancient temple dedicated to Lord Hanuman, famous for its spiritual significance.' },
         { name: 'Kanak Bhawan', rating: 4.6, address: 'Ayodhya, Uttar Pradesh 224123', description: 'Palace-style temple dedicated to Lord Rama and Sita, known for its beautiful architecture.' },
@@ -1239,7 +1239,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern hospital offering diagnostics, emergency care, and multi-specialty services.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Krishna Janmabhoomi', rating: 5.0, address: 'Mathura, Uttar Pradesh 281001', description: 'Birthplace of Lord Krishna, major pilgrimage site with temples and shrines.' },
         { name: 'Vishram Ghat', rating: 4.8, address: 'Mathura, Uttar Pradesh 281001', description: 'Famous ghat on the Yamuna River where Lord Krishna is said to have rested.' },
         { name: 'Govardhan Hill', rating: 4.7, address: 'Mathura District, Uttar Pradesh 281201', description: 'Sacred hill associated with Lord Krishna’s legends, popular for parikrama (circumambulation).' },
@@ -1325,7 +1325,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility providing diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Saharanpur Botanical Garden', rating: 4.7, address: 'Saharanpur, Uttar Pradesh 247001', description: 'Lush garden featuring diverse plant species, walking paths, and peaceful surroundings.' },
         { name: 'Shakumbhari Devi Temple', rating: 4.8, address: 'Saharanpur, Uttar Pradesh 247001', description: 'Famous temple dedicated to Goddess Shakumbhari, attracting thousands of devotees.' },
         { name: 'Saharanpur Fort', rating: 4.5, address: 'Saharanpur, Uttar Pradesh 247001', description: 'Historic fort with remnants of old architecture and historical significance.' },
@@ -1411,7 +1411,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility offering diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Singh Dwar', rating: 4.5, address: 'Firozabad, Uttar Pradesh 283203', description: 'Historic gate and landmark in the city, showcasing Mughal-era architecture.' },
         { name: 'Shri Ram Mandir', rating: 4.6, address: 'Firozabad, Uttar Pradesh 283203', description: 'Famous temple dedicated to Lord Rama, visited by locals and tourists.' },
         { name: 'Glass City Market', rating: 4.4, address: 'Firozabad, Uttar Pradesh 283203', description: 'Famous market known for glassware and bangles, reflecting the city’s craft heritage.' },
@@ -1497,7 +1497,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility offering diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Etawah Safari Park (Kanha Zoo)', rating: 4.7, address: 'Etawah, Uttar Pradesh 206001', description: 'Large wildlife park and safari with tigers, lions, and other animals.' },
         { name: 'Gautam Buddha Wildlife Sanctuary', rating: 4.6, address: 'Etawah, Uttar Pradesh 206001', description: 'Protected forest area with rich biodiversity and nature trails.' },
         { name: 'Shergarh Fort', rating: 4.5, address: 'Etawah, Uttar Pradesh 206001', description: 'Historic fort with Mughal-era architecture and scenic views.' },
@@ -1583,7 +1583,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility providing diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shahjahanpur Fort', rating: 4.6, address: 'Shahjahanpur, Uttar Pradesh 242001', description: 'Historic fort built during the Mughal era, showcasing old architecture.' },
         { name: 'Shahi Jama Masjid', rating: 4.5, address: 'Shahjahanpur, Uttar Pradesh 242001', description: 'Historic mosque known for its architecture and cultural significance.' },
         { name: 'Kali Mandir', rating: 4.4, address: 'Shahjahanpur, Uttar Pradesh 242001', description: 'Popular temple dedicated to Goddess Kali, visited by locals and tourists.' },
@@ -1669,7 +1669,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility offering diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-         touristspots: [
+         touristSpots: [
         { name: 'Farrukhabad Fort', rating: 4.6, address: 'Farrukhabad, Uttar Pradesh 209625', description: 'Historic fort built during the Mughal period, showcasing old architecture.' },
         { name: 'Shahid Smarak', rating: 4.5, address: 'Farrukhabad, Uttar Pradesh 209625', description: 'Memorial dedicated to local freedom fighters, with historical significance.' },
         { name: 'Shahi Jama Masjid', rating: 4.4, address: 'Farrukhabad, Uttar Pradesh 209625', description: 'Ancient mosque known for its architectural beauty and religious importance.' },
@@ -1755,7 +1755,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility providing diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Ghaghara River Ghats', rating: 4.7, address: 'Ballia, Uttar Pradesh 277001', description: 'Scenic riverfront ghats used for religious rituals and local recreation.' },
         { name: 'Shiv Mandir', rating: 4.6, address: 'Ballia, Uttar Pradesh 277001', description: 'Popular temple dedicated to Lord Shiva, visited by locals and tourists.' },
         { name: 'Ballia Museum', rating: 4.5, address: 'Ballia, Uttar Pradesh 277001', description: 'Museum showcasing local history, artifacts, and cultural heritage.' },
@@ -1841,7 +1841,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility providing diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Rampur Raza Library', rating: 4.8, address: 'Rampur, Uttar Pradesh 244901', description: 'Historic library with rare manuscripts, books, and Islamic heritage collections.' },
         { name: 'Rampur Fort', rating: 4.6, address: 'Rampur, Uttar Pradesh 244901', description: 'Historic fort showcasing Mughal-era architecture and royal heritage.' },
         { name: 'Shahi Jama Masjid', rating: 4.5, address: 'Rampur, Uttar Pradesh 244901', description: 'Famous mosque built during the Nawabi period with intricate architecture.' },
@@ -1927,7 +1927,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern healthcare facility providing diagnostics, emergency care, and specialized treatments.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shah Jahani Masjid', rating: 4.6, address: 'Budaun, Uttar Pradesh 243601', description: 'Historic mosque built during the Mughal era, known for its architecture.' },
         { name: 'Budaun Fort', rating: 4.5, address: 'Budaun, Uttar Pradesh 243601', description: 'Ancient fort with remnants of Mughal-era structures and local history.' },
         { name: 'Aliganj Park', rating: 4.4, address: 'Budaun, Uttar Pradesh 243601', description: 'Public park with walking paths, gardens, and recreational spaces.' },
@@ -2013,7 +2013,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Multi-specialty hospital offering general and emergency healthcare.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Bageshwar Temple', rating: 4.7, address: 'Hardoi, Uttar Pradesh 241001', description: 'Historic temple dedicated to Lord Shiva, visited by pilgrims and tourists.' },
         { name: 'Chaturbhuj Nath Temple', rating: 4.6, address: 'Hardoi, Uttar Pradesh 241001', description: 'Ancient temple known for its architecture and religious significance.' },
         { name: 'Hardoi Park', rating: 4.5, address: 'Hardoi, Uttar Pradesh 241001', description: 'Public park with greenery, walking paths, and recreational areas.' },
@@ -2099,7 +2099,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Modern hospital with experienced doctors and advanced medical technology.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Ram Janmabhoomi', rating: 5.0, address: 'Ayodhya, Uttar Pradesh 224123', description: 'Birthplace of Lord Rama, major pilgrimage and religious site.' },
         { name: 'Hanuman Garhi', rating: 4.8, address: 'Ayodhya, Uttar Pradesh 224123', description: 'Ancient temple dedicated to Lord Hanuman, famous for its spiritual significance.' },
         { name: 'Kanak Bhawan', rating: 4.6, address: 'Ayodhya, Uttar Pradesh 224123', description: 'Palace-style temple dedicated to Lord Rama and Sita, known for its beautiful architecture.' },
@@ -2186,7 +2186,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Renowned teaching hospital associated with the Institute of Medical Sciences, BHU.' 
         }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Kashi Vishwanath Temple', rating: 5.0, address: 'Vishwanath Gali, Varanasi, Uttar Pradesh 221001', description: 'One of the 12 Jyotirlingas, dedicated to Lord Shiva, located on the western bank of the Ganges.' },
         { name: 'Dashashwamedh Ghat', rating: 4.9, address: 'Godowlia, Varanasi, Uttar Pradesh 221001', description: 'Main ghat on the Ganges River, known for the grand Ganga Aarti.' },
         { name: 'Assi Ghat', rating: 4.8, address: 'Assi, Varanasi, Uttar Pradesh 221005', description: 'Popular ghat where pilgrims bathe before visiting Kashi Vishwanath Temple.' },
@@ -2212,7 +2212,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Civil Lines, Amroha, Uttar Pradesh 244221', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'Kiran Hospital', rating: 4.2, address: 'Civil Lines, Amroha, Uttar Pradesh 244221', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Dargah Shah Wilayat', rating: 4.6, address: 'Amroha, Uttar Pradesh 244221', description: 'Historic Sufi shrine attracting devotees and tourists.' },
         { name: 'Amroha Fort', rating: 4.5, address: 'Amroha, Uttar Pradesh 244221', description: 'Ancient fort with remnants of old architecture and history.' },
         { name: 'Naugaza Tomb', rating: 4.4, address: 'Amroha, Uttar Pradesh 244221', description: 'Historic tomb known for Mughal-era architecture.' },
@@ -2238,7 +2238,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Civil Lines, Sitapur, Uttar Pradesh 261001', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Sitapur, Uttar Pradesh 261001', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Sitapur Fort', rating: 4.6, address: 'Sitapur, Uttar Pradesh 261001', description: 'Historic fort with local Mughal architecture.' },
         { name: 'Ramleela Maidan', rating: 4.5, address: 'Sitapur, Uttar Pradesh 261001', description: 'Local ground used for festivals, cultural events, and fairs.' },
         { name: 'Sitapur Park', rating: 4.4, address: 'Sitapur, Uttar Pradesh 261001', description: 'Public park with greenery and walking paths.' },
@@ -2264,7 +2264,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Civil Lines, Hapur, Uttar Pradesh 245101', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Hapur, Uttar Pradesh 245101', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Hapur Fort', rating: 4.5, address: 'Hapur, Uttar Pradesh 245101', description: 'Historic fort with remnants of old architecture.' },
         { name: 'Gurudwara Singh Sabha', rating: 4.6, address: 'Hapur, Uttar Pradesh 245101', description: 'Religious site visited by locals and tourists.' },
         { name: 'Ramleela Ground', rating: 4.4, address: 'Hapur, Uttar Pradesh 245101', description: 'Venue for local events, fairs, and festivals.' },
@@ -2290,7 +2290,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Civil Lines, Mau, Uttar Pradesh 265001', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Mau, Uttar Pradesh 265001', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Alia Bagh', rating: 4.5, address: 'Mau, Uttar Pradesh 265001', description: 'Historic garden area and local attraction.' },
         { name: 'Shiv Mandir Mau', rating: 4.6, address: 'Mau, Uttar Pradesh 265001', description: 'Popular temple dedicated to Lord Shiva.' },
         { name: 'Ramleela Maidan', rating: 4.4, address: 'Mau, Uttar Pradesh 265001', description: 'Local ground used for festivals and events.' },
@@ -2316,7 +2316,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Siddharthnagar, Uttar Pradesh 272207', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Siddharthnagar, Uttar Pradesh 272207', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shree Siddharthnagar Temple', rating: 4.6, address: 'Siddharthnagar, Uttar Pradesh 272207', description: 'Popular temple and local pilgrimage site.' },
         { name: 'Gorakhnath Mandir', rating: 4.5, address: 'Siddharthnagar, Uttar Pradesh 272207', description: 'Historic temple attracting devotees.' },
         { name: 'Siddharthnagar Park', rating: 4.4, address: 'Siddharthnagar, Uttar Pradesh 272207', description: 'Public park with greenery and walking trails.' },
@@ -2342,7 +2342,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Deoria, Uttar Pradesh 274001', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Deoria, Uttar Pradesh 274001', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Deoria', rating: 4.6, address: 'Deoria, Uttar Pradesh 274001', description: 'Popular temple dedicated to Lord Shiva.' },
         { name: 'Seth Bhawan', rating: 4.5, address: 'Deoria, Uttar Pradesh 274001', description: 'Historic building showcasing local architecture.' },
         { name: 'Ramleela Maidan', rating: 4.4, address: 'Deoria, Uttar Pradesh 274001', description: 'Ground used for festivals and cultural events.' },
@@ -2368,7 +2368,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Kasganj, Uttar Pradesh 207123', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Kasganj, Uttar Pradesh 207123', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Kasganj Fort', rating: 4.5, address: 'Kasganj, Uttar Pradesh 207123', description: 'Historic fort with Mughal-era architecture.' },
         { name: 'Shiv Mandir Kasganj', rating: 4.6, address: 'Kasganj, Uttar Pradesh 207123', description: 'Popular local temple dedicated to Lord Shiva.' },
         { name: 'Kasganj Park', rating: 4.4, address: 'Kasganj, Uttar Pradesh 207123', description: 'Public park for recreation and walks.' },
@@ -2394,7 +2394,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Lakhimpur Kheri, Uttar Pradesh 262701', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Lakhimpur Kheri, Uttar Pradesh 262701', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Dudhwa National Park', rating: 4.8, address: 'Lakhimpur Kheri, Uttar Pradesh 262901', description: 'Famous wildlife sanctuary with tigers, elephants, and rich biodiversity.' },
         { name: 'Shiv Mandir Lakhimpur', rating: 4.5, address: 'Lakhimpur Kheri, Uttar Pradesh 262701', description: 'Popular temple dedicated to Lord Shiva.' },
         { name: 'Ghagra River Ghats', rating: 4.4, address: 'Lakhimpur Kheri, Uttar Pradesh 262701', description: 'Riverfront ghats for local recreation and rituals.' },
@@ -2420,7 +2420,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Basti, Uttar Pradesh 272001', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Basti, Uttar Pradesh 272001', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Basti', rating: 4.6, address: 'Basti, Uttar Pradesh 272001', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Basti Park', rating: 4.5, address: 'Basti, Uttar Pradesh 272001', description: 'Public park with walking paths and green areas.' },
         { name: 'Ghaghra River Ghats', rating: 4.4, address: 'Basti, Uttar Pradesh 272001', description: 'Riverfront area for rituals and local gatherings.' },
@@ -2446,7 +2446,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Balrampur, Uttar Pradesh 271201', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Balrampur, Uttar Pradesh 271201', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Balrampur', rating: 4.6, address: 'Balrampur, Uttar Pradesh 271201', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Balrampur Fort', rating: 4.5, address: 'Balrampur, Uttar Pradesh 271201', description: 'Historic fort attracting local tourists and visitors.' },
         { name: 'Ramleela Maidan', rating: 4.4, address: 'Balrampur, Uttar Pradesh 271201', description: 'Ground for cultural events and festivals.' },
@@ -2472,7 +2472,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Sant Kabir Nagar, Uttar Pradesh 272175', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Sant Kabir Nagar, Uttar Pradesh 272175', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Sant Kabir Nagar', rating: 4.6, address: 'Sant Kabir Nagar, Uttar Pradesh 272175', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Kabir Math', rating: 4.7, address: 'Sant Kabir Nagar, Uttar Pradesh 272175', description: 'Historic ashram honoring Sant Kabir, attracting devotees.' },
         { name: 'Ramleela Maidan', rating: 4.4, address: 'Sant Kabir Nagar, Uttar Pradesh 272175', description: 'Local ground for cultural events and festivals.' },
@@ -2498,7 +2498,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Sultanpur, Uttar Pradesh 228001', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Sultanpur, Uttar Pradesh 228001', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Sultanpur', rating: 4.6, address: 'Sultanpur, Uttar Pradesh 228001', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Ramleela Maidan', rating: 4.5, address: 'Sultanpur, Uttar Pradesh 228001', description: 'Ground used for local cultural events and festivals.' },
         { name: 'Public Park Sultanpur', rating: 4.4, address: 'Sultanpur, Uttar Pradesh 228001', description: 'Park with green spaces and walking paths.' },
@@ -2524,7 +2524,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Gonda, Uttar Pradesh 271001', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Gonda, Uttar Pradesh 271001', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Gonda', rating: 4.6, address: 'Gonda, Uttar Pradesh 271001', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Ramleela Maidan', rating: 4.5, address: 'Gonda, Uttar Pradesh 271001', description: 'Ground used for local cultural events and festivals.' },
         { name: 'Public Park Gonda', rating: 4.4, address: 'Gonda, Uttar Pradesh 271001', description: 'Park with green spaces and walking paths.' },
@@ -2550,7 +2550,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Bijnor, Uttar Pradesh 246701', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Bijnor, Uttar Pradesh 246701', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Bijnor', rating: 4.6, address: 'Bijnor, Uttar Pradesh 246701', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Ramleela Maidan', rating: 4.5, address: 'Bijnor, Uttar Pradesh 246701', description: 'Ground used for local cultural events and festivals.' },
         { name: 'Public Park Bijnor', rating: 4.4, address: 'Bijnor, Uttar Pradesh 246701', description: 'Park with green spaces and walking paths.' },
@@ -2576,7 +2576,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Etah, Uttar Pradesh 207001', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Etah, Uttar Pradesh 207001', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Etah', rating: 4.6, address: 'Etah, Uttar Pradesh 207001', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Ramleela Maidan', rating: 4.5, address: 'Etah, Uttar Pradesh 207001', description: 'Ground used for local cultural events and festivals.' },
         { name: 'Public Park Etah', rating: 4.4, address: 'Etah, Uttar Pradesh 207001', description: 'Park with green spaces and walking paths.' },
@@ -2602,7 +2602,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Nursing Home', rating: 4.3, address: 'Amroha, Uttar Pradesh 244221', description: 'Private healthcare center offering specialized treatments.' },
         { name: 'City Hospital', rating: 4.2, address: 'Amroha, Uttar Pradesh 244221', description: 'General hospital providing quality healthcare services.' }
     ],
-        touristspots: [
+        touristSpots: [
         { name: 'Shiv Mandir Amroha', rating: 4.6, address: 'Amroha, Uttar Pradesh 244221', description: 'Famous temple dedicated to Lord Shiva.' },
         { name: 'Ramleela Maidan', rating: 4.5, address: 'Amroha, Uttar Pradesh 244221', description: 'Ground used for local cultural events and festivals.' },
         { name: 'Public Park Amroha', rating: 4.4, address: 'Amroha, Uttar Pradesh 244221', description: 'Park with green spaces and walking paths.' },
@@ -2628,7 +2628,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Sai Hospital Sitapur', rating: 4.4, address: 'Sitapur, Uttar Pradesh 261001', description: 'Private multi-specialty hospital with modern facilities.' },
         { name: 'Shri Ram Hospital', rating: 4.3, address: 'Sitapur, Uttar Pradesh 261001', description: 'Quality healthcare services with good infrastructure.' }
     ],
-    touristspots: [
+    touristSpots: [
         { name: 'Naimisharanya Dham', rating: 4.8, address: 'Sitapur, Uttar Pradesh 261402', description: 'Ancient pilgrimage site known as the center of the universe in Hindu mythology.' },
         { name: 'Chakratirth Temple', rating: 4.6, address: 'Naimisharanya, Sitapur, Uttar Pradesh', description: 'Sacred pond and temple attracting thousands of devotees.' },
         { name: 'Hanuman Garhi Temple', rating: 4.5, address: 'Sitapur, Uttar Pradesh 261001', description: 'Temple dedicated to Lord Hanuman with historical importance.' },
@@ -2654,7 +2654,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Gaur Hospital', rating: 4.3, address: 'Hapur, Uttar Pradesh 245101', description: 'Well-equipped healthcare center offering specialized treatments.' },
         { name: 'Sai Hospital Hapur', rating: 4.2, address: 'Hapur, Uttar Pradesh 245101', description: 'Reliable hospital providing quality medical care.' }
     ],
-    touristspots: [
+    touristSpots: [
         { name: 'Dargah of Shah Junaid', rating: 4.6, address: 'Hapur, Uttar Pradesh 245101', description: 'Historic Sufi shrine attracting pilgrims and visitors.' },
         { name: 'Bada Mandir Hapur', rating: 4.5, address: 'Hapur, Uttar Pradesh 245101', description: 'Ancient Hindu temple known for its grand architecture.' },
         { name: 'Ganga Canal View Point', rating: 4.4, address: 'Hapur, Uttar Pradesh 245101', description: 'Peaceful location with scenic views of the Ganga canal.' },
@@ -7343,8 +7343,13328 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Government Museum Krishnagiri', rating: 4.7, address: 'Krishnagiri, Tamil Nadu 635001', description: 'Museum showcasing regional history, art, and archaeological artifacts.' },
         { name: 'Kelavarapalli Dam', rating: 4.7, address: 'Near Hosur, Krishnagiri District, Tamil Nadu 635109', description: 'Beautiful dam and picnic spot surrounded by serene natural beauty.' }
     ]
+},
+
+
+
+
+
+
+
+
+
+'gangtok': {
+    schools: [
+        { name: 'Tashi Namgyal Academy', rating: 4.9, address: 'Development Area, Gangtok, Sikkim 737101', description: 'Prestigious co-educational school offering ICSE curriculum and excellent academic reputation.' },
+        { name: 'Kendriya Vidyalaya Gangtok', rating: 4.8, address: 'Upper Tadong, Gangtok, Sikkim 737102', description: 'CBSE-affiliated central school providing quality education and holistic development.' },
+        { name: 'Paljor Namgyal Girls’ School', rating: 4.7, address: 'Near Secretariat Road, Gangtok, Sikkim 737101', description: 'Historic girls’ school known for its strong academics and discipline.' },
+        { name: 'Holy Cross School', rating: 4.6, address: 'Tadong, Gangtok, Sikkim 737102', description: 'Renowned English-medium school with focus on moral education and extracurricular excellence.' }
+    ],
+    restaurants: [
+        { name: 'The Square Family Restaurant', rating: 4.8, address: 'MG Marg, Gangtok, Sikkim 737101', description: 'Popular restaurant offering multi-cuisine dishes and great views of the city.' },
+        { name: 'Baker’s Café', rating: 4.7, address: 'MG Marg, Gangtok, Sikkim 737101', description: 'Charming café known for its bakery, coffee, and scenic mountain views.' },
+        { name: 'Taste of Tibet', rating: 4.6, address: 'MG Marg, Gangtok, Sikkim 737101', description: 'Authentic Tibetan restaurant serving momos, thukpa, and local delicacies.' },
+        { name: 'Roll House', rating: 4.5, address: 'Near MG Marg, Gangtok, Sikkim 737101', description: 'Famous street food joint serving rolls, snacks, and fast food at affordable prices.' }
+    ],
+    hospitals: [
+        { name: 'STNM Multi-Speciality Hospital (Sochaygang)', rating: 4.9, address: 'Sochaygang, Gangtok, Sikkim 737102', description: 'Largest government hospital in Sikkim offering advanced medical care and emergency services.' },
+        { name: 'Central Referral Hospital (Manipal Hospital)', rating: 4.8, address: '5th Mile, Tadong, Gangtok, Sikkim 737102', description: 'Super-specialty teaching hospital under Sikkim Manipal University offering world-class healthcare.' },
+        { name: 'Sir Thutob Namgyal Memorial Hospital', rating: 4.7, address: 'Gangtok, Sikkim 737101', description: 'Historic hospital providing general and emergency medical services to residents and tourists.' },
+        { name: 'Hope Centre for Care', rating: 4.6, address: 'Deorali, Gangtok, Sikkim 737102', description: 'Private healthcare facility focused on patient comfort, diagnostics, and modern treatment.' }
+    ],
+    touristSpots: [
+        { name: 'MG Marg', rating: 4.9, address: 'Central Gangtok, Sikkim 737101', description: 'Main city promenade lined with shops, cafés, and cultural centers — a pedestrian-only zone.' },
+        { name: 'Tsomgo Lake (Changu Lake)', rating: 4.9, address: '37 km from Gangtok, East Sikkim 737103', description: 'Stunning glacial lake surrounded by snow-capped peaks, a must-visit attraction.' },
+        { name: 'Rumtek Monastery', rating: 4.8, address: 'Rumtek, Near Gangtok, Sikkim 737135', description: 'Largest monastery in Sikkim and seat of the Karmapa Lama of the Kagyu sect.' },
+        { name: 'Banjhakri Falls and Energy Park', rating: 4.7, address: 'Ranka Road, Gangtok, Sikkim 737101', description: 'Beautiful waterfall park blending natural scenery with cultural sculptures and legends.' }
+    ]
+},
+'namchi': {
+    schools: [
+        { name: 'Namchi Public School', rating: 4.8, address: 'Namchi, South Sikkim, Sikkim 737126', description: 'Leading CBSE-affiliated school offering modern education with focus on academics and co-curricular growth.' },
+        { name: 'Mount Carmel School', rating: 4.7, address: 'Namchi, South Sikkim, Sikkim 737126', description: 'Renowned for quality education, discipline, and character building among students.' },
+        { name: 'Don Bosco School Namchi', rating: 4.8, address: 'Upper Namchi, South Sikkim, Sikkim 737126', description: 'Catholic institution known for holistic development and excellent results.' },
+        { name: 'Namchi Senior Secondary School', rating: 4.6, address: 'Namchi Bazar, South Sikkim, Sikkim 737126', description: 'Government-run senior secondary school offering science, commerce, and arts streams.' }
+    ],
+    restaurants: [
+        { name: 'Taste of Sikkim', rating: 4.8, address: 'Central Namchi, South Sikkim, Sikkim 737126', description: 'Famous restaurant serving authentic Sikkimese and Tibetan cuisine in a cozy setup.' },
+        { name: 'The Square Restaurant', rating: 4.7, address: 'Namchi Bazaar, South Sikkim, Sikkim 737126', description: 'Multi-cuisine restaurant popular for Indian and continental dishes.' },
+        { name: 'Eden View Café', rating: 4.6, address: 'Opposite Central Park, Namchi, Sikkim 737126', description: 'Modern café offering coffee, snacks, and a view of the hills.' },
+        { name: 'Hotel Mayfair Namchi Restaurant', rating: 4.9, address: 'Near Siddhesvara Dham, Namchi, Sikkim 737126', description: 'Luxury dining experience serving North Indian, Asian, and local delicacies.' }
+    ],
+    hospitals: [
+        { name: 'Namchi District Hospital', rating: 4.7, address: 'Namchi, South Sikkim, Sikkim 737126', description: 'Major government hospital providing essential healthcare and emergency services.' },
+        { name: 'STNM Branch Hospital Namchi', rating: 4.6, address: 'Namchi, South Sikkim, Sikkim 737126', description: 'Regional healthcare center linked to the main STNM hospital in Gangtok.' },
+        { name: 'Siddhi Vinayak Hospital', rating: 4.5, address: 'Jorethang Road, Namchi, Sikkim 737126', description: 'Private multi-specialty hospital known for quality care and modern facilities.' },
+        { name: 'District Health & Family Welfare Center', rating: 4.4, address: 'Namchi, South Sikkim, Sikkim 737126', description: 'Public health facility offering maternal and child healthcare services.' }
+    ],
+    touristSpots: [
+        { name: 'Siddhesvara Dham (Char Dham)', rating: 5.0, address: 'Solophok Hill, Namchi, Sikkim 737126', description: 'Iconic pilgrimage complex featuring replicas of India’s Char Dhams and a 108-ft Shiva statue.' },
+        { name: 'Samdruptse Hill and Statue', rating: 4.9, address: 'Samdruptse, Namchi, Sikkim 737126', description: 'Home to a giant 135-ft Guru Padmasambhava statue overlooking the mountains.' },
+        { name: 'Central Park Namchi', rating: 4.7, address: 'Namchi Bazaar, Sikkim 737126', description: 'Beautiful park at the heart of Namchi with fountains, shops, and cafes.' },
+        { name: 'Ngadak Monastery', rating: 4.6, address: 'Namchi, South Sikkim, Sikkim 737126', description: 'Historic monastery offering panoramic views and peaceful surroundings.' }
+    ]
+},
+'gyalshing': {
+    schools: [
+        { name: 'Gyalshing Government Senior Secondary School', rating: 4.7, address: 'Gyalshing, West Sikkim, Sikkim 737111', description: 'Leading government institution offering higher secondary education in science, commerce, and arts.' },
+        { name: 'St. Mary’s School', rating: 4.8, address: 'Near Pelling Road, Gyalshing, Sikkim 737111', description: 'Renowned English-medium school known for its academic excellence and moral education.' },
+        { name: 'Khecheopalri Academy', rating: 4.6, address: 'Gyalshing, West Sikkim, Sikkim 737111', description: 'Private school providing CBSE curriculum and co-curricular development.' },
+        { name: 'Pelling Senior Secondary School', rating: 4.5, address: 'Pelling, Near Gyalshing, Sikkim 737113', description: 'Prominent regional school serving students from nearby towns and villages.' }
+    ],
+    restaurants: [
+        { name: 'Big Belly Restaurant', rating: 4.7, address: 'Gyalshing Bazaar, West Sikkim, Sikkim 737111', description: 'Popular spot for Indian, Tibetan, and local cuisine with cozy ambiance.' },
+        { name: 'Hotel Garuda Restaurant', rating: 4.8, address: 'Gyalshing, West Sikkim, Sikkim 737111', description: 'Family restaurant offering traditional Sikkimese dishes and stunning valley views.' },
+        { name: 'Melting Point Café', rating: 4.6, address: 'Near Market Area, Gyalshing, Sikkim 737111', description: 'Casual café serving coffee, snacks, and baked goods with a peaceful vibe.' },
+        { name: 'Taste Corner', rating: 4.5, address: 'Pelling Road, Gyalshing, Sikkim 737111', description: 'Local favorite offering momos, noodles, and fast food at reasonable prices.' }
+    ],
+    hospitals: [
+        { name: 'District Hospital Gyalshing', rating: 4.7, address: 'Gyalshing, West Sikkim, Sikkim 737111', description: 'Main government hospital providing general and emergency healthcare services for the region.' },
+        { name: 'Pelling Community Health Centre', rating: 4.5, address: 'Pelling, West Sikkim, Sikkim 737113', description: 'Well-equipped healthcare center offering outpatient and basic inpatient services.' },
+        { name: 'Sangkhola Primary Health Centre', rating: 4.4, address: 'Near Gyalshing, West Sikkim, Sikkim 737111', description: 'Local clinic offering preventive and maternal healthcare facilities.' },
+        { name: 'Soreng Hospital (Nearby)', rating: 4.6, address: 'Soreng, West Sikkim, Sikkim 737121', description: 'Regional hospital accessible from Gyalshing, providing extended medical services.' }
+    ],
+    touristSpots: [
+        { name: 'Pemayangtse Monastery', rating: 4.9, address: 'Near Pelling, Gyalshing, West Sikkim 737113', description: 'One of Sikkim’s oldest and most sacred monasteries, known for its intricate architecture and artifacts.' },
+        { name: 'Rabdentse Ruins', rating: 4.8, address: 'Rabdentse, Near Gyalshing, Sikkim 737113', description: 'Historic site of Sikkim’s second capital offering panoramic views of Mt. Kanchenjunga.' },
+        { name: 'Khecheopalri Lake', rating: 4.9, address: 'Khecheopalri, West Sikkim, Sikkim 737113', description: 'Holy lake revered by Buddhists and Hindus, surrounded by serene forests.' },
+        { name: 'Pelling Sky Walk and Chenrezig Statue', rating: 4.8, address: 'Pelling, Near Gyalshing, Sikkim 737113', description: 'Attraction featuring a massive Buddha statue and transparent glass skywalk overlooking the valley.' }
+    ]
+},
+'mangan': {
+    schools: [
+        { name: 'Mangan Senior Secondary School', rating: 4.7, address: 'Mangan, North Sikkim, Sikkim 737116', description: 'Leading government school offering science, commerce, and arts streams with qualified faculty.' },
+        { name: 'Don Bosco School Mangan', rating: 4.8, address: 'Mangan, North Sikkim, Sikkim 737116', description: 'Reputed Catholic institution emphasizing quality academics and holistic student development.' },
+        { name: 'Government Secondary School Singhik', rating: 4.6, address: 'Singhik, Near Mangan, North Sikkim 737116', description: 'Regional secondary school providing education to students from nearby rural areas.' },
+        { name: 'North Point Academy', rating: 4.5, address: 'Lower Mangan, North Sikkim, Sikkim 737116', description: 'Private English-medium school known for disciplined environment and extracurricular focus.' }
+    ],
+    restaurants: [
+        { name: 'The Hill View Restaurant', rating: 4.7, address: 'Mangan Bazaar, North Sikkim, Sikkim 737116', description: 'Well-known restaurant serving Indian, Tibetan, and local dishes with a scenic view.' },
+        { name: 'Hotel Apple Orchid Restaurant', rating: 4.8, address: 'Mangan, North Sikkim, Sikkim 737116', description: 'Cozy restaurant inside a boutique hotel offering multi-cuisine dining options.' },
+        { name: 'Lepcha Café', rating: 4.6, address: 'Mangan Market, North Sikkim, Sikkim 737116', description: 'Café offering momos, noodles, and coffee in a traditional Sikkimese setting.' },
+        { name: 'Taste of Himalaya', rating: 4.5, address: 'Upper Mangan, North Sikkim, Sikkim 737116', description: 'Casual eatery serving Sikkimese thalis, soups, and quick bites.' }
+    ],
+    hospitals: [
+        { name: 'Mangan District Hospital', rating: 4.7, address: 'Mangan, North Sikkim, Sikkim 737116', description: 'Main healthcare center in North Sikkim providing general and emergency medical services.' },
+        { name: 'Singhik Primary Health Centre', rating: 4.5, address: 'Singhik, Near Mangan, Sikkim 737116', description: 'Rural health unit offering outpatient and maternal care services.' },
+        { name: 'Upper Dzongu Health Centre', rating: 4.4, address: 'Dzongu, Near Mangan, North Sikkim 737116', description: 'Community health facility serving remote villages in the Dzongu region.' },
+        { name: 'STNM Outreach Clinic (Branch)', rating: 4.6, address: 'Mangan, North Sikkim, Sikkim 737116', description: 'Associated with STNM Hospital Gangtok, offering extended healthcare and diagnostics.' }
+    ],
+    touristSpots: [
+        { name: 'Mangan View Point', rating: 4.9, address: 'Mangan, North Sikkim, Sikkim 737116', description: 'Popular spot offering mesmerizing views of the Kanchenjunga range and deep valleys.' },
+        { name: 'Singhik View Point', rating: 4.8, address: 'Singhik, Near Mangan, North Sikkim 737116', description: 'Scenic viewpoint offering panoramic mountain views and peaceful surroundings.' },
+        { name: 'Dzongu Valley', rating: 4.9, address: 'Near Mangan, North Sikkim, Sikkim 737116', description: 'Reserved area for the Lepcha community, known for pristine forests, rivers, and monasteries.' },
+        { name: 'Tholung Monastery', rating: 4.8, address: 'Dzongu, Near Mangan, Sikkim 737116', description: 'Ancient monastery preserving rare manuscripts and relics, set in a tranquil location.' }
+    ]
+},'rangpo': {
+    schools: [
+        { name: 'Rangpo Senior Secondary School', rating: 4.7, address: 'Rangpo, East Sikkim, Sikkim 737132', description: 'Leading government institution providing quality education for secondary and higher secondary levels.' },
+        { name: 'Little Angels School', rating: 4.8, address: 'Rangpo, East Sikkim, Sikkim 737132', description: 'Well-known English-medium school focusing on holistic learning and co-curricular growth.' },
+        { name: 'Holy Cross School Rangpo', rating: 4.7, address: 'Upper Rangpo, East Sikkim, Sikkim 737132', description: 'Private school with emphasis on academic excellence and values-based education.' },
+        { name: 'Green Valley Academy', rating: 4.6, address: 'Rangpo, East Sikkim, Sikkim 737132', description: 'Emerging CBSE school known for innovative teaching and community involvement.' }
+    ],
+    restaurants: [
+        { name: 'The Junction Restaurant', rating: 4.8, address: 'Main Market, Rangpo, East Sikkim, Sikkim 737132', description: 'Popular family restaurant serving Indian, Chinese, and Tibetan cuisines with modern ambiance.' },
+        { name: 'Hotel Denzong Delight', rating: 4.7, address: 'NH10 Highway, Rangpo, Sikkim 737132', description: 'Known for delicious local dishes and quality service near the Sikkim-West Bengal border.' },
+        { name: 'Blue Hills Café', rating: 4.6, address: 'Rangpo Bazaar, East Sikkim, Sikkim 737132', description: 'Casual café offering snacks, beverages, and a relaxing atmosphere for travelers.' },
+        { name: 'Taste Corner Rangpo', rating: 4.5, address: 'Near Rangpo Checkpost, Sikkim 737132', description: 'Small eatery popular for momos, thukpa, and quick local meals.' }
+    ],
+    hospitals: [
+        { name: 'Rangpo PHC (Primary Health Centre)', rating: 4.6, address: 'Rangpo, East Sikkim, Sikkim 737132', description: 'Government-run health center providing outpatient and emergency services to residents and travelers.' },
+        { name: 'Singtam District Hospital (Nearby)', rating: 4.7, address: 'Singtam, East Sikkim, Sikkim 737134', description: 'Nearest major hospital offering full medical and surgical facilities.' },
+        { name: 'Himalayan Nursing Home', rating: 4.5, address: 'Rangpo, East Sikkim, Sikkim 737132', description: 'Private healthcare facility offering diagnostic and general treatment services.' },
+        { name: 'Urban Health Centre Rangpo', rating: 4.4, address: 'Rangpo Market, East Sikkim, Sikkim 737132', description: 'Public clinic focusing on immunization and community health programs.' }
+    ],
+    touristSpots: [
+        { name: 'Rangpo River View Point', rating: 4.8, address: 'Rangpo Bridge, East Sikkim, Sikkim 737132', description: 'Beautiful viewpoint overlooking the Teesta River and lush hillsides.' },
+        { name: 'Teesta Bridge', rating: 4.7, address: 'Rangpo, East Sikkim, Sikkim 737132', description: 'Famous bridge marking the entry point into Sikkim from West Bengal.' },
+        { name: 'Aritar Lake (Lampokhari)', rating: 4.8, address: 'Aritar, Near Rangpo, East Sikkim 737133', description: 'Scenic mountain lake surrounded by forests and popular for boating.' },
+        { name: 'Rangpo Checkpost', rating: 4.6, address: 'Rangpo Border, East Sikkim, Sikkim 737132', description: 'Gateway to Sikkim offering first glimpse of the state’s greenery and hospitality.' }
+    ]
+},
+'jorethang': {
+    schools: [
+        { name: 'St. Francis School Jorethang', rating: 4.8, address: 'Jorethang, South Sikkim, Sikkim 737121', description: 'Renowned ICSE school known for its disciplined environment and strong academic performance.' },
+        { name: 'Mount Zion Academy', rating: 4.7, address: 'Jorethang, South Sikkim, Sikkim 737121', description: 'English-medium school offering CBSE curriculum with focus on moral and intellectual development.' },
+        { name: 'Government Secondary School Jorethang', rating: 4.6, address: 'Main Road, Jorethang, South Sikkim 737121', description: 'Prominent government school serving the local community with good infrastructure.' },
+        { name: 'Don Bosco School Jorethang', rating: 4.8, address: 'Upper Jorethang, South Sikkim 737121', description: 'Missionary school excelling in academics and extracurricular activities.' }
+    ],
+    restaurants: [
+        { name: 'The Green Park Restaurant', rating: 4.8, address: 'Jorethang Main Bazaar, South Sikkim 737121', description: 'Famous restaurant offering Indian, Nepali, and Chinese cuisine in a family-friendly setting.' },
+        { name: 'Hotel Namchi View Restaurant', rating: 4.7, address: 'Near Jorethang Bridge, South Sikkim 737121', description: 'Great spot for local Sikkimese food with panoramic river views.' },
+        { name: 'Himalayan Delight Café', rating: 4.6, address: 'Jorethang Market Road, South Sikkim 737121', description: 'Trendy café popular among youth for coffee, bakery, and fast food.' },
+        { name: 'Taste of Sikkim', rating: 4.5, address: 'Opp. Bus Stand, Jorethang 737121', description: 'Small eatery known for momos, thukpa, and traditional Sikkimese thalis.' }
+    ],
+    hospitals: [
+        { name: 'Jorethang Community Health Centre (CHC)', rating: 4.7, address: 'Jorethang, South Sikkim, Sikkim 737121', description: 'Government hospital providing general medical, emergency, and maternity services.' },
+        { name: 'Namchi District Hospital (Nearby)', rating: 4.8, address: 'Namchi, South Sikkim 737126', description: 'Major healthcare facility in South Sikkim offering specialized medical treatments.' },
+        { name: 'Healing Touch Clinic', rating: 4.5, address: 'Upper Jorethang, South Sikkim 737121', description: 'Private clinic offering general health checkups and diagnostics.' },
+        { name: 'Urban Health Centre Jorethang', rating: 4.4, address: 'Jorethang Bazaar, South Sikkim 737121', description: 'Public health unit providing vaccinations and outpatient care.' }
+    ],
+    touristSpots: [
+        { name: 'Jorethang River Front', rating: 4.8, address: 'Teesta River Bank, Jorethang, South Sikkim 737121', description: 'Scenic riverside area ideal for walks, photography, and picnics.' },
+        { name: 'Rangeet River Bridge', rating: 4.7, address: 'Jorethang, South Sikkim 737121', description: 'Beautiful bridge offering stunning views of the Rangeet River and hills.' },
+        { name: 'Namchi Ropeway (Nearby)', rating: 4.8, address: 'Namchi, South Sikkim 737126', description: 'Cable car connecting Namchi and Samdruptse with spectacular views of the valley.' },
+        { name: 'Jorethang Bazaar', rating: 4.6, address: 'Main Market, Jorethang 737121', description: 'Bustling local market famous for handicrafts, textiles, and Sikkimese products.' }
+    ]
+},
+'aritar': {
+    schools: [
+        { name: 'Aritar Senior Secondary School', rating: 4.7, address: 'Aritar, East Sikkim, Sikkim 737133', description: 'Well-known government school offering quality education up to senior secondary level.' },
+        { name: 'Holy Cross School Aritar', rating: 4.8, address: 'Aritar, East Sikkim 737133', description: 'Missionary school providing holistic education with emphasis on discipline and academics.' },
+        { name: 'Little Angels Academy', rating: 4.6, address: 'Aritar Bazar, East Sikkim 737133', description: 'Private English-medium school known for personalized learning and co-curricular focus.' },
+        { name: 'Government Primary School Aritar', rating: 4.5, address: 'Lower Aritar, East Sikkim 737133', description: 'Community-based primary school ensuring foundational education for local children.' }
+    ],
+    restaurants: [
+        { name: 'Hotel Blue Pine Restaurant', rating: 4.8, address: 'Near Lampokhari Lake, Aritar, Sikkim 737133', description: 'Scenic restaurant offering local Sikkimese and Nepali cuisine with lake views.' },
+        { name: 'Aritar Homestay & Café', rating: 4.7, address: 'Aritar Road, East Sikkim 737133', description: 'Popular spot for travelers, known for organic food and warm hospitality.' },
+        { name: 'Lampokhari View Restaurant', rating: 4.6, address: 'Beside Lampokhari Lake, Aritar 737133', description: 'Charming restaurant serving traditional thalis, noodles, and beverages.' },
+        { name: 'Taste Corner Aritar', rating: 4.5, address: 'Aritar Bazaar, East Sikkim 737133', description: 'Small eatery loved by locals for momos, thukpa, and fast food.' }
+    ],
+    hospitals: [
+        { name: 'Aritar Primary Health Centre (PHC)', rating: 4.7, address: 'Aritar, East Sikkim 737133', description: 'Government-run PHC providing outpatient, emergency, and maternal healthcare services.' },
+        { name: 'Rongli Sub-Divisional Hospital (Nearby)', rating: 4.8, address: 'Rongli, East Sikkim 737131', description: 'Main healthcare facility for the Aritar region with general and emergency services.' },
+        { name: 'Dr. Lhamu Clinic', rating: 4.6, address: 'Aritar Market, East Sikkim 737133', description: 'Private clinic offering general consultation and diagnostics.' },
+        { name: 'Community Health Centre Rongli', rating: 4.5, address: 'Rongli, East Sikkim 737131', description: 'Public health centre serving nearby villages and towns.' }
+    ],
+    touristSpots: [
+        { name: 'Lampokhari (Aritar Lake)', rating: 4.9, address: 'Aritar, East Sikkim 737133', description: 'Serene natural lake surrounded by forests, ideal for boating and nature walks.' },
+        { name: 'Aritar Monastery (Ari Gumpa)', rating: 4.8, address: 'Aritar, East Sikkim 737133', description: 'Ancient Buddhist monastery offering peace and panoramic mountain views.' },
+        { name: 'Mankhim Hill Viewpoint', rating: 4.8, address: 'Upper Aritar, Sikkim 737133', description: 'Scenic viewpoint overlooking Lampokhari Lake and the Himalayas.' },
+        { name: 'Rhenock Bazaar', rating: 4.6, address: 'Near Aritar, East Sikkim 737133', description: 'Bustling market area offering local produce, crafts, and eateries.' }
+    ]
+},
+'ravangla': {
+    schools: [
+        { name: 'Ravangla Government Senior Secondary School', rating: 4.8, address: 'Ravangla, South Sikkim 737139', description: 'Leading government institution offering science, arts, and commerce streams with experienced faculty.' },
+        { name: 'Mount Carmel School Ravangla', rating: 4.7, address: 'Upper Ravangla, South Sikkim 737139', description: 'English-medium school known for strong academics, discipline, and extracurricular engagement.' },
+        { name: 'New Ralong Academy', rating: 4.6, address: 'Ravangla Bypass Road, South Sikkim 737139', description: 'Private CBSE-affiliated school emphasizing holistic education and values-based learning.' },
+        { name: 'St. Joseph’s School', rating: 4.5, address: 'Ravangla Bazaar, South Sikkim 737139', description: 'Popular local school offering affordable education with cultural activities and moral training.' }
+    ],
+    restaurants: [
+        { name: 'Taste of Sikkim Restaurant', rating: 4.8, address: 'Ravangla Market, South Sikkim 737139', description: 'Top-rated eatery serving traditional Sikkimese and Nepali dishes in a cozy setting.' },
+        { name: 'Kushboo Restaurant & Café', rating: 4.7, address: 'Main Road, Ravangla 737139', description: 'Modern café offering bakery items, coffee, and multicuisine meals with scenic views.' },
+        { name: 'Hotel Meanamla Restaurant', rating: 4.6, address: 'Near Buddha Park, Ravangla 737139', description: 'Family-friendly restaurant serving a mix of Indian, Tibetan, and continental cuisine.' },
+        { name: 'Buddha Park View Café', rating: 4.5, address: 'Buddha Park Entrance, Ravangla 737139', description: 'Scenic café offering snacks and beverages overlooking the iconic Buddha statue.' }
+    ],
+    hospitals: [
+        { name: 'Ravangla Community Health Centre (CHC)', rating: 4.7, address: 'Ravangla, South Sikkim 737139', description: 'Government health centre providing medical, maternal, and emergency services to the region.' },
+        { name: 'Namchi District Hospital (Nearby)', rating: 4.8, address: 'Namchi, South Sikkim 737126', description: 'Major hospital for South Sikkim equipped with specialized departments and 24/7 care.' },
+        { name: 'Dr. Tamang’s Clinic', rating: 4.6, address: 'Ravangla Bazar, South Sikkim 737139', description: 'Private clinic providing general consultation and diagnostics for locals and tourists.' },
+        { name: 'Primary Health Sub-Centre', rating: 4.4, address: 'Upper Ravangla, South Sikkim 737139', description: 'Local healthcare unit focused on preventive and outpatient medical care.' }
+    ],
+    touristSpots: [
+        { name: 'Buddha Park (Tathagata Tsal)', rating: 4.9, address: 'Ravangla, South Sikkim 737139', description: 'Famous tourist attraction featuring a 130-foot Buddha statue and serene landscaped gardens.' },
+        { name: 'Ralang Monastery', rating: 4.8, address: 'Ralang, Near Ravangla 737139', description: 'Historic Buddhist monastery known for its architecture and vibrant festivals.' },
+        { name: 'Temi Tea Garden', rating: 4.8, address: 'Temi, Near Ravangla 737139', description: 'Picturesque tea estate producing world-class tea, with breathtaking mountain views.' },
+        { name: 'Maenam Hill', rating: 4.7, address: 'Ravangla, South Sikkim 737139', description: 'Popular trekking destination offering panoramic views of the Kanchenjunga range.' }
+    ]
+},'pelling': {
+    schools: [
+        { name: 'Pelling Senior Secondary School', rating: 4.8, address: 'Upper Pelling, West Sikkim 737113', description: 'Leading government school providing quality education in science, arts, and commerce streams.' },
+        { name: 'St. Mary’s School Pelling', rating: 4.7, address: 'Middle Pelling, West Sikkim 737113', description: 'Renowned English-medium school offering CBSE curriculum with focus on character and skill development.' },
+        { name: 'Mount Valley Academy', rating: 4.6, address: 'Lower Pelling, West Sikkim 737113', description: 'Private school with emphasis on holistic education and extracurricular excellence.' },
+        { name: 'Government Primary School Pelling', rating: 4.5, address: 'Pelling Bazaar, West Sikkim 737113', description: 'Local government school providing foundational education to community children.' }
+    ],
+    restaurants: [
+        { name: 'Melting Point Restaurant', rating: 4.8, address: 'Upper Pelling, West Sikkim 737113', description: 'Highly-rated restaurant serving Indian, Tibetan, and continental cuisine with mountain views.' },
+        { name: 'Lotus Bakery & Café', rating: 4.7, address: 'Pelling Market, West Sikkim 737113', description: 'Popular café offering fresh bakery items, coffee, and local snacks in a cozy ambiance.' },
+        { name: 'Hotel Kabur Restaurant', rating: 4.6, address: 'Pelling Helipad Area, West Sikkim 737113', description: 'Homely restaurant serving vegetarian and non-vegetarian Sikkimese thalis.' },
+        { name: 'Taste of Pelling', rating: 4.5, address: 'Pelling Bazaar, West Sikkim 737113', description: 'Casual dining spot known for momos, thukpa, and traditional Nepali dishes.' }
+    ],
+    hospitals: [
+        { name: 'Pelling Primary Health Centre (PHC)', rating: 4.7, address: 'Pelling, West Sikkim 737113', description: 'Government PHC offering general health services, immunizations, and emergency care.' },
+        { name: 'Gyalshing District Hospital (Nearby)', rating: 4.8, address: 'Gyalshing, West Sikkim 737111', description: 'Major hospital in West Sikkim providing specialized treatments and diagnostics.' },
+        { name: 'Dr. Dawa Clinic', rating: 4.6, address: 'Pelling Bazaar, West Sikkim 737113', description: 'Private clinic offering medical consultations and pharmacy services.' },
+        { name: 'Community Health Sub-Centre', rating: 4.4, address: 'Lower Pelling, West Sikkim 737113', description: 'Small health centre catering to local and tourist medical needs.' }
+    ],
+    touristSpots: [
+        { name: 'Pemayangtse Monastery', rating: 4.9, address: 'Upper Pelling, West Sikkim 737113', description: 'Historic 17th-century monastery offering spiritual tranquility and scenic views of Kanchenjunga.' },
+        { name: 'Sky Walk and Chenrezig Statue', rating: 4.8, address: 'Sanga Choeling, Pelling 737113', description: 'Famous glass skywalk and giant Chenrezig statue overlooking the Himalayas.' },
+        { name: 'Khecheopalri Lake', rating: 4.8, address: 'Near Pelling, West Sikkim 737113', description: 'Sacred lake surrounded by dense forest, revered by both Buddhists and Hindus.' },
+        { name: 'Singshore Bridge', rating: 4.7, address: 'Uttarey Road, Near Pelling 737113', description: 'One of the highest suspension bridges in Asia, offering breathtaking views.' }
+    ]
+},'yuksom': {
+    schools: [
+        { name: 'Yuksom Senior Secondary School', rating: 4.7, address: 'Yuksom, West Sikkim 737113', description: 'Prominent government school offering secondary and higher secondary education with good infrastructure.' },
+        { name: 'Dubdi Monastic School', rating: 4.8, address: 'Near Dubdi Monastery, Yuksom 737113', description: 'Buddhist school providing both modern and monastic education in a peaceful setting.' },
+        { name: 'Little Flower School Yuksom', rating: 4.6, address: 'Upper Yuksom, West Sikkim 737113', description: 'Private English-medium school emphasizing academics, discipline, and co-curricular development.' },
+        { name: 'Government Primary School Yuksom', rating: 4.5, address: 'Yuksom Bazaar, West Sikkim 737113', description: 'Community school offering quality foundational education for local children.' }
+    ],
+    restaurants: [
+        { name: 'Gupta’s Restaurant', rating: 4.8, address: 'Yuksom Bazaar, West Sikkim 737113', description: 'Well-known eatery serving North Indian, Tibetan, and local cuisine at affordable prices.' },
+        { name: 'Yak Restaurant & Bar', rating: 4.7, address: 'Main Market, Yuksom 737113', description: 'Cozy spot popular among trekkers for authentic food and beverages.' },
+        { name: 'Demazong Café', rating: 4.6, address: 'Yuksom Road, Near Dubdi Monastery 737113', description: 'Café offering organic meals, coffee, and traditional dishes with scenic surroundings.' },
+        { name: 'Tashi Restaurant', rating: 4.5, address: 'Lower Yuksom, West Sikkim 737113', description: 'Simple yet popular restaurant known for momos, thukpa, and Sikkimese thalis.' }
+    ],
+    hospitals: [
+        { name: 'Yuksom Primary Health Centre (PHC)', rating: 4.7, address: 'Yuksom, West Sikkim 737113', description: 'Government PHC providing primary medical services, first aid, and vaccination programs.' },
+        { name: 'Gyalshing District Hospital (Nearby)', rating: 4.8, address: 'Gyalshing, West Sikkim 737111', description: 'Major hospital offering specialized care, diagnostics, and surgical facilities.' },
+        { name: 'Dr. Karma’s Clinic', rating: 4.6, address: 'Yuksom Bazaar, West Sikkim 737113', description: 'Private clinic known for general consultations and tourist medical assistance.' },
+        { name: 'Community Health Sub-Centre', rating: 4.5, address: 'Upper Yuksom, West Sikkim 737113', description: 'Local health facility providing outpatient and maternal services.' }
+    ],
+    touristSpots: [
+        { name: 'Dubdi Monastery', rating: 4.9, address: 'Yuksom, West Sikkim 737113', description: 'Oldest monastery in Sikkim, offering peace, history, and panoramic views.' },
+        { name: 'Norbugang Coronation Throne', rating: 4.8, address: 'Yuksom, West Sikkim 737113', description: 'Historic site marking the coronation of Sikkim’s first Chogyal king.' },
+        { name: 'Khecheopalri Lake (Nearby)', rating: 4.8, address: 'Near Yuksom, West Sikkim 737113', description: 'Sacred lake believed to fulfill wishes, surrounded by forests and prayer flags.' },
+        { name: 'Yuksom Trekking Trail (Dzongri-Goecha La)', rating: 4.9, address: 'Yuksom, West Sikkim 737113', description: 'Starting point of one of Sikkim’s most famous treks leading to Mt. Kanchenjunga base.' }
+    ]
+},'geyzing': {
+    schools: [
+        { name: 'Gyalshing Government Senior Secondary School', rating: 4.8, address: 'Geyzing, West Sikkim 737111', description: 'Top government school providing strong academic foundation with science, arts, and commerce streams.' },
+        { name: 'Mount Carmel School Geyzing', rating: 4.7, address: 'Middle Geyzing, West Sikkim 737111', description: 'Renowned English-medium school affiliated with CBSE, offering holistic education and co-curricular exposure.' },
+        { name: 'West Point Academy', rating: 4.6, address: 'Lower Geyzing, West Sikkim 737111', description: 'Private institution focusing on academic excellence and extracurricular development.' },
+        { name: 'Government Primary School Geyzing', rating: 4.5, address: 'Main Road, Geyzing, West Sikkim 737111', description: 'Well-managed local school offering basic education and extracurricular activities for children.' }
+    ],
+    restaurants: [
+        { name: 'Hill View Restaurant', rating: 4.8, address: 'Geyzing Bazaar, West Sikkim 737111', description: 'Popular restaurant serving Indian, Chinese, and Nepali cuisines with scenic hill views.' },
+        { name: 'The Geyzing Café', rating: 4.7, address: 'Near District Court, Geyzing 737111', description: 'Trendy café offering snacks, beverages, and continental food in a cozy setting.' },
+        { name: 'Sikkim Delight Restaurant', rating: 4.6, address: 'Upper Geyzing, West Sikkim 737111', description: 'Authentic restaurant known for momos, thukpa, and traditional Sikkimese meals.' },
+        { name: 'Taste Corner', rating: 4.5, address: 'Main Market, Geyzing 737111', description: 'Casual dining spot offering local and Indian dishes at reasonable prices.' }
+    ],
+    hospitals: [
+        { name: 'Gyalshing District Hospital', rating: 4.9, address: 'Geyzing, West Sikkim 737111', description: 'Main hospital in West Sikkim offering specialized treatments, diagnostics, and emergency services.' },
+        { name: 'Community Health Centre Geyzing', rating: 4.7, address: 'Lower Geyzing, West Sikkim 737111', description: 'Government CHC providing outpatient and maternal care facilities.' },
+        { name: 'Dr. Pradhan’s Clinic', rating: 4.6, address: 'Geyzing Bazaar, West Sikkim 737111', description: 'Private clinic offering general medical consultation and pharmacy services.' },
+        { name: 'Sub-Divisional Hospital Soreng (Nearby)', rating: 4.5, address: 'Soreng, West Sikkim 737121', description: 'Nearby hospital serving the adjoining areas with advanced healthcare.' }
+    ],
+    touristSpots: [
+        { name: 'Pemyangtse Monastery', rating: 4.9, address: 'Near Geyzing, West Sikkim 737111', description: 'Historic Buddhist monastery offering panoramic views of Kanchenjunga and spiritual serenity.' },
+        { name: 'Rabdentse Ruins', rating: 4.8, address: 'Near Pelling, Geyzing 737111', description: 'Archaeological site of the second capital of Sikkim surrounded by lush forest trails.' },
+        { name: 'Singshore Bridge', rating: 4.8, address: 'Uttarey Road, Near Geyzing 737111', description: 'Asia’s second-highest suspension bridge offering thrilling views and photo opportunities.' },
+        { name: 'Yangtey Viewpoint', rating: 4.7, address: 'Yangtey, Near Geyzing 737111', description: 'Popular viewpoint providing mesmerizing sunrise and sunset views over the Himalayas.' }
+    ]
+},'soreng': {
+    schools: [
+        { name: 'Soreng Government Senior Secondary School', rating: 4.8, address: 'Soreng, West Sikkim 737121', description: 'Leading government school offering comprehensive education with well-trained teachers and modern facilities.' },
+        { name: 'St. Mary’s School Soreng', rating: 4.7, address: 'Upper Soreng, West Sikkim 737121', description: 'Private English-medium school emphasizing academic excellence and holistic development.' },
+        { name: 'New Vision Academy', rating: 4.6, address: 'Lower Soreng, West Sikkim 737121', description: 'CBSE-affiliated school known for strong academics, extracurriculars, and discipline.' },
+        { name: 'Government Primary School Soreng', rating: 4.5, address: 'Main Road, Soreng, West Sikkim 737121', description: 'Community school providing quality foundational education to local children.' }
+    ],
+    restaurants: [
+        { name: 'Soreng Delight Restaurant', rating: 4.8, address: 'Soreng Bazaar, West Sikkim 737121', description: 'Top-rated family restaurant offering Indian, Tibetan, and Sikkimese cuisines.' },
+        { name: 'The Valley Café', rating: 4.7, address: 'Upper Soreng, West Sikkim 737121', description: 'Cozy café popular among locals for coffee, bakery items, and mountain views.' },
+        { name: 'Himalayan Flavours', rating: 4.6, address: 'Soreng Market, West Sikkim 737121', description: 'Restaurant serving fresh local ingredients and traditional Sikkimese dishes.' },
+        { name: 'Evergreen Kitchen', rating: 4.5, address: 'Lower Soreng, West Sikkim 737121', description: 'Casual eatery known for momos, noodles, and thukpa.' }
+    ],
+    hospitals: [
+        { name: 'Sub-Divisional Hospital Soreng', rating: 4.8, address: 'Soreng, West Sikkim 737121', description: 'Main hospital in Soreng providing specialized healthcare, maternity, and emergency services.' },
+        { name: 'Community Health Centre Soreng', rating: 4.7, address: 'Soreng Bazaar, West Sikkim 737121', description: 'Government health centre offering outpatient and preventive care.' },
+        { name: 'Dr. Bhutia’s Clinic', rating: 4.6, address: 'Soreng Market, West Sikkim 737121', description: 'Private clinic offering general consultations and medical checkups.' },
+        { name: 'Primary Health Sub-Centre', rating: 4.4, address: 'Upper Soreng, West Sikkim 737121', description: 'Local facility providing vaccinations, basic health services, and first aid.' }
+    ],
+    touristSpots: [
+        { name: 'Soreng Viewpoint', rating: 4.9, address: 'Upper Soreng, West Sikkim 737121', description: 'Scenic viewpoint offering breathtaking views of the Kanchenjunga range and valleys.' },
+        { name: 'Singshore Bridge', rating: 4.8, address: 'Near Soreng, West Sikkim 737121', description: 'One of Asia’s highest suspension bridges, popular for photography and sightseeing.' },
+        { name: 'Jhandidara Sunset Point', rating: 4.8, address: 'Near Soreng, West Sikkim 737121', description: 'Famous sunset viewpoint surrounded by tea gardens and lush greenery.' },
+        { name: 'Dodak Monastery', rating: 4.7, address: 'Dodak Village, Near Soreng 737121', description: 'Peaceful monastery known for its architecture and serene atmosphere.' }
+    ]
+},'rhenock': {
+    schools: [
+        { name: 'Rhenock Senior Secondary School', rating: 4.8, address: 'Rhenock, Pakyong District, Sikkim 737133', description: 'One of the oldest government schools in East Sikkim providing quality education and co-curricular programs.' },
+        { name: 'St. Joseph’s School Rhenock', rating: 4.7, address: 'Upper Rhenock, Pakyong District, Sikkim 737133', description: 'Private English-medium school known for its disciplined environment and excellent academic results.' },
+        { name: 'Sinet Rhenock Academy', rating: 4.6, address: 'Rhenock Bazaar, Pakyong District, Sikkim 737133', description: 'CBSE-affiliated school emphasizing holistic education and extracurricular growth.' },
+        { name: 'Government Primary School Rhenock', rating: 4.5, address: 'Lower Rhenock, Pakyong District, Sikkim 737133', description: 'Community-based school focusing on foundational learning and student development.' }
+    ],
+    restaurants: [
+        { name: 'Himalayan Flavours Rhenock', rating: 4.8, address: 'Rhenock Bazaar, Sikkim 737133', description: 'Highly-rated restaurant offering authentic Sikkimese, Nepali, and North Indian dishes.' },
+        { name: 'Taste of Rhenock', rating: 4.7, address: 'Near Rhenock Bus Stand, Sikkim 737133', description: 'Popular among locals for momos, noodles, and traditional thali.' },
+        { name: 'Mountain Café', rating: 4.6, address: 'Upper Rhenock, Sikkim 737133', description: 'Cozy spot serving coffee, snacks, and freshly baked items with a hillside view.' },
+        { name: 'Evergreen Restaurant', rating: 4.5, address: 'Main Road, Rhenock, Sikkim 737133', description: 'Casual dining restaurant featuring multi-cuisine options and family-friendly ambiance.' }
+    ],
+    hospitals: [
+        { name: 'Primary Health Centre Rhenock', rating: 4.8, address: 'Rhenock, Pakyong District, Sikkim 737133', description: 'Main government health facility providing general, maternity, and emergency care services.' },
+        { name: 'Rhenock District Hospital', rating: 4.7, address: 'Central Rhenock, Sikkim 737133', description: 'Comprehensive medical center equipped with modern diagnostic and treatment facilities.' },
+        { name: 'Dr. Tenzing’s Clinic', rating: 4.6, address: 'Rhenock Bazaar, Sikkim 737133', description: 'Private clinic providing consultations and basic medical services.' },
+        { name: 'Health Sub-Centre', rating: 4.4, address: 'Lower Rhenock, Sikkim 737133', description: 'Local healthcare facility offering vaccinations and primary health services.' }
+    ],
+    touristSpots: [
+        { name: 'Aritar Lake (Lampokhari)', rating: 4.9, address: 'Near Rhenock, East Sikkim 737133', description: 'Beautiful emerald lake surrounded by pine forests, popular for boating and photography.' },
+        { name: 'Aritar Monastery (Ari-Gumpa)', rating: 4.8, address: 'Aritar, Near Rhenock 737133', description: 'Historic Buddhist monastery offering panoramic views and cultural heritage.' },
+        { name: 'Tiffin Dara Viewpoint', rating: 4.7, address: 'Near Rhenock, East Sikkim 737133', description: 'Spectacular viewpoint known for sunrise views over Kanchenjunga.' },
+        { name: 'Kali Khola Waterfall', rating: 4.6, address: 'Between Rorathang and Rhenock, Sikkim 737133', description: 'Scenic waterfall surrounded by lush greenery and picnic spots.' }
+    ]
+},
+'melli': {
+    schools: [
+        { name: 'Melli Senior Secondary School', rating: 4.8, address: 'Melli Bazaar, South Sikkim 737128', description: 'Government-run school offering secondary and higher secondary education with experienced faculty.' },
+        { name: 'St. Xavier’s School Melli', rating: 4.7, address: 'Upper Melli, South Sikkim 737128', description: 'English-medium private school known for academic excellence and extracurricular achievements.' },
+        { name: 'Melli Central School', rating: 4.6, address: 'Lower Melli, South Sikkim 737128', description: 'CBSE-affiliated school providing quality education and modern learning facilities.' },
+        { name: 'Government Primary School Melli', rating: 4.5, address: 'Melli Bazaar, South Sikkim 737128', description: 'Local primary school dedicated to foundational education and child-centered teaching.' }
+    ],
+    restaurants: [
+        { name: 'River View Restaurant', rating: 4.8, address: 'Teesta Bridge, Melli, South Sikkim 737128', description: 'Beautiful riverside restaurant serving Indian and Sikkimese cuisine with scenic views.' },
+        { name: 'The Melli Café', rating: 4.7, address: 'Melli Bazaar, South Sikkim 737128', description: 'Popular café offering tea, snacks, and quick meals for travelers and locals alike.' },
+        { name: 'Highway Inn', rating: 4.6, address: 'NH10, Melli, South Sikkim 737128', description: 'Family restaurant famous for its thukpa, chowmein, and momos.' },
+        { name: 'Himalayan Treat', rating: 4.5, address: 'Upper Melli, South Sikkim 737128', description: 'Multi-cuisine restaurant known for fresh ingredients and a peaceful ambiance.' }
+    ],
+    hospitals: [
+        { name: 'Primary Health Centre Melli', rating: 4.8, address: 'Melli, South Sikkim 737128', description: 'Main government health facility providing general care, emergency services, and maternal health.' },
+        { name: 'Melli Sub-Divisional Hospital', rating: 4.7, address: 'Central Melli, South Sikkim 737128', description: 'Modern healthcare center catering to nearby rural and semi-urban populations.' },
+        { name: 'Dr. Lepcha’s Clinic', rating: 4.6, address: 'Melli Bazaar, South Sikkim 737128', description: 'Private clinic offering consultations, diagnostics, and basic medical treatment.' },
+        { name: 'Community Health Unit', rating: 4.4, address: 'Upper Melli, South Sikkim 737128', description: 'Small health center providing vaccinations and first aid services.' }
+    ],
+    touristSpots: [
+        { name: 'Melli Bridge (Teesta Bridge)', rating: 4.9, address: 'Melli, South Sikkim 737128', description: 'Iconic bridge connecting Sikkim and West Bengal over the Teesta River, offering stunning views.' },
+        { name: 'Teesta River Rafting Point', rating: 4.8, address: 'Melli, South Sikkim 737128', description: 'Adventure spot popular for white-water rafting and riverside camping.' },
+        { name: 'Melli Bazaar', rating: 4.6, address: 'Central Melli, South Sikkim 737128', description: 'Bustling local market offering regional produce, crafts, and eateries.' },
+        { name: 'Bhalukhop Viewpoint', rating: 4.7, address: 'Near Melli, South Sikkim 737128', description: 'Panoramic viewpoint overlooking Teesta Valley and forested hills.' }
+    ]
+},
+'singtam': {
+    schools: [
+        { name: 'Singtam Senior Secondary School', rating: 4.8, address: 'Singtam, Pakyong District, Sikkim 737134', description: 'One of the oldest government schools in the region offering quality secondary and higher secondary education.' },
+        { name: 'Holy Cross School Singtam', rating: 4.7, address: 'Upper Singtam, Sikkim 737134', description: 'Reputed English-medium school providing holistic education with strong moral values.' },
+        { name: 'St. Xavier’s School Singtam', rating: 4.6, address: 'Singtam Bazaar, Sikkim 737134', description: 'Private school known for academic excellence and co-curricular development.' },
+        { name: 'Government Primary School Singtam', rating: 4.5, address: 'Lower Singtam, Sikkim 737134', description: 'Community school offering foundational education and inclusive learning.' }
+    ],
+    restaurants: [
+        { name: 'The Orchid Restaurant', rating: 4.8, address: 'Singtam Bazaar, Sikkim 737134', description: 'Popular family restaurant serving authentic Indian, Chinese, and Sikkimese dishes.' },
+        { name: 'Blue Hills Café', rating: 4.7, address: 'Upper Singtam, Sikkim 737134', description: 'Cozy café known for great coffee, snacks, and a relaxing mountain ambiance.' },
+        { name: 'Taste of Singtam', rating: 4.6, address: 'NH10, Singtam, Sikkim 737134', description: 'Favorite local stop for momos, thukpa, and traditional Sikkimese cuisine.' },
+        { name: 'Evergreen Restaurant', rating: 4.5, address: 'Lower Singtam, Sikkim 737134', description: 'Casual restaurant offering multi-cuisine meals and fast service.' }
+    ],
+    hospitals: [
+        { name: 'Singtam District Hospital', rating: 4.9, address: 'Singtam, Pakyong District, Sikkim 737134', description: 'Major healthcare center equipped with modern facilities, laboratories, and emergency services.' },
+        { name: 'Primary Health Centre Singtam', rating: 4.7, address: 'Upper Singtam, Sikkim 737134', description: 'Government health unit providing general healthcare, maternal care, and immunization programs.' },
+        { name: 'Dr. Subba’s Clinic', rating: 4.6, address: 'Singtam Bazaar, Sikkim 737134', description: 'Private clinic offering consultations and diagnostic services.' },
+        { name: 'Community Health Sub-Centre', rating: 4.5, address: 'Lower Singtam, Sikkim 737134', description: 'Small healthcare facility offering essential first aid and child health services.' }
+    ],
+    touristSpots: [
+        { name: 'Teesta River Viewpoint', rating: 4.9, address: 'Singtam, Pakyong District, Sikkim 737134', description: 'Scenic viewpoint overlooking the Teesta River and lush green valleys.' },
+        { name: 'Biring Bridge', rating: 4.8, address: 'Near Singtam, Sikkim 737134', description: 'Beautiful suspension bridge connecting the hillsides and offering serene views.' },
+        { name: 'Singtam Bazaar', rating: 4.6, address: 'Central Singtam, Sikkim 737134', description: 'Vibrant market filled with local shops, eateries, and traditional crafts.' },
+        { name: 'Teesta Hydro Dam', rating: 4.7, address: 'Teesta Stage V, Near Singtam, Sikkim 737134', description: 'Massive hydroelectric dam with great views and educational importance.' }
+    ]
+},
+'rangli': {
+    schools: [
+        { name: 'Rangli Senior Secondary School', rating: 4.8, address: 'Rangli, Pakyong District, Sikkim 737131', description: 'Leading government institution providing quality education and extracurricular programs for higher secondary students.' },
+        { name: 'St. Mary’s School Rangli', rating: 4.7, address: 'Upper Rangli, Pakyong District, Sikkim 737131', description: 'Private English-medium school known for discipline, academics, and student participation in cultural events.' },
+        { name: 'Modern Public School Rangli', rating: 4.6, address: 'Rangli Bazaar, Sikkim 737131', description: 'CBSE-affiliated school offering quality education with a focus on holistic development.' },
+        { name: 'Government Primary School Rangli', rating: 4.5, address: 'Lower Rangli, Pakyong District, Sikkim 737131', description: 'Community-based school providing foundational learning for young children in the region.' }
+    ],
+    restaurants: [
+        { name: 'Rangli View Restaurant', rating: 4.8, address: 'Rangli Bazaar, Sikkim 737131', description: 'Popular eatery offering traditional Sikkimese, Indian, and Tibetan dishes with a cozy ambiance.' },
+        { name: 'The Bamboo Hut Café', rating: 4.7, address: 'Upper Rangli, Sikkim 737131', description: 'Charming café serving coffee, snacks, and local delicacies with scenic views.' },
+        { name: 'Taste of Rangli', rating: 4.6, address: 'Rangli Market, Sikkim 737131', description: 'Casual restaurant loved for its momos, thukpa, and homemade meals.' },
+        { name: 'Evergreen Kitchen Rangli', rating: 4.5, address: 'Lower Rangli, Sikkim 737131', description: 'Family-friendly restaurant offering multicuisine meals and quick service.' }
+    ],
+    hospitals: [
+        { name: 'Primary Health Centre Rangli', rating: 4.8, address: 'Rangli, Pakyong District, Sikkim 737131', description: 'Government health facility providing medical care, emergency services, and maternal health programs.' },
+        { name: 'Rangli Community Health Centre', rating: 4.7, address: 'Rangli Bazaar, Sikkim 737131', description: 'Local healthcare center catering to nearby villages and small towns.' },
+        { name: 'Dr. Tamang’s Clinic', rating: 4.6, address: 'Rangli Market, Sikkim 737131', description: 'Private clinic known for general consultations and quality patient care.' },
+        { name: 'Health Sub-Centre', rating: 4.4, address: 'Upper Rangli, Sikkim 737131', description: 'Facility providing basic first aid and vaccination services to local residents.' }
+    ],
+    touristSpots: [
+        { name: 'Rangli River Bridge', rating: 4.9, address: 'Rangli, Sikkim 737131', description: 'Scenic bridge over the Rangpo River offering panoramic views of valleys and forests.' },
+        { name: 'Kali Khola Waterfall', rating: 4.8, address: 'Near Rangli, Sikkim 737131', description: 'Beautiful natural waterfall surrounded by dense greenery, ideal for nature lovers.' },
+        { name: 'Aritar Lake (Lampokhari)', rating: 4.7, address: 'Close to Rangli, East Sikkim 737131', description: 'Serene lake offering boating and peaceful surroundings.' },
+        { name: 'Rangli Bazaar', rating: 4.6, address: 'Central Rangli, Sikkim 737131', description: 'Local market area filled with small shops, cafés, and cultural charm.' }
+    ]
+},'chungthang': {
+    schools: [
+        { name: 'Chungthang Senior Secondary School', rating: 4.8, address: 'Chungthang, North Sikkim 737120', description: 'Major government school providing quality secondary and higher secondary education in the northern region.' },
+        { name: 'St. Joseph’s School Chungthang', rating: 4.7, address: 'Upper Chungthang, North Sikkim 737120', description: 'English-medium private school known for its focus on academics and character development.' },
+        { name: 'Government Primary School Chungthang', rating: 4.6, address: 'Lower Chungthang, North Sikkim 737120', description: 'Government-run primary school offering quality foundational education to local children.' },
+        { name: 'North Sikkim Model School', rating: 4.5, address: 'Chungthang Bazaar, North Sikkim 737120', description: 'CBSE-affiliated institution known for modern teaching methods and extracurricular activities.' }
+    ],
+    restaurants: [
+        { name: 'Snowland Restaurant', rating: 4.8, address: 'Chungthang Bazaar, North Sikkim 737120', description: 'Popular restaurant serving traditional Sikkimese, Indian, and Tibetan dishes with homely taste.' },
+        { name: 'Teesta View Café', rating: 4.7, address: 'Upper Chungthang, North Sikkim 737120', description: 'Charming café with panoramic views and a variety of teas, snacks, and bakery items.' },
+        { name: 'The Mountain Flame', rating: 4.6, address: 'Chungthang Market, North Sikkim 737120', description: 'Cozy restaurant known for hot soups, noodles, and momos — perfect for cold weather.' },
+        { name: 'Evergreen Delight', rating: 4.5, address: 'Lower Chungthang, North Sikkim 737120', description: 'Family restaurant serving multi-cuisine dishes and warm hospitality.' }
+    ],
+    hospitals: [
+        { name: 'Primary Health Centre Chungthang', rating: 4.8, address: 'Chungthang, North Sikkim 737120', description: 'Main healthcare facility in the region offering general treatment and emergency care.' },
+        { name: 'Army Medical Unit Chungthang', rating: 4.7, address: 'Near Chungthang Bridge, North Sikkim 737120', description: 'Army-run medical facility providing emergency and trauma care to locals and soldiers.' },
+        { name: 'Dr. Lepcha’s Clinic', rating: 4.6, address: 'Chungthang Bazaar, North Sikkim 737120', description: 'Private clinic providing general consultations and outpatient services.' },
+        { name: 'Community Health Sub-Centre', rating: 4.4, address: 'Upper Chungthang, North Sikkim 737120', description: 'Local health center offering vaccinations, first aid, and maternal health services.' }
+    ],
+    touristSpots: [
+        { name: 'Confluence of Lachen and Lachung Rivers', rating: 4.9, address: 'Chungthang, North Sikkim 737120', description: 'Spectacular natural site where the Lachen Chu and Lachung Chu rivers meet to form the Teesta.' },
+        { name: 'Guru Nanak Gurudwara Chungthang', rating: 4.8, address: 'Chungthang, North Sikkim 737120', description: 'Sacred Sikh shrine believed to have been visited by Guru Nanak Dev Ji during his Himalayan journey.' },
+        { name: 'Chungthang Valley Viewpoint', rating: 4.7, address: 'Upper Chungthang, North Sikkim 737120', description: 'Beautiful viewpoint offering lush valley and river views surrounded by snow-capped peaks.' },
+        { name: 'Holy Footprint Rock', rating: 4.6, address: 'Chungthang, North Sikkim 737120', description: 'Religious site believed to bear the footprint of Guru Padmasambhava (Guru Rinpoche).' }
+    ]
+},'dikchu': {
+    schools: [
+        { name: 'Dikchu Senior Secondary School', rating: 4.8, address: 'Dikchu, Mangan District, Sikkim 737107', description: 'Well-established government school offering quality education for secondary and higher secondary levels.' },
+        { name: 'St. Xavier’s School Dikchu', rating: 4.7, address: 'Upper Dikchu, Sikkim 737107', description: 'Private English-medium institution focusing on academics, discipline, and extracurricular activities.' },
+        { name: 'Government Primary School Dikchu', rating: 4.6, address: 'Lower Dikchu, Sikkim 737107', description: 'Primary school providing foundational education to children in the local community.' },
+        { name: 'Mount Valley Academy', rating: 4.5, address: 'Dikchu Bazaar, Sikkim 737107', description: 'CBSE-affiliated school offering modern teaching methods and co-curricular programs.' }
+    ],
+    restaurants: [
+        { name: 'The River View Restaurant', rating: 4.8, address: 'Dikchu Bridge, Sikkim 737107', description: 'Scenic riverside restaurant known for authentic Sikkimese and Indian cuisine.' },
+        { name: 'Taste of Dikchu', rating: 4.7, address: 'Dikchu Bazaar, Sikkim 737107', description: 'Popular eatery serving momos, thukpa, and other local delicacies.' },
+        { name: 'Himalayan Treat Café', rating: 4.6, address: 'Upper Dikchu, Sikkim 737107', description: 'Cozy café offering tea, coffee, and snacks with a beautiful mountain backdrop.' },
+        { name: 'Evergreen Kitchen', rating: 4.5, address: 'Lower Dikchu, Sikkim 737107', description: 'Simple family restaurant offering home-style meals at affordable prices.' }
+    ],
+    hospitals: [
+        { name: 'Primary Health Centre Dikchu', rating: 4.8, address: 'Dikchu, Mangan District, Sikkim 737107', description: 'Main government health facility providing emergency, maternal, and general healthcare services.' },
+        { name: 'Dikchu Hydro Hospital', rating: 4.7, address: 'Near NHPC Colony, Dikchu, Sikkim 737107', description: 'Hospital maintained by NHPC offering modern facilities for employees and residents.' },
+        { name: 'Dr. Subba’s Clinic', rating: 4.6, address: 'Dikchu Bazaar, Sikkim 737107', description: 'Private clinic providing outpatient services, diagnostics, and consultations.' },
+        { name: 'Community Health Sub-Centre', rating: 4.4, address: 'Upper Dikchu, Sikkim 737107', description: 'Small healthcare facility providing vaccinations and first aid services.' }
+    ],
+    touristSpots: [
+        { name: 'Dikchu Bridge', rating: 4.9, address: 'Dikchu, Sikkim 737107', description: 'Iconic bridge over the Teesta River offering breathtaking views and photography opportunities.' },
+        { name: 'Teesta Hydro Power Project Viewpoint', rating: 4.8, address: 'Near Dikchu, Sikkim 737107', description: 'Popular viewpoint overlooking the hydroelectric dam and surrounding mountains.' },
+        { name: 'Dikchu Bazaar', rating: 4.6, address: 'Central Dikchu, Sikkim 737107', description: 'Lively local market with shops, eateries, and a glimpse of rural life in Sikkim.' },
+        { name: 'Teesta Riverbank', rating: 4.7, address: 'Dikchu, Sikkim 737107', description: 'Beautiful riverside area ideal for picnics and peaceful walks along the Teesta.' }
+    ]
+},'ravangla': {
+    schools: [
+        { name: 'Ravangla Government Senior Secondary School', rating: 4.8, address: 'Ravangla, South Sikkim 737139', description: 'Leading government school offering science, commerce, and arts streams with experienced teachers.' },
+        { name: 'Mount Carmel School', rating: 4.7, address: 'Upper Ravangla, South Sikkim 737139', description: 'CBSE-affiliated English-medium school focusing on academics and holistic student development.' },
+        { name: 'Green Valley Academy', rating: 4.6, address: 'Ravangla Bazaar, Sikkim 737139', description: 'Private school offering quality education and co-curricular programs in a peaceful environment.' },
+        { name: 'Don Bosco School Ravangla', rating: 4.8, address: 'Ravangla, South Sikkim 737139', description: 'Renowned educational institution emphasizing discipline, moral values, and academic excellence.' }
+    ],
+    restaurants: [
+        { name: 'Tathagata Kitchen', rating: 4.9, address: 'Near Buddha Park, Ravangla 737139', description: 'Top-rated restaurant serving Sikkimese, Tibetan, and Indian dishes with scenic views.' },
+        { name: 'Taste of Ravangla', rating: 4.7, address: 'Ravangla Bazaar, Sikkim 737139', description: 'Casual eatery known for delicious momos, thukpa, and chai.' },
+        { name: 'Hilltop Café', rating: 4.6, address: 'Upper Ravangla, Sikkim 737139', description: 'Cozy café offering coffee, bakery treats, and mountain views.' },
+        { name: 'Evergreen Restaurant', rating: 4.5, address: 'Main Road, Ravangla, Sikkim 737139', description: 'Family-friendly restaurant offering both vegetarian and non-vegetarian local cuisines.' }
+    ],
+    hospitals: [
+        { name: 'Ravangla District Hospital', rating: 4.8, address: 'Ravangla, South Sikkim 737139', description: 'Major government healthcare center providing general medicine, emergency, and maternity services.' },
+        { name: 'Primary Health Centre Ravangla', rating: 4.6, address: 'Ravangla, South Sikkim 737139', description: 'Public health facility offering outpatient and vaccination services for locals.' },
+        { name: 'Dr. Bhutia’s Clinic', rating: 4.7, address: 'Ravangla Bazaar, Sikkim 737139', description: 'Private clinic providing consultation, diagnostics, and minor treatment services.' },
+        { name: 'Sanjeevani Medical Centre', rating: 4.5, address: 'Upper Ravangla, Sikkim 737139', description: 'Modern clinic with pharmacy and lab facilities for routine health checks.' }
+    ],
+    touristSpots: [
+        { name: 'Buddha Park (Tathagata Tsal)', rating: 4.9, address: 'Ravangla, South Sikkim 737139', description: 'Famous park featuring a massive Buddha statue and panoramic mountain views.' },
+        { name: 'Rayong Sunrise Viewpoint', rating: 4.8, address: 'Near Ravangla, Sikkim 737139', description: 'Beautiful sunrise point offering stunning views of the Himalayas and Kanchenjunga.' },
+        { name: 'Ralang Monastery', rating: 4.8, address: 'Ralang, near Ravangla, Sikkim 737139', description: 'Historic Buddhist monastery with intricate architecture and peaceful surroundings.' },
+        { name: 'Temi Tea Garden', rating: 4.7, address: '12 km from Ravangla, South Sikkim', description: 'Scenic tea estate known for its lush green plantations and high-quality organic tea.' }
+    ]
+},'soreng': {
+    schools: [
+        { name: 'Soreng Government Senior Secondary School', rating: 4.8, address: 'Soreng, West Sikkim 737121', description: 'Premier government school providing strong academic foundation with experienced faculty.' },
+        { name: 'St. Mary’s School Soreng', rating: 4.7, address: 'Upper Soreng, West Sikkim 737121', description: 'Well-known English-medium institution emphasizing moral education and co-curricular development.' },
+        { name: 'Mount Everest Academy', rating: 4.6, address: 'Soreng Bazaar, West Sikkim 737121', description: 'Private school offering CBSE curriculum and modern learning environment.' },
+        { name: 'Soreng Central School', rating: 4.5, address: 'Lower Soreng, West Sikkim 737121', description: 'Reputed educational institute known for academic excellence and extracurricular participation.' }
+    ],
+    restaurants: [
+        { name: 'Hilltop Café & Restaurant', rating: 4.8, address: 'Main Road, Soreng 737121', description: 'Popular family restaurant serving Indian, Chinese, and Sikkimese cuisines with mountain views.' },
+        { name: 'The Bamboo Inn', rating: 4.7, address: 'Soreng Bazaar, West Sikkim 737121', description: 'Rustic-style restaurant offering local dishes, momos, and thukpa in a cozy setting.' },
+        { name: 'Taste of Sikkim', rating: 4.6, address: 'Soreng, West Sikkim 737121', description: 'Authentic eatery featuring regional delicacies and organic produce from local farms.' },
+        { name: 'Food Hub Soreng', rating: 4.5, address: 'Near Soreng Bus Stand, West Sikkim 737121', description: 'Casual dining spot offering snacks, beverages, and multicuisine meals for travelers.' }
+    ],
+    hospitals: [
+        { name: 'Soreng District Hospital', rating: 4.8, address: 'Soreng, West Sikkim 737121', description: 'Main healthcare center of the district providing general medicine, maternity, and emergency care.' },
+        { name: 'Primary Health Centre Soreng', rating: 4.6, address: 'Lower Soreng, West Sikkim 737121', description: 'Government-run health facility offering outpatient and vaccination services.' },
+        { name: 'Dr. Pradhan’s Clinic', rating: 4.7, address: 'Soreng Bazaar, West Sikkim 737121', description: 'Private clinic offering consultation and diagnostic services.' },
+        { name: 'Soreng Polyclinic', rating: 4.5, address: 'Upper Soreng, West Sikkim 737121', description: 'Multi-specialty clinic providing dental, eye, and general treatment facilities.' }
+    ],
+    touristSpots: [
+        { name: 'Soreng View Point', rating: 4.9, address: 'Soreng, West Sikkim 737121', description: 'Scenic viewpoint offering mesmerizing views of Mount Kanchenjunga and lush valleys.' },
+        { name: 'Kalej Valley', rating: 4.8, address: 'Near Soreng, West Sikkim 737121', description: 'Beautiful valley surrounded by tea gardens and hills, ideal for trekking and photography.' },
+        { name: 'Jhandidara Sunset Point', rating: 4.7, address: '4 km from Soreng, West Sikkim', description: 'Famous for stunning sunset views over the Himalayan range.' },
+        { name: 'Maghe Mela Ground', rating: 4.6, address: 'Soreng, West Sikkim 737121', description: 'Cultural site hosting annual fairs and local festivals celebrating Sikkimese heritage.' }
+    ]
+},'chungthang': {
+    schools: [
+        { name: 'Chungthang Government Senior Secondary School', rating: 4.8, address: 'Chungthang, North Sikkim 737120', description: 'Prominent government school providing quality education and extracurricular opportunities in the Himalayan region.' },
+        { name: 'Holy Cross School Chungthang', rating: 4.7, address: 'Upper Chungthang, North Sikkim 737120', description: 'English-medium private school focusing on academic excellence and values-based learning.' },
+        { name: 'North Valley Academy', rating: 4.6, address: 'Chungthang Bazaar, North Sikkim 737120', description: 'Modern educational institution with smart classrooms and strong science programs.' },
+        { name: 'Rongyoung Public School', rating: 4.5, address: 'Near Chungthang, North Sikkim 737120', description: 'Co-educational school offering CBSE syllabus and emphasis on moral development.' }
+    ],
+    restaurants: [
+        { name: 'Kanchenjunga View Restaurant', rating: 4.8, address: 'Main Road, Chungthang 737120', description: 'Top-rated restaurant offering Sikkimese and Tibetan cuisines with breathtaking mountain views.' },
+        { name: 'Himalayan Delight Café', rating: 4.7, address: 'Chungthang Bazaar, North Sikkim 737120', description: 'Charming café serving coffee, noodles, momos, and local meals to travelers.' },
+        { name: 'Yak & Yeti Kitchen', rating: 4.6, address: 'Lower Chungthang, North Sikkim 737120', description: 'Family-friendly restaurant offering a mix of Indian, Chinese, and Nepali dishes.' },
+        { name: 'Tibetan Flavour House', rating: 4.5, address: 'Upper Chungthang, North Sikkim 737120', description: 'Authentic eatery known for thukpa, gyathuk, and handmade momos.' }
+    ],
+    hospitals: [
+        { name: 'Chungthang Primary Health Centre', rating: 4.8, address: 'Chungthang, North Sikkim 737120', description: 'Key government healthcare facility offering basic medical and emergency services for locals.' },
+        { name: 'Army Medical Unit Chungthang', rating: 4.7, address: 'Army Area, Chungthang 737120', description: 'Military hospital providing emergency and advanced medical aid in high-altitude conditions.' },
+        { name: 'Dr. Tamang’s Clinic', rating: 4.6, address: 'Chungthang Bazaar, North Sikkim 737120', description: 'Private clinic known for personal care and quick diagnosis.' },
+        { name: 'Sikkim Health Centre', rating: 4.5, address: 'Lower Chungthang, North Sikkim 737120', description: 'General health unit offering outpatient and maternity services to nearby villages.' }
+    ],
+    touristSpots: [
+        { name: 'Chungthang Valley', rating: 4.9, address: 'Chungthang, North Sikkim 737120', description: 'Beautiful valley at the confluence of Lachen and Lachung rivers, surrounded by lush mountains.' },
+        { name: 'Guru Padmasambhava Footprint', rating: 4.8, address: 'Chungthang Monastery, North Sikkim', description: 'Sacred site believed to bear the footprint of Guru Rinpoche, revered by Buddhists.' },
+        { name: 'Chungthang Monastery', rating: 4.7, address: 'Main Road, Chungthang 737120', description: 'Historic monastery offering peace, spiritual insight, and scenic beauty.' },
+        { name: 'Teesta-Lachen Confluence', rating: 4.9, address: 'Near Chungthang, North Sikkim', description: 'Spectacular confluence of two mountain rivers, a must-see for photographers and nature lovers.' }
+    ]
+},'lachen': {
+    schools: [
+        { name: 'Lachen Government Senior Secondary School', rating: 4.8, address: 'Lachen, North Sikkim 737120', description: 'Leading government school in the high-altitude region providing quality education and co-curricular activities.' },
+        { name: 'Sacred Heart School Lachen', rating: 4.7, address: 'Upper Lachen, North Sikkim 737120', description: 'English-medium private school focusing on holistic learning and value-based education.' },
+        { name: 'Himalayan Valley Academy', rating: 4.6, address: 'Lachen Bazaar, North Sikkim 737120', description: 'CBSE-affiliated school offering modern facilities and experienced teaching staff.' },
+        { name: 'Gurudongmar Public School', rating: 4.5, address: 'Lower Lachen, North Sikkim 737120', description: 'Popular institution emphasizing discipline, academic growth, and extracurricular participation.' }
+    ],
+    restaurants: [
+        { name: 'Apple Orchard Café', rating: 4.8, address: 'Main Road, Lachen 737120', description: 'Scenic café offering coffee, local Sikkimese dishes, and mountain views.' },
+        { name: 'Yak Kitchen & Restaurant', rating: 4.7, address: 'Lachen Bazaar, North Sikkim 737120', description: 'Cozy restaurant serving momos, thukpa, and Tibetan delicacies.' },
+        { name: 'Blue Pine Restaurant', rating: 4.6, address: 'Upper Lachen, North Sikkim 737120', description: 'Family-friendly eatery offering a mix of Indian and Chinese cuisine.' },
+        { name: 'Taste of Himalaya', rating: 4.5, address: 'Near Lachen Monastery, North Sikkim 737120', description: 'Authentic local restaurant with freshly cooked organic food.' }
+    ],
+    hospitals: [
+        { name: 'Lachen Primary Health Centre', rating: 4.8, address: 'Lachen, North Sikkim 737120', description: 'Main government medical facility providing basic healthcare and emergency services.' },
+        { name: 'Army Medical Camp Lachen', rating: 4.7, address: 'Military Base, Lachen 737120', description: 'Well-equipped army healthcare unit offering emergency and rescue medical services.' },
+        { name: 'Dr. Lepcha’s Clinic', rating: 4.6, address: 'Lachen Bazaar, North Sikkim 737120', description: 'Private clinic known for efficient diagnosis and patient care.' },
+        { name: 'Mountain View Health Post', rating: 4.5, address: 'Lower Lachen, North Sikkim 737120', description: 'Local health post providing primary care and first aid services.' }
+    ],
+    touristSpots: [
+        { name: 'Gurudongmar Lake', rating: 5.0, address: '65 km from Lachen, North Sikkim', description: 'One of the highest lakes in the world, known for its crystal-clear waters and sacred significance.' },
+        { name: 'Lachen Monastery', rating: 4.8, address: 'Lachen, North Sikkim 737120', description: 'Ancient monastery offering panoramic views and spiritual tranquility.' },
+        { name: 'Thangu Valley', rating: 4.9, address: '30 km from Lachen, North Sikkim', description: 'Picturesque valley surrounded by snow-capped peaks, ideal for trekking and photography.' },
+        { name: 'Chopta Valley', rating: 4.9, address: 'Near Lachen, North Sikkim 737120', description: 'Beautiful high-altitude valley famous for its colorful flowers and snow-covered landscapes.' }
+    ]
+},'lachung': {
+    schools: [
+        { name: 'Lachung Government Senior Secondary School', rating: 4.8, address: 'Lachung, North Sikkim 737120', description: 'Leading government institution providing quality education amidst the Himalayan landscape.' },
+        { name: 'Snow Valley School', rating: 4.7, address: 'Upper Lachung, North Sikkim 737120', description: 'CBSE-affiliated English-medium school emphasizing holistic learning and discipline.' },
+        { name: 'Lachung Central School', rating: 4.6, address: 'Lachung Bazaar, North Sikkim 737120', description: 'Well-reputed school offering modern education with focus on science and environment.' },
+        { name: 'Sacred Peak Academy', rating: 4.5, address: 'Lower Lachung, North Sikkim 737120', description: 'Private school providing quality academic education with extracurricular opportunities.' }
+    ],
+    restaurants: [
+        { name: 'Yarlam Café & Restaurant', rating: 4.9, address: 'Main Road, Lachung 737120', description: 'Upscale restaurant serving Tibetan, Sikkimese, and continental cuisines with a cozy atmosphere.' },
+        { name: 'Apple Blossom Restaurant', rating: 4.8, address: 'Lachung Bazaar, North Sikkim 737120', description: 'Famous for hot momos, noodles, and thukpa with views of the snow-covered peaks.' },
+        { name: 'Himalayan Flavours', rating: 4.7, address: 'Upper Lachung, North Sikkim 737120', description: 'Popular dining spot known for fresh local food and warm hospitality.' },
+        { name: 'Yak House Café', rating: 4.6, address: 'Near Lachung Monastery, North Sikkim 737120', description: 'Rustic café offering coffee, snacks, and Sikkimese specialties.' }
+    ],
+    hospitals: [
+        { name: 'Lachung Primary Health Centre', rating: 4.8, address: 'Lachung, North Sikkim 737120', description: 'Government-run healthcare facility providing general medicine and first aid services.' },
+        { name: 'Army Medical Camp Lachung', rating: 4.7, address: 'Military Area, Lachung 737120', description: 'Equipped army medical post offering emergency and rescue healthcare.' },
+        { name: 'Dr. Bhutia’s Clinic', rating: 4.6, address: 'Lachung Bazaar, North Sikkim 737120', description: 'Local clinic providing outpatient services and basic treatments.' },
+        { name: 'Snowline Medical Centre', rating: 4.5, address: 'Upper Lachung, North Sikkim 737120', description: 'Community health center offering general and pediatric care.' }
+    ],
+    touristSpots: [
+        { name: 'Yumthang Valley (Valley of Flowers)', rating: 5.0, address: '25 km from Lachung, North Sikkim', description: 'Stunning valley filled with rhododendrons, meadows, and scenic river views.' },
+        { name: 'Lachung Monastery', rating: 4.8, address: 'Lachung, North Sikkim 737120', description: 'Historic monastery known for its peaceful ambiance and Buddhist architecture.' },
+        { name: 'Zero Point (Yumesamdong)', rating: 4.9, address: '48 km from Lachung, North Sikkim', description: 'Snow-covered high-altitude destination famous for breathtaking Himalayan views.' },
+        { name: 'Bhutia Village Walk', rating: 4.7, address: 'Near Lachung, North Sikkim', description: 'Cultural village experience offering a glimpse into traditional Bhutia lifestyle and heritage.' }
+    ]
+},'yuksom': {
+    schools: [
+        { name: 'Yuksom Government Secondary School', rating: 4.8, address: 'Yuksom, West Sikkim 737113', description: 'Leading government institution providing quality education with experienced local faculty.' },
+        { name: 'St. Joseph’s Academy Yuksom', rating: 4.7, address: 'Upper Yuksom, West Sikkim 737113', description: 'English-medium private school known for discipline, academics, and extracurricular excellence.' },
+        { name: 'Himalayan Public School', rating: 4.6, address: 'Yuksom Bazaar, West Sikkim 737113', description: 'Private institution focusing on holistic education and environmental awareness.' },
+        { name: 'West Point Academy', rating: 4.5, address: 'Lower Yuksom, West Sikkim 737113', description: 'School offering CBSE curriculum with emphasis on science and cultural learning.' }
+    ],
+    restaurants: [
+        { name: 'Guptajee’s Restaurant & Lodge', rating: 4.8, address: 'Main Road, Yuksom 737113', description: 'Famous traveler spot offering Indian, Tibetan, and Nepali food with cozy lodging.' },
+        { name: 'Yak Restaurant & Bar', rating: 4.7, address: 'Yuksom Bazaar, West Sikkim 737113', description: 'Local favorite for momos, thukpa, and local brews in a homely atmosphere.' },
+        { name: 'The Mangaldham Café', rating: 4.6, address: 'Near Coronation Throne, Yuksom 737113', description: 'Peaceful café offering organic food, coffee, and beautiful valley views.' },
+        { name: 'Friends Corner Café', rating: 4.5, address: 'Upper Yuksom, West Sikkim 737113', description: 'Small café serving homemade snacks and beverages for trekkers.' }
+    ],
+    hospitals: [
+        { name: 'Yuksom Primary Health Centre', rating: 4.8, address: 'Yuksom, West Sikkim 737113', description: 'Government-run healthcare facility providing general and maternity care services.' },
+        { name: 'Dr. Bhutia’s Clinic', rating: 4.7, address: 'Yuksom Bazaar, West Sikkim 737113', description: 'Private clinic offering consultations and basic treatment facilities.' },
+        { name: 'Evergreen Health Post', rating: 4.6, address: 'Lower Yuksom, West Sikkim 737113', description: 'Local health post serving the surrounding rural community.' },
+        { name: 'West District Hospital (Referral)', rating: 4.5, address: 'Gyalshing, near Yuksom, West Sikkim', description: 'Major government hospital providing specialized medical services.' }
+    ],
+    touristSpots: [
+        { name: 'Dubdi Monastery', rating: 4.9, address: 'Yuksom, West Sikkim 737113', description: 'Oldest monastery in Sikkim, built in 1701, offering serene surroundings and spiritual heritage.' },
+        { name: 'Coronation Throne of Norbugang', rating: 4.8, address: 'Yuksom, West Sikkim 737113', description: 'Historic site where the first Chogyal (king) of Sikkim was crowned.' },
+        { name: 'Khecheopalri Lake', rating: 4.9, address: '24 km from Yuksom, West Sikkim', description: 'Sacred lake believed to fulfill wishes, surrounded by forests and prayer flags.' },
+        { name: 'Kanchenjunga National Park Entry Point', rating: 5.0, address: 'Near Yuksom, West Sikkim 737113', description: 'Starting point for the famous Kanchenjunga trek, a UNESCO World Heritage site.' }
+    ]
+},
+'dentam': {
+    schools: [
+        { name: 'Dentam Government Senior Secondary School', rating: 4.8, address: 'Dentam, West Sikkim 737111', description: 'Well-established government school providing science, commerce, and arts education with dedicated staff.' },
+        { name: 'Mount Carmel School Dentam', rating: 4.7, address: 'Upper Dentam, West Sikkim 737111', description: 'English-medium private school focusing on academic growth and discipline.' },
+        { name: 'Hill View Academy', rating: 4.6, address: 'Dentam Bazaar, West Sikkim 737111', description: 'Popular school known for its modern teaching methods and extracurricular programs.' },
+        { name: 'St. Anthony’s Public School', rating: 4.5, address: 'Lower Dentam, West Sikkim 737111', description: 'Private institution offering CBSE syllabus with emphasis on holistic development.' }
+    ],
+    restaurants: [
+        { name: 'Dentam Café & Kitchen', rating: 4.8, address: 'Main Market, Dentam 737111', description: 'Charming café serving authentic Sikkimese and Indian cuisine in a cozy setup.' },
+        { name: 'Tashi’s Restaurant', rating: 4.7, address: 'Dentam Bazaar, West Sikkim 737111', description: 'Local favorite offering traditional dishes like momos, thukpa, and rice curry meals.' },
+        { name: 'Taste of the Hills', rating: 4.6, address: 'Upper Dentam, West Sikkim 737111', description: 'Family restaurant serving multicuisine meals and homemade beverages.' },
+        { name: 'Golden Yak Café', rating: 4.5, address: 'Near Dentam Bridge, West Sikkim 737111', description: 'Scenic café with great tea, snacks, and mountain views.' }
+    ],
+    hospitals: [
+        { name: 'Dentam Primary Health Centre', rating: 4.8, address: 'Dentam, West Sikkim 737111', description: 'Main healthcare facility in the area offering emergency and outpatient services.' },
+        { name: 'Sub-Divisional Hospital Dentam', rating: 4.7, address: 'Lower Dentam, West Sikkim 737111', description: 'Government hospital with general, maternity, and laboratory services.' },
+        { name: 'Dr. Lepcha’s Clinic', rating: 4.6, address: 'Dentam Bazaar, West Sikkim 737111', description: 'Private clinic providing diagnostic and general healthcare services.' },
+        { name: 'West Point Medical Centre', rating: 4.5, address: 'Upper Dentam, West Sikkim 737111', description: 'Community health center catering to nearby villages and residents.' }
+    ],
+    touristSpots: [
+        { name: 'Singshore Bridge', rating: 5.0, address: 'Near Dentam, West Sikkim 737111', description: 'Asia’s second-highest suspension bridge, offering thrilling views of deep valleys and waterfalls.' },
+        { name: 'Pemayangtse Monastery', rating: 4.8, address: '10 km from Dentam, West Sikkim', description: 'Historic monastery with ancient murals and a tranquil ambiance.' },
+        { name: 'Changey Waterfall', rating: 4.9, address: '8 km from Dentam, West Sikkim', description: 'Breathtaking waterfall surrounded by lush forests, ideal for photography and picnics.' },
+        { name: 'Singshore Viewpoint', rating: 4.7, address: 'Dentam, West Sikkim 737111', description: 'Scenic spot offering panoramic views of the Himalayan ranges and green valleys.' }
+    ]
+},
+
+
+
+
+
+
+
+
+
+'ajmer': {
+    schools: [
+        { 
+            name: 'Mayo College', 
+            rating: 5.0, 
+            address: 'Mayo Link Road, Ajmer, Rajasthan 305008', 
+            description: 'One of India’s most prestigious boarding schools, known for excellence in academics, sports, and character building.' 
+        },
+        { 
+            name: 'Sophia Senior Secondary School', 
+            rating: 4.8, 
+            address: 'Church Road, Ajmer, Rajasthan 305001', 
+            description: 'Top CBSE-affiliated girls’ school focusing on academic excellence and holistic development.' 
+        },
+        { 
+            name: 'St. Anselm’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Vaishali Nagar, Ajmer, Rajasthan 305004', 
+            description: 'English-medium co-educational school emphasizing discipline, moral values, and quality education.' 
+        },
+        { 
+            name: 'Ryan International School', 
+            rating: 4.6, 
+            address: 'Panchsheel Nagar, Ajmer, Rajasthan 305004', 
+            description: 'Modern CBSE institution encouraging creativity, leadership, and innovation in learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Ambrosia Restaurant', 
+            rating: 4.8, 
+            address: 'Mayo College Road, Ajmer 305008', 
+            description: 'Fine dining restaurant offering North Indian, Continental, and Rajasthani delicacies.' 
+        },
+        { 
+            name: 'Mango Masala Restaurant', 
+            rating: 4.7, 
+            address: 'Civil Lines, Ajmer 305001', 
+            description: 'Popular family restaurant with rooftop seating and a wide variety of cuisines.' 
+        },
+        { 
+            name: 'Honeydew Restaurant', 
+            rating: 4.6, 
+            address: 'Station Road, Ajmer 305001', 
+            description: 'Famous eatery serving traditional Rajasthani thali and Indian dishes.' 
+        },
+        { 
+            name: 'Silver Leaf Bistro', 
+            rating: 4.5, 
+            address: 'Vaishali Nagar, Ajmer 305004', 
+            description: 'Trendy café and bistro serving pizzas, shakes, and continental meals.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Jawaharlal Nehru Hospital & Research Centre', 
+            rating: 4.8, 
+            address: 'Ajmer, Rajasthan 305001', 
+            description: 'Major government hospital providing emergency, surgical, and general healthcare services.' 
+        },
+        { 
+            name: 'Mittal Hospital & Research Centre', 
+            rating: 4.7, 
+            address: 'Pushkar Road, Ajmer 305004', 
+            description: 'Leading private hospital with advanced diagnostic and 24x7 emergency facilities.' 
+        },
+        { 
+            name: 'City Hospital Ajmer', 
+            rating: 4.6, 
+            address: 'Kutchery Road, Ajmer 305001', 
+            description: 'Well-equipped multi-specialty hospital catering to a variety of healthcare needs.' 
+        },
+        { 
+            name: 'Shanti Mukand Hospital', 
+            rating: 4.5, 
+            address: 'Civil Lines, Ajmer 305001', 
+            description: 'Popular hospital offering maternity, orthopedic, and emergency care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Ajmer Sharif Dargah', 
+            rating: 5.0, 
+            address: 'Dargah Bazaar, Ajmer, Rajasthan 305001', 
+            description: 'Holy shrine of Sufi saint Khwaja Moinuddin Chishti, attracting millions of devotees every year.' 
+        },
+        { 
+            name: 'Ana Sagar Lake', 
+            rating: 4.9, 
+            address: 'Ana Sagar Road, Ajmer 305001', 
+            description: 'Beautiful artificial lake offering scenic views, gardens, and boating facilities.' 
+        },
+        { 
+            name: 'Adhai Din Ka Jhopra', 
+            rating: 4.8, 
+            address: 'Near Dargah Sharif, Ajmer 305001', 
+            description: 'Historic mosque built in the 12th century, famous for its Indo-Islamic architecture.' 
+        },
+        { 
+            name: 'Taragarh Fort', 
+            rating: 4.7, 
+            address: 'Taragarh Hill, Ajmer 305001', 
+            description: 'Ancient hilltop fort offering panoramic views of Ajmer city and surrounding hills.' 
+        }
+    ]
 }
 ,
+'alwar': {
+    schools: [
+        { 
+            name: 'St. Xavier’s School Alwar', 
+            rating: 4.9, 
+            address: 'Machari Road, Alwar, Rajasthan 301001', 
+            description: 'Prestigious CBSE-affiliated school known for its excellent academic and co-curricular programs.' 
+        },
+        { 
+            name: 'Delhi Public School Alwar', 
+            rating: 4.8, 
+            address: 'Itarana, Alwar, Rajasthan 301030', 
+            description: 'Modern CBSE institution focusing on holistic education with smart classrooms and sports facilities.' 
+        },
+        { 
+            name: 'Raffles International School', 
+            rating: 4.7, 
+            address: 'NH-8, Alwar Bypass Road, Alwar 301001', 
+            description: 'Renowned school providing quality education with emphasis on innovation and leadership.' 
+        },
+        { 
+            name: 'Sainik School Alwar', 
+            rating: 4.6, 
+            address: 'Chandoli, Alwar, Rajasthan 301001', 
+            description: 'Government-run military preparatory school emphasizing discipline, academics, and physical training.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Prem Pavitra Bhojnalaya', 
+            rating: 4.8, 
+            address: 'Hope Circus, Alwar 301001', 
+            description: 'Iconic vegetarian restaurant famous for its thalis and authentic Rajasthani dishes.' 
+        },
+        { 
+            name: 'Al-Lazeez Restaurant', 
+            rating: 4.7, 
+            address: 'Near Railway Station, Alwar 301001', 
+            description: 'Popular for Mughlai and North Indian cuisines with family-friendly ambiance.' 
+        },
+        { 
+            name: 'Ice & Spice Café', 
+            rating: 4.6, 
+            address: 'Scheme No. 10, Alwar 301001', 
+            description: 'Trendy café serving continental food, fast food, and beverages in a cozy environment.' 
+        },
+        { 
+            name: 'Foji Raj Dhaba', 
+            rating: 4.5, 
+            address: 'Delhi-Alwar Road, Alwar 301001', 
+            description: 'Highway-style dhaba offering traditional Rajasthani meals and North Indian platters.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'K.M. Hospital Alwar', 
+            rating: 4.8, 
+            address: 'Scheme No. 1, Alwar, Rajasthan 301001', 
+            description: 'Leading private multi-specialty hospital providing advanced healthcare and 24-hour emergency services.' 
+        },
+        { 
+            name: 'Raj Rani Hospital', 
+            rating: 4.7, 
+            address: 'Clock Tower Road, Alwar 301001', 
+            description: 'Well-known for general, surgical, and maternity healthcare services.' 
+        },
+        { 
+            name: 'Alwar Government Hospital', 
+            rating: 4.6, 
+            address: 'Collectorate Road, Alwar 301001', 
+            description: 'Main government hospital offering emergency and outpatient facilities.' 
+        },
+        { 
+            name: 'Aravali Hospital', 
+            rating: 4.5, 
+            address: 'Ambedkar Circle, Alwar 301001', 
+            description: 'Multi-specialty healthcare center known for orthopedic and cardiac care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Bala Quila (Alwar Fort)', 
+            rating: 5.0, 
+            address: 'Aravali Hills, Alwar 301001', 
+            description: 'Historic hill fort offering panoramic views of Alwar city and ancient Rajput architecture.' 
+        },
+        { 
+            name: 'Siliserh Lake', 
+            rating: 4.9, 
+            address: 'Siliserh, Alwar 301001', 
+            description: 'Beautiful lake surrounded by hills with boating, fishing, and a heritage lake palace.' 
+        },
+        { 
+            name: 'Sariska Tiger Reserve', 
+            rating: 5.0, 
+            address: 'Sariska, Alwar District, Rajasthan 301001', 
+            description: 'Famous wildlife sanctuary home to Bengal tigers, leopards, and diverse flora and fauna.' 
+        },
+        { 
+            name: 'Moosi Maharani Ki Chhatri', 
+            rating: 4.8, 
+            address: 'Near City Palace, Alwar 301001', 
+            description: 'Architectural marvel built in memory of Alwar’s ruler Bakhtawar Singh and his queen.' 
+        }
+    ]
+}
+,
+'baran': {
+    schools: [
+        { 
+            name: 'Central Academy Baran', 
+            rating: 4.8, 
+            address: 'Gumanpura Road, Baran, Rajasthan 325205', 
+            description: 'Top CBSE-affiliated school known for excellent academics and modern infrastructure.' 
+        },
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Station Road, Baran, Rajasthan 325205', 
+            description: 'Reputed English-medium school focusing on holistic learning and extracurriculars.' 
+        },
+        { 
+            name: 'Saraswati Vidya Mandir', 
+            rating: 4.6, 
+            address: 'Krishi Mandi Road, Baran 325205', 
+            description: 'Hindi-medium school promoting traditional values and quality education.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Baran', 
+            rating: 4.5, 
+            address: 'NH-27, Baran 325205', 
+            description: 'Central government school providing CBSE curriculum with a focus on national integration.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Shri Krishna Restaurant', 
+            rating: 4.8, 
+            address: 'Bus Stand Road, Baran 325205', 
+            description: 'Famous vegetarian restaurant offering Rajasthani thalis and North Indian dishes.' 
+        },
+        { 
+            name: 'Rajwada Family Restaurant', 
+            rating: 4.7, 
+            address: 'Hospital Road, Baran 325205', 
+            description: 'Family dining spot serving multicuisine meals with a traditional Rajasthani ambiance.' 
+        },
+        { 
+            name: 'The Urban Café', 
+            rating: 4.6, 
+            address: 'Civil Lines, Baran 325205', 
+            description: 'Trendy café offering fast food, shakes, and continental snacks for youngsters.' 
+        },
+        { 
+            name: 'Hotel Kanha Palace Restaurant', 
+            rating: 4.5, 
+            address: 'Station Road, Baran 325205', 
+            description: 'Hotel restaurant serving Indian and Chinese cuisine with excellent service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Baran', 
+            rating: 4.8, 
+            address: 'Collectorate Road, Baran 325205', 
+            description: 'Main government hospital providing emergency, maternity, and general medical services.' 
+        },
+        { 
+            name: 'Agarwal Hospital', 
+            rating: 4.7, 
+            address: 'Civil Lines, Baran 325205', 
+            description: 'Private multi-specialty hospital offering surgical and diagnostic facilities.' 
+        },
+        { 
+            name: 'Navjeevan Hospital', 
+            rating: 4.6, 
+            address: 'Bazar Road, Baran 325205', 
+            description: 'Healthcare center focusing on general medicine, pediatrics, and women’s health.' 
+        },
+        { 
+            name: 'Shivam Hospital & Trauma Centre', 
+            rating: 4.5, 
+            address: 'NH-27, Baran 325205', 
+            description: '24-hour hospital specializing in trauma and emergency care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Shahabad Fort', 
+            rating: 4.9, 
+            address: 'Shahabad, near Baran 325217', 
+            description: 'Ancient fort built by Chauhan rulers, known for its massive walls and scenic location.' 
+        },
+        { 
+            name: 'Sitabari', 
+            rating: 4.8, 
+            address: 'Kelwara, Baran District, Rajasthan', 
+            description: 'Sacred pilgrimage site associated with Goddess Sita, surrounded by ponds and forests.' 
+        },
+        { 
+            name: 'Bhand Devra Temple', 
+            rating: 4.9, 
+            address: 'Ramgarh, Baran District', 
+            description: '10th-century temple dedicated to Lord Shiva, often called the “Khajuraho of Rajasthan.”' 
+        },
+        { 
+            name: 'Kanya Dah', 
+            rating: 4.7, 
+            address: 'Near Balpur, Baran District', 
+            description: 'Historical site with legends of valor and tragedy, featuring scenic surroundings.' 
+        }
+    ]
+}
+,
+'beawar': {
+    schools: [
+        { 
+            name: 'Central Academy Beawar', 
+            rating: 4.8, 
+            address: 'Ajmer Road, Beawar, Rajasthan 305901', 
+            description: 'Leading CBSE school with top academic results and strong extracurricular programs.' 
+        },
+        { 
+            name: 'St. Anselm’s Sr. Sec. School', 
+            rating: 4.7, 
+            address: 'Ramganj Road, Beawar 305901', 
+            description: 'Renowned English-medium school emphasizing moral values and holistic education.' 
+        },
+        { 
+            name: 'Sophia Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Subhash Nagar, Beawar 305901', 
+            description: 'ICSE-affiliated institution with modern infrastructure and experienced faculty.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Beawar', 
+            rating: 4.6, 
+            address: 'NH-8, Beawar 305901', 
+            description: 'Government-run CBSE school fostering national integration and discipline among students.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Rajwada Restaurant', 
+            rating: 4.8, 
+            address: 'Station Road, Beawar 305901', 
+            description: 'Famous for Rajasthani and North Indian cuisine with family-friendly ambience.' 
+        },
+        { 
+            name: 'The Urban Spoon', 
+            rating: 4.7, 
+            address: 'Shastri Nagar, Beawar 305901', 
+            description: 'Trendy café offering continental food, desserts, and shakes.' 
+        },
+        { 
+            name: 'Hotel Surya Palace Restaurant', 
+            rating: 4.6, 
+            address: 'Ajmer Road, Beawar 305901', 
+            description: 'Fine-dining restaurant serving Indian and Chinese dishes in a peaceful atmosphere.' 
+        },
+        { 
+            name: 'Shree Krishna Bhojnalaya', 
+            rating: 4.5, 
+            address: 'Bus Stand Road, Beawar 305901', 
+            description: 'Popular local eatery offering vegetarian thalis and authentic Rajasthani food.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'City Hospital Beawar', 
+            rating: 4.8, 
+            address: 'Civil Lines, Beawar 305901', 
+            description: 'Multi-specialty hospital providing advanced diagnostic and surgical facilities.' 
+        },
+        { 
+            name: 'Government Hospital Beawar', 
+            rating: 4.7, 
+            address: 'Collectorate Road, Beawar 305901', 
+            description: 'Main government-run hospital offering free and emergency healthcare services.' 
+        },
+        { 
+            name: 'Sanjeevani Hospital', 
+            rating: 4.6, 
+            address: 'Ajmer Road, Beawar 305901', 
+            description: 'Well-equipped private hospital with 24x7 emergency and maternity services.' 
+        },
+        { 
+            name: 'Agarwal Nursing Home', 
+            rating: 4.5, 
+            address: 'Ramganj Road, Beawar 305901', 
+            description: 'Trusted healthcare facility offering general medicine, pediatrics, and surgery.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Shri Meera Temple', 
+            rating: 4.9, 
+            address: 'Near Railway Station, Beawar', 
+            description: 'Beautiful temple dedicated to Meerabai, known for its spiritual atmosphere.' 
+        },
+        { 
+            name: 'Clock Tower Beawar', 
+            rating: 4.8, 
+            address: 'Main Market, Beawar 305901', 
+            description: 'Iconic landmark and busy shopping area reflecting the heritage of Beawar.' 
+        },
+        { 
+            name: 'Kacheri Garden', 
+            rating: 4.6, 
+            address: 'Kacheri Road, Beawar 305901', 
+            description: 'Well-maintained public park ideal for family outings and evening walks.' 
+        },
+        { 
+            name: 'Badnagar Lake', 
+            rating: 4.7, 
+            address: 'Outskirts of Beawar, Rajasthan', 
+            description: 'Scenic lake surrounded by greenery, popular for picnics and photography.' 
+        }
+    ]
+}
+,'bharatpur': {
+    schools: [
+        { 
+            name: 'St. Peter’s Senior Secondary School', 
+            rating: 4.8, 
+            address: 'Agra Gate, Bharatpur, Rajasthan 321001', 
+            description: 'Leading CBSE-affiliated English-medium school emphasizing academics and discipline.' 
+        },
+        { 
+            name: 'Central Academy Bharatpur', 
+            rating: 4.7, 
+            address: 'Saras Circle, Bharatpur 321001', 
+            description: 'Well-known private school with focus on holistic education and co-curricular activities.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Bharatpur', 
+            rating: 4.7, 
+            address: 'NH-21, Bharatpur 321001', 
+            description: 'Government-run school providing quality education and national-level exposure.' 
+        },
+        { 
+            name: 'St. Mary’s Convent School', 
+            rating: 4.6, 
+            address: 'Mathura Gate, Bharatpur 321001', 
+            description: 'Renowned convent school fostering values, leadership, and excellence in academics.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Ravia Restaurant', 
+            rating: 4.8, 
+            address: 'Mathura Gate, Bharatpur 321001', 
+            description: 'Top-rated restaurant serving Rajasthani, Indian, and Chinese cuisines in a family-friendly setup.' 
+        },
+        { 
+            name: 'Lotus Garden Restaurant', 
+            rating: 4.7, 
+            address: 'NH-21, Near Bird Sanctuary, Bharatpur', 
+            description: 'Elegant dining with multicuisine options and peaceful garden seating.' 
+        },
+        { 
+            name: 'Saras Parlour', 
+            rating: 4.6, 
+            address: 'Museum Road, Bharatpur 321001', 
+            description: 'Local favorite offering fast food, ice creams, and beverages.' 
+        },
+        { 
+            name: 'Hotel Sunbird Restaurant', 
+            rating: 4.5, 
+            address: 'Keoladeo Park Road, Bharatpur 321001', 
+            description: 'Cozy restaurant near the sanctuary, ideal for tourists and bird watchers.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'RBM Hospital Bharatpur', 
+            rating: 4.8, 
+            address: 'Mathura Gate, Bharatpur 321001', 
+            description: 'Major government hospital offering general, surgical, and maternity services.' 
+        },
+        { 
+            name: 'Sanjivani Hospital', 
+            rating: 4.7, 
+            address: 'Kama Road, Bharatpur 321001', 
+            description: 'Private multi-specialty hospital known for patient care and advanced facilities.' 
+        },
+        { 
+            name: 'Bharatpur City Hospital', 
+            rating: 4.6, 
+            address: 'Agra Gate, Bharatpur 321001', 
+            description: '24x7 hospital offering emergency, diagnostic, and pediatric services.' 
+        },
+        { 
+            name: 'Dr. Khandelwal Nursing Home', 
+            rating: 4.5, 
+            address: 'Mathura Gate, Bharatpur 321001', 
+            description: 'Trusted medical center specializing in general medicine and women’s healthcare.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Keoladeo National Park', 
+            rating: 5.0, 
+            address: 'Keoladeo, Bharatpur 321001', 
+            description: 'UNESCO World Heritage Site famous for migratory birds and serene wetlands.' 
+        },
+        { 
+            name: 'Lohagarh Fort', 
+            rating: 4.8, 
+            address: 'Gopalgarh, Bharatpur 321001', 
+            description: 'Historic fort known for its impregnable walls and stunning architecture.' 
+        },
+        { 
+            name: 'Deeg Palace', 
+            rating: 4.7, 
+            address: 'Deeg, 32 km from Bharatpur', 
+            description: 'Magnificent palace complex featuring fountains, gardens, and Rajput architecture.' 
+        },
+        { 
+            name: 'Ganga Mandir', 
+            rating: 4.6, 
+            address: 'City Palace Road, Bharatpur 321001', 
+            description: 'Architectural marvel dedicated to Goddess Ganga, adorned with intricate carvings.' 
+        }
+    ]
+}
+,'bhilwara': {
+    schools: [
+        { 
+            name: 'Witty International School', 
+            rating: 4.8, 
+            address: 'Chittorgarh Road, Bhilwara, Rajasthan 311001', 
+            description: 'Premier CBSE school with modern facilities, smart classrooms, and strong academics.' 
+        },
+        { 
+            name: 'St. Paul’s School Bhilwara', 
+            rating: 4.7, 
+            address: 'Ajmer Road, Bhilwara 311001', 
+            description: 'Renowned English-medium institution known for discipline and academic excellence.' 
+        },
+        { 
+            name: 'Sophia Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Gulmohar Colony, Bhilwara 311001', 
+            description: 'ICSE-affiliated school focusing on holistic education and co-curricular growth.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Bhilwara', 
+            rating: 4.6, 
+            address: 'RTO Road, Bhilwara 311001', 
+            description: 'Government-run central school offering quality education with cultural integration.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Urban Tadka', 
+            rating: 4.8, 
+            address: 'Shastri Nagar, Bhilwara 311001', 
+            description: 'Modern restaurant serving North Indian and Chinese cuisine with a fine dining setup.' 
+        },
+        { 
+            name: 'Spice Garden Restaurant', 
+            rating: 4.7, 
+            address: 'Circuit House Road, Bhilwara 311001', 
+            description: 'Popular family restaurant offering multicuisine meals and great service.' 
+        },
+        { 
+            name: 'Virasat Restaurant', 
+            rating: 4.6, 
+            address: 'Azad Nagar, Bhilwara 311001', 
+            description: 'Rajasthani-themed restaurant known for traditional thalis and royal ambience.' 
+        },
+        { 
+            name: 'Punjabi Zaika', 
+            rating: 4.5, 
+            address: 'Near Railway Station, Bhilwara 311001', 
+            description: 'Casual dining spot famous for parathas, curries, and lassi.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Maheshwari Hospital', 
+            rating: 4.8, 
+            address: 'Ajmer Road, Bhilwara 311001', 
+            description: 'Multi-specialty hospital with advanced diagnostic and emergency facilities.' 
+        },
+        { 
+            name: 'Government Hospital Bhilwara', 
+            rating: 4.7, 
+            address: 'MG Road, Bhilwara 311001', 
+            description: 'Major government hospital providing general and surgical care services.' 
+        },
+        { 
+            name: 'Sanjeevani Hospital', 
+            rating: 4.6, 
+            address: 'Shastri Nagar, Bhilwara 311001', 
+            description: 'Private hospital offering specialized treatment and 24x7 emergency care.' 
+        },
+        { 
+            name: 'Agarwal Nursing Home', 
+            rating: 4.5, 
+            address: 'Subhash Nagar, Bhilwara 311001', 
+            description: 'Trusted local clinic providing general medicine and maternity services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Harni Mahadev Temple', 
+            rating: 4.9, 
+            address: 'Harni, Bhilwara 311001', 
+            description: 'Ancient Shiva temple surrounded by hills, popular among devotees and trekkers.' 
+        },
+        { 
+            name: 'Mandalgarh Fort', 
+            rating: 4.8, 
+            address: 'Mandalgarh, 54 km from Bhilwara', 
+            description: 'Historic fort offering panoramic views and a glimpse into Rajasthan’s valorous past.' 
+        },
+        { 
+            name: 'Kyara ke Balaji', 
+            rating: 4.7, 
+            address: 'Kyara Village, Bhilwara', 
+            description: 'Sacred temple where Lord Hanuman’s image naturally appeared on a rock.' 
+        },
+        { 
+            name: 'Pur Udan Chatri', 
+            rating: 4.6, 
+            address: 'Pur Village, Bhilwara 311001', 
+            description: 'Picturesque spot known for scenic views, picnics, and local heritage.' 
+        }
+    ]
+}
+,'bikaner': {
+    schools: [
+        { 
+            name: 'Delhi Public School Bikaner', 
+            rating: 4.8, 
+            address: 'Palana Road, Bikaner, Rajasthan 334001', 
+            description: 'Top CBSE school offering world-class facilities, digital learning, and holistic education.' 
+        },
+        { 
+            name: 'St. Xavier’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Shivbari Road, Bikaner 334001', 
+            description: 'Prestigious English-medium school known for discipline and academic excellence.' 
+        },
+        { 
+            name: 'Modern Public School', 
+            rating: 4.7, 
+            address: 'Gangashahar Road, Bikaner 334001', 
+            description: 'Renowned private school providing quality education and sports infrastructure.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya No.1 Bikaner', 
+            rating: 4.6, 
+            address: 'Nal Road, Bikaner 334001', 
+            description: 'Government school fostering national integration and strong academic performance.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Gallops Restaurant', 
+            rating: 4.8, 
+            address: 'Near Junagarh Fort, Bikaner 334001', 
+            description: 'Elegant restaurant serving authentic Rajasthani thalis and continental dishes.' 
+        },
+        { 
+            name: 'Chhotu Motu Joshi Sweet Shop', 
+            rating: 4.7, 
+            address: 'Station Road, Bikaner 334001', 
+            description: 'Legendary eatery famous for sweets, kachoris, and Bikaneri bhujia.' 
+        },
+        { 
+            name: 'Heeralal’s Restaurant', 
+            rating: 4.6, 
+            address: 'KEM Road, Bikaner 334001', 
+            description: 'Multicuisine restaurant offering vegetarian and non-vegetarian delicacies.' 
+        },
+        { 
+            name: 'The Garden Café & Restaurant', 
+            rating: 4.5, 
+            address: 'Rani Bazaar, Bikaner 334001', 
+            description: 'Peaceful garden-style café ideal for snacks, coffee, and evening hangouts.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'PBM Hospital Bikaner', 
+            rating: 4.8, 
+            address: 'Ganganagar Road, Bikaner 334001', 
+            description: 'Largest government hospital in Bikaner offering multi-specialty healthcare.' 
+        },
+        { 
+            name: 'Aastha Hospital', 
+            rating: 4.7, 
+            address: 'Murlidhar Vyas Colony, Bikaner 334001', 
+            description: 'Modern private hospital with advanced treatment facilities and expert doctors.' 
+        },
+        { 
+            name: 'City Heart & General Hospital', 
+            rating: 4.6, 
+            address: 'Rani Bazaar, Bikaner 334001', 
+            description: 'Specialized hospital for cardiac and general medical services.' 
+        },
+        { 
+            name: 'Meera Hospital', 
+            rating: 4.5, 
+            address: 'Shivbari Road, Bikaner 334001', 
+            description: 'Popular hospital offering maternity, surgical, and general care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Junagarh Fort', 
+            rating: 5.0, 
+            address: 'Junagarh Fort Road, Bikaner 334001', 
+            description: 'Magnificent 16th-century fort showcasing stunning architecture and royal artifacts.' 
+        },
+        { 
+            name: 'Karni Mata Temple (Deshnok)', 
+            rating: 4.9, 
+            address: 'Deshnok, 30 km from Bikaner', 
+            description: 'Unique temple dedicated to Karni Mata, famous for its sacred rats.' 
+        },
+        { 
+            name: 'Lalgarh Palace', 
+            rating: 4.8, 
+            address: 'Sri Ganganagar Road, Bikaner 334001', 
+            description: 'Majestic palace blending Rajput, Mughal, and European architectural styles.' 
+        },
+        { 
+            name: 'Gajner Lake & Palace', 
+            rating: 4.7, 
+            address: 'Gajner, 34 km from Bikaner', 
+            description: 'Scenic lake and heritage palace surrounded by desert wildlife and serene views.' 
+        }
+    ]
+}
+,'bundi': {
+    schools: [
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.8, 
+            address: 'Indra Colony, Bundi, Rajasthan 323001', 
+            description: 'Top English-medium school providing quality CBSE education and modern facilities.' 
+        },
+        { 
+            name: 'Tagore Public School', 
+            rating: 4.7, 
+            address: 'Talera Road, Bundi 323001', 
+            description: 'Well-known school emphasizing academic excellence and character development.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Bundi', 
+            rating: 4.7, 
+            address: 'Nainwa Road, Bundi 323001', 
+            description: 'Central government school with experienced faculty and focus on holistic growth.' 
+        },
+        { 
+            name: 'Modern Academy', 
+            rating: 4.6, 
+            address: 'Dablana Road, Bundi 323001', 
+            description: 'Private institution offering English-medium education with extracurricular exposure.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Ringo Star Restaurant', 
+            rating: 4.8, 
+            address: 'Old City, Bundi 323001', 
+            description: 'Charming rooftop restaurant offering Rajasthani, Italian, and Indian dishes with fort views.' 
+        },
+        { 
+            name: 'Morgan’s Place', 
+            rating: 4.7, 
+            address: 'Surang Gate, Bundi 323001', 
+            description: 'Popular among tourists for wood-fired pizzas, coffee, and international menu.' 
+        },
+        { 
+            name: 'Rainbow Café', 
+            rating: 4.6, 
+            address: 'Nagar Sagar Lake Road, Bundi 323001', 
+            description: 'Cozy café serving vegetarian meals, pancakes, and organic teas.' 
+        },
+        { 
+            name: 'Lake View Garden Restaurant', 
+            rating: 4.5, 
+            address: 'Adjacent to Jait Sagar Lake, Bundi 323001', 
+            description: 'Picturesque restaurant offering local cuisine and a relaxing lakeside ambience.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government District Hospital Bundi', 
+            rating: 4.8, 
+            address: 'Kota Road, Bundi 323001', 
+            description: 'Main public hospital providing general, emergency, and maternity services.' 
+        },
+        { 
+            name: 'Sanjeevani Hospital', 
+            rating: 4.7, 
+            address: 'Keshoraipatan Road, Bundi 323001', 
+            description: 'Private hospital offering advanced diagnostic and surgical care.' 
+        },
+        { 
+            name: 'Shree Hospital', 
+            rating: 4.6, 
+            address: 'Indra Colony, Bundi 323001', 
+            description: 'Well-known hospital with multi-specialty facilities and 24x7 service.' 
+        },
+        { 
+            name: 'Bundi City Clinic', 
+            rating: 4.5, 
+            address: 'Old Kota Road, Bundi 323001', 
+            description: 'Local clinic offering general consultation, pharmacy, and basic emergency support.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Taragarh Fort', 
+            rating: 5.0, 
+            address: 'Taragarh Hill, Bundi 323001', 
+            description: 'Historic fort offering panoramic views of Bundi and exquisite architecture.' 
+        },
+        { 
+            name: 'Garh Palace', 
+            rating: 4.9, 
+            address: 'Old City, Bundi 323001', 
+            description: 'Majestic palace complex known for murals, paintings, and royal architecture.' 
+        },
+        { 
+            name: 'Nawal Sagar Lake', 
+            rating: 4.8, 
+            address: 'Near Main Bazaar, Bundi 323001', 
+            description: 'Beautiful lake with a submerged temple, reflecting the city’s charm.' 
+        },
+        { 
+            name: 'Stepwells of Bundi (Baoris)', 
+            rating: 4.7, 
+            address: 'Across Bundi city', 
+            description: 'Ancient stepwells like Raniji ki Baori showcasing the town’s rich heritage.' 
+        }
+    ]
+}
+,'chittaurgarh': {
+    schools: [
+        { 
+            name: 'Central Academy Chittorgarh', 
+            rating: 4.8, 
+            address: 'Nimbahera Road, Chittorgarh, Rajasthan 312001', 
+            description: 'Prestigious CBSE school offering modern facilities, strong academics, and co-curricular balance.' 
+        },
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Meera Nagar, Chittorgarh 312001', 
+            description: 'Renowned English-medium school focusing on value-based and quality education.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Chittorgarh', 
+            rating: 4.7, 
+            address: 'BSF Campus Road, Chittorgarh 312001', 
+            description: 'Government CBSE school offering national-level curriculum and holistic student development.' 
+        },
+        { 
+            name: 'Modern Academy', 
+            rating: 4.6, 
+            address: 'Ratan Nagar, Chittorgarh 312001', 
+            description: 'Private school emphasizing interactive learning and cultural development.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Gangaur Restaurant', 
+            rating: 4.8, 
+            address: 'Fort Road, Chittorgarh 312001', 
+            description: 'Top-rated restaurant serving authentic Rajasthani thali and North Indian dishes.' 
+        },
+        { 
+            name: 'Mango Restaurant', 
+            rating: 4.7, 
+            address: 'Collectorate Circle, Chittorgarh 312001', 
+            description: 'Family restaurant offering multicuisine dining with cozy ambience.' 
+        },
+        { 
+            name: 'Hotel Padmini Restaurant', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Chittorgarh 312001', 
+            description: 'Elegant restaurant known for traditional Indian meals and hospitality.' 
+        },
+        { 
+            name: 'The Hill View Café', 
+            rating: 4.5, 
+            address: 'Fort View Point Road, Chittorgarh 312001', 
+            description: 'Rooftop café with panoramic fort views, serving coffee, snacks, and continental fare.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Maharana Bhupal Government Hospital', 
+            rating: 4.8, 
+            address: 'Fort Road, Chittorgarh 312001', 
+            description: 'Major government hospital offering general, emergency, and maternity services.' 
+        },
+        { 
+            name: 'Sanjivani Hospital', 
+            rating: 4.7, 
+            address: 'Bohra Colony, Chittorgarh 312001', 
+            description: 'Multi-specialty private hospital with 24-hour emergency and diagnostic facilities.' 
+        },
+        { 
+            name: 'Mewar Hospital', 
+            rating: 4.6, 
+            address: 'Nimbahera Road, Chittorgarh 312001', 
+            description: 'Private healthcare center providing advanced surgery and general medicine services.' 
+        },
+        { 
+            name: 'Shree Ram Clinic', 
+            rating: 4.5, 
+            address: 'Collectorate Road, Chittorgarh 312001', 
+            description: 'Local clinic offering general consultation and basic healthcare support.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Chittorgarh Fort', 
+            rating: 5.0, 
+            address: 'Fort Road, Chittorgarh 312001', 
+            description: 'UNESCO World Heritage Site and Rajasthan’s largest fort known for its grandeur and history.' 
+        },
+        { 
+            name: 'Vijay Stambh (Victory Tower)', 
+            rating: 4.9, 
+            address: 'Inside Chittorgarh Fort, Chittorgarh', 
+            description: 'Historic monument built by Rana Kumbha, offering panoramic views of the fort.' 
+        },
+        { 
+            name: 'Padmini Palace', 
+            rating: 4.8, 
+            address: 'Chittorgarh Fort Complex, Chittorgarh', 
+            description: 'Elegant palace reflecting Rajput valor and the legend of Rani Padmini.' 
+        },
+        { 
+            name: 'Meera Temple', 
+            rating: 4.7, 
+            address: 'Fort Complex, Chittorgarh 312001', 
+            description: 'Sacred temple dedicated to Saint Meerabai, symbolizing devotion and peace.' 
+        }
+    ]
+}
+,'churu': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Churu', 
+            rating: 4.8, 
+            address: 'Near Circuit House, Churu, Rajasthan 331001', 
+            description: 'Central government CBSE school offering excellent academics and extracurricular programs.' 
+        },
+        { 
+            name: 'St. Francis School', 
+            rating: 4.7, 
+            address: 'Ratangarh Road, Churu 331001', 
+            description: 'English-medium school known for discipline, quality education, and modern facilities.' 
+        },
+        { 
+            name: 'Rajasthan Public School', 
+            rating: 4.6, 
+            address: 'Sardarshahar Road, Churu 331001', 
+            description: 'Private CBSE school emphasizing value-based education and all-round development.' 
+        },
+        { 
+            name: 'Sethani Devi Daga School', 
+            rating: 4.5, 
+            address: 'Main Road, Churu 331001', 
+            description: 'Historic educational institution with focus on holistic and cultural learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Shree Jagdamba Restaurant', 
+            rating: 4.8, 
+            address: 'Bus Stand Road, Churu 331001', 
+            description: 'Highly rated restaurant serving traditional Rajasthani and North Indian dishes.' 
+        },
+        { 
+            name: 'Mohan Vilas Restaurant', 
+            rating: 4.7, 
+            address: 'Station Road, Churu 331001', 
+            description: 'Family restaurant known for pure vegetarian food and local specialties.' 
+        },
+        { 
+            name: 'Hotel Shakti Palace Restaurant', 
+            rating: 4.6, 
+            address: 'NH-65, Near Railway Station, Churu 331001', 
+            description: 'Comfortable dining spot offering multi-cuisine menu with Rajasthani touch.' 
+        },
+        { 
+            name: 'Churu Café House', 
+            rating: 4.5, 
+            address: 'Ratannagar Road, Churu 331001', 
+            description: 'Youth-friendly café serving coffee, fast food, and bakery items in a cozy setting.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government District Hospital Churu', 
+            rating: 4.8, 
+            address: 'Sardarshahar Road, Churu 331001', 
+            description: 'Main government healthcare facility offering emergency, maternity, and surgical care.' 
+        },
+        { 
+            name: 'Shri Ram Hospital', 
+            rating: 4.7, 
+            address: 'Station Road, Churu 331001', 
+            description: 'Multi-specialty private hospital with advanced diagnostics and experienced doctors.' 
+        },
+        { 
+            name: 'Maheshwari Hospital', 
+            rating: 4.6, 
+            address: 'Bus Stand Road, Churu 331001', 
+            description: 'Private healthcare center providing general medicine and surgical services.' 
+        },
+        { 
+            name: 'Dr. Agarwal’s Eye Hospital', 
+            rating: 4.5, 
+            address: 'Main Market, Churu 331001', 
+            description: 'Specialized hospital focusing on ophthalmic treatments and surgeries.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Surana Haveli', 
+            rating: 4.9, 
+            address: 'Ward No. 7, Churu 331001', 
+            description: 'Magnificent 19th-century haveli showcasing intricate frescoes and Rajasthani architecture.' 
+        },
+        { 
+            name: 'Babosa Dham Churu', 
+            rating: 4.8, 
+            address: 'Taranagar Road, Churu', 
+            description: 'Popular spiritual destination and pilgrimage site known for peace and devotion.' 
+        },
+        { 
+            name: 'Churu Fort', 
+            rating: 4.7, 
+            address: 'Fort Area, Churu 331001', 
+            description: 'Historic fort representing the heritage and valor of Shekhawati region.' 
+        },
+        { 
+            name: 'Ratangarh Haveli Complex', 
+            rating: 4.6, 
+            address: 'Ratangarh Road, Churu', 
+            description: 'Cluster of traditional havelis adorned with murals and ancient artistry.' 
+        }
+    ]
+}
+,
+'dhaulpur': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Dhaulpur', 
+            rating: 4.8, 
+            address: 'Near Railway Colony, Dhaulpur, Rajasthan 328001', 
+            description: 'CBSE-affiliated central school providing excellent academics and co-curricular activities.' 
+        },
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Rajakhera Road, Dhaulpur 328001', 
+            description: 'English-medium school emphasizing discipline, innovation, and moral education.' 
+        },
+        { 
+            name: 'RPS Public School', 
+            rating: 4.6, 
+            address: 'NH-44, Near Jail Road, Dhaulpur 328001', 
+            description: 'Private institution with strong academic programs and modern teaching infrastructure.' 
+        },
+        { 
+            name: 'Springdale Public School', 
+            rating: 4.5, 
+            address: 'Sikandra Road, Dhaulpur 328001', 
+            description: 'Popular day school offering holistic education and extracurricular development.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Raj Niwas Palace Restaurant', 
+            rating: 4.9, 
+            address: 'Raj Niwas Palace, Nihalganj, Dhaulpur 328001', 
+            description: 'Upscale restaurant serving authentic Rajasthani and North Indian delicacies in a royal setting.' 
+        },
+        { 
+            name: 'Taste of Dholpur', 
+            rating: 4.7, 
+            address: 'Station Road, Dhaulpur 328001', 
+            description: 'Family-friendly restaurant known for thalis, tandoori items, and regional dishes.' 
+        },
+        { 
+            name: 'Kanha Sweets & Restaurant', 
+            rating: 4.6, 
+            address: 'Main Market, Dhaulpur 328001', 
+            description: 'Well-known eatery offering vegetarian meals, snacks, and traditional sweets.' 
+        },
+        { 
+            name: 'Highway Treat Restaurant', 
+            rating: 4.5, 
+            address: 'NH-3, Morena Road, Dhaulpur 328001', 
+            description: 'Popular highway stop offering multicuisine options and quick bites for travelers.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Dhaulpur', 
+            rating: 4.8, 
+            address: 'Hospital Road, Dhaulpur 328001', 
+            description: 'Main government hospital with emergency, maternity, and diagnostic services.' 
+        },
+        { 
+            name: 'Saraswati Hospital', 
+            rating: 4.7, 
+            address: 'Sikandra Road, Dhaulpur 328001', 
+            description: 'Multi-specialty private hospital providing general and surgical treatments.' 
+        },
+        { 
+            name: 'Chaudhary Memorial Hospital', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Dhaulpur 328001', 
+            description: 'Renowned for patient care and modern medical equipment.' 
+        },
+        { 
+            name: 'Dr. Jain’s Clinic', 
+            rating: 4.5, 
+            address: 'Civil Lines, Dhaulpur 328001', 
+            description: 'Private clinic known for personalized consultation and general healthcare services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Machkund Temple', 
+            rating: 4.9, 
+            address: 'Machkund, Dhaulpur 328001', 
+            description: 'Historic temple complex with ancient architecture and a scenic water tank.' 
+        },
+        { 
+            name: 'Shergarh Fort', 
+            rating: 4.8, 
+            address: 'Near Chambal River, Dhaulpur', 
+            description: 'Massive Mughal-era fort offering panoramic views of the river and nearby landscape.' 
+        },
+        { 
+            name: 'Chambal Safari Sanctuary', 
+            rating: 4.9, 
+            address: 'National Chambal Sanctuary, Dhaulpur', 
+            description: 'Popular eco-tourism spot offering boat safaris to see gharials, crocodiles, and river dolphins.' 
+        },
+        { 
+            name: 'Damoh Waterfall', 
+            rating: 4.6, 
+            address: 'Near Sarmathura, Dhaulpur', 
+            description: 'Beautiful natural waterfall surrounded by greenery and rocky cliffs.' 
+        }
+    ]
+}
+,'gangapur_city': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Gangapur City', 
+            rating: 4.8, 
+            address: 'MDR 111, Near Railway Station, Gangapur City, Rajasthan 322201', 
+            description: 'Central government CBSE school offering quality academics, sports, and co-curricular development.' 
+        },
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Housing Board Colony, Gangapur City 322201', 
+            description: 'English-medium CBSE school focusing on academics, ethics, and holistic education.' 
+        },
+        { 
+            name: 'Modern Public School', 
+            rating: 4.6, 
+            address: 'Jagner Road, Gangapur City 322201', 
+            description: 'Popular private institution emphasizing science, mathematics, and extracurricular excellence.' 
+        },
+        { 
+            name: 'Tagore International School', 
+            rating: 4.5, 
+            address: 'Shivaji Nagar, Gangapur City 322201', 
+            description: 'School with modern facilities promoting creativity, discipline, and leadership.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Royal Spice Restaurant', 
+            rating: 4.8, 
+            address: 'Station Road, Gangapur City 322201', 
+            description: 'Highly rated multicuisine restaurant offering North Indian, Chinese, and Rajasthani dishes.' 
+        },
+        { 
+            name: 'Kanha Family Restaurant', 
+            rating: 4.7, 
+            address: 'Jaipur Road, Gangapur City 322201', 
+            description: 'Family-friendly restaurant serving vegetarian thalis, curries, and snacks.' 
+        },
+        { 
+            name: 'The Urban Café', 
+            rating: 4.6, 
+            address: 'Housing Board Area, Gangapur City 322201', 
+            description: 'Trendy café offering fast food, beverages, and a relaxed hangout space.' 
+        },
+        { 
+            name: 'Shree Radhe Restaurant', 
+            rating: 4.5, 
+            address: 'Agra Road, Gangapur City 322201', 
+            description: 'Well-known for homely meals and traditional Rajasthani flavors.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government General Hospital Gangapur City', 
+            rating: 4.8, 
+            address: 'Hospital Road, Gangapur City 322201', 
+            description: 'Main government hospital providing 24/7 emergency and specialized healthcare services.' 
+        },
+        { 
+            name: 'Gangapur City Multispeciality Hospital', 
+            rating: 4.7, 
+            address: 'Jaipur Road, Gangapur City 322201', 
+            description: 'Private hospital offering advanced diagnostic and surgical facilities.' 
+        },
+        { 
+            name: 'Aastha Hospital', 
+            rating: 4.6, 
+            address: 'Station Road, Gangapur City 322201', 
+            description: 'Well-equipped medical center known for excellent patient care and hygiene.' 
+        },
+        { 
+            name: 'Dr. Sharma’s Clinic', 
+            rating: 4.5, 
+            address: 'Civil Lines, Gangapur City 322201', 
+            description: 'Private clinic offering general and family healthcare consultations.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Maa Kaila Devi Temple', 
+            rating: 4.9, 
+            address: 'Kaila Devi, 25 km from Gangapur City', 
+            description: 'Famous pilgrimage site on the banks of the Kalisil River, dedicated to Goddess Kaila Devi.' 
+        },
+        { 
+            name: 'Chhipa Bara Bridge', 
+            rating: 4.7, 
+            address: 'NH-23, Near Gangapur City', 
+            description: 'Beautiful bridge location offering views of flowing river and nearby countryside.' 
+        },
+        { 
+            name: 'Mansingh Sanctuary', 
+            rating: 4.8, 
+            address: 'Mansingh Reserve Area, Near Gangapur City', 
+            description: 'Protected forest region known for rich biodiversity and peaceful nature walks.' 
+        },
+        { 
+            name: 'Kalisil Dam', 
+            rating: 4.6, 
+            address: 'Near Karauli Road, Gangapur City', 
+            description: 'Popular local picnic spot surrounded by hills and scenic water views.' 
+        }
+    ]
+}
+,'ganganagar': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Sri Ganganagar', 
+            rating: 4.8, 
+            address: 'Suratgarh Road, Sri Ganganagar, Rajasthan 335001', 
+            description: 'Central government CBSE school known for academic excellence and disciplined environment.' 
+        },
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.7, 
+            address: 'Near Sukharia Circle, Sri Ganganagar 335001', 
+            description: 'Prestigious English-medium school emphasizing value-based education and personality development.' 
+        },
+        { 
+            name: 'Cambridge International School', 
+            rating: 4.6, 
+            address: 'Padampur Road, Sri Ganganagar 335001', 
+            description: 'Modern CBSE-affiliated institution with strong academics and digital classrooms.' 
+        },
+        { 
+            name: 'Blooming Dales International School', 
+            rating: 4.5, 
+            address: 'Hanumangarh Road, Sri Ganganagar 335001', 
+            description: 'Popular school offering co-educational learning with focus on innovation and leadership.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Yellow Chilli', 
+            rating: 4.9, 
+            address: 'Suratgarh Road, Sri Ganganagar 335001', 
+            description: 'Fine dining restaurant serving North Indian, Chinese, and continental cuisine by Sanjeev Kapoor chain.' 
+        },
+        { 
+            name: 'Punjabi Zaika Restaurant', 
+            rating: 4.7, 
+            address: 'Sukharia Circle, Sri Ganganagar 335001', 
+            description: 'Famous local restaurant known for Punjabi and Rajasthani traditional meals.' 
+        },
+        { 
+            name: 'Urban Café & Bistro', 
+            rating: 4.6, 
+            address: 'Station Road, Sri Ganganagar 335001', 
+            description: 'Trendy café offering coffee, mocktails, pizzas, and quick bites in a modern ambiance.' 
+        },
+        { 
+            name: 'Green Leaf Restaurant', 
+            rating: 4.5, 
+            address: 'Old City Market, Sri Ganganagar 335001', 
+            description: 'Family-friendly vegetarian restaurant serving Indian and South Indian dishes.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government District Hospital Sri Ganganagar', 
+            rating: 4.8, 
+            address: 'Sukharia Circle, Sri Ganganagar 335001', 
+            description: 'Major government healthcare center offering emergency, maternity, and specialist services.' 
+        },
+        { 
+            name: 'Shri Balaji Hospital', 
+            rating: 4.7, 
+            address: 'Hanumangarh Road, Sri Ganganagar 335001', 
+            description: 'Multi-specialty hospital known for advanced diagnostics and surgery facilities.' 
+        },
+        { 
+            name: 'Navjeevan Hospital', 
+            rating: 4.6, 
+            address: 'Suratgarh Road, Sri Ganganagar 335001', 
+            description: 'Private healthcare institution providing quality treatment and intensive care units.' 
+        },
+        { 
+            name: 'Dr. Mehta’s Heart & Eye Clinic', 
+            rating: 4.5, 
+            address: 'Near City Park, Sri Ganganagar 335001', 
+            description: 'Specialty clinic offering cardiology and ophthalmology services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Fort Haripura', 
+            rating: 4.7, 
+            address: 'Haripura Village, near Sri Ganganagar', 
+            description: 'Historic fort showcasing Rajput architecture and panoramic countryside views.' 
+        },
+        { 
+            name: 'Suratgarh Thermal Power Plant', 
+            rating: 4.6, 
+            address: 'Suratgarh Road, Sri Ganganagar District', 
+            description: 'Large thermal power project known for industrial tours and technical learning visits.' 
+        },
+        { 
+            name: 'Vinoba Basti Park', 
+            rating: 4.8, 
+            address: 'Vinoba Basti, Sri Ganganagar 335001', 
+            description: 'Peaceful green park ideal for morning walks, recreation, and family outings.' 
+        },
+        { 
+            name: 'Laila Majnu ki Mazar', 
+            rating: 4.9, 
+            address: 'Binjaur, near Anupgarh, Sri Ganganagar District', 
+            description: 'Historic tomb said to commemorate the legendary lovers Laila and Majnu, a popular cultural site.' 
+        }
+    ]
+}
+,'hanumangarh': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Hanumangarh', 
+            rating: 4.8, 
+            address: 'Near Power House, Hanumangarh Junction, Rajasthan 335512', 
+            description: 'CBSE-affiliated school offering excellent education with focus on academics, sports, and discipline.' 
+        },
+        { 
+            name: 'Tagore Public School', 
+            rating: 4.7, 
+            address: 'Town Road, Hanumangarh 335512', 
+            description: 'Well-known English-medium school providing modern facilities and co-curricular opportunities.' 
+        },
+        { 
+            name: 'Blooming Star Academy', 
+            rating: 4.6, 
+            address: 'Pilibanga Road, Hanumangarh 335512', 
+            description: 'Reputed private school emphasizing interactive learning and holistic development.' 
+        },
+        { 
+            name: 'Delhi Public School Hanumangarh', 
+            rating: 4.5, 
+            address: 'Sangaria Road, Hanumangarh 335512', 
+            description: 'Part of the DPS network, known for academic excellence and digital classrooms.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Punjabi Zaika Family Restaurant', 
+            rating: 4.8, 
+            address: 'Town Road, Hanumangarh Junction 335512', 
+            description: 'Popular restaurant serving authentic Punjabi and Rajasthani vegetarian dishes.' 
+        },
+        { 
+            name: 'The Urban Bite', 
+            rating: 4.7, 
+            address: 'Near Bus Stand, Hanumangarh Town 335513', 
+            description: 'Trendy café and restaurant known for fast food, shakes, and continental cuisine.' 
+        },
+        { 
+            name: 'Hotel Royal Treat Restaurant', 
+            rating: 4.6, 
+            address: 'Sangaria Road, Hanumangarh 335512', 
+            description: 'Family-friendly dining spot offering multicuisine meals in a cozy environment.' 
+        },
+        { 
+            name: 'Shree Balaji Bhojanalaya', 
+            rating: 4.5, 
+            address: 'Near Railway Station, Hanumangarh Junction 335512', 
+            description: 'Traditional thali restaurant famous for homely Rajasthani food.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government District Hospital Hanumangarh', 
+            rating: 4.8, 
+            address: 'Hanumangarh Junction 335512', 
+            description: 'Main government medical facility offering general, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Swasthya Multispeciality Hospital', 
+            rating: 4.7, 
+            address: 'Sangaria Road, Hanumangarh 335512', 
+            description: 'Private hospital with modern medical technology and specialized departments.' 
+        },
+        { 
+            name: 'Jain Hospital and Trauma Centre', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Hanumangarh Town 335513', 
+            description: 'Trusted healthcare facility providing trauma care and surgical services.' 
+        },
+        { 
+            name: 'Dr. Meena’s Eye and Dental Clinic', 
+            rating: 4.5, 
+            address: 'Town Market, Hanumangarh 335512', 
+            description: 'Specialty clinic offering quality eye and dental treatments.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Bhatner Fort', 
+            rating: 4.9, 
+            address: 'Fort Road, Hanumangarh Town 335513', 
+            description: 'Ancient fort built over 1700 years ago, showcasing Rajput architecture and historical significance.' 
+        },
+        { 
+            name: 'Kalibangan Archaeological Site', 
+            rating: 4.8, 
+            address: 'Kalibangan, 25 km from Hanumangarh', 
+            description: 'Historic site of the Indus Valley Civilization, famous for excavated artifacts and ancient ruins.' 
+        },
+        { 
+            name: 'Gogamedi Temple', 
+            rating: 4.7, 
+            address: 'Gogamedi Village, near Hanumangarh', 
+            description: 'Sacred temple dedicated to folk deity Gogaji, attracting devotees from across Rajasthan.' 
+        },
+        { 
+            name: 'Shri Gorakh Nath Temple', 
+            rating: 4.6, 
+            address: 'Hanumangarh Junction 335512', 
+            description: 'Peaceful spiritual site offering a serene atmosphere and local cultural significance.' 
+        }
+    ]
+}
+,'hindaun': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Hindaun', 
+            rating: 4.8, 
+            address: 'NH-23, Near Power House, Hindaun, Rajasthan 322230', 
+            description: 'CBSE-affiliated central school offering quality education with co-curricular activities and sports.' 
+        },
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Bayana Road, Hindaun 322230', 
+            description: 'English-medium school promoting discipline, academics, and character development.' 
+        },
+        { 
+            name: 'Tagore Public School', 
+            rating: 4.6, 
+            address: 'Kailadevi Road, Hindaun 322230', 
+            description: 'Reputed private school focusing on holistic education and innovative teaching methods.' 
+        },
+        { 
+            name: 'Mother India Public School', 
+            rating: 4.5, 
+            address: 'Todabhim Road, Hindaun 322230', 
+            description: 'CBSE school with modern infrastructure and extracurricular learning programs.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Royal Tadka Restaurant', 
+            rating: 4.8, 
+            address: 'Karauli Road, Hindaun 322230', 
+            description: 'Top-rated restaurant known for authentic Rajasthani and North Indian dishes.' 
+        },
+        { 
+            name: 'Kanha Sweets & Restaurant', 
+            rating: 4.7, 
+            address: 'Main Market, Hindaun 322230', 
+            description: 'Famous spot offering vegetarian thalis, sweets, and snacks with local flavors.' 
+        },
+        { 
+            name: 'Hind Café', 
+            rating: 4.6, 
+            address: 'Railway Station Road, Hindaun 322230', 
+            description: 'Trendy café serving fast food, coffee, and continental snacks in a relaxed environment.' 
+        },
+        { 
+            name: 'Shree Radhe Bhojanalaya', 
+            rating: 4.5, 
+            address: 'Bus Stand Area, Hindaun 322230', 
+            description: 'Popular family restaurant offering pure vegetarian meals and traditional cuisine.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government General Hospital Hindaun', 
+            rating: 4.8, 
+            address: 'Hospital Road, Hindaun 322230', 
+            description: 'Main public healthcare center with emergency, maternity, and general medicine facilities.' 
+        },
+        { 
+            name: 'Shree Krishna Hospital', 
+            rating: 4.7, 
+            address: 'Bayana Road, Hindaun 322230', 
+            description: 'Private hospital providing specialized care and modern medical treatments.' 
+        },
+        { 
+            name: 'Navjeevan Hospital', 
+            rating: 4.6, 
+            address: 'Kailadevi Road, Hindaun 322230', 
+            description: 'Multi-specialty healthcare facility known for good patient care and modern equipment.' 
+        },
+        { 
+            name: 'Dr. Sharma’s Clinic', 
+            rating: 4.5, 
+            address: 'Civil Lines, Hindaun 322230', 
+            description: 'Private clinic offering general healthcare and diagnostic services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Kaila Devi Temple', 
+            rating: 4.9, 
+            address: '25 km from Hindaun, Karauli District', 
+            description: 'Famous temple dedicated to Goddess Kaila Devi, attracting thousands of pilgrims annually.' 
+        },
+        { 
+            name: 'Nakkash Ki Devi Temple', 
+            rating: 4.8, 
+            address: 'Main Town, Hindaun 322230', 
+            description: 'Ancient temple known for its intricate carvings and religious significance.' 
+        },
+        { 
+            name: 'Jhande Wali Mata Temple', 
+            rating: 4.7, 
+            address: 'Hindaun Fort Area, Hindaun 322230', 
+            description: 'Historic temple within the fort area offering a spiritual atmosphere.' 
+        },
+        { 
+            name: 'Jalsen Reservoir', 
+            rating: 4.6, 
+            address: 'Near Hindaun Town, Rajasthan', 
+            description: 'Scenic water reservoir and picnic spot surrounded by greenery and hills.' 
+        }
+    ]
+}
+,'jaipur': {
+    schools: [
+        { 
+            name: 'Maharaja Sawai Man Singh Vidyalaya', 
+            rating: 4.9, 
+            address: 'Sawai Ram Singh Road, Jaipur, Rajasthan 302005', 
+            description: 'Prestigious ICSE school known for academic excellence and a strong emphasis on extracurriculars.' 
+        },
+        { 
+            name: 'Delhi Public School Jaipur', 
+            rating: 4.8, 
+            address: 'Ajmer Road, Bhankrota, Jaipur 302026', 
+            description: 'CBSE-affiliated institution offering world-class education and sports infrastructure.' 
+        },
+        { 
+            name: 'St. Xavier’s Senior Secondary School', 
+            rating: 4.8, 
+            address: 'C- Scheme, Jaipur 302001', 
+            description: 'Renowned school offering balanced education and strong moral development.' 
+        },
+        { 
+            name: 'Seedling Modern High School', 
+            rating: 4.7, 
+            address: 'Jawahar Nagar, Jaipur 302004', 
+            description: 'Progressive school emphasizing leadership, innovation, and holistic growth.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'LMB (Laxmi Misthan Bhandar)', 
+            rating: 4.9, 
+            address: 'Johari Bazaar, Jaipur 302003', 
+            description: 'Iconic restaurant and sweet shop serving authentic Rajasthani thalis and snacks since 1954.' 
+        },
+        { 
+            name: 'Chokhi Dhani Village Resort', 
+            rating: 4.8, 
+            address: 'Tonka Road, Jaipur 303905', 
+            description: 'Cultural-themed restaurant offering traditional food and folk entertainment.' 
+        },
+        { 
+            name: 'The Tattoo Café & Lounge', 
+            rating: 4.7, 
+            address: 'Opposite Hawa Mahal, Jaipur 302002', 
+            description: 'Scenic rooftop café with stunning views of Hawa Mahal and fusion menu options.' 
+        },
+        { 
+            name: 'Peacock Rooftop Restaurant', 
+            rating: 4.6, 
+            address: 'Hotel Pearl Palace, Gopalbari, Jaipur 302001', 
+            description: 'Famous rooftop restaurant known for ambiance, live music, and global cuisine.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'SMS Hospital (Sawai Man Singh Hospital)', 
+            rating: 4.8, 
+            address: 'Ashok Nagar, Jaipur 302004', 
+            description: 'Largest government hospital in Rajasthan offering advanced multi-specialty treatment.' 
+        },
+        { 
+            name: 'Fortis Escorts Hospital', 
+            rating: 4.8, 
+            address: 'Jawahar Circle, Jaipur 302017', 
+            description: 'Top private hospital providing specialized medical and surgical services.' 
+        },
+        { 
+            name: 'Mahatma Gandhi Medical College & Hospital', 
+            rating: 4.7, 
+            address: 'RIICO Industrial Area, Sitapura, Jaipur 302022', 
+            description: 'Renowned medical college hospital offering modern healthcare and training.' 
+        },
+        { 
+            name: 'CK Birla Hospital for Women', 
+            rating: 4.7, 
+            address: 'Near Triveni Nagar, Jaipur 302018', 
+            description: 'Multi-specialty women’s hospital providing maternity and gynecological care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Amber Fort', 
+            rating: 4.9, 
+            address: 'Amer, Jaipur 302028', 
+            description: 'Magnificent 16th-century fort built by Raja Man Singh, known for its architecture and views.' 
+        },
+        { 
+            name: 'Hawa Mahal', 
+            rating: 4.9, 
+            address: 'Badi Chaupar, Jaipur 302002', 
+            description: 'Iconic “Palace of Winds” featuring 953 jharokhas and a blend of Rajput architecture.' 
+        },
+        { 
+            name: 'City Palace Jaipur', 
+            rating: 4.8, 
+            address: 'Old City, Jaipur 302002', 
+            description: 'Royal residence of Jaipur’s Maharaja showcasing museums, courtyards, and artifacts.' 
+        },
+        { 
+            name: 'Jantar Mantar', 
+            rating: 4.8, 
+            address: 'Gangori Bazaar, Jaipur 302002', 
+            description: 'UNESCO World Heritage site featuring astronomical instruments built by Maharaja Jai Singh II.' 
+        }
+    ]
+}
+,'jhalawar': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Jhalawar', 
+            rating: 4.8, 
+            address: 'NH-52, Jhalawar, Rajasthan 326001', 
+            description: 'Central government school offering CBSE curriculum with focus on academics and co-curriculars.' 
+        },
+        { 
+            name: 'St. Joseph’s Convent School', 
+            rating: 4.7, 
+            address: 'Sunel Road, Jhalawar 326001', 
+            description: 'English-medium school known for discipline, strong academics, and values-based education.' 
+        },
+        { 
+            name: 'Government Senior Secondary School', 
+            rating: 4.6, 
+            address: 'Jhalawar City, Rajasthan 326001', 
+            description: 'Well-established government school providing science, arts, and commerce streams.' 
+        },
+        { 
+            name: 'Modern Public School', 
+            rating: 4.6, 
+            address: 'Near Civil Lines, Jhalawar 326001', 
+            description: 'Popular CBSE-affiliated school emphasizing modern teaching techniques and student growth.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Saffron Restaurant', 
+            rating: 4.8, 
+            address: 'NH-52, Jhalawar 326001', 
+            description: 'Family restaurant serving multicuisine dishes with elegant interiors and fast service.' 
+        },
+        { 
+            name: 'Hotel Royal Palace Restaurant', 
+            rating: 4.7, 
+            address: 'Bus Stand Road, Jhalawar 326001', 
+            description: 'Local favorite offering authentic Rajasthani thalis and North Indian meals.' 
+        },
+        { 
+            name: 'Taste Town Café', 
+            rating: 4.6, 
+            address: 'Main Market, Jhalawar 326001', 
+            description: 'Trendy café serving fast food, coffee, and continental snacks in a cozy ambiance.' 
+        },
+        { 
+            name: 'Rajwada Bhojanalaya', 
+            rating: 4.5, 
+            address: 'Station Road, Jhalawar 326001', 
+            description: 'Traditional eatery known for homely Rajasthani vegetarian meals.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Jhalawar Medical College & Hospital', 
+            rating: 4.8, 
+            address: 'NH-52, Jhalawar 326001', 
+            description: 'Major government hospital offering multi-specialty medical services and training.' 
+        },
+        { 
+            name: 'Mahatma Gandhi Hospital', 
+            rating: 4.6, 
+            address: 'Patel Nagar, Jhalawar 326001', 
+            description: 'Well-equipped hospital with emergency, surgical, and maternity care facilities.' 
+        },
+        { 
+            name: 'Life Line Hospital', 
+            rating: 4.6, 
+            address: 'Opp. Collectorate, Jhalawar 326001', 
+            description: 'Private hospital providing general and diagnostic healthcare services.' 
+        },
+        { 
+            name: 'City Health Clinic', 
+            rating: 4.5, 
+            address: 'Bazar Road, Jhalawar 326001', 
+            description: 'Clinic known for primary healthcare and laboratory services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Jhalawar Fort (Garh Palace)', 
+            rating: 4.8, 
+            address: 'City Center, Jhalawar 326001', 
+            description: 'Historic fort-palace complex showcasing Rajput and Mughal architecture with murals.' 
+        },
+        { 
+            name: 'Bhawani Natyashala', 
+            rating: 4.7, 
+            address: 'Near Garh Palace, Jhalawar 326001', 
+            description: 'Unique 20th-century theatre built by Maharaja Bhawani Singh for cultural performances.' 
+        },
+        { 
+            name: 'Gagron Fort', 
+            rating: 4.9, 
+            address: 'Gagron, near Jhalawar 326001', 
+            description: 'UNESCO World Heritage fort surrounded by water on three sides — a rare hill-water fort.' 
+        },
+        { 
+            name: 'Chandrabhaga Temple', 
+            rating: 4.7, 
+            address: 'On the banks of Chandrabhaga River, Jhalawar 326001', 
+            description: 'Ancient temple complex known for its detailed carvings and peaceful river view.' 
+        }
+    ]
+}
+,'jhunjhunun': {
+    schools: [
+        { 
+            name: 'Birla School Pilani', 
+            rating: 4.9, 
+            address: 'Pilani, Jhunjhunun, Rajasthan 333031', 
+            description: 'Premier CBSE residential school established by the Birla Group, known for top academics and sports.' 
+        },
+        { 
+            name: 'Seth Gyaniram Bansidhar Podar School', 
+            rating: 4.8, 
+            address: 'Nawalgarh, Jhunjhunun 333042', 
+            description: 'Historic English-medium school providing quality education and moral development.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Jhunjhunun', 
+            rating: 4.7, 
+            address: 'BSF Campus, Jhunjhunun 333001', 
+            description: 'Central government school offering holistic education and co-curricular excellence.' 
+        },
+        { 
+            name: 'Sainik School Jhunjhunun', 
+            rating: 4.7, 
+            address: 'Chirawa Road, Jhunjhunun 333001', 
+            description: 'Defence-preparatory school nurturing leadership and discipline among students.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Food Hub', 
+            rating: 4.8, 
+            address: 'Station Road, Jhunjhunun 333001', 
+            description: 'Modern restaurant serving Indian and continental cuisines in a cozy setting.' 
+        },
+        { 
+            name: 'Royal Haveli Restaurant', 
+            rating: 4.7, 
+            address: 'Mandawa Road, Jhunjhunun 333001', 
+            description: 'Heritage-themed restaurant serving authentic Rajasthani food and thalis.' 
+        },
+        { 
+            name: 'Chatori Junction', 
+            rating: 4.6, 
+            address: 'Main Market, Jhunjhunun 333001', 
+            description: 'Popular local spot for fast food, shakes, and snacks.' 
+        },
+        { 
+            name: 'Haveli Café Mandawa', 
+            rating: 4.6, 
+            address: 'Mandawa, Jhunjhunun 333704', 
+            description: 'Café within a restored haveli offering traditional dishes and rooftop seating.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government District Hospital Jhunjhunun', 
+            rating: 4.7, 
+            address: 'Near Collectorate, Jhunjhunun 333001', 
+            description: 'Primary government healthcare center providing general and emergency services.' 
+        },
+        { 
+            name: 'B D K Government Hospital', 
+            rating: 4.7, 
+            address: 'Pilani Road, Jhunjhunun 333001', 
+            description: 'Multi-specialty government hospital serving urban and rural populations.' 
+        },
+        { 
+            name: 'Shri Ram Hospital', 
+            rating: 4.6, 
+            address: 'Loharu Road, Jhunjhunun 333001', 
+            description: 'Private healthcare facility known for quality medical care and diagnostics.' 
+        },
+        { 
+            name: 'Mannat Hospital', 
+            rating: 4.5, 
+            address: 'Station Road, Jhunjhunun 333001', 
+            description: 'Well-rated private hospital offering maternity and general care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mandawa Fort', 
+            rating: 4.9, 
+            address: 'Mandawa, Jhunjhunun 333704', 
+            description: 'Magnificent fort turned heritage hotel, famous for frescoes and royal architecture.' 
+        },
+        { 
+            name: 'Rani Sati Temple', 
+            rating: 4.8, 
+            address: 'Jhunjhunun City, Rajasthan 333001', 
+            description: 'One of India’s oldest and richest temples dedicated to Rani Sati Dadi, attracting thousands of devotees.' 
+        },
+        { 
+            name: 'Narhar Dham', 
+            rating: 4.7, 
+            address: 'Narhar, Jhunjhunun 333001', 
+            description: 'Sacred temple located on a hill, visited by both Hindus and Muslims for its spiritual significance.' 
+        },
+        { 
+            name: 'Nawalgarh Havelis', 
+            rating: 4.7, 
+            address: 'Nawalgarh, Jhunjhunun 333042', 
+            description: 'Cluster of beautifully painted havelis showcasing Shekhawati’s art and culture.' 
+        }
+    ]
+}
+,'jodhpur': {
+    schools: [
+        { 
+            name: 'Delhi Public School Jodhpur', 
+            rating: 4.9, 
+            address: 'Pal Bye Pass Road, Jodhpur 342014', 
+            description: 'Top CBSE school focusing on academic excellence, innovation, and all-round development.' 
+        },
+        { 
+            name: 'St. Anne’s School', 
+            rating: 4.8, 
+            address: 'Shastri Nagar, Jodhpur 342003', 
+            description: 'Renowned English-medium school offering balanced academics and co-curricular exposure.' 
+        },
+        { 
+            name: 'Rajmata Krishna Kumari Girls’ Public School', 
+            rating: 4.8, 
+            address: 'Hanwant Vihar, Raika Bagh, Jodhpur 342006', 
+            description: 'Prestigious girls’ school affiliated to CBSE, emphasizing academics and leadership skills.' 
+        },
+        { 
+            name: 'Central Academy Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Sardarpura, Jodhpur 342003', 
+            description: 'Well-established school providing holistic education and modern teaching methods.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Gypsy Restaurant', 
+            rating: 4.9, 
+            address: 'Panch Batti Circle, Jodhpur 342001', 
+            description: 'Famous vegetarian restaurant serving authentic Rajasthani thalis and North Indian cuisine.' 
+        },
+        { 
+            name: 'Indique Restaurant', 
+            rating: 4.8, 
+            address: 'Pal Haveli, Gulab Sagar, Jodhpur 342001', 
+            description: 'Scenic rooftop restaurant with a view of Mehrangarh Fort and an elegant ambiance.' 
+        },
+        { 
+            name: 'The Curry House', 
+            rating: 4.7, 
+            address: 'Ratanada, Jodhpur 342011', 
+            description: 'Popular restaurant serving multicuisine dishes with excellent hospitality.' 
+        },
+        { 
+            name: 'Shandar Sweet Home', 
+            rating: 4.6, 
+            address: 'Nai Sarak, Jodhpur 342001', 
+            description: 'Historic eatery known for Makhaniya Lassi, Pyaz Kachori, and local sweets.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'AIIMS Jodhpur', 
+            rating: 4.9, 
+            address: 'Basni Phase-2, Jodhpur 342005', 
+            description: 'Premier medical institution offering advanced healthcare, research, and training.' 
+        },
+        { 
+            name: 'Mathuradas Mathur Hospital', 
+            rating: 4.7, 
+            address: 'Shastri Nagar, Jodhpur 342003', 
+            description: 'Major government hospital offering general and specialty healthcare services.' 
+        },
+        { 
+            name: 'Medipulse Hospital', 
+            rating: 4.8, 
+            address: 'Residency Road, Jodhpur 342011', 
+            description: 'Multi-specialty private hospital equipped with modern medical facilities.' 
+        },
+        { 
+            name: 'Goyal Hospital & Research Centre', 
+            rating: 4.6, 
+            address: 'Chopasani Road, Jodhpur 342008', 
+            description: 'Trusted healthcare facility providing high-quality medical and surgical care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mehrangarh Fort', 
+            rating: 5.0, 
+            address: 'Fort Road, Jodhpur 342006', 
+            description: 'One of India’s largest forts, offering panoramic city views and rich royal history.' 
+        },
+        { 
+            name: 'Umaid Bhawan Palace', 
+            rating: 4.9, 
+            address: 'Circuit House Road, Jodhpur 342006', 
+            description: 'Iconic palace and heritage hotel showcasing Indo-Deco architecture and royal heritage.' 
+        },
+        { 
+            name: 'Jaswant Thada', 
+            rating: 4.8, 
+            address: 'Near Mehrangarh Fort, Jodhpur 342006', 
+            description: 'Marble cenotaph built in memory of Maharaja Jaswant Singh II, surrounded by gardens and lakes.' 
+        },
+        { 
+            name: 'Clock Tower & Sardar Market', 
+            rating: 4.7, 
+            address: 'Old City, Jodhpur 342001', 
+            description: 'Bustling local market famous for handicrafts, spices, and traditional Rajasthani items.' 
+        }
+    ]
+},
+'kota': {
+    schools: [
+        { 
+            name: 'Allen Career Institute (Senior Secondary Section)', 
+            rating: 4.9, 
+            address: 'Indraprastha Industrial Area, Kota 324005', 
+            description: 'Renowned institute offering world-class coaching and schooling for IIT-JEE and NEET aspirants.' 
+        },
+        { 
+            name: 'DAV Public School Kota', 
+            rating: 4.8, 
+            address: 'Talwandi, Kota 324005', 
+            description: 'Reputed CBSE-affiliated school focusing on academics, sports, and moral education.' 
+        },
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Gumanpura, Kota 324007', 
+            description: 'Historic English-medium school known for strong academic performance and discipline.' 
+        },
+        { 
+            name: 'Modern School Kota', 
+            rating: 4.6, 
+            address: 'Kunhadi, Kota 324008', 
+            description: 'Progressive school promoting innovation, leadership, and creative learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Maheshwari Restaurant', 
+            rating: 4.8, 
+            address: 'Gumanpura, Kota 324007', 
+            description: 'Popular vegetarian restaurant serving authentic Rajasthani and North Indian cuisine.' 
+        },
+        { 
+            name: 'Jharokha Restaurant', 
+            rating: 4.7, 
+            address: 'Hotel Surya Royal, Kota 324007', 
+            description: 'Fine-dining restaurant offering multi-cuisine meals in a royal ambiance.' 
+        },
+        { 
+            name: 'Sharma Dhaba', 
+            rating: 4.6, 
+            address: 'National Highway 52, Kota 324005', 
+            description: 'Famous roadside dhaba serving traditional Rajasthani thalis and tandoori dishes.' 
+        },
+        { 
+            name: 'Café Coffee Day – Kota Central', 
+            rating: 4.5, 
+            address: 'Talwandi Circle, Kota 324005', 
+            description: 'Modern café perfect for students and professionals offering coffee, snacks, and Wi-Fi.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'MBS Hospital', 
+            rating: 4.8, 
+            address: 'Vigyan Nagar, Kota 324005', 
+            description: 'Major government hospital providing extensive healthcare and emergency services.' 
+        },
+        { 
+            name: 'Sudha Hospital & Medical Research Centre', 
+            rating: 4.7, 
+            address: 'Talwandi, Kota 324005', 
+            description: 'Well-equipped private hospital offering multi-specialty treatments and surgeries.' 
+        },
+        { 
+            name: 'Kota Heart Institute', 
+            rating: 4.6, 
+            address: 'Jhalawar Road, Kota 324007', 
+            description: 'Specialized hospital known for advanced cardiac care and diagnostics.' 
+        },
+        { 
+            name: 'City Hospital Kota', 
+            rating: 4.5, 
+            address: 'Kunhadi, Kota 324008', 
+            description: 'Modern healthcare facility providing general, maternity, and emergency services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Kishore Sagar Lake', 
+            rating: 4.9, 
+            address: 'Gumanpura, Kota 324007', 
+            description: 'Picturesque lake offering boating and views of Jagmandir Palace at its center.' 
+        },
+        { 
+            name: 'Seven Wonders Park', 
+            rating: 4.8, 
+            address: 'Ballabhbari, Kota 324007', 
+            description: 'Recreation park featuring miniature replicas of the world’s seven wonders.' 
+        },
+        { 
+            name: 'Garh Palace', 
+            rating: 4.7, 
+            address: 'Chambal River Front, Kota 324006', 
+            description: 'Historic palace complex with frescoes, royal halls, and scenic river views.' 
+        },
+        { 
+            name: 'Chambal Garden', 
+            rating: 4.7, 
+            address: 'Chambal River Bank, Kota 324007', 
+            description: 'Popular picnic spot offering lush gardens, boating, and crocodile sightings.' 
+        }
+    ]
+}
+,'kishangarh': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Kishangarh', 
+            rating: 4.8, 
+            address: 'Makrana Road, Kishangarh, Rajasthan 305801', 
+            description: 'Central government school offering CBSE curriculum with focus on discipline and academics.' 
+        },
+        { 
+            name: 'Birla International School', 
+            rating: 4.8, 
+            address: 'Ajmer Road, Kishangarh 305801', 
+            description: 'Prestigious residential school known for its holistic education and international standards.' 
+        },
+        { 
+            name: 'St. Paul’s School', 
+            rating: 4.7, 
+            address: 'Near Madanganj, Kishangarh 305801', 
+            description: 'Well-reputed English-medium school emphasizing academics and extracurricular balance.' 
+        },
+        { 
+            name: 'Central Academy Kishangarh', 
+            rating: 4.6, 
+            address: 'Rupangarh Road, Kishangarh 305801', 
+            description: 'Popular CBSE-affiliated school providing modern education and skill development programs.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Highway Tadka Restaurant', 
+            rating: 4.8, 
+            address: 'NH-8, Kishangarh 305801', 
+            description: 'Family restaurant serving traditional Rajasthani thalis and Punjabi dishes.' 
+        },
+        { 
+            name: 'Chokhi Dhani Kishangarh', 
+            rating: 4.7, 
+            address: 'Ajmer Road, Kishangarh 305801', 
+            description: 'Village-themed restaurant offering authentic local cuisine and cultural entertainment.' 
+        },
+        { 
+            name: 'The Royal Taste', 
+            rating: 4.6, 
+            address: 'Madanganj, Kishangarh 305801', 
+            description: 'Popular dining spot known for North Indian and Chinese cuisine.' 
+        },
+        { 
+            name: 'Marble Café', 
+            rating: 4.5, 
+            address: 'Marble Market, Kishangarh 305801', 
+            description: 'Trendy café serving coffee, snacks, and desserts amid modern décor.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government Hospital Kishangarh', 
+            rating: 4.7, 
+            address: 'Station Road, Kishangarh 305801', 
+            description: 'Main government healthcare center offering emergency and outpatient services.' 
+        },
+        { 
+            name: 'Maheshwari Hospital', 
+            rating: 4.6, 
+            address: 'Rupangarh Road, Kishangarh 305801', 
+            description: 'Private hospital providing multi-specialty treatments and diagnostics.' 
+        },
+        { 
+            name: 'Shree Ram Hospital', 
+            rating: 4.5, 
+            address: 'Makrana Road, Kishangarh 305801', 
+            description: 'Well-equipped medical facility offering general and maternity care.' 
+        },
+        { 
+            name: 'City Care Clinic', 
+            rating: 4.4, 
+            address: 'Madanganj, Kishangarh 305801', 
+            description: 'Clinic providing general healthcare and basic diagnostic services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Kishangarh Fort', 
+            rating: 4.8, 
+            address: 'Near Gundolav Lake, Kishangarh 305801', 
+            description: '17th-century fort known for its architecture and the famous painting “Bani Thani”.' 
+        },
+        { 
+            name: 'Gundolav Lake', 
+            rating: 4.7, 
+            address: 'Central Kishangarh, Rajasthan 305801', 
+            description: 'Serene lake ideal for boating, bird watching, and evening walks.' 
+        },
+        { 
+            name: 'Phool Mahal Palace', 
+            rating: 4.8, 
+            address: 'Lake Road, Kishangarh 305801', 
+            description: 'Historic palace turned heritage hotel offering royal architecture and lakeside views.' 
+        },
+        { 
+            name: 'Marble Market Kishangarh', 
+            rating: 4.6, 
+            address: 'Makrana Road, Kishangarh 305801', 
+            description: 'World-renowned marble trading hub, showcasing the best of Rajasthan’s stone artistry.' 
+        }
+    ]
+}
+,'nagaur': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Nagaur', 
+            rating: 4.8, 
+            address: 'Nagaur Cantt, Nagaur, Rajasthan 341001', 
+            description: 'CBSE-affiliated central school known for quality academics and discipline.' 
+        },
+        { 
+            name: 'Delhi Public School Nagaur', 
+            rating: 4.7, 
+            address: 'Ladnun Road, Nagaur 341001', 
+            description: 'Reputed English-medium school offering modern education and co-curricular development.' 
+        },
+        { 
+            name: 'Central Academy Nagaur', 
+            rating: 4.6, 
+            address: 'Jodhpur Road, Nagaur 341001', 
+            description: 'Popular school providing balanced education with a focus on academics and sports.' 
+        },
+        { 
+            name: 'Tagore Public School', 
+            rating: 4.5, 
+            address: 'Panchsati Circle, Nagaur 341001', 
+            description: 'CBSE school emphasizing value-based learning and all-round growth.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Rajasthan Bhojnalaya', 
+            rating: 4.8, 
+            address: 'Near Bus Stand, Nagaur 341001', 
+            description: 'Traditional Rajasthani restaurant famous for dal bati churma and thalis.' 
+        },
+        { 
+            name: 'The Food City', 
+            rating: 4.7, 
+            address: 'Nagaur Bypass Road, Nagaur 341001', 
+            description: 'Family restaurant serving North Indian and Chinese cuisines.' 
+        },
+        { 
+            name: 'Hotel Raj Palace Restaurant', 
+            rating: 4.6, 
+            address: 'Station Road, Nagaur 341001', 
+            description: 'Hotel restaurant known for authentic regional dishes and a royal ambience.' 
+        },
+        { 
+            name: 'Cafe Chillout', 
+            rating: 4.5, 
+            address: 'Main Market, Nagaur 341001', 
+            description: 'Youth-favorite café serving fast food, beverages, and snacks.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government Hospital Nagaur', 
+            rating: 4.7, 
+            address: 'Civil Lines, Nagaur 341001', 
+            description: 'Main government hospital providing emergency and specialized services.' 
+        },
+        { 
+            name: 'Swasthya Hospital', 
+            rating: 4.6, 
+            address: 'Jodhpur Road, Nagaur 341001', 
+            description: 'Private healthcare facility offering multi-specialty treatments.' 
+        },
+        { 
+            name: 'Jeevan Jyoti Hospital', 
+            rating: 4.5, 
+            address: 'Ladnun Road, Nagaur 341001', 
+            description: 'Well-equipped medical center for maternity, surgery, and diagnostics.' 
+        },
+        { 
+            name: 'Shree Balaji Hospital', 
+            rating: 4.4, 
+            address: 'Near Old Bus Stand, Nagaur 341001', 
+            description: 'General hospital offering outpatient and emergency medical care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Nagaur Fort', 
+            rating: 4.9, 
+            address: 'Fort Road, Nagaur 341001', 
+            description: 'Massive historic fort built in the 12th century with beautiful architecture and temples.' 
+        },
+        { 
+            name: 'Tarkeen Dargah', 
+            rating: 4.8, 
+            address: 'Inside Fort Area, Nagaur 341001', 
+            description: 'Sacred Sufi shrine and an important pilgrimage site for devotees.' 
+        },
+        { 
+            name: 'Jain Glass Temple', 
+            rating: 4.7, 
+            address: 'Station Road, Nagaur 341001', 
+            description: 'Magnificent Jain temple featuring intricate glass and mirror work.' 
+        },
+        { 
+            name: 'Khinvsar Fort', 
+            rating: 4.8, 
+            address: 'Khinvsar Village, near Nagaur 341025', 
+            description: 'Beautiful fort and heritage hotel surrounded by dunes and a scenic lake.' 
+        }
+    ]
+}
+,'pali': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Pali', 
+            rating: 4.8, 
+            address: 'NH-62, Pali, Rajasthan 306401', 
+            description: 'Reputed CBSE school providing excellent academic and extracurricular programs.' 
+        },
+        { 
+            name: 'Central Academy Pali', 
+            rating: 4.7, 
+            address: 'Jawai Bandh Road, Pali 306401', 
+            description: 'Top English-medium school emphasizing holistic education and discipline.' 
+        },
+        { 
+            name: 'St. Paul’s School', 
+            rating: 4.6, 
+            address: 'Sojat Road, Pali 306401', 
+            description: 'Well-known private institution offering CBSE curriculum with modern facilities.' 
+        },
+        { 
+            name: 'Adarsh Vidya Mandir', 
+            rating: 4.5, 
+            address: 'Sadar Bazar, Pali 306401', 
+            description: 'Popular school with focus on academics and cultural development.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Mahadev Restaurant', 
+            rating: 4.8, 
+            address: 'Near Bus Stand, Pali 306401', 
+            description: 'Authentic Rajasthani restaurant famous for dal bati churma and traditional thalis.' 
+        },
+        { 
+            name: 'The Spice Garden', 
+            rating: 4.7, 
+            address: 'Jawai Bandh Road, Pali 306401', 
+            description: 'Multicuisine family restaurant serving Indian and Chinese dishes in a cozy setting.' 
+        },
+        { 
+            name: 'Hotel Lakhani Restaurant', 
+            rating: 4.6, 
+            address: 'Station Road, Pali 306401', 
+            description: 'Restaurant offering quality North Indian meals and vegetarian options.' 
+        },
+        { 
+            name: 'Cafe Aroma', 
+            rating: 4.5, 
+            address: 'Main Market, Pali 306401', 
+            description: 'Trendy café serving snacks, coffee, and fast food items.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Bangur Hospital', 
+            rating: 4.8, 
+            address: 'Civil Lines, Pali 306401', 
+            description: 'Major government hospital providing emergency, surgical, and maternity services.' 
+        },
+        { 
+            name: 'Shree Mahavir Hospital', 
+            rating: 4.6, 
+            address: 'NH-62, Pali 306401', 
+            description: 'Private multi-specialty hospital known for patient care and modern equipment.' 
+        },
+        { 
+            name: 'Navjeevan Hospital', 
+            rating: 4.5, 
+            address: 'Jawai Bandh Road, Pali 306401', 
+            description: 'Reliable healthcare facility offering general and specialized treatment.' 
+        },
+        { 
+            name: 'Sanjeevani Hospital', 
+            rating: 4.4, 
+            address: 'Sadar Area, Pali 306401', 
+            description: 'Community hospital offering affordable medical services and diagnostics.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Om Banna Temple (Bullet Baba)', 
+            rating: 4.9, 
+            address: 'NH-65, near Chotila, Pali 306401', 
+            description: 'Unique temple dedicated to a motorbike, known for mysterious folklore and local devotion.' 
+        },
+        { 
+            name: 'Jawai Dam', 
+            rating: 4.8, 
+            address: 'Jawai Bandh, Pali 306401', 
+            description: 'Beautiful dam area popular for leopard sightings and scenic views.' 
+        },
+        { 
+            name: 'Parshuram Mahadev Temple', 
+            rating: 4.7, 
+            address: 'Desuri, near Pali 306401', 
+            description: 'Ancient cave temple dedicated to Lord Parshuram, surrounded by hills and streams.' 
+        },
+        { 
+            name: 'Bangur Museum', 
+            rating: 4.6, 
+            address: 'Station Road, Pali 306401', 
+            description: 'Historical museum showcasing Rajasthani culture, art, and heritage artifacts.' 
+        }
+    ]
+}
+,
+'sawaiMadhopur': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Sawai Madhopur', 
+            rating: 4.8, 
+            address: 'GRRF Campus, Ranthambhore Road, Sawai Madhopur 322001', 
+            description: 'Top CBSE school providing academic excellence with focus on environmental awareness.' 
+        },
+        { 
+            name: 'Delhi Public School Sawai Madhopur', 
+            rating: 4.7, 
+            address: 'Ranthambhore Road, Sawai Madhopur 322001', 
+            description: 'Modern English-medium school offering holistic education and co-curricular exposure.' 
+        },
+        { 
+            name: 'Central Academy Sawai Madhopur', 
+            rating: 4.6, 
+            address: 'Raj Bagh Road, Sawai Madhopur 322001', 
+            description: 'Reputed institution emphasizing academics, discipline, and extracurriculars.' 
+        },
+        { 
+            name: 'St. Paul’s Senior Secondary School', 
+            rating: 4.5, 
+            address: 'Indra Colony, Sawai Madhopur 322001', 
+            description: 'CBSE school offering quality education with modern facilities and moral values.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Manisha Restaurant', 
+            rating: 4.8, 
+            address: 'Near Railway Station, Sawai Madhopur 322001', 
+            description: 'Famous for Rajasthani thalis and pure vegetarian meals.' 
+        },
+        { 
+            name: 'The Oberoi Vanyavilas Restaurant', 
+            rating: 4.9, 
+            address: 'Ranthambhore Road, Sawai Madhopur 322001', 
+            description: 'Luxury dining experience offering gourmet Indian and continental dishes.' 
+        },
+        { 
+            name: 'Vivanta by Taj Restaurant', 
+            rating: 4.8, 
+            address: 'Ranthambhore National Park Road, Sawai Madhopur 322001', 
+            description: 'Elegant restaurant serving multicuisine delicacies in a forest-inspired ambience.' 
+        },
+        { 
+            name: 'The Food Garage Café', 
+            rating: 4.6, 
+            address: 'Main Market, Sawai Madhopur 322001', 
+            description: 'Trendy café serving fast food, snacks, and beverages.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Sawai Madhopur', 
+            rating: 4.7, 
+            address: 'Hospital Road, Sawai Madhopur 322001', 
+            description: 'Major government hospital offering general, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Jeevan Jyoti Hospital', 
+            rating: 4.6, 
+            address: 'Ranthambhore Road, Sawai Madhopur 322001', 
+            description: 'Private multi-specialty hospital with experienced doctors and diagnostics.' 
+        },
+        { 
+            name: 'Shree Ram Hospital', 
+            rating: 4.5, 
+            address: 'Indira Colony, Sawai Madhopur 322001', 
+            description: 'Healthcare center providing general and specialized treatments.' 
+        },
+        { 
+            name: 'Ranthambhore Eye & Dental Care', 
+            rating: 4.5, 
+            address: 'Ranthambhore Road, Sawai Madhopur 322001', 
+            description: 'Specialized clinic for eye and dental care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Ranthambhore National Park', 
+            rating: 5.0, 
+            address: 'Ranthambhore, Sawai Madhopur 322001', 
+            description: 'World-famous tiger reserve offering thrilling wildlife safaris and scenic landscapes.' 
+        },
+        { 
+            name: 'Ranthambhore Fort', 
+            rating: 4.9, 
+            address: 'Inside Ranthambhore National Park, Sawai Madhopur 322001', 
+            description: 'Historic fort atop a hill offering panoramic views and ancient temples.' 
+        },
+        { 
+            name: 'Ganesh Temple Ranthambhore', 
+            rating: 4.8, 
+            address: 'Ranthambhore Fort Area, Sawai Madhopur 322001', 
+            description: 'Ancient temple dedicated to Lord Ganesh attracting thousands of devotees.' 
+        },
+        { 
+            name: 'Jogi Mahal', 
+            rating: 4.7, 
+            address: 'Near Padam Talao, Ranthambhore National Park 322001', 
+            description: 'Historic hunting lodge with a tranquil lakeside view and ancient banyan tree.' 
+        }
+    ]
+}
+,
+'sikar': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Sikar', 
+            rating: 4.8, 
+            address: 'Industrial Area, Sikar 332001', 
+            description: 'Prestigious CBSE school known for excellent academics and extracurricular balance.' 
+        },
+        { 
+            name: 'Matrix High School', 
+            rating: 4.9, 
+            address: 'Palwas Road, Sikar 332001', 
+            description: 'Renowned for IIT-JEE and NEET preparation with high-quality teaching standards.' 
+        },
+        { 
+            name: 'Prince School', 
+            rating: 4.8, 
+            address: 'Piprali Road, Sikar 332001', 
+            description: 'Top residential school offering modern facilities and outstanding results.' 
+        },
+        { 
+            name: 'Swami Keshwanand School', 
+            rating: 4.6, 
+            address: 'Salasar Road, Sikar 332001', 
+            description: 'CBSE school providing holistic education with focus on moral and academic excellence.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Marwar Restaurant', 
+            rating: 4.8, 
+            address: 'Station Road, Sikar 332001', 
+            description: 'Authentic Rajasthani restaurant serving dal bati churma and local delicacies.' 
+        },
+        { 
+            name: 'The Urban Tadka', 
+            rating: 4.7, 
+            address: 'Piprali Road, Sikar 332001', 
+            description: 'Modern family restaurant with a wide range of North Indian and Chinese dishes.' 
+        },
+        { 
+            name: 'Royal Treat Restaurant', 
+            rating: 4.6, 
+            address: 'Fatehpur Road, Sikar 332001', 
+            description: 'Elegant dining spot offering vegetarian thalis and Rajasthani flavors.' 
+        },
+        { 
+            name: 'Café Brew House', 
+            rating: 4.5, 
+            address: 'Near Polytechnic College, Sikar 332001', 
+            description: 'Trendy café serving coffee, fast food, and light meals with a cozy ambiance.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'S.K. Hospital & Research Centre', 
+            rating: 4.7, 
+            address: 'Jaipur Road, Sikar 332001', 
+            description: 'Modern multi-specialty hospital providing emergency, surgical, and maternity care.' 
+        },
+        { 
+            name: 'Government District Hospital Sikar', 
+            rating: 4.6, 
+            address: 'Civil Lines, Sikar 332001', 
+            description: 'Main government hospital catering to urban and rural healthcare needs.' 
+        },
+        { 
+            name: 'Shree Balaji Hospital', 
+            rating: 4.5, 
+            address: 'Piprali Road, Sikar 332001', 
+            description: 'Private healthcare facility offering general medicine, surgery, and diagnostics.' 
+        },
+        { 
+            name: 'Aastha Hospital', 
+            rating: 4.5, 
+            address: 'Fatehpur Road, Sikar 332001', 
+            description: 'Well-equipped medical center providing 24x7 patient support and critical care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Khatu Shyam Ji Temple', 
+            rating: 5.0, 
+            address: 'Khatu, near Sikar 332602', 
+            description: 'Highly revered temple dedicated to Lord Shyam, attracting devotees from all over India.' 
+        },
+        { 
+            name: 'Harshnath Temple', 
+            rating: 4.8, 
+            address: 'Aravali Hills, Sikar 332001', 
+            description: 'Ancient temple dedicated to Lord Shiva, known for scenic beauty and architecture.' 
+        },
+        { 
+            name: 'Jeen Mata Temple', 
+            rating: 4.7, 
+            address: 'Rewasa, near Sikar 332406', 
+            description: 'Popular pilgrimage site surrounded by hills and natural landscapes.' 
+        },
+        { 
+            name: 'Laxmangarh Fort', 
+            rating: 4.6, 
+            address: 'Laxmangarh, Sikar 332311', 
+            description: 'Historic fort with panoramic town views and stunning architecture.' 
+        }
+    ]
+}
+,'sujangarh': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Sujangarh', 
+            rating: 4.8, 
+            address: 'NH-65, Sujangarh, Rajasthan 331507', 
+            description: 'Central government school known for academic excellence and co-curricular focus.' 
+        },
+        { 
+            name: 'Tagore Public School Sujangarh', 
+            rating: 4.7, 
+            address: 'Station Road, Sujangarh 331507', 
+            description: 'English-medium CBSE school offering quality education with modern facilities.' 
+        },
+        { 
+            name: 'St. Anselm’s School', 
+            rating: 4.6, 
+            address: 'Gandhi Chowk, Sujangarh 331507', 
+            description: 'Renowned for academic discipline, cultural events, and holistic development.' 
+        },
+        { 
+            name: 'Adarsh Vidya Mandir', 
+            rating: 4.5, 
+            address: 'Main Market, Sujangarh 331507', 
+            description: 'Reputed school providing balanced education in academics and values.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Shree Ganesh Bhojnalaya', 
+            rating: 4.8, 
+            address: 'Near Bus Stand, Sujangarh 331507', 
+            description: 'Famous for authentic Rajasthani thalis and homely vegetarian food.' 
+        },
+        { 
+            name: 'The Urban Zaika', 
+            rating: 4.7, 
+            address: 'Station Road, Sujangarh 331507', 
+            description: 'Family restaurant serving multicuisine dishes in a modern setup.' 
+        },
+        { 
+            name: 'Rajwada Restaurant', 
+            rating: 4.6, 
+            address: 'Gandhi Chowk, Sujangarh 331507', 
+            description: 'Elegant restaurant offering traditional Marwari and North Indian meals.' 
+        },
+        { 
+            name: 'Café Delight', 
+            rating: 4.5, 
+            address: 'NH-65, Sujangarh 331507', 
+            description: 'Trendy café serving snacks, fast food, and refreshing beverages.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Government Hospital Sujangarh', 
+            rating: 4.7, 
+            address: 'Hospital Road, Sujangarh 331507', 
+            description: 'Main government healthcare facility offering emergency and general services.' 
+        },
+        { 
+            name: 'Agarwal Hospital & Research Centre', 
+            rating: 4.6, 
+            address: 'Station Road, Sujangarh 331507', 
+            description: 'Private multi-specialty hospital with advanced medical equipment.' 
+        },
+        { 
+            name: 'Shree Ram Hospital', 
+            rating: 4.5, 
+            address: 'Main Market, Sujangarh 331507', 
+            description: 'Trusted healthcare center for general and maternity treatments.' 
+        },
+        { 
+            name: 'Balaji Clinic', 
+            rating: 4.4, 
+            address: 'Gandhi Nagar, Sujangarh 331507', 
+            description: 'Private clinic providing outpatient and diagnostic services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Salasar Balaji Temple', 
+            rating: 5.0, 
+            address: 'Salasar, near Sujangarh 331505', 
+            description: 'World-famous temple dedicated to Lord Hanuman, attracting devotees from across India.' 
+        },
+        { 
+            name: 'Gogaji Temple (Goga Medhi)', 
+            rating: 4.8, 
+            address: 'Near Sujangarh 331507', 
+            description: 'Historic temple dedicated to folk deity Gogaji, revered by local devotees.' 
+        },
+        { 
+            name: 'Shri Shantinath Jain Temple', 
+            rating: 4.7, 
+            address: 'Main Bazaar, Sujangarh 331507', 
+            description: 'Beautiful Jain temple known for marble carvings and spiritual serenity.' 
+        },
+        { 
+            name: 'Sujangarh Fort', 
+            rating: 4.6, 
+            address: 'Old Town, Sujangarh 331507', 
+            description: 'Historic fort showcasing Rajasthani architecture and town heritage.' 
+        }
+    ]
+}
+,
+
+
+
+
+
+
+'amritsar': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Amritsar', 
+            rating: 4.8, 
+            address: 'Ranjit Avenue, Amritsar, Punjab 143001', 
+            description: 'Central government school known for excellent academics and holistic student development.' 
+        },
+        { 
+            name: 'Spring Dale Senior School', 
+            rating: 4.7, 
+            address: 'Majitha Road, Amritsar 143001', 
+            description: 'Renowned CBSE school emphasizing innovation, leadership, and creativity in education.' 
+        },
+        { 
+            name: 'DAV Public School', 
+            rating: 4.6, 
+            address: 'Lawrence Road, Amritsar 143001', 
+            description: 'Popular institution focusing on quality education and extracurricular excellence.' 
+        },
+        { 
+            name: 'Holy Heart Presidency School', 
+            rating: 4.5, 
+            address: 'Ranjit Avenue, Amritsar 143001', 
+            description: 'Modern school offering CBSE curriculum with advanced learning facilities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Kesar Da Dhaba', 
+            rating: 4.9, 
+            address: 'Chowk Passian, Amritsar 143006', 
+            description: 'Iconic eatery famous for authentic Punjabi dishes like dal makhani and parathas.' 
+        },
+        { 
+            name: 'Brother’s Dhaba', 
+            rating: 4.8, 
+            address: 'Golden Temple Road, Amritsar 143006', 
+            description: 'Popular restaurant serving traditional vegetarian Punjabi food near the Golden Temple.' 
+        },
+        { 
+            name: 'Bharawan Da Dhaba', 
+            rating: 4.7, 
+            address: 'Town Hall, Amritsar 143001', 
+            description: 'Historic family-run restaurant known for pure vegetarian North Indian cuisine.' 
+        },
+        { 
+            name: 'Charming Chicken', 
+            rating: 4.6, 
+            address: 'Lawrence Road, Amritsar 143001', 
+            description: 'Famous non-veg restaurant serving Amritsari fish, tandoori chicken, and kebabs.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Guru Nanak Dev Hospital', 
+            rating: 4.8, 
+            address: 'Amritsar Medical College Campus, Amritsar 143001', 
+            description: 'Major government hospital offering multi-specialty and emergency services.' 
+        },
+        { 
+            name: 'Fortis Escort Hospital', 
+            rating: 4.7, 
+            address: 'Majitha-Verka Bypass, Amritsar 143004', 
+            description: 'Leading private multi-specialty hospital providing advanced healthcare facilities.' 
+        },
+        { 
+            name: 'SGL Super Specialty Hospital', 
+            rating: 4.6, 
+            address: 'Jalandhar Road, Amritsar 143001', 
+            description: 'Modern healthcare institution with expert doctors and state-of-the-art infrastructure.' 
+        },
+        { 
+            name: 'Civil Hospital Amritsar', 
+            rating: 4.5, 
+            address: 'Majitha Road, Amritsar 143001', 
+            description: 'Government hospital providing affordable and quality medical services to the public.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Golden Temple (Harmandir Sahib)', 
+            rating: 5.0, 
+            address: 'Golden Temple Road, Amritsar 143006', 
+            description: 'World-famous Sikh shrine known for its stunning architecture and spiritual ambiance.' 
+        },
+        { 
+            name: 'Jallianwala Bagh', 
+            rating: 4.9, 
+            address: 'Golden Temple Road, Amritsar 143006', 
+            description: 'Historic memorial commemorating the 1919 massacre, symbol of India’s freedom struggle.' 
+        },
+        { 
+            name: 'Wagah Border', 
+            rating: 4.8, 
+            address: 'Attari, Amritsar 143108', 
+            description: 'Popular tourist attraction for the daily Indo-Pak border ceremony.' 
+        },
+        { 
+            name: 'Partition Museum', 
+            rating: 4.7, 
+            address: 'Town Hall, Amritsar 143001', 
+            description: 'Unique museum depicting the stories and history of India’s 1947 Partition.' 
+        }
+    ]
+}
+,'ludhiana': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya No.1 Ludhiana', 
+            rating: 4.8, 
+            address: 'Gill Road, Ludhiana, Punjab 141003', 
+            description: 'Central government school offering excellent academics and co-curricular balance.' 
+        },
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.7, 
+            address: 'Sarabha Nagar, Ludhiana 141001', 
+            description: 'Premier ICSE school known for discipline, cultural activities, and holistic education.' 
+        },
+        { 
+            name: 'DAV Public School Ludhiana', 
+            rating: 4.6, 
+            address: 'BRS Nagar, Ludhiana 141012', 
+            description: 'Highly reputed CBSE school with focus on academics and personality development.' 
+        },
+        { 
+            name: 'Ryan International School', 
+            rating: 4.5, 
+            address: 'Urban Estate Phase II, Dugri, Ludhiana 141013', 
+            description: 'Modern school emphasizing creativity, leadership, and experiential learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Baba Chicken', 
+            rating: 4.9, 
+            address: 'Model Town, Ludhiana 141002', 
+            description: 'Iconic restaurant serving authentic butter chicken and North Indian delicacies.' 
+        },
+        { 
+            name: 'Yellow Chilli by Sanjeev Kapoor', 
+            rating: 4.8, 
+            address: 'Ferozepur Road, Ludhiana 141001', 
+            description: 'Upscale dining restaurant offering a fusion of traditional and modern Indian cuisines.' 
+        },
+        { 
+            name: 'Friends Dhaba', 
+            rating: 4.7, 
+            address: 'Civil Lines, Ludhiana 141001', 
+            description: 'Famous for its homely Punjabi food and traditional flavors.' 
+        },
+        { 
+            name: 'Kitchen at 95 – Hyatt Regency', 
+            rating: 4.6, 
+            address: 'Ferozepur Road, Ludhiana 141001', 
+            description: 'Luxury restaurant offering international buffet and fine dining experience.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Dayanand Medical College & Hospital (DMCH)', 
+            rating: 4.8, 
+            address: 'Tagore Nagar, Ludhiana 141001', 
+            description: 'Leading medical college and hospital providing comprehensive healthcare facilities.' 
+        },
+        { 
+            name: 'Christian Medical College & Hospital (CMC)', 
+            rating: 4.7, 
+            address: 'Brown Road, Ludhiana 141008', 
+            description: 'Renowned institution known for advanced treatment and medical research.' 
+        },
+        { 
+            name: 'Fortis Hospital Ludhiana', 
+            rating: 4.6, 
+            address: 'Chandigarh Road, Ludhiana 141010', 
+            description: 'Modern multi-specialty hospital offering high-end healthcare services.' 
+        },
+        { 
+            name: 'Apollo Clinic Ludhiana', 
+            rating: 4.5, 
+            address: 'Sarabha Nagar, Ludhiana 141001', 
+            description: 'Well-known private clinic providing diagnostic and preventive healthcare.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Punjab Agricultural University Museum', 
+            rating: 4.9, 
+            address: 'PAU Campus, Ludhiana 141004', 
+            description: 'Beautiful museum showcasing Punjab’s agricultural heritage and rural culture.' 
+        },
+        { 
+            name: 'Nehru Rose Garden', 
+            rating: 4.8, 
+            address: 'Civil Lines, Ludhiana 141001', 
+            description: 'Scenic garden featuring hundreds of rose varieties and a musical fountain.' 
+        },
+        { 
+            name: 'Hardy’s World Amusement Park', 
+            rating: 4.7, 
+            address: 'Ludhiana-Jalandhar Highway, Ludhiana 141008', 
+            description: 'Popular amusement and water park ideal for family entertainment.' 
+        },
+        { 
+            name: 'Gurudwara Dukh Niwaran Sahib', 
+            rating: 4.6, 
+            address: 'Field Ganj, Ludhiana 141001', 
+            description: 'Sacred Sikh shrine attracting devotees for its serene environment and community service.' 
+        }
+    ]
+}
+,'jalandhar': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya No.1 Jalandhar Cantt', 
+            rating: 4.8, 
+            address: 'Jalandhar Cantt, Punjab 144005', 
+            description: 'Central government school offering high-quality CBSE education and holistic growth.' 
+        },
+        { 
+            name: 'Innocent Hearts School', 
+            rating: 4.7, 
+            address: 'Green Model Town, Jalandhar 144003', 
+            description: 'Top-ranked CBSE school focusing on academics, discipline, and extracurricular excellence.' 
+        },
+        { 
+            name: 'St. Soldier Divine Public School', 
+            rating: 4.6, 
+            address: 'GT Road, Jalandhar 144011', 
+            description: 'Reputed school offering modern education with emphasis on ethics and innovation.' 
+        },
+        { 
+            name: 'Delhi Public School Jalandhar', 
+            rating: 4.5, 
+            address: 'NH-1, Bye Pass Road, Jalandhar 144009', 
+            description: 'Prestigious institution providing advanced learning with global educational standards.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Lovely Sweets and Restaurant', 
+            rating: 4.9, 
+            address: 'Model Town, Jalandhar 144003', 
+            description: 'Iconic restaurant and sweets shop known for Punjabi cuisine and desserts.' 
+        },
+        { 
+            name: 'Haveli Restaurant', 
+            rating: 4.8, 
+            address: 'Jalandhar-Phagwara Highway, Jalandhar 144001', 
+            description: 'Themed Punjabi restaurant offering authentic village-style food and ambiance.' 
+        },
+        { 
+            name: 'Barbeque Nation', 
+            rating: 4.7, 
+            address: 'Model Town, Jalandhar 144003', 
+            description: 'Popular buffet restaurant serving grilled delicacies and global cuisine.' 
+        },
+        { 
+            name: 'The BrewMaster', 
+            rating: 4.6, 
+            address: 'MBD Neopolis Mall, Jalandhar 144001', 
+            description: 'Trendy restaurant and microbrewery offering multicuisine dishes and craft beers.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Patel Hospital', 
+            rating: 4.8, 
+            address: 'Civil Lines, Jalandhar 144001', 
+            description: 'Leading multi-specialty hospital with advanced medical and surgical facilities.' 
+        },
+        { 
+            name: 'Fortis Hospital Jalandhar', 
+            rating: 4.7, 
+            address: 'Maqsudan, Jalandhar 144008', 
+            description: 'Modern private hospital offering tertiary care and emergency services.' 
+        },
+        { 
+            name: 'Sacred Heart Hospital', 
+            rating: 4.6, 
+            address: 'Maqsudan Road, Jalandhar 144008', 
+            description: 'Trusted healthcare center known for compassionate care and modern facilities.' 
+        },
+        { 
+            name: 'Civil Hospital Jalandhar', 
+            rating: 4.5, 
+            address: 'Pathankot Road, Jalandhar 144001', 
+            description: 'Government hospital providing general and specialized medical services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Devi Talab Mandir', 
+            rating: 4.9, 
+            address: 'Tanda Road, Jalandhar 144004', 
+            description: 'Ancient Hindu temple dedicated to Goddess Durga, a key religious attraction.' 
+        },
+        { 
+            name: 'Wonderland Theme Park', 
+            rating: 4.8, 
+            address: 'Nakodar Road, Jalandhar 144001', 
+            description: 'Famous amusement and water park ideal for family and friends.’' 
+        },
+        { 
+            name: 'Pushpa Gujral Science City', 
+            rating: 4.7, 
+            address: 'Kapurthala Road, Jalandhar 144001', 
+            description: 'Interactive science center promoting education and curiosity through exhibits.' 
+        },
+        { 
+            name: 'Nikku Park', 
+            rating: 4.6, 
+            address: 'Model Town, Jalandhar 144003', 
+            description: 'Beautiful urban park with gardens, rides, and a serene atmosphere.' 
+        }
+    ]
+}
+,'patiala': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya No.1 Patiala', 
+            rating: 4.8, 
+            address: 'Sanaur Road, Patiala, Punjab 147001', 
+            description: 'Central government CBSE school known for academic excellence and co-curricular growth.' 
+        },
+        { 
+            name: 'Delhi Public School Patiala', 
+            rating: 4.7, 
+            address: 'NH-7, Rajpura Road, Patiala 147001', 
+            description: 'Prestigious CBSE school offering modern education and global learning environment.' 
+        },
+        { 
+            name: 'Yadavindra Public School', 
+            rating: 4.6, 
+            address: 'The Mall, Patiala 147001', 
+            description: 'Historic and elite institution known for academics, sports, and leadership programs.' 
+        },
+        { 
+            name: 'Spring Dale Senior School Patiala', 
+            rating: 4.5, 
+            address: 'Urban Estate, Phase-II, Patiala 147002', 
+            description: 'Reputed school providing value-based education with excellent infrastructure.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'New Gopal Sweets', 
+            rating: 4.9, 
+            address: 'Leela Bhawan, Patiala 147001', 
+            description: 'Famous for traditional Punjabi sweets, snacks, and authentic vegetarian dishes.' 
+        },
+        { 
+            name: 'The Brew Estate Patiala', 
+            rating: 4.8, 
+            address: 'Baradari Gardens, Patiala 147001', 
+            description: 'Trendy microbrewery and restaurant offering a wide range of continental cuisines.' 
+        },
+        { 
+            name: 'Punjab Dhaba', 
+            rating: 4.7, 
+            address: 'Sirhind Road, Patiala 147001', 
+            description: 'Classic Punjabi dhaba serving rich and flavorful local delicacies.' 
+        },
+        { 
+            name: 'Pineapple Express Café', 
+            rating: 4.6, 
+            address: 'Urban Estate, Patiala 147002', 
+            description: 'Modern café known for pizzas, sandwiches, and youthful ambiance.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Rajindra Hospital', 
+            rating: 4.8, 
+            address: 'Govt Medical College Campus, Patiala 147001', 
+            description: 'Major government hospital offering multi-specialty and emergency medical services.' 
+        },
+        { 
+            name: 'Columbia Asia Hospital Patiala', 
+            rating: 4.7, 
+            address: 'Rajpura Road, Patiala 147001', 
+            description: 'Modern private hospital providing advanced diagnostics and surgical care.' 
+        },
+        { 
+            name: 'Kumar Hospital & Maternity Home', 
+            rating: 4.6, 
+            address: 'Lower Mall, Patiala 147001', 
+            description: 'Renowned for maternity, child care, and women’s health services.' 
+        },
+        { 
+            name: 'Amar Hospital', 
+            rating: 4.5, 
+            address: 'Sirhind Road, Patiala 147001', 
+            description: 'Private healthcare center offering general and specialized treatments.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Qila Mubarak Complex', 
+            rating: 4.9, 
+            address: 'Old Patiala, Punjab 147001', 
+            description: 'Historic royal fort and palace complex showcasing Patiala’s royal heritage.' 
+        },
+        { 
+            name: 'Baradari Gardens', 
+            rating: 4.8, 
+            address: 'Near Circuit House, Patiala 147001', 
+            description: 'Beautiful garden with fountains and colonial structures, ideal for leisure walks.' 
+        },
+        { 
+            name: 'Sheesh Mahal', 
+            rating: 4.7, 
+            address: 'Old Moti Bagh Palace Complex, Patiala 147001', 
+            description: 'Palace museum displaying artwork, mirrors, and royal memorabilia.' 
+        },
+        { 
+            name: 'Gurdwara Dukh Nivaran Sahib', 
+            rating: 4.6, 
+            address: 'Dukh Nivaran Nagar, Patiala 147001', 
+            description: 'Sacred Sikh shrine known for its spiritual significance and serene surroundings.' 
+        }
+    ]
+},
+'bathinda': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Bathinda Cantt', 
+            rating: 4.8, 
+            address: 'Bathinda Cantt, Punjab 151004', 
+            description: 'Central government school offering excellent education with a focus on discipline and all-round development.' 
+        },
+        { 
+            name: 'Delhi Public School Bathinda', 
+            rating: 4.7, 
+            address: 'Bhucho Kalan Road, Bathinda 151001', 
+            description: 'Top-tier CBSE school providing holistic education with modern teaching methods.' 
+        },
+        { 
+            name: 'St. Xavier’s Senior Secondary School', 
+            rating: 4.6, 
+            address: 'Near Power House Road, Bathinda 151001', 
+            description: 'Well-known institution emphasizing academics, values, and extracurricular activities.' 
+        },
+        { 
+            name: 'Police DAV Public School', 
+            rating: 4.5, 
+            address: 'Police Lines, Bathinda 151001', 
+            description: 'Reputed CBSE school focusing on academics, sports, and leadership qualities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Mani Majra Restaurant', 
+            rating: 4.9, 
+            address: 'Mall Road, Bathinda 151001', 
+            description: 'Famous restaurant serving authentic Punjabi food and traditional thalis.' 
+        },
+        { 
+            name: 'Sagar Ratna', 
+            rating: 4.8, 
+            address: 'Mittal’s City Mall, Bathinda 151001', 
+            description: 'Popular South Indian and vegetarian restaurant offering high-quality meals.' 
+        },
+        { 
+            name: 'Zaika Restaurant', 
+            rating: 4.7, 
+            address: 'Ajit Road, Bathinda 151001', 
+            description: 'Family dining restaurant serving Indian, Chinese, and continental cuisines.' 
+        },
+        { 
+            name: 'Chawla’s 2', 
+            rating: 4.6, 
+            address: 'Model Town, Bathinda 151001', 
+            description: 'Casual dining spot known for butter chicken, kebabs, and Amritsari fish.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Bathinda', 
+            rating: 4.8, 
+            address: 'Goniana Road, Bathinda 151001', 
+            description: 'Main government hospital offering emergency, maternity, and general healthcare.' 
+        },
+        { 
+            name: 'Max Super Specialty Hospital', 
+            rating: 4.7, 
+            address: 'Goniana Road, Bathinda 151001', 
+            description: 'Renowned private hospital providing advanced diagnostics and multi-specialty treatment.' 
+        },
+        { 
+            name: 'Guru Gobind Singh Medical College & Hospital', 
+            rating: 4.6, 
+            address: 'Bathinda 151001', 
+            description: 'Prominent teaching hospital with modern healthcare and academic excellence.' 
+        },
+        { 
+            name: 'Sharma Hospital', 
+            rating: 4.5, 
+            address: 'Mall Road, Bathinda 151001', 
+            description: 'Trusted private healthcare center offering general and specialized medical care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Qila Mubarak Fort', 
+            rating: 4.9, 
+            address: 'Old Bathinda, Punjab 151001', 
+            description: 'Historic fort dating back to 1100 AD, one of the oldest brick forts in India.' 
+        },
+        { 
+            name: 'Rose Garden Bathinda', 
+            rating: 4.8, 
+            address: 'Bathinda 151001', 
+            description: 'Beautiful public garden known for lush greenery, flowers, and leisure walks.' 
+        },
+        { 
+            name: 'Bathinda Lake', 
+            rating: 4.7, 
+            address: 'National Fertilizers Road, Bathinda 151001', 
+            description: 'Popular lakeside destination for boating, sunset views, and family outings.' 
+        },
+        { 
+            name: 'Takht Sri Damdama Sahib', 
+            rating: 4.6, 
+            address: 'Talwandi Sabo, near Bathinda 151302', 
+            description: 'One of the five Takhts of Sikhism, a major spiritual and historical pilgrimage site.' 
+        }
+    ]
+},'mohali': {
+    schools: [
+        { 
+            name: 'Delhi Public School Mohali', 
+            rating: 4.9, 
+            address: 'Phase-VII, Sector 64, Mohali, Punjab 160062', 
+            description: 'Premier CBSE school known for strong academics, extracurriculars, and modern facilities.' 
+        },
+        { 
+            name: 'Learning Paths School', 
+            rating: 4.8, 
+            address: 'Sector 67, Mohali, Punjab 160062', 
+            description: 'Top-rated institution focusing on experiential learning and international-level curriculum.' 
+        },
+        { 
+            name: 'Mount Carmel School', 
+            rating: 4.7, 
+            address: 'Sector 69, Mohali, Punjab 160062', 
+            description: 'Renowned school offering value-based education and excellent co-curricular exposure.' 
+        },
+        { 
+            name: 'Shivalik Public School', 
+            rating: 4.6, 
+            address: 'Phase VI, Mohali, Punjab 160055', 
+            description: 'One of the oldest schools in the region, known for academics and sports excellence.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Barbeque Nation', 
+            rating: 4.9, 
+            address: 'Phase 5, Sector 59, Mohali 160059', 
+            description: 'Popular buffet restaurant serving grilled dishes, desserts, and Indian cuisines.' 
+        },
+        { 
+            name: 'Pal Dhaba', 
+            rating: 4.8, 
+            address: 'Phase 3B2, Mohali 160059', 
+            description: 'Famous Punjabi eatery offering authentic North Indian curries and tandoori dishes.' 
+        },
+        { 
+            name: 'Tulum Restaurant & Bar', 
+            rating: 4.7, 
+            address: 'Sector 82, JLPL Industrial Area, Mohali 160055', 
+            description: 'Trendy fine-dine restaurant offering global cuisine and modern ambiance.' 
+        },
+        { 
+            name: 'Kesar Da Dhaba', 
+            rating: 4.6, 
+            address: 'Sector 70, Mohali 160062', 
+            description: 'Authentic Punjabi dhaba experience with rich traditional flavors and hearty meals.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Fortis Hospital Mohali', 
+            rating: 4.9, 
+            address: 'Sector 62, Phase VIII, Mohali 160062', 
+            description: 'Leading multi-specialty hospital providing world-class healthcare and emergency services.' 
+        },
+        { 
+            name: 'Max Super Specialty Hospital', 
+            rating: 4.8, 
+            address: 'Phase VI, Mohali 160055', 
+            description: 'Renowned private hospital offering specialized treatment and diagnostics.' 
+        },
+        { 
+            name: 'IVY Hospital', 
+            rating: 4.7, 
+            address: 'Sector 71, Mohali 160071', 
+            description: 'Advanced healthcare facility offering multi-specialty care and modern infrastructure.' 
+        },
+        { 
+            name: 'Greens Hospital', 
+            rating: 4.6, 
+            address: 'Sector 68, Mohali 160062', 
+            description: 'Trusted local hospital known for general healthcare and patient-friendly services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Sukhna Lake', 
+            rating: 4.9, 
+            address: 'Near Chandigarh–Mohali border, 160101', 
+            description: 'Beautiful lake offering boating, nature walks, and scenic views — a major attraction near Mohali.' 
+        },
+        { 
+            name: 'Punjab Cricket Association Stadium (IS Bindra Stadium)', 
+            rating: 4.8, 
+            address: 'Phase IX, Mohali 160062', 
+            description: 'International cricket stadium hosting major matches and events — a pride of Punjab.' 
+        },
+        { 
+            name: 'Thunder Zone Amusement Park', 
+            rating: 4.7, 
+            address: 'Phase 8B, Mohali 160055', 
+            description: 'Family amusement park with water rides, adventure games, and entertainment zones.' 
+        },
+        { 
+            name: 'Fateh Burj, Chappar Chiri', 
+            rating: 4.6, 
+            address: 'Chappar Chiri, near Mohali 140307', 
+            description: 'Tallest victory tower in India commemorating Sikh warrior Banda Singh Bahadur’s triumph.' 
+        }
+    ]
+},'hoshiarpur': {
+    schools: [
+        { 
+            name: 'DAV Senior Secondary School', 
+            rating: 4.8, 
+            address: 'Railway Road, Hoshiarpur, Punjab 146001', 
+            description: 'Renowned CBSE school offering strong academics, sports, and value-based education.' 
+        },
+        { 
+            name: 'Sacred Heart Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Sutheri Road, Hoshiarpur 146001', 
+            description: 'Top English-medium school emphasizing holistic growth and discipline.' 
+        },
+        { 
+            name: 'Mount Carmel School Hoshiarpur', 
+            rating: 4.6, 
+            address: 'Phagwara Road, Hoshiarpur 146001', 
+            description: 'Well-known institution offering excellent learning environment and co-curricular programs.' 
+        },
+        { 
+            name: 'Ryan International School', 
+            rating: 4.6, 
+            address: 'Chintpurni Road, Hoshiarpur 146001', 
+            description: 'Modern CBSE-affiliated school focusing on innovation and leadership skills.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Urban Eatery', 
+            rating: 4.8, 
+            address: 'Model Town, Hoshiarpur 146001', 
+            description: 'Trendy family restaurant serving North Indian, Chinese, and continental cuisines.' 
+        },
+        { 
+            name: 'Anand Palace Restaurant', 
+            rating: 4.7, 
+            address: 'Court Road, Hoshiarpur 146001', 
+            description: 'Popular for Punjabi thalis, curries, and vegetarian meals in a comfortable setting.' 
+        },
+        { 
+            name: 'Hot Millions', 
+            rating: 4.6, 
+            address: 'Tanda Road, Hoshiarpur 146001', 
+            description: 'Casual dining spot serving fast food, snacks, and refreshing beverages.' 
+        },
+        { 
+            name: 'Mezbaan Restaurant', 
+            rating: 4.5, 
+            address: 'Phagwara Road, Hoshiarpur 146001', 
+            description: 'Known for multi-cuisine meals and friendly family ambiance.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Hoshiarpur', 
+            rating: 4.7, 
+            address: 'Court Road, Hoshiarpur 146001', 
+            description: 'Major government hospital providing affordable and emergency healthcare services.' 
+        },
+        { 
+            name: 'IVY Hospital Hoshiarpur', 
+            rating: 4.7, 
+            address: 'Phagwara Road, Hoshiarpur 146001', 
+            description: 'Modern private hospital offering multi-specialty treatments and advanced care.' 
+        },
+        { 
+            name: 'Kalyan Hospital & Heart Centre', 
+            rating: 4.6, 
+            address: 'Model Town, Hoshiarpur 146001', 
+            description: 'Trusted for cardiology, general medicine, and diagnostic facilities.' 
+        },
+        { 
+            name: 'City Hospital', 
+            rating: 4.5, 
+            address: 'Tanda Road, Hoshiarpur 146001', 
+            description: 'Private healthcare facility with good outpatient and emergency services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Takhni Rehmapur Wildlife Sanctuary', 
+            rating: 4.8, 
+            address: 'Near Dasuya, Hoshiarpur 144205', 
+            description: 'Beautiful sanctuary known for lush forests, birdlife, and natural beauty.' 
+        },
+        { 
+            name: 'Damsal Dam', 
+            rating: 4.7, 
+            address: 'Near Una Road, Hoshiarpur 146001', 
+            description: 'Scenic dam site ideal for picnics and nature walks surrounded by hills.' 
+        },
+        { 
+            name: 'Kamahi Devi Temple', 
+            rating: 4.7, 
+            address: 'Beh Nangal Village, Hoshiarpur 144205', 
+            description: 'Ancient temple dedicated to Goddess Kamahi Devi, known for its spiritual energy.' 
+        },
+        { 
+            name: 'Gurdwara Garna Sahib', 
+            rating: 4.6, 
+            address: 'Chabbewal Road, Hoshiarpur 146001', 
+            description: 'Historic Sikh gurdwara offering peace and religious significance.' 
+        }
+    ]
+},'moga': {
+    schools: [
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.8, 
+            address: 'GT Road, Moga, Punjab 142001', 
+            description: 'Prestigious CBSE school known for quality education, discipline, and holistic growth.' 
+        },
+        { 
+            name: 'St. Xavier’s High School', 
+            rating: 4.7, 
+            address: 'Ferozepur Road, Moga 142001', 
+            description: 'Reputed institution emphasizing academic excellence and extracurricular engagement.' 
+        },
+        { 
+            name: 'DAV Public School Moga', 
+            rating: 4.7, 
+            address: 'Ludhiana Road, Moga 142001', 
+            description: 'One of the leading CBSE schools providing excellent academic and moral education.' 
+        },
+        { 
+            name: 'Cambridge International School', 
+            rating: 4.6, 
+            address: 'Zira Road, Moga 142001', 
+            description: 'Modern school offering global curriculum and advanced learning facilities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Food Bazaar Restaurant', 
+            rating: 4.8, 
+            address: 'Main GT Road, Moga 142001', 
+            description: 'Popular family restaurant serving North Indian and Chinese cuisines with great ambiance.' 
+        },
+        { 
+            name: 'The Royal Spice', 
+            rating: 4.7, 
+            address: 'Ludhiana Road, Moga 142001', 
+            description: 'Fine-dining spot known for authentic Punjabi food and courteous service.' 
+        },
+        { 
+            name: 'Punjabi Zaika', 
+            rating: 4.6, 
+            address: 'Bus Stand Area, Moga 142001', 
+            description: 'Casual eatery famous for traditional Punjabi and vegetarian meals.' 
+        },
+        { 
+            name: 'Café Junction', 
+            rating: 4.5, 
+            address: 'Mall Road, Moga 142001', 
+            description: 'Trendy café offering fast food, coffee, and desserts in a cozy setting.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Moga', 
+            rating: 4.7, 
+            address: 'Hospital Road, Moga 142001', 
+            description: 'Major government hospital providing healthcare services and emergency care.' 
+        },
+        { 
+            name: 'Singla Multispeciality Hospital', 
+            rating: 4.6, 
+            address: 'Ferozepur Road, Moga 142001', 
+            description: 'Private hospital offering specialized medical treatments and diagnostics.' 
+        },
+        { 
+            name: 'Arora Eye & Dental Hospital', 
+            rating: 4.5, 
+            address: 'Ludhiana Road, Moga 142001', 
+            description: 'Known for quality ophthalmology and dental care services.' 
+        },
+        { 
+            name: 'Guru Nanak Hospital', 
+            rating: 4.5, 
+            address: 'Zira Road, Moga 142001', 
+            description: 'Well-equipped multi-specialty hospital with professional medical staff.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Geeta Bhawan Mandir', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Moga 142001', 
+            description: 'Historic temple known for its intricate architecture and religious importance.' 
+        },
+        { 
+            name: 'Dharamkot Wildlife Area', 
+            rating: 4.7, 
+            address: 'Near Dharamkot, Moga 142042', 
+            description: 'Beautiful nature area ideal for outdoor walks and local wildlife observation.' 
+        },
+        { 
+            name: 'Shaheed Bhagat Singh Park', 
+            rating: 4.6, 
+            address: 'GT Road, Moga 142001', 
+            description: 'Public park dedicated to the great freedom fighter, perfect for relaxation and recreation.' 
+        },
+        { 
+            name: 'Nehru Planetarium Mini Science Centre', 
+            rating: 4.5, 
+            address: 'Civil Lines, Moga 142001', 
+            description: 'Educational tourist spot offering science exhibits and astronomy displays for students.' 
+        }
+    ]
+}
+,'firozpur': {
+    schools: [
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.8, 
+            address: 'Mall Road, Firozpur Cantonment, Punjab 152001', 
+            description: 'Prestigious CBSE school providing high-quality education and extracurricular excellence.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Firozpur Cantt', 
+            rating: 4.7, 
+            address: 'Ferozepur Cantonment, Firozpur 152001', 
+            description: 'Central government school known for strong academics and national integration values.' 
+        },
+        { 
+            name: 'Spring Dale Senior Secondary School', 
+            rating: 4.6, 
+            address: 'Zira Road, Firozpur 152001', 
+            description: 'Popular CBSE-affiliated institution focusing on modern learning and personality development.' 
+        },
+        { 
+            name: 'Guru Nanak Public School', 
+            rating: 4.5, 
+            address: 'GT Road, Firozpur 152001', 
+            description: 'Renowned for quality education, moral values, and sports facilities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Spice Hub', 
+            rating: 4.8, 
+            address: 'Mall Road, Firozpur Cantt 152001', 
+            description: 'Highly rated restaurant offering authentic Punjabi, Chinese, and continental dishes.' 
+        },
+        { 
+            name: 'Haveli Restaurant', 
+            rating: 4.7, 
+            address: 'GT Road, Firozpur 152001', 
+            description: 'Traditional Punjabi-style restaurant serving thalis and classic regional cuisine.' 
+        },
+        { 
+            name: 'Café 360', 
+            rating: 4.6, 
+            address: 'Zira Road, Firozpur 152001', 
+            description: 'Trendy café with fast food, shakes, and youthful ambience.' 
+        },
+        { 
+            name: 'Anand Bhojanalaya', 
+            rating: 4.5, 
+            address: 'Main Market, Firozpur 152001', 
+            description: 'Famous vegetarian restaurant serving homely Punjabi meals.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Firozpur', 
+            rating: 4.7, 
+            address: 'Civil Lines, Firozpur 152001', 
+            description: 'Main government healthcare facility with general and emergency medical services.' 
+        },
+        { 
+            name: 'Kapoor Hospital & Maternity Home', 
+            rating: 4.6, 
+            address: 'Mall Road, Firozpur 152001', 
+            description: 'Private hospital providing maternity, surgical, and general treatments.' 
+        },
+        { 
+            name: 'Navjeevan Hospital', 
+            rating: 4.5, 
+            address: 'Zira Road, Firozpur 152001', 
+            description: 'Well-known multi-specialty hospital with modern diagnostic equipment.' 
+        },
+        { 
+            name: 'Arora Eye & ENT Hospital', 
+            rating: 4.4, 
+            address: 'GT Road, Firozpur 152001', 
+            description: 'Specialized center for eye and ENT treatments with experienced staff.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Hussainiwala Border', 
+            rating: 5.0, 
+            address: 'Hussainiwala, near Firozpur 152002', 
+            description: 'Historic Indo-Pak border site where Shaheed Bhagat Singh, Rajguru, and Sukhdev were cremated.' 
+        },
+        { 
+            name: 'National Martyrs Memorial', 
+            rating: 4.9, 
+            address: 'Hussainiwala, Firozpur 152002', 
+            description: 'War memorial dedicated to India’s freedom fighters and soldiers.' 
+        },
+        { 
+            name: 'Saragarhi Memorial Gurudwara', 
+            rating: 4.7, 
+            address: 'Cantonment Area, Firozpur 152001', 
+            description: 'Historic gurdwara commemorating the bravery of Sikh soldiers in the Battle of Saragarhi.' 
+        },
+        { 
+            name: 'Pothi Mala Sahib Gurudwara', 
+            rating: 4.6, 
+            address: 'Guru Har Sahai Road, Firozpur 152001', 
+            description: 'Sacred gurdwara associated with Guru Nanak Dev Ji, known for peace and spirituality.' 
+        }
+    ]
+}
+,'sangrur': {
+    schools: [
+        { 
+            name: 'Delhi Public School Sangrur', 
+            rating: 4.8, 
+            address: 'Sunam Road, Sangrur, Punjab 148001', 
+            description: 'Leading CBSE school known for modern infrastructure, co-curricular excellence, and quality academics.' 
+        },
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.7, 
+            address: 'Dhuri Road, Sangrur 148001', 
+            description: 'Renowned convent school providing value-based education with discipline and cultural exposure.' 
+        },
+        { 
+            name: 'Baba Banda Singh Bahadur Public School', 
+            rating: 4.6, 
+            address: 'Bhawanigarh Road, Sangrur 148001', 
+            description: 'Reputed educational institution promoting academic excellence and sportsmanship.' 
+        },
+        { 
+            name: 'Tagore International School', 
+            rating: 4.5, 
+            address: 'Patiala Road, Sangrur 148001', 
+            description: 'CBSE-affiliated English-medium school emphasizing innovation and leadership skills.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Urban Spice', 
+            rating: 4.8, 
+            address: 'Patiala Gate, Sangrur 148001', 
+            description: 'Popular restaurant serving Punjabi and North Indian cuisines in a family-friendly setting.' 
+        },
+        { 
+            name: 'Haveli Sangrur', 
+            rating: 4.7, 
+            address: 'Patiala Road, Sangrur 148001', 
+            description: 'Traditional Punjabi-themed restaurant offering authentic thalis and rich flavors.' 
+        },
+        { 
+            name: 'Café Treat', 
+            rating: 4.6, 
+            address: 'Sunam Road, Sangrur 148001', 
+            description: 'Trendy café known for coffee, snacks, and quick bites with cozy interiors.' 
+        },
+        { 
+            name: 'Tandoori Nights', 
+            rating: 4.5, 
+            address: 'Court Road, Sangrur 148001', 
+            description: 'Family restaurant specializing in North Indian tandoori dishes and curries.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Sangrur', 
+            rating: 4.7, 
+            address: 'Barnala Road, Sangrur 148001', 
+            description: 'Main government hospital providing emergency and multi-specialty medical services.' 
+        },
+        { 
+            name: 'Kular Hospital', 
+            rating: 4.6, 
+            address: 'Patiala Road, Sangrur 148001', 
+            description: 'Well-equipped private hospital offering surgical and general healthcare services.' 
+        },
+        { 
+            name: 'Sangrur Eye & Dental Hospital', 
+            rating: 4.5, 
+            address: 'Court Road, Sangrur 148001', 
+            description: 'Trusted hospital offering specialized care in ophthalmology and dental treatments.' 
+        },
+        { 
+            name: 'Guru Nanak Hospital', 
+            rating: 4.4, 
+            address: 'Sunam Road, Sangrur 148001', 
+            description: 'Private healthcare center known for patient care and diagnostic facilities.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Banasar Garden', 
+            rating: 4.8, 
+            address: 'Patiala Gate, Sangrur 148001', 
+            description: 'Historic garden featuring a beautiful lake, royal buildings, and lush greenery.' 
+        },
+        { 
+            name: 'Shahi Samadhan', 
+            rating: 4.7, 
+            address: 'Near Banasar Bagh, Sangrur 148001', 
+            description: 'Architectural site containing royal tombs and reflecting Mughal-style art.' 
+        },
+        { 
+            name: 'Gurdwara Akoi Sahib', 
+            rating: 4.6, 
+            address: 'Akoi Village, Sangrur 148001', 
+            description: 'Sacred Sikh shrine known for its peaceful atmosphere and spiritual importance.' 
+        },
+        { 
+            name: 'Clock Tower Sangrur', 
+            rating: 4.5, 
+            address: 'Main Chowk, Sangrur 148001', 
+            description: 'Historic landmark symbolizing the heritage and culture of Sangrur city.' 
+        }
+    ]
+},'gurdaspur': {
+    schools: [
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.8, 
+            address: 'Batala Road, Gurdaspur, Punjab 143521', 
+            description: 'Reputed CBSE school emphasizing holistic education and moral values.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Gurdaspur', 
+            rating: 4.7, 
+            address: 'Civil Lines, Gurdaspur 143521', 
+            description: 'Central government school known for disciplined academics and national-level exposure.' 
+        },
+        { 
+            name: 'St. Soldier Divine Public School', 
+            rating: 4.6, 
+            address: 'Dinowal Road, Gurdaspur 143521', 
+            description: 'Modern school offering digital classrooms and co-curricular excellence.' 
+        },
+        { 
+            name: 'Guru Nanak Public School', 
+            rating: 4.5, 
+            address: 'Hardochhani Road, Gurdaspur 143521', 
+            description: 'Popular local school known for its academic achievements and community focus.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Punjabi Zaika Family Restaurant', 
+            rating: 4.8, 
+            address: 'Civil Lines, Gurdaspur 143521', 
+            description: 'Authentic Punjabi dining experience featuring rich curries and traditional meals.' 
+        },
+        { 
+            name: 'The Urban Café', 
+            rating: 4.7, 
+            address: 'Batala Road, Gurdaspur 143521', 
+            description: 'Trendy café known for continental snacks, shakes, and relaxed atmosphere.' 
+        },
+        { 
+            name: 'Haveli Gurdaspur', 
+            rating: 4.6, 
+            address: 'Amritsar Highway, Gurdaspur 143521', 
+            description: 'Cultural-themed restaurant offering village-style ambiance and Punjabi thalis.' 
+        },
+        { 
+            name: 'Tandoori Treats', 
+            rating: 4.5, 
+            address: 'Bus Stand Road, Gurdaspur 143521', 
+            description: 'Casual restaurant specializing in grilled tandoori dishes and kebabs.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Gurdaspur', 
+            rating: 4.7, 
+            address: 'Civil Lines, Gurdaspur 143521', 
+            description: 'Main district government hospital providing emergency and general healthcare.' 
+        },
+        { 
+            name: 'Bedi Hospital & Maternity Home', 
+            rating: 4.6, 
+            address: 'Batala Road, Gurdaspur 143521', 
+            description: 'Renowned private hospital specializing in maternity and pediatric care.' 
+        },
+        { 
+            name: 'Dr. Kohli Multispeciality Hospital', 
+            rating: 4.5, 
+            address: 'Hanuman Chowk, Gurdaspur 143521', 
+            description: 'Well-equipped facility offering multi-specialty treatments and diagnostics.' 
+        },
+        { 
+            name: 'Sukh Sagar Eye & Dental Clinic', 
+            rating: 4.4, 
+            address: 'Court Road, Gurdaspur 143521', 
+            description: 'Trusted clinic providing high-quality dental and ophthalmic care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mahakaleshwar Temple', 
+            rating: 4.8, 
+            address: 'Civil Lines, Gurdaspur 143521', 
+            description: 'Ancient temple dedicated to Lord Shiva, attracting many devotees and tourists.' 
+        },
+        { 
+            name: 'Fish Park Gurdaspur', 
+            rating: 4.7, 
+            address: 'Pathankot Road, Gurdaspur 143521', 
+            description: 'Beautiful park with a large pond, ideal for family outings and leisure walks.' 
+        },
+        { 
+            name: 'Barth Sahib Gurdwara', 
+            rating: 4.6, 
+            address: 'Barth Village, Gurdaspur 143521', 
+            description: 'Sacred Sikh shrine with historical importance and serene surroundings.' 
+        },
+        { 
+            name: 'Sheesh Mahal', 
+            rating: 4.5, 
+            address: 'Hardochhani, Gurdaspur 143521', 
+            description: 'Heritage site showcasing old architectural designs and royal history.' 
+        }
+    ]
+}
+,'pathankot': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya No. 1 Pathankot', 
+            rating: 4.8, 
+            address: 'Mamun Cantt, Pathankot, Punjab 145001', 
+            description: 'Renowned CBSE school emphasizing discipline, academics, and co-curricular balance.' 
+        },
+        { 
+            name: 'Delhi Public School Pathankot', 
+            rating: 4.7, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Top-tier English-medium school known for global learning standards and sports.' 
+        },
+        { 
+            name: 'Sacred Heart Senior Secondary School', 
+            rating: 4.6, 
+            address: 'Mission Road, Pathankot 145001', 
+            description: 'Reputed Christian institution offering quality education and cultural values.' 
+        },
+        { 
+            name: 'Cambridge International School', 
+            rating: 4.5, 
+            address: 'Sujanpur Road, Pathankot 145001', 
+            description: 'Modern CBSE school with advanced infrastructure and digital learning facilities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Brew Master Pathankot', 
+            rating: 4.8, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Upscale restaurant and café offering multicuisine dishes and crafted beverages.' 
+        },
+        { 
+            name: 'Haveli Restaurant', 
+            rating: 4.7, 
+            address: 'Jammu Highway, Pathankot 145001', 
+            description: 'Traditional Punjabi restaurant with village-themed ambiance and hearty meals.' 
+        },
+        { 
+            name: 'Pind Balluchi', 
+            rating: 4.6, 
+            address: 'Mamun Cantt Road, Pathankot 145001', 
+            description: 'Rustic-style restaurant serving authentic North Indian food and thalis.' 
+        },
+        { 
+            name: 'Café 99', 
+            rating: 4.5, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Trendy café popular among youth for snacks, fast food, and coffee.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Pathankot', 
+            rating: 4.7, 
+            address: 'Mission Road, Pathankot 145001', 
+            description: 'Government hospital offering a wide range of general and emergency services.' 
+        },
+        { 
+            name: 'Kapoor Hospital & Trauma Centre', 
+            rating: 4.6, 
+            address: 'Mamun Road, Pathankot 145001', 
+            description: 'Private multi-specialty hospital providing advanced trauma and surgical care.' 
+        },
+        { 
+            name: 'Saini Eye Hospital', 
+            rating: 4.5, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Specialized eye care hospital offering modern treatments and diagnostics.' 
+        },
+        { 
+            name: 'Healing Touch Hospital', 
+            rating: 4.4, 
+            address: 'Near Bus Stand, Pathankot 145001', 
+            description: 'Trusted private facility providing maternity and pediatric healthcare.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mukteshwar Temple', 
+            rating: 4.9, 
+            address: 'Shahpur Kandi, Pathankot 145001', 
+            description: 'Ancient Shiva temple situated on the banks of River Ravi with scenic views.' 
+        },
+        { 
+            name: 'Nurpur Fort', 
+            rating: 4.8, 
+            address: 'Near Pathankot 145001', 
+            description: 'Historic fort known for its architecture and connection to the Mughal era.' 
+        },
+        { 
+            name: 'Ranjit Sagar Dam (Thein Dam)', 
+            rating: 4.7, 
+            address: 'On Ravi River, Pathankot 145001', 
+            description: 'Massive dam surrounded by lush hills, offering boating and picnic areas.' 
+        },
+        { 
+            name: 'Kathgarh Temple', 
+            rating: 4.6, 
+            address: 'Indora, near Pathankot 145001', 
+            description: 'Famous temple where a natural Shiva lingam splits into two halves each year.' 
+        }
+    ]
+}
+,'hoshiarpur': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Hoshiarpur', 
+            rating: 4.8, 
+            address: 'Army Area, Hoshiarpur, Punjab 146001', 
+            description: 'CBSE-affiliated central school known for its discipline, academics, and extracurricular excellence.' 
+        },
+        { 
+            name: 'Delhi Public School Hoshiarpur', 
+            rating: 4.7, 
+            address: 'Phagwara Road, Hoshiarpur 146001', 
+            description: 'Prestigious school offering world-class education with modern infrastructure and sports facilities.' 
+        },
+        { 
+            name: 'Sacred Heart Senior Secondary School', 
+            rating: 4.6, 
+            address: 'Parbhat Chowk, Hoshiarpur 146001', 
+            description: 'Renowned Christian institution with strong emphasis on academics and character building.' 
+        },
+        { 
+            name: 'Mount Carmel School', 
+            rating: 4.5, 
+            address: 'Tanda Road, Hoshiarpur 146001', 
+            description: 'Popular English-medium school providing holistic education and cultural development.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Urban Grill', 
+            rating: 4.8, 
+            address: 'Phagwara Road, Hoshiarpur 146001', 
+            description: 'Modern multicuisine restaurant offering continental, Indian, and tandoori dishes.' 
+        },
+        { 
+            name: 'Haveli Hoshiarpur', 
+            rating: 4.7, 
+            address: 'Jalandhar Road, Hoshiarpur 146001', 
+            description: 'Traditional Punjabi dining experience with village-style ambiance and authentic food.' 
+        },
+        { 
+            name: 'Domino’s Pizza Hoshiarpur', 
+            rating: 4.6, 
+            address: 'Court Road, Hoshiarpur 146001', 
+            description: 'Popular pizza chain serving fast food and beverages in a family-friendly setting.' 
+        },
+        { 
+            name: 'Café Junction', 
+            rating: 4.5, 
+            address: 'Model Town, Hoshiarpur 146001', 
+            description: 'Trendy café offering fast food, coffee, and desserts with a cozy atmosphere.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Hoshiarpur', 
+            rating: 4.7, 
+            address: 'Court Road, Hoshiarpur 146001', 
+            description: 'Main government hospital providing emergency, general, and maternity care services.' 
+        },
+        { 
+            name: 'Ivy Hospital Hoshiarpur', 
+            rating: 4.6, 
+            address: 'Phagwara Road, Hoshiarpur 146001', 
+            description: 'Multi-specialty private hospital equipped with advanced medical technology and specialists.' 
+        },
+        { 
+            name: 'Singla Hospital', 
+            rating: 4.5, 
+            address: 'Jalandhar Road, Hoshiarpur 146001', 
+            description: 'Trusted private hospital providing general and surgical healthcare services.' 
+        },
+        { 
+            name: 'Bansal Eye & Dental Hospital', 
+            rating: 4.4, 
+            address: 'Model Town, Hoshiarpur 146001', 
+            description: 'Specialty clinic known for quality eye and dental treatments.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Takhni-Rehmapur Wildlife Sanctuary', 
+            rating: 4.9, 
+            address: 'Takhni, near Hoshiarpur 146001', 
+            description: 'Natural reserve with diverse flora and fauna, ideal for nature enthusiasts and photographers.' 
+        },
+        { 
+            name: 'Sheesh Mahal', 
+            rating: 4.8, 
+            address: 'Near Court Complex, Hoshiarpur 146001', 
+            description: 'Historic palace showcasing exquisite glasswork and Mughal-era architecture.' 
+        },
+        { 
+            name: 'Kamahi Devi Temple', 
+            rating: 4.7, 
+            address: 'Kolar, Hoshiarpur 146001', 
+            description: 'Ancient temple dedicated to Goddess Kamahi, popular during Navratri festivals.' 
+        },
+        { 
+            name: 'Dera Sant Garh', 
+            rating: 4.6, 
+            address: 'Chabbewal Road, Hoshiarpur 146001', 
+            description: 'Spiritual ashram and meditation center attracting devotees from across Punjab.' 
+        }
+    ]
+}
+,'kapurthala': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Kapurthala', 
+            rating: 4.8, 
+            address: 'Military Station, Kapurthala, Punjab 144601', 
+            description: 'Premier central government school with excellent academic results and co-curricular focus.' 
+        },
+        { 
+            name: 'MGN Public School', 
+            rating: 4.7, 
+            address: 'Sultanpur Road, Kapurthala 144601', 
+            description: 'CBSE-affiliated school known for high academic standards and extracurricular programs.' 
+        },
+        { 
+            name: 'Cambridge International School Kapurthala', 
+            rating: 4.6, 
+            address: 'Subhanpur Road, Kapurthala 144601', 
+            description: 'Modern school providing global curriculum and advanced teaching methods.' 
+        },
+        { 
+            name: 'St. Mary’s Convent School', 
+            rating: 4.5, 
+            address: 'Civil Lines, Kapurthala 144601', 
+            description: 'Renowned English-medium convent school emphasizing moral and holistic education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Urban Tandoor', 
+            rating: 4.8, 
+            address: 'Phagwara Road, Kapurthala 144601', 
+            description: 'Popular restaurant offering North Indian, Mughlai, and Chinese cuisine in a cozy setting.' 
+        },
+        { 
+            name: 'Haveli Kapurthala', 
+            rating: 4.7, 
+            address: 'Jalandhar Road, Kapurthala 144601', 
+            description: 'Traditional Punjabi-themed restaurant serving authentic thalis and lassi.' 
+        },
+        { 
+            name: 'Foodie Adda', 
+            rating: 4.6, 
+            address: 'Civil Lines, Kapurthala 144601', 
+            description: 'Trendy café serving snacks, beverages, and fast food with modern décor.' 
+        },
+        { 
+            name: 'Rajwada Family Restaurant', 
+            rating: 4.5, 
+            address: 'Court Road, Kapurthala 144601', 
+            description: 'Elegant dining spot offering multicuisine delicacies and family-friendly ambiance.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Kapurthala', 
+            rating: 4.7, 
+            address: 'Sultanpur Road, Kapurthala 144601', 
+            description: 'Main government hospital offering emergency, surgery, and maternity care.' 
+        },
+        { 
+            name: 'Amandeep Hospital', 
+            rating: 4.6, 
+            address: 'Phagwara Road, Kapurthala 144601', 
+            description: 'Multi-specialty hospital providing orthopedic, trauma, and general medical care.' 
+        },
+        { 
+            name: 'Guru Nanak Mission Hospital', 
+            rating: 4.5, 
+            address: 'Near Bus Stand, Kapurthala 144601', 
+            description: 'Charitable healthcare center offering affordable medical treatments to all.' 
+        },
+        { 
+            name: 'Kapoor Eye & Dental Centre', 
+            rating: 4.4, 
+            address: 'Court Road, Kapurthala 144601', 
+            description: 'Specialized clinic focusing on ophthalmology and dental care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Jagatjit Palace', 
+            rating: 4.9, 
+            address: 'Civil Lines, Kapurthala 144601', 
+            description: 'Magnificent palace inspired by French architecture, now housing Sainik School.' 
+        },
+        { 
+            name: 'Panch Mandir', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Kapurthala 144601', 
+            description: 'Historic temple complex dedicated to multiple deities, known for stunning architecture.' 
+        },
+        { 
+            name: 'Shalimar Gardens', 
+            rating: 4.7, 
+            address: 'Near City Centre, Kapurthala 144601', 
+            description: 'Beautifully landscaped gardens with fountains and pathways, ideal for family outings.' 
+        },
+        { 
+            name: 'Elysee Palace', 
+            rating: 4.6, 
+            address: 'Sultanpur Road, Kapurthala 144601', 
+            description: 'Architectural marvel reflecting Indo-European design, symbol of royal heritage.' 
+        }
+    ]
+}
+,'faridkot': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Faridkot', 
+            rating: 4.8, 
+            address: 'Cantt Area, Faridkot, Punjab 151203', 
+            description: 'CBSE-affiliated central school known for academic excellence and co-curricular balance.' 
+        },
+        { 
+            name: 'Dasmesh Public School', 
+            rating: 4.7, 
+            address: 'Kotkapura Road, Faridkot 151203', 
+            description: 'Reputed English-medium school with modern facilities and focus on sports and academics.' 
+        },
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.6, 
+            address: 'Model Town, Faridkot 151203', 
+            description: 'Renowned Christian institution emphasizing value-based education and discipline.' 
+        },
+        { 
+            name: 'Govt. Rajindra College School Wing', 
+            rating: 4.5, 
+            address: 'Civil Lines, Faridkot 151203', 
+            description: 'Established government school providing excellent academic foundation.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Food Garage', 
+            rating: 4.8, 
+            address: 'Kotkapura Road, Faridkot 151203', 
+            description: 'Trendy restaurant offering North Indian, Italian, and Chinese cuisines.' 
+        },
+        { 
+            name: 'Haveli Restaurant', 
+            rating: 4.7, 
+            address: 'Ferozepur Road, Faridkot 151203', 
+            description: 'Traditional Punjabi restaurant serving authentic thalis and local delicacies.' 
+        },
+        { 
+            name: 'Domino’s Pizza Faridkot', 
+            rating: 4.6, 
+            address: 'Civil Lines, Faridkot 151203', 
+            description: 'Famous pizza chain known for quick service and tasty fast food options.' 
+        },
+        { 
+            name: 'Café Bean Buzz', 
+            rating: 4.5, 
+            address: 'Mall Road, Faridkot 151203', 
+            description: 'Youth-friendly café serving coffee, snacks, and desserts in a cozy ambiance.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Guru Gobind Singh Medical College & Hospital', 
+            rating: 4.8, 
+            address: 'Sadiq Road, Faridkot 151203', 
+            description: 'Premier government medical college and hospital offering specialized healthcare services.' 
+        },
+        { 
+            name: 'Civil Hospital Faridkot', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Faridkot 151203', 
+            description: 'Government-run hospital providing general and emergency medical facilities.' 
+        },
+        { 
+            name: 'Grewal Hospital', 
+            rating: 4.5, 
+            address: 'Kotkapura Road, Faridkot 151203', 
+            description: 'Multi-specialty private hospital known for advanced diagnostics and patient care.' 
+        },
+        { 
+            name: 'Sharma Eye Hospital', 
+            rating: 4.4, 
+            address: 'Civil Lines, Faridkot 151203', 
+            description: 'Dedicated eye care center offering modern ophthalmic treatments and surgeries.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Raj Mahal (Qila Mubarak)', 
+            rating: 4.9, 
+            address: 'Civil Lines, Faridkot 151203', 
+            description: 'Historic palace showcasing royal architecture and cultural heritage of Faridkot.' 
+        },
+        { 
+            name: 'Darbar Ganj Park', 
+            rating: 4.7, 
+            address: 'Mall Road, Faridkot 151203', 
+            description: 'Beautifully maintained park ideal for evening walks and family picnics.' 
+        },
+        { 
+            name: 'Gurudwara Tilla Baba Farid', 
+            rating: 4.8, 
+            address: 'Main City, Faridkot 151203', 
+            description: 'Sacred Sikh shrine dedicated to Baba Farid, attracting devotees from all over Punjab.' 
+        },
+        { 
+            name: 'Fairy Cottage Lake', 
+            rating: 4.6, 
+            address: 'Kotkapura Road, Faridkot 151203', 
+            description: 'Scenic picnic spot with lake views and greenery, popular among locals.' 
+        }
+    ]
+}
+,
+'mansa': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Mansa', 
+            rating: 4.8, 
+            address: 'Near ITI Campus, Mansa, Punjab 151505', 
+            description: 'CBSE-affiliated central school providing quality education and holistic development.' 
+        },
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.7, 
+            address: 'Barnala Road, Mansa 151505', 
+            description: 'Reputed Christian institution emphasizing academic excellence and value education.' 
+        },
+        { 
+            name: 'Dasmesh Public School', 
+            rating: 4.6, 
+            address: 'Sardulgarh Road, Mansa 151505', 
+            description: 'Popular English-medium school offering a balance of academics and sports.' 
+        },
+        { 
+            name: 'Guru Nanak International Public School', 
+            rating: 4.5, 
+            address: 'Budhlada Road, Mansa 151505', 
+            description: 'CBSE school focusing on technology-based learning and extracurricular engagement.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Haveli Restaurant Mansa', 
+            rating: 4.8, 
+            address: 'Barnala Road, Mansa 151505', 
+            description: 'Traditional Punjabi restaurant with authentic flavors and vibrant ambiance.' 
+        },
+        { 
+            name: 'The Grand Kitchen', 
+            rating: 4.7, 
+            address: 'Sardulgarh Road, Mansa 151505', 
+            description: 'Modern family restaurant serving multicuisine dishes in a comfortable setting.' 
+        },
+        { 
+            name: 'Domino’s Pizza Mansa', 
+            rating: 4.6, 
+            address: 'Civil Lines, Mansa 151505', 
+            description: 'Well-known pizza outlet serving fast food, sides, and beverages with quick delivery.' 
+        },
+        { 
+            name: 'Café Mocha House', 
+            rating: 4.5, 
+            address: 'Main Market, Mansa 151505', 
+            description: 'Trendy café offering coffee, snacks, and desserts in a youthful atmosphere.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Mansa', 
+            rating: 4.7, 
+            address: 'Barnala Road, Mansa 151505', 
+            description: 'Government hospital providing general healthcare, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Chhabra Hospital', 
+            rating: 4.6, 
+            address: 'Sardulgarh Road, Mansa 151505', 
+            description: 'Private multi-specialty hospital known for surgical and diagnostic excellence.' 
+        },
+        { 
+            name: 'Guru Nanak Mission Hospital', 
+            rating: 4.5, 
+            address: 'Budhlada Road, Mansa 151505', 
+            description: 'Charitable hospital offering affordable healthcare with modern facilities.' 
+        },
+        { 
+            name: 'Bansal Eye & Dental Care Centre', 
+            rating: 4.4, 
+            address: 'Civil Lines, Mansa 151505', 
+            description: 'Clinic providing specialized dental and eye treatments with expert staff.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Bhaika Mewa Singh Memorial', 
+            rating: 4.8, 
+            address: 'Main City, Mansa 151505', 
+            description: 'Historical site honoring the freedom fighter Bhaika Mewa Singh, popular among locals.' 
+        },
+        { 
+            name: 'Sardulgarh Fort', 
+            rating: 4.7, 
+            address: 'Sardulgarh, near Mansa 151505', 
+            description: 'Ancient fort known for its traditional Sikh architecture and cultural heritage.' 
+        },
+        { 
+            name: 'Gurudwara Mehma Sarja Sahib', 
+            rating: 4.9, 
+            address: 'Mehma Sarja, near Mansa 151505', 
+            description: 'Sacred Sikh shrine associated with Guru Tegh Bahadur Ji, a major pilgrimage site.' 
+        },
+        { 
+            name: 'Nehru Park Mansa', 
+            rating: 4.5, 
+            address: 'Civil Lines, Mansa 151505', 
+            description: 'Peaceful park ideal for families, morning walks, and relaxation amidst greenery.' 
+        }
+    ]
+}
+,'sri_muktsar_sahib': {
+    schools: [
+        { 
+            name: 'Sacred Heart Convent School', 
+            rating: 4.8, 
+            address: 'Malout Road, Sri Muktsar Sahib, Punjab 152026', 
+            description: 'Renowned CBSE-affiliated convent school offering top-tier academics and moral education.' 
+        },
+        { 
+            name: 'DAV Public School Muktsar', 
+            rating: 4.7, 
+            address: 'Kotkapura Road, Sri Muktsar Sahib 152026', 
+            description: 'Leading English-medium school focusing on science, technology, and co-curricular growth.' 
+        },
+        { 
+            name: 'Guru Nanak Public School', 
+            rating: 4.6, 
+            address: 'Bariwala Road, Sri Muktsar Sahib 152026', 
+            description: 'CBSE school committed to academic excellence and holistic student development.' 
+        },
+        { 
+            name: 'Modern Senior Secondary School', 
+            rating: 4.5, 
+            address: 'Malout Road, Sri Muktsar Sahib 152026', 
+            description: 'Well-reputed institution offering balanced education and extracurricular exposure.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Urban Tandoor', 
+            rating: 4.8, 
+            address: 'Bathinda Road, Sri Muktsar Sahib 152026', 
+            description: 'Popular Punjabi restaurant serving authentic North Indian and tandoori dishes.' 
+        },
+        { 
+            name: 'Haveli Family Restaurant', 
+            rating: 4.7, 
+            address: 'Malout Road, Sri Muktsar Sahib 152026', 
+            description: 'Traditional Punjabi restaurant with cultural décor and vegetarian specialties.' 
+        },
+        { 
+            name: 'Food Garage', 
+            rating: 4.6, 
+            address: 'Kotkapura Road, Sri Muktsar Sahib 152026', 
+            description: 'Trendy café-style restaurant offering burgers, pizza, and quick bites.' 
+        },
+        { 
+            name: 'Domino’s Pizza', 
+            rating: 4.5, 
+            address: 'Main Market, Sri Muktsar Sahib 152026', 
+            description: 'Well-known pizza outlet serving fast food with dine-in and delivery options.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Muktsar', 
+            rating: 4.7, 
+            address: 'Kotkapura Road, Sri Muktsar Sahib 152026', 
+            description: 'Government hospital offering general and emergency healthcare services.' 
+        },
+        { 
+            name: 'Preet Multispeciality Hospital', 
+            rating: 4.6, 
+            address: 'Malout Road, Sri Muktsar Sahib 152026', 
+            description: 'Private hospital providing quality care in surgery, gynecology, and diagnostics.' 
+        },
+        { 
+            name: 'Baba Farid Hospital', 
+            rating: 4.5, 
+            address: 'Bathinda Road, Sri Muktsar Sahib 152026', 
+            description: 'Trusted hospital with modern facilities and compassionate medical staff.' 
+        },
+        { 
+            name: 'Sidana Eye & Dental Care Centre', 
+            rating: 4.4, 
+            address: 'Main Bazaar, Sri Muktsar Sahib 152026', 
+            description: 'Specialized clinic for dental and eye treatments with experienced doctors.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Gurudwara Tibbi Sahib', 
+            rating: 4.9, 
+            address: 'Sri Muktsar Sahib 152026', 
+            description: 'Historic Gurudwara associated with Guru Gobind Singh Ji, attracting devotees year-round.' 
+        },
+        { 
+            name: 'Gurudwara Rakabsar Sahib', 
+            rating: 4.8, 
+            address: 'Muktsar City 152026', 
+            description: 'Sacred Sikh site known for its spiritual significance and peaceful surroundings.' 
+        },
+        { 
+            name: 'Gurudwara Shahid Ganj Sahib', 
+            rating: 4.8, 
+            address: 'Near Gurudwara Tibbi Sahib, Sri Muktsar Sahib 152026', 
+            description: 'Memorial to the 40 Muktas who fought valiantly alongside Guru Gobind Singh Ji.' 
+        },
+        { 
+            name: 'Rukhala Park', 
+            rating: 4.5, 
+            address: 'Bathinda Road, Sri Muktsar Sahib 152026', 
+            description: 'Scenic public park ideal for morning walks, picnics, and family outings.' 
+        }
+    ]
+}
+,
+'pathankot': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya No.1 Pathankot', 
+            rating: 4.8, 
+            address: 'Mamun Cantt, Pathankot, Punjab 145001', 
+            description: 'Top-ranked central government school providing holistic education and co-curricular excellence.' 
+        },
+        { 
+            name: 'Sacred Heart Senior Secondary School', 
+            rating: 4.7, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Reputed convent school emphasizing academic discipline, values, and extracurricular growth.' 
+        },
+        { 
+            name: 'Army Public School Pathankot', 
+            rating: 4.6, 
+            address: 'Mamun Cantt, Pathankot 145001', 
+            description: 'Premier institution offering CBSE curriculum with focus on leadership and overall development.' 
+        },
+        { 
+            name: 'Modern Era Public School', 
+            rating: 4.5, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'English-medium CBSE school providing a student-centered learning environment.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The BrewMaster Pathankot', 
+            rating: 4.8, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Upscale family restaurant serving multi-cuisine dishes with modern ambiance.' 
+        },
+        { 
+            name: 'Haveli Pathankot', 
+            rating: 4.7, 
+            address: 'Jalandhar-Amritsar Highway, Pathankot 145001', 
+            description: 'Traditional Punjabi restaurant with authentic flavors and cultural décor.' 
+        },
+        { 
+            name: 'Domino’s Pizza', 
+            rating: 4.6, 
+            address: 'Mission Road, Pathankot 145001', 
+            description: 'Popular fast-food outlet offering pizza, pasta, and quick service.' 
+        },
+        { 
+            name: 'Café Coffee Day', 
+            rating: 4.5, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Trendy café known for great coffee, snacks, and cozy atmosphere.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Pathankot', 
+            rating: 4.7, 
+            address: 'Mission Road, Pathankot 145001', 
+            description: 'Government hospital offering comprehensive medical and emergency services.' 
+        },
+        { 
+            name: 'Sukh Sagar Hospital', 
+            rating: 4.6, 
+            address: 'Dalhousie Road, Pathankot 145001', 
+            description: 'Private multi-specialty hospital with advanced facilities and skilled doctors.' 
+        },
+        { 
+            name: 'Lifeline Hospital', 
+            rating: 4.5, 
+            address: 'Mamun Cantt, Pathankot 145001', 
+            description: 'Modern healthcare center known for efficient services and patient care.' 
+        },
+        { 
+            name: 'Amandeep Hospital', 
+            rating: 4.4, 
+            address: 'Gurdaspur Road, Pathankot 145001', 
+            description: 'Specialized hospital for orthopedics and trauma care with experienced surgeons.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Nurpur Fort', 
+            rating: 4.8, 
+            address: 'Nurpur, near Pathankot 145001', 
+            description: 'Historic fort showcasing ancient architecture and scenic views of the Kangra Valley.' 
+        },
+        { 
+            name: 'Ranjit Sagar Dam (Thein Dam)', 
+            rating: 4.8, 
+            address: 'Lake Road, near Pathankot 145001', 
+            description: 'Massive dam offering picturesque views, boating, and picnic opportunities.' 
+        },
+        { 
+            name: 'Kathgarh Temple', 
+            rating: 4.7, 
+            address: 'Indora, near Pathankot 145001', 
+            description: 'Ancient temple dedicated to Lord Shiva, known for its twin Shivlings and religious importance.' 
+        },
+        { 
+            name: 'Ashapurni Mandir', 
+            rating: 4.6, 
+            address: 'Main Bazaar, Pathankot 145001', 
+            description: 'Famous Hindu temple attracting thousands of devotees every year.' 
+        }
+    ]
+},
+
+
+
+
+
+
+
+
+'bhubaneswar': {
+    schools: [
+        { 
+            name: 'DAV Public School, Unit-8', 
+            rating: 4.9, 
+            address: 'Unit-8, Bhubaneswar, Odisha 751012', 
+            description: 'One of the top CBSE schools in Odisha focusing on academic excellence and overall development.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya No.1 Bhubaneswar', 
+            rating: 4.8, 
+            address: 'Unit-9, Bhubaneswar, Odisha 751022', 
+            description: 'Premier central government school offering high-quality education and co-curricular exposure.' 
+        },
+        { 
+            name: 'Mother’s Public School', 
+            rating: 4.7, 
+            address: 'Unit-1, Bhubaneswar, Odisha 751009', 
+            description: 'Renowned English-medium school emphasizing academics, discipline, and creative learning.' 
+        },
+        { 
+            name: 'Sainik School Bhubaneswar', 
+            rating: 4.7, 
+            address: 'Near Airport, Bhubaneswar, Odisha 751005', 
+            description: 'Military school known for discipline, academics, and leadership training.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Truptee Restaurant', 
+            rating: 4.8, 
+            address: 'Janpath, Bhubaneswar, Odisha 751009', 
+            description: 'Iconic Odia restaurant known for authentic thalis and traditional cuisine.' 
+        },
+        { 
+            name: 'Dalma Restaurant', 
+            rating: 4.7, 
+            address: 'CRP Square, Bhubaneswar, Odisha 751003', 
+            description: 'Popular restaurant serving classic Odia and Indian dishes in a family-friendly setting.' 
+        },
+        { 
+            name: 'Mainland China', 
+            rating: 4.6, 
+            address: 'Esplanade One Mall, Bhubaneswar, Odisha 751010', 
+            description: 'Upscale restaurant offering authentic Chinese cuisine and elegant ambience.' 
+        },
+        { 
+            name: 'Adda Unplugged Café', 
+            rating: 4.5, 
+            address: 'Patia, Bhubaneswar, Odisha 751024', 
+            description: 'Trendy café serving continental snacks, mocktails, and desserts with live music.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'AIIMS Bhubaneswar', 
+            rating: 4.9, 
+            address: 'Sijua, Bhubaneswar, Odisha 751019', 
+            description: 'Leading government medical institute offering advanced healthcare and research facilities.' 
+        },
+        { 
+            name: 'Kalinga Hospital', 
+            rating: 4.7, 
+            address: 'Chandrasekharpur, Bhubaneswar, Odisha 751023', 
+            description: 'Multi-specialty hospital providing modern diagnostics and specialized treatment.' 
+        },
+        { 
+            name: 'Apollo Hospitals', 
+            rating: 4.7, 
+            address: 'Plot No. 251, Old Sainik School Road, Bhubaneswar, Odisha 751005', 
+            description: 'Renowned private hospital offering world-class medical services and expert doctors.' 
+        },
+        { 
+            name: 'Care Hospital', 
+            rating: 4.6, 
+            address: 'Unit-4, Bhubaneswar, Odisha 751001', 
+            description: 'Reputed hospital with modern facilities and excellent critical care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Lingaraj Temple', 
+            rating: 4.9, 
+            address: 'Old Town, Bhubaneswar, Odisha 751002', 
+            description: 'Ancient 11th-century Hindu temple and one of the most important landmarks of Odisha.' 
+        },
+        { 
+            name: 'Nandankanan Zoological Park', 
+            rating: 4.8, 
+            address: 'Barang, Bhubaneswar, Odisha 754005', 
+            description: 'Large zoological and botanical park known for its white tigers and serene environment.' 
+        },
+        { 
+            name: 'Udayagiri and Khandagiri Caves', 
+            rating: 4.7, 
+            address: 'Near Khandagiri, Bhubaneswar, Odisha 751030', 
+            description: 'Historic Jain rock-cut caves with inscriptions and panoramic city views.' 
+        },
+        { 
+            name: 'Odisha State Museum', 
+            rating: 4.6, 
+            address: 'Kalpana Square, Bhubaneswar, Odisha 751014', 
+            description: 'Cultural museum showcasing ancient sculptures, manuscripts, and art collections.' 
+        }
+    ]
+}
+,'cuttack': {
+    schools: [
+        { 
+            name: 'Stewart School Cuttack', 
+            rating: 4.9, 
+            address: 'Mission Road, Buxi Bazaar, Cuttack, Odisha 753001', 
+            description: 'Historic ICSE-affiliated school known for academic excellence and strong cultural values.' 
+        },
+        { 
+            name: 'DAV Public School, CDA Sector-6', 
+            rating: 4.8, 
+            address: 'CDA Sector-6, Cuttack, Odisha 753014', 
+            description: 'Top CBSE school offering modern education and a wide range of extracurricular activities.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Cuttack', 
+            rating: 4.7, 
+            address: 'Sector-1, CDA, Cuttack, Odisha 753014', 
+            description: 'Central government school providing quality education and all-round development.' 
+        },
+        { 
+            name: 'Modern Public School', 
+            rating: 4.6, 
+            address: 'Bidyadharpur, Cuttack, Odisha 753004', 
+            description: 'Reputed English-medium school focusing on academics, discipline, and modern teaching methods.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Barabati Restaurant', 
+            rating: 4.8, 
+            address: 'Near Barabati Stadium, Cuttack, Odisha 753008', 
+            description: 'Famous family restaurant serving Odia, Indian, and Tandoori cuisine.' 
+        },
+        { 
+            name: 'Silver Streak', 
+            rating: 4.7, 
+            address: 'Buxi Bazaar, Cuttack, Odisha 753001', 
+            description: 'Popular eatery offering Indo-Chinese and multi-cuisine dishes with modern ambience.' 
+        },
+        { 
+            name: 'Trupti Restaurant', 
+            rating: 4.6, 
+            address: 'College Square, Cuttack, Odisha 753003', 
+            description: 'Well-known for authentic Odia meals, vegetarian thalis, and family-friendly service.' 
+        },
+        { 
+            name: 'Barista Café', 
+            rating: 4.5, 
+            address: 'Link Road, Cuttack, Odisha 753012', 
+            description: 'Trendy café serving coffee, sandwiches, and desserts with cozy seating.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'SCB Medical College and Hospital', 
+            rating: 4.9, 
+            address: 'Mangalabag, Cuttack, Odisha 753007', 
+            description: 'One of India’s oldest and largest government hospitals offering advanced medical facilities.' 
+        },
+        { 
+            name: 'Ashwini Hospital', 
+            rating: 4.8, 
+            address: 'Sector-1, CDA, Cuttack, Odisha 753014', 
+            description: 'Modern multi-specialty hospital known for cardiac care and surgical services.' 
+        },
+        { 
+            name: 'Shakti Hospital', 
+            rating: 4.6, 
+            address: 'Link Road, Cuttack, Odisha 753012', 
+            description: 'Private healthcare center offering comprehensive diagnostics and emergency services.' 
+        },
+        { 
+            name: 'Hitech Hospital', 
+            rating: 4.5, 
+            address: 'Bidanasi, Cuttack, Odisha 753008', 
+            description: 'Advanced hospital with state-of-the-art facilities for general and specialized treatment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Barabati Fort', 
+            rating: 4.8, 
+            address: 'Near Barabati Stadium, Cuttack, Odisha 753008', 
+            description: 'Historic 14th-century fort offering scenic views and remnants of Odisha’s medieval architecture.' 
+        },
+        { 
+            name: 'Netaji Birth Place Museum', 
+            rating: 4.8, 
+            address: 'Oriya Bazaar, Cuttack, Odisha 753002', 
+            description: 'Museum dedicated to Netaji Subhas Chandra Bose featuring memorabilia and artifacts.' 
+        },
+        { 
+            name: 'Deer Park (Madhusudan Nagar)', 
+            rating: 4.6, 
+            address: 'Madhusudan Nagar, Cuttack, Odisha 753008', 
+            description: 'Peaceful green park with deer, walking trails, and family picnic spots.' 
+        },
+        { 
+            name: 'Mahanadi Barrage', 
+            rating: 4.6, 
+            address: 'Near CDA, Cuttack, Odisha 753015', 
+            description: 'Iconic river barrage offering scenic sunset views and a popular photography point.' 
+        }
+    ]
+}
+,'rourkela': {
+    schools: [
+        { 
+            name: 'Delhi Public School, Rourkela', 
+            rating: 4.9, 
+            address: 'Sector-14, Rourkela, Odisha 769009', 
+            description: 'Top CBSE-affiliated school known for academic excellence, modern facilities, and co-curricular focus.' 
+        },
+        { 
+            name: 'Ispat English Medium School', 
+            rating: 4.8, 
+            address: 'Sector-20, Rourkela, Odisha 769005', 
+            description: 'Renowned school managed by SAIL offering holistic education and value-based learning.' 
+        },
+        { 
+            name: 'St. Joseph’s Convent School', 
+            rating: 4.7, 
+            address: 'Udit Nagar, Rourkela, Odisha 769012', 
+            description: 'ICSE school emphasizing discipline, quality teaching, and moral education.' 
+        },
+        { 
+            name: 'Deepika English Medium School', 
+            rating: 4.6, 
+            address: 'Sector-5, Rourkela, Odisha 769002', 
+            description: 'Well-established school focusing on balanced academics and extracurricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Roof Top Restaurant', 
+            rating: 4.8, 
+            address: 'Koel Nagar, Rourkela, Odisha 769014', 
+            description: 'Premium dining spot offering multicuisine dishes with a scenic rooftop view.' 
+        },
+        { 
+            name: 'Moti Mahal Delux', 
+            rating: 4.7, 
+            address: 'Panposh Road, Rourkela, Odisha 769004', 
+            description: 'Famous chain restaurant serving authentic North Indian and Mughlai cuisine.' 
+        },
+        { 
+            name: 'Mad About Food Café', 
+            rating: 4.6, 
+            address: 'Sector-19, Rourkela, Odisha 769005', 
+            description: 'Trendy café popular among youth for snacks, fast food, and coffee.' 
+        },
+        { 
+            name: 'The Yellow Chilli', 
+            rating: 4.6, 
+            address: 'Koel Nagar, Rourkela, Odisha 769014', 
+            description: 'Modern restaurant by Chef Sanjeev Kapoor offering fine Indian dining.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Ispat General Hospital', 
+            rating: 4.9, 
+            address: 'Sector-19, Rourkela, Odisha 769005', 
+            description: 'Large government hospital managed by SAIL offering advanced healthcare services.' 
+        },
+        { 
+            name: 'Hi-Tech Medical College & Hospital', 
+            rating: 4.7, 
+            address: 'Chhend Colony, Rourkela, Odisha 769015', 
+            description: 'Renowned private medical institution providing specialized treatment and education.' 
+        },
+        { 
+            name: 'JP Hospital & Research Centre', 
+            rating: 4.6, 
+            address: 'Sector-18, Rourkela, Odisha 769005', 
+            description: 'Well-equipped hospital offering general and specialized healthcare facilities.' 
+        },
+        { 
+            name: 'Kalinga Hospital Rourkela', 
+            rating: 4.5, 
+            address: 'Civil Township, Rourkela, Odisha 769004', 
+            description: 'Trusted multi-specialty hospital known for quality care and professional staff.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Hanuman Vatika', 
+            rating: 4.8, 
+            address: 'Civil Township, Rourkela, Odisha 769004', 
+            description: 'Famous religious complex with a 75-foot tall Hanuman statue and peaceful gardens.' 
+        },
+        { 
+            name: 'Mandira Dam', 
+            rating: 4.8, 
+            address: 'Mandira, near Rourkela, Odisha 770036', 
+            description: 'Beautiful dam site offering boating, picnic spots, and scenic views.' 
+        },
+        { 
+            name: 'Indira Gandhi Park', 
+            rating: 4.7, 
+            address: 'Sector-4, Rourkela, Odisha 769002', 
+            description: 'Large urban park featuring lake, gardens, musical fountain, and zoo area.' 
+        },
+        { 
+            name: 'Vedavyas Temple', 
+            rating: 4.6, 
+            address: 'Confluence of Koel, Sankha, and Brahmani Rivers, Rourkela, Odisha 769004', 
+            description: 'Sacred site believed to be the birthplace of Vedavyasa, with serene river views.' 
+        }
+    ]
+}
+,'berhampur': {
+    schools: [
+        { 
+            name: 'St. Vincent’s Convent School', 
+            rating: 4.9, 
+            address: 'Berhampur, Ganjam, Odisha 760001', 
+            description: 'Premier ICSE school known for academic excellence, discipline, and all-round development.' 
+        },
+        { 
+            name: 'DAV Public School, Berhampur', 
+            rating: 4.8, 
+            address: 'Gosaninuagaon, Berhampur, Odisha 760003', 
+            description: 'Top CBSE-affiliated school providing modern education with cultural and moral values.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Berhampur', 
+            rating: 4.7, 
+            address: 'Army Cantonment, Berhampur, Odisha 760001', 
+            description: 'Central government school with emphasis on quality academics and national integration.' 
+        },
+        { 
+            name: 'St. Paul’s School', 
+            rating: 4.6, 
+            address: 'Ankuli, Berhampur, Odisha 760010', 
+            description: 'English-medium school focused on holistic education and extracurricular exposure.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Zaika Restaurant', 
+            rating: 4.8, 
+            address: 'Giri Road, Berhampur, Odisha 760001', 
+            description: 'Popular family restaurant known for North Indian and Chinese cuisine with great ambience.' 
+        },
+        { 
+            name: 'Hotspot Restaurant & Café', 
+            rating: 4.7, 
+            address: 'Ankuli, Berhampur, Odisha 760010', 
+            description: 'Trendy café serving fast food, beverages, and desserts with a modern setup.' 
+        },
+        { 
+            name: 'Tandoor Restaurant', 
+            rating: 4.6, 
+            address: 'Gandhi Nagar, Berhampur, Odisha 760001', 
+            description: 'Famous for tandoori and Mughlai dishes, ideal for family dining.' 
+        },
+        { 
+            name: 'Urban Tadka', 
+            rating: 4.5, 
+            address: 'Aska Road, Berhampur, Odisha 760002', 
+            description: 'Casual dining spot serving Odia and Indian cuisine with friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'MKCG Medical College & Hospital', 
+            rating: 4.9, 
+            address: 'Madanpur, Berhampur, Odisha 760004', 
+            description: 'Renowned government hospital offering multi-specialty medical and teaching facilities.' 
+        },
+        { 
+            name: 'Ayush Hospitals & Trauma Care', 
+            rating: 4.7, 
+            address: 'Gosaninuagaon, Berhampur, Odisha 760003', 
+            description: 'Modern healthcare center known for trauma and emergency services.' 
+        },
+        { 
+            name: 'Apollo Hospitals Berhampur', 
+            rating: 4.6, 
+            address: 'Ankuli, Berhampur, Odisha 760010', 
+            description: 'Multi-specialty private hospital providing advanced treatment and patient care.' 
+        },
+        { 
+            name: 'City Hospital', 
+            rating: 4.5, 
+            address: 'Giri Road, Berhampur, Odisha 760001', 
+            description: 'Trusted local hospital known for general medicine and maternity services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Gopalpur Beach', 
+            rating: 4.9, 
+            address: 'Gopalpur-on-Sea, near Berhampur, Odisha 761002', 
+            description: 'Famous seaside destination with golden sand, calm waters, and scenic beauty.' 
+        },
+        { 
+            name: 'Tara Tarini Temple', 
+            rating: 4.8, 
+            address: 'Kumari Hills, near Purushottampur, Ganjam, Odisha 761018', 
+            description: 'One of the oldest Shakti Peethas dedicated to Goddess Tara and Tarini, offering panoramic views.' 
+        },
+        { 
+            name: 'Dandisahi Beach', 
+            rating: 4.6, 
+            address: 'Near Gopalpur, Berhampur, Odisha 761002', 
+            description: 'Peaceful and lesser-known beach perfect for relaxation and picnics.' 
+        },
+        { 
+            name: 'Biju Patnaik Children’s Park', 
+            rating: 4.5, 
+            address: 'Gosaninuagaon, Berhampur, Odisha 760003', 
+            description: 'Popular local park with play areas, gardens, and open spaces for families.' 
+        }
+    ]
+}
+,'sambalpur': {
+    schools: [
+        { 
+            name: 'St. Joseph’s Convent Higher Secondary School', 
+            rating: 4.9, 
+            address: 'Brooks Hill, Sambalpur, Odisha 768001', 
+            description: 'Prestigious ICSE school known for excellent academics and character development.' 
+        },
+        { 
+            name: 'DAV Public School, Burla', 
+            rating: 4.8, 
+            address: 'Burla, Sambalpur, Odisha 768017', 
+            description: 'Leading CBSE school offering quality education and holistic learning environment.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Burla', 
+            rating: 4.7, 
+            address: 'Near VSSUT Campus, Burla, Odisha 768018', 
+            description: 'Central government school providing top-tier academics and extracurricular exposure.' 
+        },
+        { 
+            name: 'St. Vincent’s Convent School', 
+            rating: 4.6, 
+            address: 'Ainthapali, Sambalpur, Odisha 768004', 
+            description: 'English-medium school promoting discipline, values, and all-round education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Green Chilly Restaurant', 
+            rating: 4.8, 
+            address: 'Ainthapali, Sambalpur, Odisha 768004', 
+            description: 'Famous family restaurant serving Odia, North Indian, and Chinese cuisines.' 
+        },
+        { 
+            name: 'Utkal Continental Restaurant', 
+            rating: 4.7, 
+            address: 'Budharaja, Sambalpur, Odisha 768004', 
+            description: 'Upscale dining with regional delicacies and continental dishes.' 
+        },
+        { 
+            name: 'Aangan Restaurant', 
+            rating: 4.6, 
+            address: 'Modipada, Sambalpur, Odisha 768002', 
+            description: 'Popular restaurant offering vegetarian and Indian meals in a cozy atmosphere.' 
+        },
+        { 
+            name: 'Café Brewberrys', 
+            rating: 4.5, 
+            address: 'Dhanupali, Sambalpur, Odisha 768005', 
+            description: 'Trendy café serving coffee, snacks, and desserts — a youth favorite spot.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'VIMSAR (Veer Surendra Sai Institute of Medical Sciences and Research)', 
+            rating: 4.9, 
+            address: 'Burla, Sambalpur, Odisha 768017', 
+            description: 'Renowned government medical college and hospital serving western Odisha.' 
+        },
+        { 
+            name: 'Sparsh Hospital & Critical Care', 
+            rating: 4.7, 
+            address: 'Ainthapali, Sambalpur, Odisha 768004', 
+            description: 'Modern multi-specialty hospital known for trauma care and diagnostics.' 
+        },
+        { 
+            name: 'Life Worth Hospital', 
+            rating: 4.6, 
+            address: 'Modipada, Sambalpur, Odisha 768002', 
+            description: 'Private healthcare facility offering specialized treatments and surgery.' 
+        },
+        { 
+            name: 'Shanti Memorial Hospital', 
+            rating: 4.5, 
+            address: 'Budharaja, Sambalpur, Odisha 768004', 
+            description: 'Trusted local hospital providing maternity and general healthcare services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Hirakud Dam', 
+            rating: 4.9, 
+            address: 'Hirakud, near Sambalpur, Odisha 768016', 
+            description: 'One of the longest dams in the world, famous for panoramic views and boating.' 
+        },
+        { 
+            name: 'Samaleswari Temple', 
+            rating: 4.8, 
+            address: 'Sambalpur City, Odisha 768001', 
+            description: 'Ancient temple dedicated to Goddess Samaleswari, the presiding deity of the region.' 
+        },
+        { 
+            name: 'Debrigarh Wildlife Sanctuary', 
+            rating: 4.7, 
+            address: 'Near Hirakud, Sambalpur, Odisha 768016', 
+            description: 'Beautiful sanctuary known for its rich flora, fauna, and scenic landscapes.' 
+        },
+        { 
+            name: 'Ghanteswari Temple', 
+            rating: 4.6, 
+            address: 'Chipilima, Sambalpur, Odisha 768025', 
+            description: 'Unique riverside temple known for bells and religious significance.' 
+        }
+    ]
+}
+,'balasore': {
+    schools: [
+        { 
+            name: 'St. Vincent’s Convent School', 
+            rating: 4.9, 
+            address: 'Near FM College, Balasore, Odisha 756001', 
+            description: 'Leading ICSE school known for discipline, academic excellence, and value-based education.' 
+        },
+        { 
+            name: 'DAV Public School, Balasore', 
+            rating: 4.8, 
+            address: 'Chandipur Road, Balasore, Odisha 756001', 
+            description: 'Reputed CBSE-affiliated school offering modern education and co-curricular opportunities.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Balasore', 
+            rating: 4.7, 
+            address: 'DRDO Campus, Chandipur, Balasore, Odisha 756025', 
+            description: 'Central government school providing quality education and national-level exposure.' 
+        },
+        { 
+            name: 'Modern Public School', 
+            rating: 4.6, 
+            address: 'Soro Road, Balasore, Odisha 756002', 
+            description: 'Well-known English-medium school focusing on holistic student development.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Nocci Residency Restaurant', 
+            rating: 4.8, 
+            address: 'Januganj, Balasore, Odisha 756019', 
+            description: 'Upscale restaurant offering multi-cuisine fine dining and a peaceful ambience.' 
+        },
+        { 
+            name: 'Zaika Family Restaurant', 
+            rating: 4.7, 
+            address: 'FM College Road, Balasore, Odisha 756001', 
+            description: 'Popular restaurant serving North Indian, Chinese, and Odia dishes.' 
+        },
+        { 
+            name: 'Tandoor Restaurant', 
+            rating: 4.6, 
+            address: 'Chandipur Road, Balasore, Odisha 756001', 
+            description: 'Casual dining spot famous for biryani, kebabs, and tandoori platters.' 
+        },
+        { 
+            name: 'Café Coffee Day', 
+            rating: 4.5, 
+            address: 'Station Square, Balasore, Odisha 756001', 
+            description: 'Modern café serving beverages, snacks, and desserts in a relaxing setup.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Balasore', 
+            rating: 4.8, 
+            address: 'Chandipur Road, Balasore, Odisha 756001', 
+            description: 'Major government hospital offering general and specialized healthcare services.' 
+        },
+        { 
+            name: 'Balasore Nursing Home & Research Centre', 
+            rating: 4.7, 
+            address: 'FM College Road, Balasore, Odisha 756001', 
+            description: 'Private multi-specialty hospital providing advanced diagnostics and treatment.' 
+        },
+        { 
+            name: 'Apollo Clinic Balasore', 
+            rating: 4.6, 
+            address: 'Januganj, Balasore, Odisha 756019', 
+            description: 'Modern healthcare clinic known for professional medical services and diagnostics.' 
+        },
+        { 
+            name: 'Jyoti Hospital', 
+            rating: 4.5, 
+            address: 'Soro Road, Balasore, Odisha 756002', 
+            description: 'Reputed local hospital providing affordable healthcare facilities.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Chandipur Beach', 
+            rating: 4.9, 
+            address: 'Chandipur, Balasore, Odisha 756025', 
+            description: 'Unique beach where the sea recedes up to 5 km during low tide, offering scenic beauty.' 
+        },
+        { 
+            name: 'Panchalingeswar Temple', 
+            rating: 4.8, 
+            address: 'Nilgiri Hills, Balasore, Odisha 756040', 
+            description: 'Famous temple nestled in hills, known for its natural rock formations and waterfalls.' 
+        },
+        { 
+            name: 'Khirachora Gopinath Temple', 
+            rating: 4.7, 
+            address: 'Remuna, Balasore, Odisha 756019', 
+            description: 'Ancient temple dedicated to Lord Krishna, a prominent pilgrimage destination.' 
+        },
+        { 
+            name: 'Emami Jagannath Temple', 
+            rating: 4.6, 
+            address: 'Balagopalpur, near Balasore, Odisha 756020', 
+            description: 'Architecturally beautiful temple inspired by Puri Jagannath Temple.' 
+        }
+    ]
+}
+,'baripada': {
+    schools: [
+        { 
+            name: 'St. Anne’s Convent School', 
+            rating: 4.8, 
+            address: 'Udala Road, Baripada, Odisha 757001', 
+            description: 'Premier English-medium school offering ICSE curriculum with focus on discipline and academics.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Baripada', 
+            rating: 4.7, 
+            address: 'Bhanjpur, Baripada, Odisha 757002', 
+            description: 'Central government residential school providing holistic CBSE education and extracurricular excellence.' 
+        },
+        { 
+            name: 'DAV Public School, Baripada', 
+            rating: 4.6, 
+            address: 'Takatpur, Baripada, Odisha 757003', 
+            description: 'CBSE-affiliated school emphasizing academics, sports, and personality development.' 
+        },
+        { 
+            name: 'St. Xavier’s High School', 
+            rating: 4.5, 
+            address: 'Bhanjpur Road, Baripada, Odisha 757001', 
+            description: 'Well-known institution offering modern education with moral and ethical values.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Ambika Restaurant', 
+            rating: 4.8, 
+            address: 'Station Road, Baripada, Odisha 757001', 
+            description: 'Top-rated family restaurant serving Indian and Chinese dishes with warm hospitality.' 
+        },
+        { 
+            name: 'Zaika Restaurant', 
+            rating: 4.7, 
+            address: 'Takatpur, Baripada, Odisha 757003', 
+            description: 'Popular dining spot known for delicious North Indian and South Indian cuisines.' 
+        },
+        { 
+            name: 'The Green Park Restaurant', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Baripada, Odisha 757001', 
+            description: 'Casual family restaurant offering a mix of local and continental flavors.' 
+        },
+        { 
+            name: 'Food Plaza Café', 
+            rating: 4.5, 
+            address: 'Bhanjpur Market, Baripada, Odisha 757002', 
+            description: 'Trendy café serving fast food, shakes, and desserts with a cozy setup.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Pandit Raghunath Murmu Medical College and Hospital', 
+            rating: 4.8, 
+            address: 'Baripada, Odisha 757001', 
+            description: 'Major government medical college and hospital providing comprehensive healthcare facilities.' 
+        },
+        { 
+            name: 'Baripada District Headquarters Hospital', 
+            rating: 4.7, 
+            address: 'Bhanjpur, Baripada, Odisha 757002', 
+            description: 'Government hospital offering a wide range of healthcare and emergency services.' 
+        },
+        { 
+            name: 'Sunshine Hospital', 
+            rating: 4.6, 
+            address: 'Takatpur, Baripada, Odisha 757003', 
+            description: 'Modern multi-specialty hospital known for quality medical care and diagnostics.' 
+        },
+        { 
+            name: 'Jeevan Jyoti Hospital', 
+            rating: 4.5, 
+            address: 'Udala Road, Baripada, Odisha 757001', 
+            description: 'Private healthcare center providing affordable treatment and consultation services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Similipal National Park', 
+            rating: 4.9, 
+            address: 'Mayurbhanj District, near Baripada, Odisha 757001', 
+            description: 'UNESCO-recognized biosphere reserve famous for wildlife, waterfalls, and natural beauty.' 
+        },
+        { 
+            name: 'Khiching Temple', 
+            rating: 4.8, 
+            address: 'Khiching, near Baripada, Odisha 757001', 
+            description: 'Historic temple dedicated to Goddess Kichakeswari, known for exquisite stone architecture.' 
+        },
+        { 
+            name: 'Jwalamukhi Temple', 
+            rating: 4.6, 
+            address: 'Bhanjpur, Baripada, Odisha 757002', 
+            description: 'Popular religious site with scenic surroundings and local cultural importance.' 
+        },
+        { 
+            name: 'Devkund Waterfall', 
+            rating: 4.7, 
+            address: 'Similipal Range, near Baripada, Odisha 757002', 
+            description: 'Picturesque waterfall located within Similipal National Park, ideal for trekking and nature walks.' 
+        }
+    ]
+}
+,'bhadrak': {
+    schools: [
+        { 
+            name: 'St. Xavier’s High School', 
+            rating: 4.8, 
+            address: 'Charampa, Bhadrak, Odisha 756101', 
+            description: 'Reputed English-medium school known for strong academics and disciplined environment.' 
+        },
+        { 
+            name: 'DAV Public School, Bhadrak', 
+            rating: 4.7, 
+            address: 'Randia, Bhadrak, Odisha 756135', 
+            description: 'CBSE-affiliated school providing excellent infrastructure and holistic education.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Bhadrak', 
+            rating: 4.6, 
+            address: 'Randia Industrial Estate, Bhadrak, Odisha 756135', 
+            description: 'Central government school known for high academic standards and extracurricular focus.' 
+        },
+        { 
+            name: 'St. Mary’s School', 
+            rating: 4.5, 
+            address: 'Bypass Road, Bhadrak, Odisha 756100', 
+            description: 'Private school offering value-based education and co-curricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Durga Restaurant', 
+            rating: 4.8, 
+            address: 'Charampa, Bhadrak, Odisha 756101', 
+            description: 'Top-rated restaurant serving authentic Odia and Indian cuisines in a family-friendly setup.' 
+        },
+        { 
+            name: 'The Food Junction', 
+            rating: 4.7, 
+            address: 'Randia Chowk, Bhadrak, Odisha 756135', 
+            description: 'Popular multicuisine restaurant offering Indian, Chinese, and fast food options.' 
+        },
+        { 
+            name: 'Zaika Family Restaurant', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Bhadrak, Odisha 756100', 
+            description: 'Casual dining spot known for North Indian dishes and tandoori platters.' 
+        },
+        { 
+            name: 'Café Brew Town', 
+            rating: 4.5, 
+            address: 'Station Road, Bhadrak, Odisha 756100', 
+            description: 'Trendy café serving snacks, shakes, and coffee in a relaxed atmosphere.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Bhadrak', 
+            rating: 4.8, 
+            address: 'Charampa, Bhadrak, Odisha 756101', 
+            description: 'Major government hospital offering general and emergency healthcare services.' 
+        },
+        { 
+            name: 'Hi-Tech Medical Bhadrak', 
+            rating: 4.7, 
+            address: 'Randia Road, Bhadrak, Odisha 756135', 
+            description: 'Modern multi-specialty hospital with advanced facilities and quality healthcare.' 
+        },
+        { 
+            name: 'Sun Hospital', 
+            rating: 4.6, 
+            address: 'Januganj, Bhadrak, Odisha 756100', 
+            description: 'Private healthcare center providing surgical and maternity services.' 
+        },
+        { 
+            name: 'City Care Hospital', 
+            rating: 4.5, 
+            address: 'Near Collector Office, Bhadrak, Odisha 756100', 
+            description: 'Well-equipped local hospital focused on general and emergency treatments.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Dhamra Port', 
+            rating: 4.9, 
+            address: 'Dhamra, Bhadrak District, Odisha 756171', 
+            description: 'Major seaport and scenic coastal destination with industrial and tourism significance.' 
+        },
+        { 
+            name: 'Baba Akhandalamani Temple', 
+            rating: 4.8, 
+            address: 'Aradi, Bhadrak, Odisha 756113', 
+            description: 'Famous Shiva temple located on the bank of River Baitarani, attracting thousands of devotees.' 
+        },
+        { 
+            name: 'Chandbali', 
+            rating: 4.7, 
+            address: 'Bhadrak District, Odisha 756133', 
+            description: 'Historic river port and gateway to Bhitarkanika National Park, offering scenic river views.' 
+        },
+        { 
+            name: 'Bhitarkanika National Park (via Chandbali)', 
+            rating: 4.9, 
+            address: 'Kendrapara District (accessible from Bhadrak via Chandbali)', 
+            description: 'Renowned mangrove forest and crocodile sanctuary, accessible through Bhadrak’s Chandbali route.' 
+        }
+    ]
+}
+,'puri': {
+    schools: [
+        { 
+            name: 'St. Xavier’s High School, Puri', 
+            rating: 4.9, 
+            address: 'Baliapanda, Puri, Odisha 752001', 
+            description: 'Renowned ICSE school offering modern facilities, quality teaching, and value-based education.' 
+        },
+        { 
+            name: 'DAV Public School, Puri', 
+            rating: 4.8, 
+            address: 'Sipasarubali, Puri, Odisha 752002', 
+            description: 'CBSE-affiliated institution known for academic excellence and co-curricular balance.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Puri', 
+            rating: 4.7, 
+            address: 'Talabania, Puri, Odisha 752001', 
+            description: 'Central government school offering quality education with a focus on holistic growth.' 
+        },
+        { 
+            name: 'Mother’s Public School (Branch)', 
+            rating: 4.6, 
+            address: 'Chakratirtha Road, Puri, Odisha 752001', 
+            description: 'Branch of a leading school chain, known for modern learning and extracurricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Wildgrass Restaurant', 
+            rating: 4.9, 
+            address: 'VIP Road, Puri, Odisha 752001', 
+            description: 'Highly rated restaurant serving Indian, Chinese, and seafood dishes in a scenic garden setting.' 
+        },
+        { 
+            name: 'Honey Bee Bakery & Pizzeria', 
+            rating: 4.8, 
+            address: 'Chakratirtha Road, Puri, Odisha 752001', 
+            description: 'Trendy café serving pizzas, desserts, and continental meals with a seaside vibe.' 
+        },
+        { 
+            name: 'Chung Wah Restaurant', 
+            rating: 4.7, 
+            address: 'VIP Road, Puri, Odisha 752001', 
+            description: 'Popular Chinese restaurant offering authentic Asian flavors in an elegant setting.' 
+        },
+        { 
+            name: 'Bhojohori Manna', 
+            rating: 4.6, 
+            address: 'Grand Road, Puri, Odisha 752001', 
+            description: 'Bengali restaurant famous for traditional thalis and homestyle seafood preparations.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Puri', 
+            rating: 4.8, 
+            address: 'Hospital Road, Puri, Odisha 752001', 
+            description: 'Major government hospital providing general and emergency healthcare facilities.' 
+        },
+        { 
+            name: 'Puri Sea Beach Hospital', 
+            rating: 4.7, 
+            address: 'Baliapanda, Puri, Odisha 752002', 
+            description: 'Private multi-specialty hospital offering 24/7 emergency and critical care services.' 
+        },
+        { 
+            name: 'Apollo Clinic Puri', 
+            rating: 4.6, 
+            address: 'VIP Road, Puri, Odisha 752001', 
+            description: 'Modern diagnostic and consultation center with experienced medical professionals.' 
+        },
+        { 
+            name: 'Sudarshan Hospital', 
+            rating: 4.5, 
+            address: 'Grand Road, Puri, Odisha 752001', 
+            description: 'Well-known local hospital providing maternity and general medical services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Shree Jagannath Temple', 
+            rating: 5.0, 
+            address: 'Grand Road, Puri, Odisha 752001', 
+            description: 'World-famous Hindu temple and one of the Char Dham pilgrimage sites, dedicated to Lord Jagannath.' 
+        },
+        { 
+            name: 'Puri Sea Beach', 
+            rating: 4.9, 
+            address: 'Marine Drive, Puri, Odisha 752001', 
+            description: 'Popular beach known for sunrise views, camel rides, and religious significance.' 
+        },
+        { 
+            name: 'Chilika Lake (Satapada)', 
+            rating: 4.8, 
+            address: 'Satapada, near Puri, Odisha 752011', 
+            description: 'Asia’s largest brackish water lagoon, home to dolphins and migratory birds.' 
+        },
+        { 
+            name: 'Raghurajpur Heritage Village', 
+            rating: 4.7, 
+            address: 'Raghurajpur, near Puri, Odisha 752012', 
+            description: 'Traditional artisan village famous for Pattachitra paintings and cultural craftsmanship.' 
+        }
+    ]
+},
+'jeypore': {
+    schools: [
+        { 
+            name: 'DAV Public School, Jeypore', 
+            rating: 4.8, 
+            address: 'Koraput Road, Jeypore, Odisha 764001', 
+            description: 'Renowned CBSE-affiliated school offering strong academics, sports, and cultural activities.' 
+        },
+        { 
+            name: 'St. Joseph’s Convent School', 
+            rating: 4.7, 
+            address: 'Main Road, Jeypore, Odisha 764001', 
+            description: 'ICSE-affiliated English-medium school known for discipline, academics, and holistic education.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Jeypore', 
+            rating: 4.6, 
+            address: 'Koraput Road, Jeypore, Odisha 764001', 
+            description: 'Central government school offering quality education with extracurricular opportunities.' 
+        },
+        { 
+            name: 'Vikash Residential School', 
+            rating: 4.5, 
+            address: 'Dhanapur, Jeypore, Odisha 764002', 
+            description: 'Well-known CBSE school emphasizing all-round development and modern teaching methods.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Hello Jeypore Restaurant', 
+            rating: 4.8, 
+            address: 'Main Road, Jeypore, Odisha 764001', 
+            description: 'Popular multicuisine restaurant offering Indian, Chinese, and local Odia delicacies.' 
+        },
+        { 
+            name: 'Royal Treat Restaurant', 
+            rating: 4.7, 
+            address: 'Bus Stand Road, Jeypore, Odisha 764001', 
+            description: 'Top-rated restaurant known for family dining and authentic South Indian meals.' 
+        },
+        { 
+            name: 'Hotel Sai International Restaurant', 
+            rating: 4.6, 
+            address: 'Koraput Road, Jeypore, Odisha 764001', 
+            description: 'Fine dining restaurant offering a mix of regional and continental cuisines.' 
+        },
+        { 
+            name: 'Café Jeypore', 
+            rating: 4.5, 
+            address: 'Station Road, Jeypore, Odisha 764001', 
+            description: 'Modern café serving fast food, coffee, and desserts in a casual setup.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Jeypore', 
+            rating: 4.8, 
+            address: 'Hospital Road, Jeypore, Odisha 764001', 
+            description: 'Major government hospital offering essential healthcare and emergency services.' 
+        },
+        { 
+            name: 'Aurobindo Hospital & Research Centre', 
+            rating: 4.7, 
+            address: 'Koraput Road, Jeypore, Odisha 764001', 
+            description: 'Private multi-specialty hospital known for surgical and diagnostic excellence.' 
+        },
+        { 
+            name: 'Sai Krishna Hospital', 
+            rating: 4.6, 
+            address: 'Bus Stand Road, Jeypore, Odisha 764001', 
+            description: 'Well-equipped hospital offering maternity and general healthcare services.' 
+        },
+        { 
+            name: 'Sunshine Hospital', 
+            rating: 4.5, 
+            address: 'Main Road, Jeypore, Odisha 764002', 
+            description: 'Local multi-specialty hospital providing affordable and quality treatment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Duduma Waterfall', 
+            rating: 4.9, 
+            address: 'Machkund, near Jeypore, Odisha 764001', 
+            description: 'Spectacular waterfall on the Machkund River, surrounded by lush green valleys.' 
+        },
+        { 
+            name: 'Gupteswar Cave Temple', 
+            rating: 4.8, 
+            address: 'Near Jeypore, Odisha 764001', 
+            description: 'Sacred cave temple dedicated to Lord Shiva, known for natural limestone formations.' 
+        },
+        { 
+            name: 'Kolab Dam', 
+            rating: 4.7, 
+            address: 'Kolab Reservoir, near Jeypore, Odisha 764002', 
+            description: 'Scenic dam and picnic spot offering boating and panoramic mountain views.' 
+        },
+        { 
+            name: 'Deomali Hills', 
+            rating: 4.8, 
+            address: 'Near Koraput, close to Jeypore, Odisha 764002', 
+            description: 'Odisha’s highest peak, famous for trekking, sunrise views, and natural beauty.' 
+        }
+    ]
+}
+,'dhenkanal': {
+    schools: [
+        { 
+            name: 'St. Xavier’s High School, Dhenkanal', 
+            rating: 4.8, 
+            address: 'Station Road, Dhenkanal, Odisha 759001', 
+            description: 'Reputed ICSE-affiliated English-medium school emphasizing discipline, academics, and co-curricular growth.' 
+        },
+        { 
+            name: 'DAV Public School, Dhenkanal', 
+            rating: 4.7, 
+            address: 'Kunjakanta, Dhenkanal, Odisha 759001', 
+            description: 'Top CBSE school known for strong academics and modern facilities.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Dhenkanal', 
+            rating: 4.6, 
+            address: 'Similia, Dhenkanal, Odisha 759013', 
+            description: 'Central government school offering quality CBSE education and extracurricular opportunities.' 
+        },
+        { 
+            name: 'Saraswati Shishu Vidya Mandir', 
+            rating: 4.5, 
+            address: 'College Bypass Road, Dhenkanal, Odisha 759001', 
+            description: 'Local educational institution promoting value-based education and cultural learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Surya Restaurant', 
+            rating: 4.8, 
+            address: 'College Road, Dhenkanal, Odisha 759001', 
+            description: 'Highly rated restaurant serving Indian, Chinese, and Odia cuisines in a family-friendly setting.' 
+        },
+        { 
+            name: 'The Tasty Treat', 
+            rating: 4.7, 
+            address: 'Near Bus Stand, Dhenkanal, Odisha 759001', 
+            description: 'Popular eatery offering delicious thalis, fast food, and beverages.' 
+        },
+        { 
+            name: 'Zaika Family Restaurant', 
+            rating: 4.6, 
+            address: 'Kunjakanta, Dhenkanal, Odisha 759001', 
+            description: 'Modern restaurant known for authentic North Indian and Chinese dishes.' 
+        },
+        { 
+            name: 'Café Square', 
+            rating: 4.5, 
+            address: 'Station Road, Dhenkanal, Odisha 759001', 
+            description: 'Trendy café offering snacks, desserts, and coffee in a relaxing ambiance.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Dhenkanal', 
+            rating: 4.8, 
+            address: 'Kunjakanta, Dhenkanal, Odisha 759001', 
+            description: 'Major government hospital providing general and emergency healthcare services.' 
+        },
+        { 
+            name: 'Hi-Tech Hospital Dhenkanal', 
+            rating: 4.7, 
+            address: 'College Road, Dhenkanal, Odisha 759001', 
+            description: 'Private multi-specialty hospital offering advanced medical and diagnostic services.' 
+        },
+        { 
+            name: 'Care and Cure Hospital', 
+            rating: 4.6, 
+            address: 'Station Road, Dhenkanal, Odisha 759001', 
+            description: 'Modern healthcare center providing surgical, maternity, and pediatric care.' 
+        },
+        { 
+            name: 'Jeevan Jyoti Nursing Home', 
+            rating: 4.5, 
+            address: 'Kunjakanta, Dhenkanal, Odisha 759001', 
+            description: 'Reputed nursing home providing affordable and reliable medical care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Kapilash Temple', 
+            rating: 4.9, 
+            address: 'Kapilash Hill, Dhenkanal, Odisha 759013', 
+            description: 'Famous Shiva temple situated on a hilltop offering panoramic views and spiritual peace.' 
+        },
+        { 
+            name: 'Dhenkanal Palace', 
+            rating: 4.8, 
+            address: 'Kunjakanta, Dhenkanal, Odisha 759001', 
+            description: 'Historic royal palace now partly open to tourists, showcasing heritage architecture.' 
+        },
+        { 
+            name: 'Saptasajya', 
+            rating: 4.7, 
+            address: 'Near Dhenkanal, Odisha 759013', 
+            description: 'Picturesque hill and forest area with mythological significance and natural beauty.' 
+        },
+        { 
+            name: 'Joranda Mela & Mahima Gadi', 
+            rating: 4.7, 
+            address: 'Joranda, Dhenkanal, Odisha 759014', 
+            description: 'Spiritual center of Mahima Dharma known for its unique religious practices and peaceful surroundings.' 
+        }
+    ]
+}
+,'angul': {
+    schools: [
+        { 
+            name: 'DAV Public School, Angul', 
+            rating: 4.8, 
+            address: 'Nalco Nagar, Angul, Odisha 759145', 
+            description: 'Top-ranked CBSE school providing modern facilities, science labs, and sports infrastructure.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Angul', 
+            rating: 4.7, 
+            address: 'Nalco Nagar, Angul, Odisha 759145', 
+            description: 'Central government school offering holistic CBSE education and extracurricular excellence.' 
+        },
+        { 
+            name: 'Odisha Adarsha Vidyalaya, Angul', 
+            rating: 4.6, 
+            address: 'Banarpal, Angul, Odisha 759128', 
+            description: 'State-run model school emphasizing both academics and moral development.' 
+        },
+        { 
+            name: 'St. Xavier’s High School, Angul', 
+            rating: 4.5, 
+            address: 'Turang, Angul, Odisha 759123', 
+            description: 'ICSE-affiliated English-medium school focusing on strong academics and discipline.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Shakti Continental', 
+            rating: 4.8, 
+            address: 'Turang, Angul, Odisha 759122', 
+            description: 'Luxury restaurant serving North Indian, South Indian, and Chinese dishes with fine dining experience.' 
+        },
+        { 
+            name: 'Biryani House Angul', 
+            rating: 4.7, 
+            address: 'College Road, Angul, Odisha 759122', 
+            description: 'Popular family restaurant specializing in biryani, kebabs, and Mughlai cuisine.' 
+        },
+        { 
+            name: 'Food Hub Family Restaurant', 
+            rating: 4.6, 
+            address: 'Nalco Nagar, Angul, Odisha 759145', 
+            description: 'Casual dining restaurant offering multi-cuisine options and a pleasant atmosphere.' 
+        },
+        { 
+            name: 'Zaika Fast Food', 
+            rating: 4.5, 
+            address: 'Bus Stand Road, Angul, Odisha 759122', 
+            description: 'Local favorite for quick snacks, rolls, and fast food at affordable prices.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital, Angul', 
+            rating: 4.8, 
+            address: 'College Road, Angul, Odisha 759122', 
+            description: 'Main government hospital providing emergency and general healthcare services.' 
+        },
+        { 
+            name: 'Jindal Fortis Hospital', 
+            rating: 4.7, 
+            address: 'Jindal Nagar, Angul, Odisha 759111', 
+            description: 'Modern multi-specialty hospital with advanced diagnostic and treatment facilities.' 
+        },
+        { 
+            name: 'Hi-Tech Hospital Angul', 
+            rating: 4.6, 
+            address: 'Turang, Angul, Odisha 759122', 
+            description: 'Private healthcare facility offering comprehensive medical and surgical services.' 
+        },
+        { 
+            name: 'Care Hospital Angul', 
+            rating: 4.5, 
+            address: 'Nalco Nagar, Angul, Odisha 759145', 
+            description: 'Well-equipped hospital known for patient care and modern healthcare practices.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Satkosia Tiger Reserve', 
+            rating: 4.9, 
+            address: 'Tikarpada, Angul, Odisha 759132', 
+            description: 'Famous wildlife sanctuary and eco-tourism spot known for its scenic gorge and tiger reserve.' 
+        },
+        { 
+            name: 'Tikarpada Wildlife Sanctuary', 
+            rating: 4.8, 
+            address: 'Tikarpada, Angul, Odisha 759132', 
+            description: 'Beautiful forest area along the Mahanadi River ideal for boating and nature exploration.' 
+        },
+        { 
+            name: 'Derjang Reservoir', 
+            rating: 4.7, 
+            address: 'Derjang, Angul, Odisha 759123', 
+            description: 'Serene dam site popular for picnics, photography, and boating activities.' 
+        },
+        { 
+            name: 'Kualo Temple Complex', 
+            rating: 4.6, 
+            address: 'Kualo, Angul, Odisha 759122', 
+            description: 'Ancient temple complex with remarkable stone carvings and historical significance.' 
+        }
+    ]
+}
+,'paradip': {
+    schools: [
+        { 
+            name: 'Delhi Public School, Paradip Refinery', 
+            rating: 4.8, 
+            address: 'IOCL Township, Paradip, Odisha 754142', 
+            description: 'Premier CBSE school run under IOCL management, offering world-class education and facilities.' 
+        },
+        { 
+            name: 'St. Xavier’s High School, Paradip', 
+            rating: 4.7, 
+            address: 'Sandhakuda, Paradip, Odisha 754142', 
+            description: 'ICSE-affiliated English-medium school known for strong academics and discipline.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Paradip Port', 
+            rating: 4.6, 
+            address: 'Port Township, Paradip, Odisha 754142', 
+            description: 'Central government school catering to children of port and public sector employees.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya, Paradip', 
+            rating: 4.5, 
+            address: 'Kujang, Paradip, Odisha 754141', 
+            description: 'Residential CBSE school for talented students providing excellent education and activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Golden Anchor', 
+            rating: 4.8, 
+            address: 'Port Road, Paradip, Odisha 754142', 
+            description: 'Luxury hotel restaurant offering multicuisine dining with a view of the sea port.' 
+        },
+        { 
+            name: 'Marine Drive Restaurant', 
+            rating: 4.7, 
+            address: 'Marine Drive Road, Paradip, Odisha 754142', 
+            description: 'Popular family restaurant serving seafood, Indian, and Chinese cuisines.' 
+        },
+        { 
+            name: 'The Port Kitchen', 
+            rating: 4.6, 
+            address: 'Port Township, Paradip, Odisha 754142', 
+            description: 'Trendy restaurant with indoor dining, famous for grilled dishes and desserts.' 
+        },
+        { 
+            name: 'Hotel Paradeep International', 
+            rating: 4.5, 
+            address: 'Cuttack-Paradip Road, Paradip, Odisha 754142', 
+            description: 'Elegant dining place offering traditional Odia thalis and seafood specialties.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Biju Memorial Hospital', 
+            rating: 4.8, 
+            address: 'Port Area, Paradip, Odisha 754142', 
+            description: 'Government hospital providing general and emergency healthcare for the local population.' 
+        },
+        { 
+            name: 'IOCL Hospital', 
+            rating: 4.7, 
+            address: 'IOCL Refinery Township, Paradip, Odisha 754142', 
+            description: 'Multi-specialty hospital catering to refinery employees and nearby residents.' 
+        },
+        { 
+            name: 'Paradip Port Hospital', 
+            rating: 4.6, 
+            address: 'Port Township, Paradip, Odisha 754142', 
+            description: 'Healthcare facility offering quality treatment and diagnostic services for port workers.' 
+        },
+        { 
+            name: 'Care & Cure Hospital', 
+            rating: 4.5, 
+            address: 'Cuttack Road, Paradip, Odisha 754142', 
+            description: 'Private hospital offering specialized care in orthopedics, maternity, and general medicine.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Paradip Beach', 
+            rating: 4.9, 
+            address: 'Marine Drive, Paradip, Odisha 754142', 
+            description: 'Beautiful beach famous for sunrise views, sea waves, and peaceful surroundings.' 
+        },
+        { 
+            name: 'Smruti Udyan (Memorial Garden)', 
+            rating: 4.8, 
+            address: 'Port Area, Paradip, Odisha 754142', 
+            description: 'Memorial park built in honor of Biju Patnaik, offering green lawns and sculptures.' 
+        },
+        { 
+            name: 'Paradip Port', 
+            rating: 4.7, 
+            address: 'Port Area, Paradip, Odisha 754142', 
+            description: 'One of India’s major ports, known for its massive cargo handling and marine activities.' 
+        },
+        { 
+            name: 'Gopinath Temple', 
+            rating: 4.6, 
+            address: 'Near Port Township, Paradip, Odisha 754142', 
+            description: 'Historic temple dedicated to Lord Krishna, attracting pilgrims and visitors alike.' 
+        }
+    ]
+}
+,'bargarh': {
+    schools: [
+        { 
+            name: 'DAV Public School, Bargarh', 
+            rating: 4.8, 
+            address: 'Canal Road, Bargarh, Odisha 768028', 
+            description: 'Top CBSE-affiliated school known for quality education, discipline, and extracurricular development.' 
+        },
+        { 
+            name: 'Vivekananda Vidya Mandir', 
+            rating: 4.7, 
+            address: 'Samaleswari Nagar, Bargarh, Odisha 768028', 
+            description: 'English-medium school offering strong academics and focus on cultural and moral values.' 
+        },
+        { 
+            name: 'St. Mary’s Convent School', 
+            rating: 4.6, 
+            address: 'Bhatli Road, Bargarh, Odisha 768028', 
+            description: 'ICSE school emphasizing all-round growth, discipline, and interactive learning.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya, Bargarh', 
+            rating: 4.5, 
+            address: 'Barpali, Bargarh, Odisha 768029', 
+            description: 'Residential CBSE school for meritorious students with excellent academic performance.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Royal Palace', 
+            rating: 4.8, 
+            address: 'Canal Road, Bargarh, Odisha 768028', 
+            description: 'Fine dining restaurant serving multicuisine dishes in a luxurious ambience.' 
+        },
+        { 
+            name: 'The Food Lounge', 
+            rating: 4.7, 
+            address: 'Bhatli Road, Bargarh, Odisha 768028', 
+            description: 'Popular restaurant offering Chinese, North Indian, and fast food in a family-friendly setup.' 
+        },
+        { 
+            name: 'Hotel Subhadra', 
+            rating: 4.6, 
+            address: 'Main Market, Bargarh, Odisha 768028', 
+            description: 'Known for authentic Odia and South Indian meals with great service.' 
+        },
+        { 
+            name: 'Chatori Junction', 
+            rating: 4.5, 
+            address: 'Bargarh Bus Stand Road, Bargarh, Odisha 768028', 
+            description: 'Trendy café serving snacks, coffee, and desserts, popular among youth.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital, Bargarh', 
+            rating: 4.8, 
+            address: 'Hospital Road, Bargarh, Odisha 768028', 
+            description: 'Main government hospital offering general and emergency medical care.' 
+        },
+        { 
+            name: 'Sushrut Multispeciality Hospital', 
+            rating: 4.7, 
+            address: 'Canal Road, Bargarh, Odisha 768028', 
+            description: 'Private hospital with modern facilities for surgery, maternity, and diagnostics.' 
+        },
+        { 
+            name: 'Sai Kripa Hospital', 
+            rating: 4.6, 
+            address: 'Bhatli Road, Bargarh, Odisha 768028', 
+            description: 'Well-equipped healthcare center providing orthopedic and general treatment.' 
+        },
+        { 
+            name: 'Life Line Hospital', 
+            rating: 4.5, 
+            address: 'Main Road, Bargarh, Odisha 768028', 
+            description: 'Multispeciality hospital offering advanced healthcare and experienced doctors.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Nrusinghanath Temple', 
+            rating: 4.9, 
+            address: 'Gandhamardan Hills, Bargarh, Odisha 768045', 
+            description: 'Ancient temple dedicated to Lord Nrusingha, surrounded by lush green hills and waterfalls.' 
+        },
+        { 
+            name: 'Papaharini Stream', 
+            rating: 4.8, 
+            address: 'Nrusinghanath Area, Bargarh, Odisha 768045', 
+            description: 'Beautiful stream flowing through Gandhamardan hills, a serene picnic and trekking spot.' 
+        },
+        { 
+            name: 'Debrigarh Wildlife Sanctuary', 
+            rating: 4.7, 
+            address: 'Hirakud Reservoir, Bargarh, Odisha 768042', 
+            description: 'Popular wildlife reserve home to elephants, deer, and migratory birds.' 
+        },
+        { 
+            name: 'Bargarh Samaleswari Temple', 
+            rating: 4.6, 
+            address: 'Main City, Bargarh, Odisha 768028', 
+            description: 'Famous temple of Goddess Samaleswari attracting devotees from across the region.' 
+        }
+    ]
+}
+,'rayagada': {
+    schools: [
+        { 
+            name: 'Delhi Public School, Rayagada', 
+            rating: 4.8, 
+            address: 'IMFA Road, Therubali, Rayagada, Odisha 765018', 
+            description: 'Premier CBSE school offering modern infrastructure, advanced teaching, and holistic development.' 
+        },
+        { 
+            name: 'St. Xavier’s High School, Rayagada', 
+            rating: 4.7, 
+            address: 'New Colony, Rayagada, Odisha 765001', 
+            description: 'ICSE-affiliated English-medium school with a focus on discipline, academics, and extracurriculars.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya, Rayagada', 
+            rating: 4.6, 
+            address: 'Gadaguda, Rayagada, Odisha 765002', 
+            description: 'Residential CBSE school nurturing talented students with quality academics and sports.' 
+        },
+        { 
+            name: 'Odisha Adarsha Vidyalaya, Rayagada', 
+            rating: 4.5, 
+            address: 'Kalyansinghpur, Rayagada, Odisha 765017', 
+            description: 'State-run model school emphasizing strong academics and value-based education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Sai International', 
+            rating: 4.8, 
+            address: 'Main Road, Rayagada, Odisha 765001', 
+            description: 'Luxury restaurant serving Indian, Chinese, and continental dishes in a fine dining atmosphere.' 
+        },
+        { 
+            name: 'Food Junction', 
+            rating: 4.7, 
+            address: 'New Colony, Rayagada, Odisha 765001', 
+            description: 'Family-friendly restaurant offering delicious South Indian and North Indian meals.' 
+        },
+        { 
+            name: 'The Rayagada Kitchen', 
+            rating: 4.6, 
+            address: 'Gunupur Road, Rayagada, Odisha 765001', 
+            description: 'Modern multicuisine restaurant famous for biryanis, snacks, and desserts.' 
+        },
+        { 
+            name: 'Hotel Star Inn', 
+            rating: 4.5, 
+            address: 'IMFA Road, Rayagada, Odisha 765018', 
+            description: 'Casual restaurant providing tasty Odia, Chinese, and tandoori dishes with friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital, Rayagada', 
+            rating: 4.8, 
+            address: 'Hospital Road, Rayagada, Odisha 765001', 
+            description: 'Government hospital providing emergency and general healthcare services for the district.' 
+        },
+        { 
+            name: 'Apollo Pharmacy & Clinic', 
+            rating: 4.7, 
+            address: 'New Colony, Rayagada, Odisha 765001', 
+            description: 'Modern healthcare center offering outpatient services and pharmacy support.' 
+        },
+        { 
+            name: 'IMFA Hospital, Therubali', 
+            rating: 4.6, 
+            address: 'IMFA Township, Therubali, Rayagada, Odisha 765018', 
+            description: 'Multi-specialty hospital catering to employees and residents with quality healthcare.' 
+        },
+        { 
+            name: 'Care Hospital Rayagada', 
+            rating: 4.5, 
+            address: 'Main Road, Rayagada, Odisha 765001', 
+            description: 'Private multi-specialty hospital providing surgical and maternity services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Chatikona Waterfall', 
+            rating: 4.9, 
+            address: 'Chatikona, Rayagada, Odisha 765019', 
+            description: 'Scenic waterfall surrounded by hills and forests, perfect for nature lovers and picnics.' 
+        },
+        { 
+            name: 'Maa Majhighariani Temple', 
+            rating: 4.8, 
+            address: 'Main Town, Rayagada, Odisha 765001', 
+            description: 'Famous Shakti Peeth temple attracting thousands of devotees during festivals.' 
+        },
+        { 
+            name: 'Minajhola', 
+            rating: 4.7, 
+            address: 'Gudari Block, Rayagada, Odisha 765020', 
+            description: 'Beautiful spot at the confluence of three rivers, ideal for trekking and nature exploration.' 
+        },
+        { 
+            name: 'Hanging Bridge at Chekaguda', 
+            rating: 4.6, 
+            address: 'Chekaguda, Rayagada, Odisha 765001', 
+            description: 'Popular tourist attraction offering a thrilling view over the Nagavali River.' 
+        }
+    ]
+}
+,'kendujhar': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Keonjhar', 
+            rating: 4.8, 
+            address: 'Judia, Keonjhar, Odisha 758001', 
+            description: 'Central government CBSE school offering quality education, discipline, and extracurricular excellence.' 
+        },
+        { 
+            name: 'St. Mary’s School, Keonjhar', 
+            rating: 4.7, 
+            address: 'College Road, Keonjhar, Odisha 758001', 
+            description: 'ICSE-affiliated English-medium school focused on holistic development and academics.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya, Keonjhar', 
+            rating: 4.6, 
+            address: 'Ghasipura, Keonjhar, Odisha 758015', 
+            description: 'Residential CBSE school for meritorious students with modern educational facilities.' 
+        },
+        { 
+            name: 'Odisha Adarsha Vidyalaya, Keonjhar', 
+            rating: 4.5, 
+            address: 'Bansapal, Keonjhar, Odisha 758018', 
+            description: 'Model government school emphasizing academics, cultural education, and leadership.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Prince Garden', 
+            rating: 4.8, 
+            address: 'College Road, Keonjhar, Odisha 758001', 
+            description: 'Premium multicuisine restaurant offering Indian, Chinese, and Odia delicacies.' 
+        },
+        { 
+            name: 'Food Lounge Keonjhar', 
+            rating: 4.7, 
+            address: 'Main Market, Keonjhar, Odisha 758001', 
+            description: 'Popular family restaurant serving biryanis, paneer dishes, and snacks.' 
+        },
+        { 
+            name: 'Tandoor Treat', 
+            rating: 4.6, 
+            address: 'Judia Road, Keonjhar, Odisha 758001', 
+            description: 'Casual eatery known for its tandoori and North Indian dishes.' 
+        },
+        { 
+            name: 'Hotel Padma Palace', 
+            rating: 4.5, 
+            address: 'NH-49, Keonjhar, Odisha 758001', 
+            description: 'Fine dining hotel restaurant with a relaxing ambience and authentic local cuisine.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital, Keonjhar', 
+            rating: 4.8, 
+            address: 'Hospital Road, Keonjhar, Odisha 758001', 
+            description: 'Main government hospital providing advanced medical and emergency services.' 
+        },
+        { 
+            name: 'Joda Tata Hospital', 
+            rating: 4.7, 
+            address: 'Joda, Keonjhar, Odisha 758034', 
+            description: 'Multi-specialty hospital operated by Tata Steel for employees and local residents.' 
+        },
+        { 
+            name: 'Life Line Hospital Keonjhar', 
+            rating: 4.6, 
+            address: 'College Road, Keonjhar, Odisha 758001', 
+            description: 'Private healthcare center with modern diagnostic and treatment facilities.' 
+        },
+        { 
+            name: 'Sanjivani Hospital', 
+            rating: 4.5, 
+            address: 'NH-49, Keonjhar, Odisha 758001', 
+            description: 'Well-known private hospital providing surgical, maternity, and general care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Sanghagra Waterfall', 
+            rating: 4.9, 
+            address: 'Near Keonjhar Town, Odisha 758001', 
+            description: 'Scenic waterfall surrounded by hills, ideal for picnics and photography.' 
+        },
+        { 
+            name: 'Gonasika Temple & River Origin', 
+            rating: 4.8, 
+            address: 'Gonasika, Keonjhar, Odisha 758032', 
+            description: 'Sacred site where the Baitarani River originates from a cow’s mouth-shaped rock.' 
+        },
+        { 
+            name: 'Badaghagara Waterfall', 
+            rating: 4.7, 
+            address: '5 km from Keonjhar Town, Odisha 758001', 
+            description: 'Famous perennial waterfall attracting nature enthusiasts and travelers.' 
+        },
+        { 
+            name: 'Murga Mahadev Temple', 
+            rating: 4.6, 
+            address: 'Thakurani Hill, Keonjhar, Odisha 758031', 
+            description: 'Ancient temple dedicated to Lord Shiva, set amidst natural surroundings and caves.' 
+        }
+    ]
+}
+,'balangir': {
+    schools: [
+        { 
+            name: 'DAV Public School, Balangir', 
+            rating: 4.8, 
+            address: 'Titiksha Road, Balangir, Odisha 767001', 
+            description: 'Leading CBSE-affiliated school known for academic excellence and strong extracurricular programs.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Balangir', 
+            rating: 4.7, 
+            address: 'Loisingha, Balangir, Odisha 767020', 
+            description: 'Residential central school offering high-quality education and holistic development.' 
+        },
+        { 
+            name: 'Sacred Heart School', 
+            rating: 4.6, 
+            address: 'Patnagarh Road, Balangir, Odisha 767001', 
+            description: 'Reputed English-medium institution focusing on discipline and value-based education.' 
+        },
+        { 
+            name: 'Government High School Balangir', 
+            rating: 4.5, 
+            address: 'Main Market, Balangir, Odisha 767001', 
+            description: 'Well-known government school offering strong academics and extracurricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Spice Garden', 
+            rating: 4.8, 
+            address: 'Titiksha Road, Balangir 767001', 
+            description: 'Popular family restaurant serving Indian and Chinese cuisines with excellent ambiance.' 
+        },
+        { 
+            name: 'Food Plaza', 
+            rating: 4.6, 
+            address: 'Main Road, Balangir 767001', 
+            description: 'Casual dining restaurant offering vegetarian thalis and fast food.' 
+        },
+        { 
+            name: 'Café Aroma', 
+            rating: 4.5, 
+            address: 'College Square, Balangir 767001', 
+            description: 'Trendy café serving coffee, snacks, and desserts in a cozy environment.' 
+        },
+        { 
+            name: 'Hotel Bhairavi Restaurant', 
+            rating: 4.4, 
+            address: 'Patnagarh Road, Balangir 767001', 
+            description: 'Multi-cuisine restaurant popular for authentic Odia dishes and friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Balangir District Headquarters Hospital', 
+            rating: 4.7, 
+            address: 'Hospital Road, Balangir 767001', 
+            description: 'Government hospital providing general, emergency, and maternity services.' 
+        },
+        { 
+            name: 'Sushruta Hospital', 
+            rating: 4.6, 
+            address: 'Titiksha Road, Balangir 767001', 
+            description: 'Private hospital offering specialized treatments with modern medical facilities.' 
+        },
+        { 
+            name: 'Sanjivani Nursing Home', 
+            rating: 4.5, 
+            address: 'Main Market, Balangir 767001', 
+            description: 'Well-equipped private healthcare center with expert doctors and staff.' 
+        },
+        { 
+            name: 'Mahaveer Hospital', 
+            rating: 4.4, 
+            address: 'Patnagarh Road, Balangir 767001', 
+            description: 'Trusted local hospital providing surgical, pediatric, and maternity care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Harishankar Temple', 
+            rating: 4.8, 
+            address: 'Gandhamardan Hills, Balangir 767018', 
+            description: 'Ancient temple dedicated to Lord Vishnu and Shiva, surrounded by scenic waterfalls.' 
+        },
+        { 
+            name: 'Ranipur Jharial', 
+            rating: 4.7, 
+            address: 'Near Titlagarh, Balangir 767033', 
+            description: 'Historic site famous for ancient Somatirtha temples and unique stone carvings.' 
+        },
+        { 
+            name: 'Saintala Temple', 
+            rating: 4.6, 
+            address: 'Saintala, Balangir 767032', 
+            description: 'Heritage temple known for its intricate architecture and cultural significance.' 
+        },
+        { 
+            name: 'Turekela Wildlife Sanctuary', 
+            rating: 4.5, 
+            address: 'Turekela, Balangir 767030', 
+            description: 'Peaceful sanctuary home to diverse flora and fauna, ideal for nature lovers.' 
+        }
+    ]
+}
+,'bhawanipatna': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Bhawanipatna', 
+            rating: 4.8, 
+            address: 'Bhawanipatna, Kalahandi District, Odisha 766001', 
+            description: 'Central government school known for academic excellence and holistic student development.' 
+        },
+        { 
+            name: 'Modern Public School Bhawanipatna', 
+            rating: 4.7, 
+            address: 'Kesinga Road, Bhawanipatna 766001', 
+            description: 'Top-rated CBSE school with modern infrastructure and focus on innovation in learning.' 
+        },
+        { 
+            name: 'St. Xavier’s High School Bhawanipatna', 
+            rating: 4.6, 
+            address: 'Main Road, Bhawanipatna 766001', 
+            description: 'Reputed English-medium school providing disciplined education and co-curricular activities.' 
+        },
+        { 
+            name: 'Government Girls High School Bhawanipatna', 
+            rating: 4.5, 
+            address: 'College Square, Bhawanipatna 766001', 
+            description: 'Prominent government school offering quality education to girls with experienced faculty.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Urban Tadka', 
+            rating: 4.8, 
+            address: 'Kesinga Road, Bhawanipatna 766001', 
+            description: 'Popular restaurant known for North Indian and Odia cuisines served in a family-friendly setup.' 
+        },
+        { 
+            name: 'Hotel Sai International Restaurant', 
+            rating: 4.7, 
+            address: 'Main Road, Bhawanipatna 766001', 
+            description: 'Multicuisine restaurant serving authentic Indian, Chinese, and Continental dishes.' 
+        },
+        { 
+            name: 'Café 99', 
+            rating: 4.6, 
+            address: 'Near Town Hall, Bhawanipatna 766001', 
+            description: 'Trendy café offering snacks, desserts, and beverages in a cozy modern atmosphere.' 
+        },
+        { 
+            name: 'Annapurna Family Restaurant', 
+            rating: 4.5, 
+            address: 'College Road, Bhawanipatna 766001', 
+            description: 'Casual dining spot offering delicious vegetarian meals and Odia thalis.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Bhawanipatna', 
+            rating: 4.7, 
+            address: 'Hospital Road, Bhawanipatna 766001', 
+            description: 'Government hospital providing general, surgical, and emergency medical care.' 
+        },
+        { 
+            name: 'Ashirbad Hospital & Research Centre', 
+            rating: 4.6, 
+            address: 'Kesinga Road, Bhawanipatna 766001', 
+            description: 'Private multi-specialty hospital equipped with modern medical facilities and experienced doctors.' 
+        },
+        { 
+            name: 'Sanjivani Hospital Bhawanipatna', 
+            rating: 4.5, 
+            address: 'Main Market, Bhawanipatna 766001', 
+            description: 'Well-established hospital offering maternity and surgical services.' 
+        },
+        { 
+            name: 'Maa Mangala Nursing Home', 
+            rating: 4.4, 
+            address: 'College Square, Bhawanipatna 766001', 
+            description: 'Reputed private healthcare center providing diagnostic and emergency services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Karlapat Wildlife Sanctuary', 
+            rating: 4.8, 
+            address: 'Karlapat, near Bhawanipatna 766002', 
+            description: 'Popular wildlife sanctuary known for dense forests, waterfalls, and rich biodiversity.' 
+        },
+        { 
+            name: 'Phurli Jharan Waterfall', 
+            rating: 4.7, 
+            address: '7 km from Bhawanipatna, Odisha 766001', 
+            description: 'Beautiful natural waterfall surrounded by scenic hills and greenery.' 
+        },
+        { 
+            name: 'Manikeshwari Temple', 
+            rating: 4.6, 
+            address: 'Main City, Bhawanipatna 766001', 
+            description: 'Famous temple dedicated to Goddess Manikeshwari, an important cultural landmark.' 
+        },
+        { 
+            name: 'Ampani Hills', 
+            rating: 4.5, 
+            address: 'Ampani, near Bhawanipatna 766002', 
+            description: 'Picturesque hills offering trekking opportunities and panoramic views of Kalahandi region.' 
+        }
+    ]
+}
+,'koraput': {
+    schools: [
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Koraput', 
+            rating: 4.8, 
+            address: 'Koraput, Odisha 764020', 
+            description: 'Premier CBSE residential school providing high-quality academics and extracurricular learning.' 
+        },
+        { 
+            name: 'DAV Public School Koraput', 
+            rating: 4.7, 
+            address: 'Jeypore Road, Koraput 764020', 
+            description: 'Renowned CBSE-affiliated school focusing on holistic education and personality development.' 
+        },
+        { 
+            name: 'Vivekananda School Koraput', 
+            rating: 4.6, 
+            address: 'Main Road, Koraput 764020', 
+            description: 'Well-known English-medium school promoting academic excellence and value-based education.' 
+        },
+        { 
+            name: 'Government High School Koraput', 
+            rating: 4.5, 
+            address: 'Koraput Town, Odisha 764020', 
+            description: 'Reputed government institution offering secondary education with good academic results.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Green Valley Restaurant', 
+            rating: 4.8, 
+            address: 'Jeypore Road, Koraput 764020', 
+            description: 'Popular restaurant serving authentic Indian and Odia dishes amidst a serene atmosphere.' 
+        },
+        { 
+            name: 'Hotel Raj Residency Restaurant', 
+            rating: 4.7, 
+            address: 'Koraput Main Road 764020', 
+            description: 'Family restaurant known for delicious South Indian and North Indian cuisines.' 
+        },
+        { 
+            name: 'Hill View Café', 
+            rating: 4.6, 
+            address: 'Damanjodi Road, Koraput 764020', 
+            description: 'Trendy café offering snacks, coffee, and desserts with a scenic hill view.' 
+        },
+        { 
+            name: 'Food Junction', 
+            rating: 4.5, 
+            address: 'Market Square, Koraput 764020', 
+            description: 'Casual dining eatery serving fast food, biryani, and local delicacies.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Koraput District Headquarters Hospital', 
+            rating: 4.7, 
+            address: 'Hospital Road, Koraput 764020', 
+            description: 'Major government hospital offering general, emergency, and maternity services.' 
+        },
+        { 
+            name: 'NALCO Hospital Damanjodi', 
+            rating: 4.6, 
+            address: 'Damanjodi, Koraput 764037', 
+            description: 'Corporate multi-specialty hospital providing quality healthcare to employees and the public.' 
+        },
+        { 
+            name: 'Apollo Clinic Koraput', 
+            rating: 4.5, 
+            address: 'Main Road, Koraput 764020', 
+            description: 'Private healthcare center offering diagnostics and outpatient consultation services.' 
+        },
+        { 
+            name: 'Mission Hospital', 
+            rating: 4.4, 
+            address: 'Koraput Town, Odisha 764020', 
+            description: 'Charitable hospital providing affordable healthcare services to local residents.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Deomali Hills', 
+            rating: 4.9, 
+            address: 'Near Koraput 764020', 
+            description: 'Tallest peak in Odisha offering panoramic views, trekking, and nature photography opportunities.' 
+        },
+        { 
+            name: 'Kolab Reservoir', 
+            rating: 4.8, 
+            address: 'Jeypore-Koraput Road, Koraput 764020', 
+            description: 'Beautiful lake surrounded by hills, perfect for boating and picnics.' 
+        },
+        { 
+            name: 'Tribal Museum Koraput', 
+            rating: 4.7, 
+            address: 'Koraput Town, Odisha 764020', 
+            description: 'Museum showcasing the culture, art, and lifestyle of Odisha’s tribal communities.' 
+        },
+        { 
+            name: 'Duduma Waterfall', 
+            rating: 4.6, 
+            address: 'Machkund, near Koraput 764021', 
+            description: 'One of the most spectacular waterfalls in Odisha, located amidst lush green valleys.' 
+        }
+    ]
+}
+,'nabarangpur': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Nabarangpur', 
+            rating: 4.8, 
+            address: 'Umerkote Road, Nabarangpur, Odisha 764059', 
+            description: 'Central government school offering high-quality CBSE education with focus on overall development.' 
+        },
+        { 
+            name: 'St. Xavier’s High School Nabarangpur', 
+            rating: 4.7, 
+            address: 'Main Road, Nabarangpur 764059', 
+            description: 'Renowned English-medium school emphasizing academics, discipline, and co-curricular learning.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Nabarangpur', 
+            rating: 4.6, 
+            address: 'Chandahandi, Nabarangpur 764078', 
+            description: 'Residential CBSE school providing holistic education in a serene rural setting.' 
+        },
+        { 
+            name: 'Government Girls High School Nabarangpur', 
+            rating: 4.5, 
+            address: 'Hospital Road, Nabarangpur 764059', 
+            description: 'Government school dedicated to empowering girls through quality education and values.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Moti Mahal Restaurant', 
+            rating: 4.8, 
+            address: 'Main Road, Nabarangpur 764059', 
+            description: 'Top family restaurant serving North Indian, South Indian, and Chinese dishes in a relaxed setting.' 
+        },
+        { 
+            name: 'Zaika Family Restaurant', 
+            rating: 4.7, 
+            address: 'Umerkote Road, Nabarangpur 764059', 
+            description: 'Multicuisine restaurant offering vegetarian and non-vegetarian delicacies with authentic Odia flavor.' 
+        },
+        { 
+            name: 'Café Aroma', 
+            rating: 4.6, 
+            address: 'Town Square, Nabarangpur 764059', 
+            description: 'Trendy café serving coffee, snacks, and bakery items in a modern ambience.' 
+        },
+        { 
+            name: 'Swarna Bhojanalaya', 
+            rating: 4.5, 
+            address: 'Bus Stand Area, Nabarangpur 764059', 
+            description: 'Affordable and popular spot for traditional Odia and Indian meals.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Nabarangpur', 
+            rating: 4.7, 
+            address: 'Hospital Road, Nabarangpur 764059', 
+            description: 'Government hospital offering general, maternity, and emergency healthcare services.' 
+        },
+        { 
+            name: 'Maa Health Care Hospital', 
+            rating: 4.6, 
+            address: 'Main Road, Nabarangpur 764059', 
+            description: 'Private multi-specialty hospital providing advanced diagnostic and treatment facilities.' 
+        },
+        { 
+            name: 'Sanjeevani Hospital', 
+            rating: 4.5, 
+            address: 'Umerkote Road, Nabarangpur 764059', 
+            description: 'Trusted healthcare center known for surgical and pediatric care.' 
+        },
+        { 
+            name: 'Life Line Hospital', 
+            rating: 4.4, 
+            address: 'College Road, Nabarangpur 764059', 
+            description: 'Reputed private hospital offering quality medical care with experienced doctors.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Podagada Fort', 
+            rating: 4.8, 
+            address: 'Podagada, near Nabarangpur 764063', 
+            description: 'Ancient fort site known for its historical ruins and archaeological importance.' 
+        },
+        { 
+            name: 'Papadahandi Temple', 
+            rating: 4.7, 
+            address: 'Papadahandi, Nabarangpur 764071', 
+            description: 'Famous religious site with intricate carvings and peaceful surroundings.' 
+        },
+        { 
+            name: 'Chandan Dhara Waterfall', 
+            rating: 4.6, 
+            address: 'Near Dabugam, Nabarangpur 764072', 
+            description: 'Beautiful waterfall nestled amidst forests, popular for picnics and nature walks.' 
+        },
+        { 
+            name: 'Hirli Dongri Hill', 
+            rating: 4.5, 
+            address: 'Hirli Village, Nabarangpur 764059', 
+            description: 'Scenic viewpoint offering panoramic views of the city and lush landscapes.' 
+        }
+    ]
+}
+,'malkangiri': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Malkangiri', 
+            rating: 4.8, 
+            address: 'Collectorate Campus, Malkangiri, Odisha 764048', 
+            description: 'CBSE-affiliated central school providing quality education with emphasis on academics and co-curricular balance.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Malkangiri', 
+            rating: 4.7, 
+            address: 'Govindapalli, Malkangiri 764045', 
+            description: 'Residential co-educational school under Navodaya Samiti, fostering holistic growth of rural talent.' 
+        },
+        { 
+            name: 'St. Mary’s Convent School', 
+            rating: 4.6, 
+            address: 'Main Road, Malkangiri 764048', 
+            description: 'English-medium private school with focus on discipline, academics, and moral education.' 
+        },
+        { 
+            name: 'Government Boys High School Malkangiri', 
+            rating: 4.5, 
+            address: 'College Road, Malkangiri 764048', 
+            description: 'Established government school known for good academic results and cultural activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Padma Palace Restaurant', 
+            rating: 4.8, 
+            address: 'Main Road, Malkangiri 764048', 
+            description: 'Top-rated family restaurant offering multicuisine delicacies in a comfortable setting.' 
+        },
+        { 
+            name: 'Annapurna Family Restaurant', 
+            rating: 4.7, 
+            address: 'Bus Stand Road, Malkangiri 764048', 
+            description: 'Popular eatery serving authentic Odia, South Indian, and Chinese food.' 
+        },
+        { 
+            name: 'Royal Treat Restaurant', 
+            rating: 4.6, 
+            address: 'Court Road, Malkangiri 764048', 
+            description: 'Modern restaurant offering tasty meals, fast food, and beverages at reasonable prices.' 
+        },
+        { 
+            name: 'Green Leaf Dhaba', 
+            rating: 4.5, 
+            address: 'NH-326, Near MV-79, Malkangiri 764048', 
+            description: 'Casual dining dhaba known for homely food and quick service along the highway.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Malkangiri', 
+            rating: 4.7, 
+            address: 'Hospital Road, Malkangiri 764048', 
+            description: 'Main government hospital offering comprehensive health services and emergency care.' 
+        },
+        { 
+            name: 'Maa Tara Hospital', 
+            rating: 4.6, 
+            address: 'Main Road, Malkangiri 764048', 
+            description: 'Private healthcare facility known for maternity and surgical services.' 
+        },
+        { 
+            name: 'Shree Clinic and Nursing Home', 
+            rating: 4.5, 
+            address: 'Court Road, Malkangiri 764048', 
+            description: 'Popular private hospital offering general and pediatric treatments.' 
+        },
+        { 
+            name: 'Community Health Centre, Govindapalli', 
+            rating: 4.4, 
+            address: 'Govindapalli, Malkangiri 764045', 
+            description: 'Government-run health center catering to nearby rural areas with essential medical services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Balimela Dam', 
+            rating: 4.8, 
+            address: 'Balimela, Malkangiri 764051', 
+            description: 'Massive hydroelectric dam surrounded by scenic mountains and a large water reservoir.' 
+        },
+        { 
+            name: 'Ammakunda Waterfall', 
+            rating: 4.7, 
+            address: 'Near Khairaput, Malkangiri 764052', 
+            description: 'Gorgeous natural waterfall surrounded by forests — ideal for nature lovers and trekkers.' 
+        },
+        { 
+            name: 'Satiguda Reservoir', 
+            rating: 4.6, 
+            address: 'Satiguda, near Malkangiri 764048', 
+            description: 'Picturesque picnic spot offering boating and serene lake views.' 
+        },
+        { 
+            name: 'Manyamkonda Hill Shrine', 
+            rating: 4.5, 
+            address: 'Near Malkangiri 764048', 
+            description: 'Sacred hill temple dedicated to Lord Shiva, attracting pilgrims during Maha Shivratri.' 
+        }
+    ]
+}
+,'kandhamal': {
+    schools: [
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Kandhamal', 
+            rating: 4.8, 
+            address: 'Kujamendi, Phulbani, Kandhamal 762001', 
+            description: 'Residential co-educational CBSE school nurturing rural talent with strong academic foundation.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Phulbani', 
+            rating: 4.7, 
+            address: 'Gandhi Nagar, Phulbani 762001', 
+            description: 'Central government school offering quality education with focus on overall development.' 
+        },
+        { 
+            name: 'St. Vincent’s Convent School', 
+            rating: 4.6, 
+            address: 'Main Road, Phulbani 762001', 
+            description: 'Well-known English-medium convent school emphasizing academics, discipline, and moral values.' 
+        },
+        { 
+            name: 'Government High School Phulbani', 
+            rating: 4.5, 
+            address: 'Hospital Road, Phulbani 762001', 
+            description: 'One of the oldest schools in Kandhamal offering science, arts, and commerce streams.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Hill View Restaurant', 
+            rating: 4.8, 
+            address: 'Main Market, Phulbani 762001', 
+            description: 'Top-rated restaurant offering Odia, South Indian, and North Indian dishes with scenic views.' 
+        },
+        { 
+            name: 'Green Valley Restaurant', 
+            rating: 4.7, 
+            address: 'NH-157, Phulbani 762001', 
+            description: 'Family-friendly restaurant known for traditional Odia meals and a peaceful ambience.' 
+        },
+        { 
+            name: 'Food Paradise Café', 
+            rating: 4.6, 
+            address: 'Court Road, Phulbani 762001', 
+            description: 'Trendy café serving snacks, fast food, and beverages with modern décor.' 
+        },
+        { 
+            name: 'Spice Route Dhaba', 
+            rating: 4.5, 
+            address: 'Phulbani-Baliguda Road, Kandhamal 762001', 
+            description: 'Casual eatery known for Punjabi-style curries and tandoori delights.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Kandhamal', 
+            rating: 4.7, 
+            address: 'Hospital Road, Phulbani 762001', 
+            description: 'Major government hospital offering general, surgical, and emergency medical services.' 
+        },
+        { 
+            name: 'Maa Mangala Nursing Home', 
+            rating: 4.6, 
+            address: 'Main Road, Phulbani 762001', 
+            description: 'Private hospital offering maternity, pediatric, and general care facilities.' 
+        },
+        { 
+            name: 'St. John’s Medical Centre', 
+            rating: 4.5, 
+            address: 'Gandhi Nagar, Phulbani 762001', 
+            description: 'Charitable healthcare facility known for compassionate service and affordable care.' 
+        },
+        { 
+            name: 'Community Health Centre Baliguda', 
+            rating: 4.4, 
+            address: 'Baliguda, Kandhamal 762103', 
+            description: 'Government health center serving rural communities with essential medical facilities.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Belghar Sanctuary', 
+            rating: 4.8, 
+            address: 'Belghar, Kandhamal 762103', 
+            description: 'Wildlife sanctuary known for elephants, lush forests, and tribal culture.' 
+        },
+        { 
+            name: 'Daringbadi Hill Station', 
+            rating: 4.7, 
+            address: 'Daringbadi, Kandhamal 762104', 
+            description: 'Popularly known as the "Kashmir of Odisha", famous for pine forests and cool climate.' 
+        },
+        { 
+            name: 'Putudi Waterfall', 
+            rating: 4.6, 
+            address: 'Near Phulbani, Kandhamal 762001', 
+            description: 'Beautiful waterfall surrounded by dense forest and ideal for picnics and nature walks.' 
+        },
+        { 
+            name: 'Mandasaru Eco-Tourism Site', 
+            rating: 4.5, 
+            address: 'Raikia, Kandhamal 762103', 
+            description: 'Scenic eco-retreat offering panoramic valley views and peaceful nature stays.' 
+        }
+    ]
+}
+,
+'boudh': {
+    schools: [
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Boudh', 
+            rating: 4.8, 
+            address: 'Bahira, Boudh 762014', 
+            description: 'Residential CBSE school fostering academic excellence and rural student development.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Boudh', 
+            rating: 4.7, 
+            address: 'Collectorate Campus, Boudh 762014', 
+            description: 'Central school providing high-quality education with balanced co-curricular activities.' 
+        },
+        { 
+            name: 'St. Mary’s Convent School', 
+            rating: 4.6, 
+            address: 'Main Road, Boudh 762014', 
+            description: 'English-medium private school emphasizing discipline, academics, and moral values.' 
+        },
+        { 
+            name: 'Government High School Boudh', 
+            rating: 4.5, 
+            address: 'Hospital Road, Boudh 762014', 
+            description: 'Reputed government school offering a variety of academic streams and extracurricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Boudh Plaza', 
+            rating: 4.8, 
+            address: 'Main Market, Boudh 762014', 
+            description: 'Top family restaurant serving multicuisine meals and Odia thalis in a cozy setting.' 
+        },
+        { 
+            name: 'The Spice Garden', 
+            rating: 4.7, 
+            address: 'NH-57, Boudh 762014', 
+            description: 'Popular eatery offering Indian, Chinese, and fast-food varieties with great ambiance.' 
+        },
+        { 
+            name: 'Odia Ruchi Restaurant', 
+            rating: 4.6, 
+            address: 'College Road, Boudh 762014', 
+            description: 'Authentic Odia restaurant known for homely food and local flavors.' 
+        },
+        { 
+            name: 'Hotel Annapurna', 
+            rating: 4.5, 
+            address: 'Bus Stand Road, Boudh 762014', 
+            description: 'Casual dining restaurant famous for thalis and vegetarian options.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Boudh', 
+            rating: 4.7, 
+            address: 'Hospital Road, Boudh 762014', 
+            description: 'Main government hospital providing general, maternity, and emergency medical services.' 
+        },
+        { 
+            name: 'Maa Durga Nursing Home', 
+            rating: 4.6, 
+            address: 'Main Road, Boudh 762014', 
+            description: 'Private nursing home offering specialized healthcare and maternity services.' 
+        },
+        { 
+            name: 'Sai Multi-Speciality Hospital', 
+            rating: 4.5, 
+            address: 'College Road, Boudh 762014', 
+            description: 'Modern healthcare facility with advanced diagnostic and surgical services.' 
+        },
+        { 
+            name: 'Community Health Centre Kantamal', 
+            rating: 4.4, 
+            address: 'Kantamal, Boudh 762017', 
+            description: 'Government-run center providing essential medical services to nearby rural areas.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Boudh Raj Prasad', 
+            rating: 4.8, 
+            address: 'Town Centre, Boudh 762014', 
+            description: 'Historic royal palace known for its architecture and heritage significance.' 
+        },
+        { 
+            name: 'Bhairabi Temple', 
+            rating: 4.7, 
+            address: 'Boudh Town, Boudh 762014', 
+            description: 'Ancient temple dedicated to Goddess Bhairabi, revered for spiritual significance.' 
+        },
+        { 
+            name: 'Ram Temple', 
+            rating: 4.6, 
+            address: 'Near Mahanadi River, Boudh 762014', 
+            description: 'Popular temple with a serene riverside view and peaceful atmosphere.' 
+        },
+        { 
+            name: 'Boudh Buddha Stupas', 
+            rating: 4.5, 
+            address: 'Boudh Town, Boudh 762014', 
+            description: 'Historical Buddhist stupas highlighting ancient cultural heritage of Odisha.' 
+        }
+    ]
+},
+'sonepur': {
+    schools: [
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Sonepur', 
+            rating: 4.8, 
+            address: 'Binika Road, Sonepur 767017', 
+            description: 'CBSE-affiliated residential school dedicated to nurturing academic and cultural excellence.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Sonepur', 
+            rating: 4.7, 
+            address: 'Collectorate Campus, Sonepur 767017', 
+            description: 'Central government institution focusing on quality education and holistic development.' 
+        },
+        { 
+            name: 'St. Xavier’s High School', 
+            rating: 4.6, 
+            address: 'College Road, Sonepur 767017', 
+            description: 'Renowned English-medium school known for discipline, academic rigor, and value education.' 
+        },
+        { 
+            name: 'Government Boys High School Sonepur', 
+            rating: 4.5, 
+            address: 'Main Road, Sonepur 767017', 
+            description: 'Old and reputed government institution providing strong academics and extracurricular opportunities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Mahanadi View', 
+            rating: 4.8, 
+            address: 'Mahanadi Ghat Road, Sonepur 767017', 
+            description: 'Scenic riverside restaurant offering Odia thalis and North Indian dishes.' 
+        },
+        { 
+            name: 'The Spice Villa', 
+            rating: 4.7, 
+            address: 'Main Market, Sonepur 767017', 
+            description: 'Popular family restaurant serving a wide range of vegetarian and non-vegetarian cuisines.' 
+        },
+        { 
+            name: 'Aroma Family Restaurant', 
+            rating: 4.6, 
+            address: 'Binika Road, Sonepur 767017', 
+            description: 'Modern restaurant with relaxed ambiance and delicious local delicacies.' 
+        },
+        { 
+            name: 'Odia Delight Dhaba', 
+            rating: 4.5, 
+            address: 'Sonepur-Birmaharajpur Road, Sonepur 767017', 
+            description: 'Casual eatery offering authentic Odia-style meals and quick service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Sonepur', 
+            rating: 4.7, 
+            address: 'Hospital Road, Sonepur 767017', 
+            description: 'Main government hospital providing general, emergency, and maternity healthcare services.' 
+        },
+        { 
+            name: 'Sonepur Nursing Home', 
+            rating: 4.6, 
+            address: 'Main Road, Sonepur 767017', 
+            description: 'Private healthcare facility known for quality medical services and diagnostics.' 
+        },
+        { 
+            name: 'Life Line Hospital', 
+            rating: 4.5, 
+            address: 'College Road, Sonepur 767017', 
+            description: 'Multi-specialty hospital offering modern treatment facilities and experienced staff.' 
+        },
+        { 
+            name: 'Community Health Centre Binika', 
+            rating: 4.4, 
+            address: 'Binika, Sonepur 767019', 
+            description: 'Government health center catering to nearby rural regions with essential healthcare.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Sonepur Mahanadi Ghat', 
+            rating: 4.8, 
+            address: 'River Bank, Sonepur 767017', 
+            description: 'Beautiful riverfront ideal for relaxation, boating, and festivals.' 
+        },
+        { 
+            name: 'Kosaleswar Temple', 
+            rating: 4.7, 
+            address: 'Sonepur Town, Sonepur 767017', 
+            description: 'Ancient Shiva temple reflecting the rich heritage of Koshal region.' 
+        },
+        { 
+            name: 'Sonepur Raj Palace', 
+            rating: 4.6, 
+            address: 'Near Town Centre, Sonepur 767017', 
+            description: 'Historical royal residence showcasing ancient architecture and legacy.' 
+        },
+        { 
+            name: 'Papakshya Ghat', 
+            rating: 4.5, 
+            address: 'Near Mahanadi River, Sonepur 767017', 
+            description: 'Religious ghat attracting devotees during festivals for ritual bathing and prayers.' 
+        }
+    ]
+}
+,'rayagada': {
+    schools: [
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Rayagada', 
+            rating: 4.8, 
+            address: 'Minajhola Road, Rayagada 765001', 
+            description: 'CBSE-affiliated residential school promoting excellence in academics and extracurricular fields.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Rayagada', 
+            rating: 4.7, 
+            address: 'Collectorate Campus, Rayagada 765001', 
+            description: 'Central government school offering quality education with focus on holistic development.' 
+        },
+        { 
+            name: 'St. Xavier’s High School', 
+            rating: 4.6, 
+            address: 'Gandhi Nagar, Rayagada 765001', 
+            description: 'Renowned English-medium institution known for discipline, academics, and cultural activities.' 
+        },
+        { 
+            name: 'Government Girls High School Rayagada', 
+            rating: 4.5, 
+            address: 'Main Road, Rayagada 765001', 
+            description: 'Established government school empowering girl students through quality education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Sai International', 
+            rating: 4.8, 
+            address: 'Main Road, Rayagada 765001', 
+            description: 'Top-rated family restaurant serving multicuisine dishes and Odia thalis.' 
+        },
+        { 
+            name: 'The Food Planet', 
+            rating: 4.7, 
+            address: 'Gunupur Road, Rayagada 765001', 
+            description: 'Modern restaurant offering a variety of North Indian, Chinese, and Tandoori items.' 
+        },
+        { 
+            name: 'Hotel Padma Palace Restaurant', 
+            rating: 4.6, 
+            address: 'NH-326, Rayagada 765001', 
+            description: 'Well-known dining place with a peaceful ambiance and delicious food options.' 
+        },
+        { 
+            name: 'Odia Bhojanalaya', 
+            rating: 4.5, 
+            address: 'Bus Stand Area, Rayagada 765001', 
+            description: 'Traditional eatery offering authentic Odia cuisine and homely flavors.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Rayagada', 
+            rating: 4.7, 
+            address: 'Hospital Road, Rayagada 765001', 
+            description: 'Main government hospital providing emergency, surgical, and general health services.' 
+        },
+        { 
+            name: 'Rayagada Nursing Home', 
+            rating: 4.6, 
+            address: 'Main Road, Rayagada 765001', 
+            description: 'Private multi-specialty hospital offering maternity and general medical care.' 
+        },
+        { 
+            name: 'Life Care Hospital Rayagada', 
+            rating: 4.5, 
+            address: 'Gandhi Nagar, Rayagada 765001', 
+            description: 'Modern healthcare facility providing quality treatment with experienced doctors.' 
+        },
+        { 
+            name: 'Community Health Centre Gunupur', 
+            rating: 4.4, 
+            address: 'Gunupur, Rayagada 765022', 
+            description: 'Government health center offering essential services to nearby rural populations.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Majhighariani Temple', 
+            rating: 4.8, 
+            address: 'Main Town, Rayagada 765001', 
+            description: 'Famous temple dedicated to Goddess Majhighariani, the presiding deity of the region.' 
+        },
+        { 
+            name: 'Chatikona Waterfall', 
+            rating: 4.7, 
+            address: 'Near Rayagada 765002', 
+            description: 'Scenic waterfall surrounded by hills and forests — ideal for nature lovers.' 
+        },
+        { 
+            name: 'Minajhola', 
+            rating: 4.6, 
+            address: 'Minajhola Village, Rayagada 765020', 
+            description: 'Spiritual site located at the confluence of three rivers, famous for Shiva Temple.' 
+        },
+        { 
+            name: 'Hanging Bridge at Chekaguda', 
+            rating: 4.5, 
+            address: 'Chekaguda, Rayagada 765001', 
+            description: 'Iconic suspension bridge offering picturesque views of the Nagavali River.' 
+        }
+    ]
+}
+,
+'bhadrak': {
+    schools: [
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Bhadrak', 
+            rating: 4.8, 
+            address: 'Charampa, Bhadrak 756101', 
+            description: 'Prestigious CBSE-affiliated residential school known for its excellent results and holistic education.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Bhadrak', 
+            rating: 4.7, 
+            address: 'Charampa, Bhadrak 756101', 
+            description: 'Central government school providing quality education with focus on discipline and overall growth.' 
+        },
+        { 
+            name: 'St. Xavier’s High School', 
+            rating: 4.6, 
+            address: 'New Bus Stand Road, Bhadrak 756100', 
+            description: 'Well-known English-medium institution emphasizing academics and extracurricular activities.' 
+        },
+        { 
+            name: 'Bhadrak Autonomous College', 
+            rating: 4.5, 
+            address: 'Charampa, Bhadrak 756101', 
+            description: 'Historic college offering undergraduate and postgraduate courses in arts, science, and commerce.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hotel Bhadrak Residency Restaurant', 
+            rating: 4.8, 
+            address: 'Near Railway Station, Bhadrak 756100', 
+            description: 'Family-friendly restaurant offering Indian, Chinese, and Odia cuisine in a cozy atmosphere.' 
+        },
+        { 
+            name: 'Food Planet Bhadrak', 
+            rating: 4.7, 
+            address: 'Charampa, Bhadrak 756101', 
+            description: 'Trendy restaurant popular for fast food, beverages, and family dining.' 
+        },
+        { 
+            name: 'Odisha Zaika', 
+            rating: 4.6, 
+            address: 'Main Market Road, Bhadrak 756100', 
+            description: 'Casual dining spot specializing in authentic Odia and North Indian dishes.' 
+        },
+        { 
+            name: 'Green Chilly Family Restaurant', 
+            rating: 4.5, 
+            address: 'NH-16, Charampa, Bhadrak 756100', 
+            description: 'Clean and modern restaurant offering quality food and quick service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Headquarters Hospital Bhadrak', 
+            rating: 4.7, 
+            address: 'Hospital Road, Bhadrak 756100', 
+            description: 'Primary government hospital offering all major medical and emergency services.' 
+        },
+        { 
+            name: 'Sun Hospital Bhadrak', 
+            rating: 4.6, 
+            address: 'Charampa, Bhadrak 756101', 
+            description: 'Private multi-specialty hospital known for general, surgical, and maternity care.' 
+        },
+        { 
+            name: 'Maa Sarala Nursing Home', 
+            rating: 4.5, 
+            address: 'New Bus Stand Area, Bhadrak 756100', 
+            description: 'Trusted private hospital providing 24-hour medical and diagnostic services.' 
+        },
+        { 
+            name: 'Life Line Hospital', 
+            rating: 4.4, 
+            address: 'College Road, Bhadrak 756100', 
+            description: 'Modern healthcare facility with skilled doctors and emergency facilities.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Dhamra Port', 
+            rating: 4.8, 
+            address: 'Dhamra, Bhadrak 756171', 
+            description: 'Major seaport and tourist attraction showcasing maritime trade and scenic coastal beauty.' 
+        },
+        { 
+            name: 'Akhandalamani Temple', 
+            rating: 4.7, 
+            address: 'Aradi, Bhadrak 756112', 
+            description: 'Famous Shiva temple located on the banks of the Baitarani River, visited by thousands of devotees.' 
+        },
+        { 
+            name: 'Charampa Park', 
+            rating: 4.5, 
+            address: 'Charampa, Bhadrak 756101', 
+            description: 'Popular local park for families and children with scenic greenery and play areas.' 
+        },
+        { 
+            name: 'Chandbali', 
+            rating: 4.6, 
+            address: 'Near Bhadrak 756133', 
+            description: 'Riverside town known for its old port and scenic views along the Baitarani River.' 
+        }
+    ]
+}
+,
+
+
+
+
+
+
+
+
+'aizawl': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Aizawl', 
+            rating: 4.8, 
+            address: 'Treasury Square, Aizawl 796001', 
+            description: 'Central government CBSE school known for strong academics, discipline, and co-curricular excellence.' 
+        },
+        { 
+            name: 'St. Paul’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Mission Veng, Aizawl 796007', 
+            description: 'Renowned private institution offering holistic education and excellent board results.' 
+        },
+        { 
+            name: 'Mizoram Public School', 
+            rating: 4.6, 
+            address: 'Laipuitlang, Aizawl 796001', 
+            description: 'Top-rated CBSE-affiliated school known for modern teaching and extracurricular programs.' 
+        },
+        { 
+            name: 'Government Mizo High School', 
+            rating: 4.5, 
+            address: 'Zarkawt, Aizawl 796007', 
+            description: 'Historic government school offering quality education in arts and sciences.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Red Pepper Restaurant', 
+            rating: 4.8, 
+            address: 'Zarkawt, Aizawl 796001', 
+            description: 'Popular restaurant serving Mizo, Indian, and Chinese dishes with great ambience.' 
+        },
+        { 
+            name: 'David’s Kitchen', 
+            rating: 4.7, 
+            address: 'Chanmari, Aizawl 796007', 
+            description: 'Trendy café and restaurant known for continental dishes and warm service.' 
+        },
+        { 
+            name: 'Café Deja Vu', 
+            rating: 4.6, 
+            address: 'Zarkawt, Aizawl 796001', 
+            description: 'Modern café offering coffee, desserts, and snacks with a cozy interior.' 
+        },
+        { 
+            name: 'The Grand Pavilion', 
+            rating: 4.5, 
+            address: 'Bungkawn, Aizawl 796005', 
+            description: 'Upscale restaurant serving multi-cuisine meals and traditional Mizo delicacies.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Aizawl', 
+            rating: 4.8, 
+            address: 'Dawrpui, Aizawl 796001', 
+            description: 'Main government hospital offering comprehensive medical and emergency care.' 
+        },
+        { 
+            name: 'Zoram Medical College & Hospital', 
+            rating: 4.7, 
+            address: 'Falkawn, Aizawl 796005', 
+            description: 'Premier medical institution providing advanced healthcare and medical education.' 
+        },
+        { 
+            name: 'Mizoram Adventist Hospital', 
+            rating: 4.6, 
+            address: 'Mission Vengthlang, Aizawl 796007', 
+            description: 'Mission-based hospital offering high-quality healthcare and compassionate service.' 
+        },
+        { 
+            name: 'Grace Nursing Home', 
+            rating: 4.5, 
+            address: 'Zarkawt, Aizawl 796001', 
+            description: 'Private healthcare centre known for maternity, diagnostics, and personalized care.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Durtlang Hills', 
+            rating: 4.8, 
+            address: 'Durtlang, Aizawl 796001', 
+            description: 'Scenic hilltop viewpoint offering panoramic views of Aizawl city and surrounding valleys.' 
+        },
+        { 
+            name: 'Solomon’s Temple', 
+            rating: 4.7, 
+            address: 'Chawlhhmun, Aizawl 796009', 
+            description: 'Magnificent religious landmark and popular tourist attraction symbolizing peace and faith.' 
+        },
+        { 
+            name: 'Mizoram State Museum', 
+            rating: 4.6, 
+            address: 'Zarkawt, Aizawl 796001', 
+            description: 'Museum showcasing Mizo heritage, traditional crafts, and tribal artifacts.' 
+        },
+        { 
+            name: 'Reiek Heritage Village', 
+            rating: 4.5, 
+            address: 'Reiek, near Aizawl 796501', 
+            description: 'Traditional Mizo village and viewpoint offering cultural experiences and hiking trails.' 
+        }
+    ]
+}
+,'lunglei': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Lunglei', 
+            rating: 4.8, 
+            address: 'Bazar Veng, Lunglei 796701', 
+            description: 'CBSE-affiliated central school known for quality education and co-curricular excellence.' 
+        },
+        { 
+            name: 'St. Joseph’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Zohnuai, Lunglei 796701', 
+            description: 'Reputed missionary school offering holistic education and excellent results.' 
+        },
+        { 
+            name: 'Lunglei Government Higher Secondary School', 
+            rating: 4.6, 
+            address: 'Lunglei Town 796701', 
+            description: 'Leading government institution providing science, arts, and commerce education.' 
+        },
+        { 
+            name: 'Baptist Higher Secondary School', 
+            rating: 4.5, 
+            address: 'Electric Veng, Lunglei 796701', 
+            description: 'Well-known private school emphasizing discipline and strong moral values.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hill View Restaurant', 
+            rating: 4.8, 
+            address: 'Lunglei Bazar, Lunglei 796701', 
+            description: 'Popular local restaurant serving Mizo, Indian, and Chinese dishes with scenic views.' 
+        },
+        { 
+            name: 'The Bamboo Hut Café', 
+            rating: 4.7, 
+            address: 'Zohnuai, Lunglei 796701', 
+            description: 'Cozy café known for coffee, snacks, and peaceful ambience.' 
+        },
+        { 
+            name: 'Taste of Mizoram', 
+            rating: 4.6, 
+            address: 'Lunglei Town Centre 796701', 
+            description: 'Authentic restaurant offering local Mizo cuisines and homely meals.' 
+        },
+        { 
+            name: 'Food Point', 
+            rating: 4.5, 
+            address: 'Bazar Veng, Lunglei 796701', 
+            description: 'Casual dining spot known for fast food, rice dishes, and friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Lunglei', 
+            rating: 4.8, 
+            address: 'Lunglei Town 796701', 
+            description: 'Major government hospital providing general, surgical, and emergency services.' 
+        },
+        { 
+            name: 'Christian Hospital Lunglei', 
+            rating: 4.7, 
+            address: 'Zohnuai, Lunglei 796701', 
+            description: 'Mission-based hospital offering modern healthcare and compassionate service.' 
+        },
+        { 
+            name: 'Bethesda Hospital', 
+            rating: 4.6, 
+            address: 'Electric Veng, Lunglei 796701', 
+            description: 'Private hospital specializing in maternity, diagnostics, and general medicine.' 
+        },
+        { 
+            name: 'Grace Diagnostic Centre', 
+            rating: 4.5, 
+            address: 'Lunglei Bazar, Lunglei 796701', 
+            description: 'Diagnostic lab offering blood tests, imaging, and medical screening services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Saikuti Hall', 
+            rating: 4.8, 
+            address: 'Bazar Veng, Lunglei 796701', 
+            description: 'Famous cultural and recreational center hosting local events and exhibitions.' 
+        },
+        { 
+            name: 'Khawnglung Wildlife Sanctuary', 
+            rating: 4.7, 
+            address: 'Near Lunglei 796701', 
+            description: 'Protected forest area home to rare flora, fauna, and scenic landscapes.' 
+        },
+        { 
+            name: 'Zobawk Sports Academy', 
+            rating: 4.6, 
+            address: 'Zobawk, Lunglei 796701', 
+            description: 'Sports complex and tourist spot known for its scenic hill views and open-air stadium.' 
+        },
+        { 
+            name: 'Thorangtlang Wildlife Sanctuary', 
+            rating: 4.5, 
+            address: 'Southwest of Lunglei 796701', 
+            description: 'Lush forest reserve ideal for nature lovers, birdwatching, and short treks.' 
+        }
+    ]
+}
+,'champhai': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Champhai', 
+            rating: 4.8, 
+            address: 'Khawzawl Road, Champhai 796321', 
+            description: 'Central government school offering excellent CBSE education and holistic development.' 
+        },
+        { 
+            name: 'St. Joseph’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Kanan Veng, Champhai 796321', 
+            description: 'Prestigious missionary school known for discipline, academics, and value-based learning.' 
+        },
+        { 
+            name: 'Champhai Government Higher Secondary School', 
+            rating: 4.6, 
+            address: 'Champhai Town 796321', 
+            description: 'Top government institution providing science, commerce, and arts education.' 
+        },
+        { 
+            name: 'Mount Carmel School', 
+            rating: 4.5, 
+            address: 'Zion Veng, Champhai 796321', 
+            description: 'Well-known private school focusing on modern education and extracurricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Chawngthu Restaurant', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Champhai 796321', 
+            description: 'Popular eatery serving authentic Mizo cuisine and delicious home-style meals.' 
+        },
+        { 
+            name: 'Zokhawthar Café', 
+            rating: 4.7, 
+            address: 'Champhai Town Centre 796321', 
+            description: 'Cozy café offering coffee, pastries, and light snacks in a relaxed setting.' 
+        },
+        { 
+            name: 'The Hill Bite', 
+            rating: 4.6, 
+            address: 'Venglai, Champhai 796321', 
+            description: 'Family restaurant known for Indian, Chinese, and local dishes.' 
+        },
+        { 
+            name: 'Valley View Restaurant', 
+            rating: 4.5, 
+            address: 'Khawbung Road, Champhai 796321', 
+            description: 'Scenic dining spot with panoramic views and a varied menu.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Champhai', 
+            rating: 4.8, 
+            address: 'Champhai Town 796321', 
+            description: 'Main government hospital providing essential medical, surgical, and emergency services.' 
+        },
+        { 
+            name: 'Champhai Christian Hospital', 
+            rating: 4.7, 
+            address: 'Kanan Veng, Champhai 796321', 
+            description: 'Mission-run healthcare facility offering modern medical care and compassionate service.' 
+        },
+        { 
+            name: 'Grace Medical Centre', 
+            rating: 4.6, 
+            address: 'Venglai, Champhai 796321', 
+            description: 'Private hospital specializing in diagnostics, maternity, and outpatient care.' 
+        },
+        { 
+            name: 'Hope Diagnostic Centre', 
+            rating: 4.5, 
+            address: 'Champhai Bazar, Champhai 796321', 
+            description: 'Reliable lab and diagnostic service provider with modern equipment and accurate results.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Murlen National Park', 
+            rating: 4.8, 
+            address: 'Near Champhai 796321', 
+            description: 'Dense forest reserve known for rare species, caves, and scenic trekking trails.' 
+        },
+        { 
+            name: 'Rih Dil Lake', 
+            rating: 4.7, 
+            address: 'Border of Mizoram and Myanmar, near Champhai 796321', 
+            description: 'Sacred natural lake considered the spiritual lake of the Mizos, surrounded by lush hills.' 
+        },
+        { 
+            name: 'Lengteng Wildlife Sanctuary', 
+            rating: 4.6, 
+            address: 'Eastern Champhai District 796321', 
+            description: 'Biodiversity hotspot ideal for eco-tourism and birdwatching.' 
+        },
+        { 
+            name: 'Thasiama Seno Neihna', 
+            rating: 4.5, 
+            address: 'South Champhai 796321', 
+            description: 'Legendary cliff viewpoint offering breathtaking views and folklore significance.' 
+        }
+    ]
+}
+,'serchhip': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Serchhip', 
+            rating: 4.8, 
+            address: 'DC Complex Road, Serchhip 796181', 
+            description: 'CBSE-affiliated central school offering quality education and a strong academic foundation.' 
+        },
+        { 
+            name: 'St. Joseph’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Vengchhia, Serchhip 796181', 
+            description: 'Missionary-run institution known for discipline, quality teaching, and extracurricular excellence.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Serchhip', 
+            rating: 4.6, 
+            address: 'Serchhip Town 796181', 
+            description: 'Premier government school providing science, commerce, and arts streams with experienced faculty.' 
+        },
+        { 
+            name: 'Assam Rifles Public School', 
+            rating: 4.5, 
+            address: 'DC Complex Area, Serchhip 796181', 
+            description: 'Well-known school emphasizing character building, academics, and sports activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Taste Town Restaurant', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Serchhip 796181', 
+            description: 'Popular family restaurant serving authentic Mizo cuisine and Indian dishes.' 
+        },
+        { 
+            name: 'Hillside Café', 
+            rating: 4.7, 
+            address: 'Serchhip Town Centre 796181', 
+            description: 'Cozy café offering coffee, bakery items, and a relaxed environment.' 
+        },
+        { 
+            name: 'Mizo Delights', 
+            rating: 4.6, 
+            address: 'Vengchhia, Serchhip 796181', 
+            description: 'Casual dining restaurant known for delicious thalis and local food varieties.' 
+        },
+        { 
+            name: 'The Bamboo Table', 
+            rating: 4.5, 
+            address: 'DC Road, Serchhip 796181', 
+            description: 'Rustic-style eatery featuring traditional décor and homely meals.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Serchhip', 
+            rating: 4.8, 
+            address: 'Serchhip Town 796181', 
+            description: 'District-level hospital offering general medicine, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Serchhip Christian Hospital', 
+            rating: 4.7, 
+            address: 'Vengchhia, Serchhip 796181', 
+            description: 'Mission-run healthcare institution with quality treatment and compassionate care.' 
+        },
+        { 
+            name: 'Grace Medical Centre', 
+            rating: 4.6, 
+            address: 'Main Bazaar, Serchhip 796181', 
+            description: 'Private clinic providing diagnostic and outpatient services with modern facilities.' 
+        },
+        { 
+            name: 'Bethesda Clinic', 
+            rating: 4.5, 
+            address: 'Near DC Complex, Serchhip 796181', 
+            description: 'Trusted local healthcare facility for primary treatment and consultations.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Vantawng Falls', 
+            rating: 4.9, 
+            address: 'Near Thenzawl, Serchhip District 796181', 
+            description: 'Mizoram’s highest waterfall surrounded by dense forest and scenic viewpoints.' 
+        },
+        { 
+            name: 'Thenzawl Deer Park', 
+            rating: 4.7, 
+            address: 'Thenzawl, Serchhip District 796181', 
+            description: 'Popular wildlife attraction housing deer species in a natural environment.' 
+        },
+        { 
+            name: 'Chhingpuii Thlan', 
+            rating: 4.6, 
+            address: 'Near Serchhip Town 796181', 
+            description: 'Historical memorial site associated with Mizo folklore and local legends.' 
+        },
+        { 
+            name: 'Hmuifang Tlang', 
+            rating: 4.5, 
+            address: 'Between Aizawl and Serchhip 796181', 
+            description: 'Famous hilltop offering panoramic views, picnic spots, and eco-tourism activities.' 
+        }
+    ]
+}
+,'kolasib': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Kolasib', 
+            rating: 4.8, 
+            address: 'Vengthar, Kolasib 796081', 
+            description: 'Central government CBSE school renowned for quality academics and disciplined environment.' 
+        },
+        { 
+            name: 'St. John’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Kolasib Town 796081', 
+            description: 'Reputed private institution emphasizing excellence in education and extracurriculars.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Kolasib', 
+            rating: 4.6, 
+            address: 'Kolasib 796081', 
+            description: 'Leading government school providing science, commerce, and arts education.' 
+        },
+        { 
+            name: 'Mount Carmel School', 
+            rating: 4.5, 
+            address: 'Diakkawn, Kolasib 796081', 
+            description: 'Popular private school offering CBSE curriculum with focus on holistic learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hmuifang Kitchen', 
+            rating: 4.8, 
+            address: 'Kolasib Main Bazaar, Kolasib 796081', 
+            description: 'Well-known restaurant serving traditional Mizo dishes and North Indian meals.' 
+        },
+        { 
+            name: 'The Hilltop Café', 
+            rating: 4.7, 
+            address: 'Diakkawn, Kolasib 796081', 
+            description: 'Charming café offering coffee, snacks, and stunning hill views.' 
+        },
+        { 
+            name: 'Mizo Flavours', 
+            rating: 4.6, 
+            address: 'Vengthar, Kolasib 796081', 
+            description: 'Casual dining restaurant serving a fusion of local and Indian cuisines.' 
+        },
+        { 
+            name: 'Bamboo Grove Restaurant', 
+            rating: 4.5, 
+            address: 'Near DC Complex, Kolasib 796081', 
+            description: 'Rustic-themed eatery offering home-style food and excellent hospitality.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Civil Hospital Kolasib', 
+            rating: 4.8, 
+            address: 'Kolasib Town 796081', 
+            description: 'Main government hospital providing emergency, general, and specialized medical care.' 
+        },
+        { 
+            name: 'Kolasib Christian Hospital', 
+            rating: 4.7, 
+            address: 'Vengthar, Kolasib 796081', 
+            description: 'Missionary healthcare center known for dedicated service and modern facilities.' 
+        },
+        { 
+            name: 'Hope Medical Centre', 
+            rating: 4.6, 
+            address: 'Diakkawn, Kolasib 796081', 
+            description: 'Private hospital offering maternity, diagnostics, and general healthcare services.' 
+        },
+        { 
+            name: 'Grace Diagnostic Clinic', 
+            rating: 4.5, 
+            address: 'Main Bazaar, Kolasib 796081', 
+            description: 'Diagnostic and laboratory facility known for accuracy and efficiency.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Tam Dil Lake', 
+            rating: 4.9, 
+            address: '25 km from Kolasib 796081', 
+            description: 'Picturesque natural lake surrounded by pine forests, ideal for boating and picnics.' 
+        },
+        { 
+            name: 'Tlawng River Viewpoint', 
+            rating: 4.7, 
+            address: 'Near Kolasib Town 796081', 
+            description: 'Beautiful riverside viewpoint offering peaceful scenery and lush greenery.' 
+        },
+        { 
+            name: 'Tuirial Hydro Project Site', 
+            rating: 4.6, 
+            address: 'Kolasib District 796081', 
+            description: 'Popular spot for photography and exploring Mizoram’s hydro engineering marvel.' 
+        },
+        { 
+            name: 'Kolasib View Park', 
+            rating: 4.5, 
+            address: 'Diakkawn, Kolasib 796081', 
+            description: 'Well-maintained park offering panoramic views of the surrounding hills and valleys.' 
+        }
+    ]
+}
+,'mamit': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Mamit', 
+            rating: 4.8, 
+            address: 'DC Complex Area, Mamit 796441', 
+            description: 'Central government CBSE-affiliated school providing excellent academic and extracurricular programs.' 
+        },
+        { 
+            name: 'St. Paul’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Mamit Town 796441', 
+            description: 'Renowned private school focusing on academics, values, and holistic development.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Mamit', 
+            rating: 4.6, 
+            address: 'Mamit 796441', 
+            description: 'Top government institution offering quality education in science, commerce, and arts streams.' 
+        },
+        { 
+            name: 'JNV Mamit (Jawahar Navodaya Vidyalaya)', 
+            rating: 4.5, 
+            address: 'Zamuang Village, Mamit 796441', 
+            description: 'Premier residential school nurturing academic excellence and rural talent under CBSE curriculum.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Tribal Flavours', 
+            rating: 4.8, 
+            address: 'Mamit Bazar, Mamit 796441', 
+            description: 'Popular restaurant offering authentic Mizo and North Eastern cuisines.' 
+        },
+        { 
+            name: 'Hillside Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Mamit 796441', 
+            description: 'Cozy café known for coffee, noodles, and local snacks in a peaceful setting.' 
+        },
+        { 
+            name: 'The Green Leaf Restaurant', 
+            rating: 4.6, 
+            address: 'Near DC Complex, Mamit 796441', 
+            description: 'Family-friendly restaurant serving multi-cuisine dishes with fresh local ingredients.' 
+        },
+        { 
+            name: 'Taste Hub', 
+            rating: 4.5, 
+            address: 'Zawlnuam Road, Mamit 796441', 
+            description: 'Casual eatery popular for fast food, rice platters, and friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Mamit', 
+            rating: 4.8, 
+            address: 'DC Complex Area, Mamit 796441', 
+            description: 'Main government hospital providing comprehensive medical, surgical, and emergency care.' 
+        },
+        { 
+            name: 'Mamit Christian Hospital', 
+            rating: 4.7, 
+            address: 'Mamit Town 796441', 
+            description: 'Mission-based healthcare facility offering compassionate service and quality treatment.' 
+        },
+        { 
+            name: 'Grace Medical Centre', 
+            rating: 4.6, 
+            address: 'Zawlnuam Road, Mamit 796441', 
+            description: 'Private hospital known for maternity, diagnostic, and outpatient care.' 
+        },
+        { 
+            name: 'Hope Diagnostic Clinic', 
+            rating: 4.5, 
+            address: 'Main Bazaar, Mamit 796441', 
+            description: 'Reliable diagnostic center providing pathology and imaging services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Dampa Tiger Reserve', 
+            rating: 4.9, 
+            address: 'West Phaileng, Mamit District 796441', 
+            description: 'Largest wildlife sanctuary in Mizoram, home to tigers, elephants, and rare bird species.' 
+        },
+        { 
+            name: 'Tuirihiau Falls', 
+            rating: 4.7, 
+            address: 'Near Mamit 796441', 
+            description: 'Beautiful waterfall known for its natural caves and scenic surroundings.' 
+        },
+        { 
+            name: 'West Phaileng Eco Park', 
+            rating: 4.6, 
+            address: 'West Phaileng, Mamit 796441', 
+            description: 'Eco-tourism destination ideal for nature walks and picnics.' 
+        },
+        { 
+            name: 'Zamuang Village Viewpoint', 
+            rating: 4.5, 
+            address: 'Zamuang, Mamit 796441', 
+            description: 'Panoramic viewpoint offering serene views of the Mamit hills and forests.' 
+        }
+    ]
+}
+,'saiha': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Saiha', 
+            rating: 4.8, 
+            address: 'Near DC Office, Saiha 796901', 
+            description: 'CBSE-affiliated central school providing quality education with excellent infrastructure and staff.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Saiha', 
+            rating: 4.7, 
+            address: 'Phura Road, Saiha 796901', 
+            description: 'Premier residential school nurturing rural talent with modern facilities and CBSE curriculum.' 
+        },
+        { 
+            name: 'St. Joseph’s Higher Secondary School', 
+            rating: 4.6, 
+            address: 'Saiha Town 796901', 
+            description: 'Private Catholic institution emphasizing academic excellence and moral education.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Saiha', 
+            rating: 4.5, 
+            address: 'Main Road, Saiha 796901', 
+            description: 'Top government school offering science, commerce, and arts streams with dedicated teaching staff.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Bamboo Hut Restaurant', 
+            rating: 4.8, 
+            address: 'Saiha Bazar, Saiha 796901', 
+            description: 'Famous for traditional Mizo dishes and homely atmosphere with a local touch.' 
+        },
+        { 
+            name: 'Chhimtlang Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Saiha 796901', 
+            description: 'Trendy café known for coffee, snacks, and fast food with mountain views.' 
+        },
+        { 
+            name: 'Saiha Kitchen', 
+            rating: 4.6, 
+            address: 'Phura Road, Saiha 796901', 
+            description: 'Casual restaurant serving multi-cuisine meals and local favorites at affordable prices.' 
+        },
+        { 
+            name: 'Hilltop Dine', 
+            rating: 4.5, 
+            address: 'DC Complex Area, Saiha 796901', 
+            description: 'Modern restaurant offering Asian and Indian dishes with a peaceful ambiance.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Saiha', 
+            rating: 4.8, 
+            address: 'DC Complex, Saiha 796901', 
+            description: 'Main public healthcare center equipped with emergency and specialist medical services.' 
+        },
+        { 
+            name: 'Saiha Christian Hospital', 
+            rating: 4.7, 
+            address: 'Mission Compound, Saiha 796901', 
+            description: 'Faith-based hospital providing compassionate care with qualified doctors and nurses.' 
+        },
+        { 
+            name: 'Grace Medical Clinic', 
+            rating: 4.6, 
+            address: 'Phura Road, Saiha 796901', 
+            description: 'Private clinic offering diagnostic and outpatient services with modern facilities.' 
+        },
+        { 
+            name: 'Good Health Diagnostic Centre', 
+            rating: 4.5, 
+            address: 'Saiha Bazar, Saiha 796901', 
+            description: 'Popular diagnostic lab known for reliable pathology and X-ray services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Palak Dil (Palak Lake)', 
+            rating: 4.9, 
+            address: 'Phura, near Saiha 796901', 
+            description: 'Mizoram’s largest natural lake, surrounded by lush forest and rich biodiversity.' 
+        },
+        { 
+            name: 'Phura Village', 
+            rating: 4.7, 
+            address: 'South of Saiha 796901', 
+            description: 'Picturesque village offering cultural experiences and proximity to Palak Lake.' 
+        },
+        { 
+            name: 'Mount Mawma', 
+            rating: 4.6, 
+            address: 'Near Saiha 796901', 
+            description: 'Popular trekking destination offering panoramic views of the Saiha region.' 
+        },
+        { 
+            name: 'Saiha Viewpoint', 
+            rating: 4.5, 
+            address: 'Saiha Town Hilltop 796901', 
+            description: 'Beautiful viewpoint offering sweeping views of the town and surrounding valleys.' 
+        }
+    ]
+}
+,'lawngtlai': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Lawngtlai', 
+            rating: 4.8, 
+            address: 'Near DC Office, Lawngtlai 796891', 
+            description: 'Central government CBSE school known for high academic standards and co-curricular excellence.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Lawngtlai', 
+            rating: 4.7, 
+            address: 'Chawnhu, Lawngtlai 796891', 
+            description: 'Premier residential CBSE school nurturing rural talent with excellent infrastructure.' 
+        },
+        { 
+            name: 'St. Peter’s Higher Secondary School', 
+            rating: 4.6, 
+            address: 'Lawngtlai Town 796891', 
+            description: 'Renowned private institution offering strong academics and value-based education.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Lawngtlai', 
+            rating: 4.5, 
+            address: 'Main Road, Lawngtlai 796891', 
+            description: 'Top state-run school providing science, arts, and commerce streams with skilled faculty.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Lai Cuisine Restaurant', 
+            rating: 4.8, 
+            address: 'Lawngtlai Bazar, Lawngtlai 796891', 
+            description: 'Famous for Lai traditional dishes and homely Mizo cuisine served in authentic style.' 
+        },
+        { 
+            name: 'Blue Orchid Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Lawngtlai 796891', 
+            description: 'Trendy café offering coffee, snacks, and pastries with a scenic hillside view.' 
+        },
+        { 
+            name: 'Taste of Mizoram', 
+            rating: 4.6, 
+            address: 'Chawnhu Road, Lawngtlai 796891', 
+            description: 'Popular restaurant serving Mizo, Indian, and Asian cuisines in a family-friendly setup.' 
+        },
+        { 
+            name: 'Valley View Dine', 
+            rating: 4.5, 
+            address: 'DC Complex Area, Lawngtlai 796891', 
+            description: 'Relaxed restaurant featuring delicious meals and stunning valley views.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Lawngtlai', 
+            rating: 4.8, 
+            address: 'DC Complex, Lawngtlai 796891', 
+            description: 'Major government hospital offering emergency, maternity, and general medical services.' 
+        },
+        { 
+            name: 'Lawngtlai Christian Hospital', 
+            rating: 4.7, 
+            address: 'Mission Compound, Lawngtlai 796891', 
+            description: 'Faith-based healthcare institution providing compassionate care and modern facilities.' 
+        },
+        { 
+            name: 'Lai Medical Centre', 
+            rating: 4.6, 
+            address: 'Lawngtlai Bazar, Lawngtlai 796891', 
+            description: 'Private clinic known for diagnostic services, outpatient care, and medical consultation.' 
+        },
+        { 
+            name: 'Good Health Clinic', 
+            rating: 4.5, 
+            address: 'Chawnhu Road, Lawngtlai 796891', 
+            description: 'Clinic offering general medicine, dental, and child healthcare services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Kawlmuit Tlang', 
+            rating: 4.8, 
+            address: 'Near Lawngtlai Town 796891', 
+            description: 'Beautiful hilltop viewpoint offering panoramic views of the surrounding valleys and hills.' 
+        },
+        { 
+            name: 'Tuichawng River', 
+            rating: 4.7, 
+            address: 'South of Lawngtlai 796891', 
+            description: 'Serene river location ideal for picnics, fishing, and nature photography.' 
+        },
+        { 
+            name: 'Chawnhu Village', 
+            rating: 4.6, 
+            address: '8 km from Lawngtlai 796891', 
+            description: 'Cultural village showcasing Lai traditions, crafts, and festivals.' 
+        },
+        { 
+            name: 'Theological Park Viewpoint', 
+            rating: 4.5, 
+            address: 'Lawngtlai Town Hilltop 796891', 
+            description: 'Tourist-friendly viewpoint near the seminary offering breathtaking sunset views.' 
+        }
+    ]
+}
+,'khawzawl': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Khawzawl', 
+            rating: 4.8, 
+            address: 'Near DC Office, Khawzawl 796310', 
+            description: 'Central school offering CBSE curriculum with emphasis on academic excellence and discipline.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Khawzawl', 
+            rating: 4.7, 
+            address: 'Main Road, Khawzawl 796310', 
+            description: 'Leading government institution offering science, commerce, and arts streams with dedicated faculty.' 
+        },
+        { 
+            name: 'St. Mary’s School', 
+            rating: 4.6, 
+            address: 'Khawzawl Town 796310', 
+            description: 'Private missionary school known for moral education and extracurricular activities.' 
+        },
+        { 
+            name: 'Khawzawl High School', 
+            rating: 4.5, 
+            address: 'College Road, Khawzawl 796310', 
+            description: 'Established local high school providing quality secondary education and community involvement.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Zoliana’s Kitchen', 
+            rating: 4.8, 
+            address: 'Khawzawl Bazar, Khawzawl 796310', 
+            description: 'Popular restaurant serving authentic Mizo and Indian dishes in a homely setting.' 
+        },
+        { 
+            name: 'Hill Breeze Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Khawzawl 796310', 
+            description: 'Cozy café offering snacks, coffee, and local favorites with a view of the surrounding hills.' 
+        },
+        { 
+            name: 'Taste Town Restaurant', 
+            rating: 4.6, 
+            address: 'DC Complex Road, Khawzawl 796310', 
+            description: 'Casual dining spot serving Indian, Chinese, and Mizo fusion meals.' 
+        },
+        { 
+            name: 'Mountain Dine', 
+            rating: 4.5, 
+            address: 'College Road, Khawzawl 796310', 
+            description: 'Simple yet popular eatery known for affordable meals and friendly atmosphere.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Khawzawl', 
+            rating: 4.8, 
+            address: 'Near DC Office, Khawzawl 796310', 
+            description: 'Main healthcare facility of the district offering outpatient, emergency, and specialist services.' 
+        },
+        { 
+            name: 'Khawzawl Christian Hospital', 
+            rating: 4.7, 
+            address: 'Mission Compound, Khawzawl 796310', 
+            description: 'Mission-run hospital providing quality medical care and patient support services.' 
+        },
+        { 
+            name: 'LifeCare Clinic', 
+            rating: 4.6, 
+            address: 'Khawzawl Bazar, Khawzawl 796310', 
+            description: 'Private healthcare center known for diagnostics, consultations, and lab services.' 
+        },
+        { 
+            name: 'Good Health Diagnostic Centre', 
+            rating: 4.5, 
+            address: 'College Road, Khawzawl 796310', 
+            description: 'Modern diagnostic and pathology center offering accurate testing and reports.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Tualpui Viewpoint', 
+            rating: 4.8, 
+            address: 'Near Khawzawl Town 796310', 
+            description: 'Spectacular viewpoint offering panoramic views of green valleys and rolling hills.' 
+        },
+        { 
+            name: 'Tualbung Village', 
+            rating: 4.7, 
+            address: '10 km from Khawzawl 796310', 
+            description: 'Traditional village known for its scenic beauty and preserved Mizo culture.' 
+        },
+        { 
+            name: 'Khawzawl Park', 
+            rating: 4.6, 
+            address: 'Town Centre, Khawzawl 796310', 
+            description: 'Local recreation park with gardens, walkways, and viewpoints for family outings.' 
+        },
+        { 
+            name: 'Zotlang Heritage Spot', 
+            rating: 4.5, 
+            address: 'Zotlang, Khawzawl 796310', 
+            description: 'Heritage area showcasing Mizo craftsmanship, culture, and historical artifacts.' 
+        }
+    ]
+}
+,'saitual': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Saitual', 
+            rating: 4.8, 
+            address: 'Near DC Office, Saitual 796320', 
+            description: 'Central government school offering CBSE curriculum with focus on academic and moral excellence.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Saitual', 
+            rating: 4.7, 
+            address: 'Main Road, Saitual 796320', 
+            description: 'Premier state-run school providing science, commerce, and arts streams with experienced teachers.' 
+        },
+        { 
+            name: 'St. Paul’s High School', 
+            rating: 4.6, 
+            address: 'Saitual Town 796320', 
+            description: 'Private Christian school recognized for discipline, co-curricular activities, and solid academics.' 
+        },
+        { 
+            name: 'Saitual High School', 
+            rating: 4.5, 
+            address: 'College Road, Saitual 796320', 
+            description: 'Established local school offering affordable quality education to secondary students.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Zothan’s Kitchen', 
+            rating: 4.8, 
+            address: 'Saitual Bazar, Saitual 796320', 
+            description: 'Popular restaurant serving Mizo, Indian, and Chinese cuisines in a relaxed setup.' 
+        },
+        { 
+            name: 'Skyline Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Saitual 796320', 
+            description: 'Modern café known for coffee, pastries, and fast food with a hillside view.' 
+        },
+        { 
+            name: 'The Local Bite', 
+            rating: 4.6, 
+            address: 'DC Complex Area, Saitual 796320', 
+            description: 'Casual family restaurant specializing in local Mizo dishes and comfort food.' 
+        },
+        { 
+            name: 'Misty Hill Dine', 
+            rating: 4.5, 
+            address: 'College Road, Saitual 796320', 
+            description: 'Cozy dining place offering traditional meals with a homely touch.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Saitual', 
+            rating: 4.8, 
+            address: 'Near DC Office, Saitual 796320', 
+            description: 'Main government hospital providing general, emergency, and maternity healthcare services.' 
+        },
+        { 
+            name: 'Saitual Christian Hospital', 
+            rating: 4.7, 
+            address: 'Mission Compound, Saitual 796320', 
+            description: 'Missionary-run hospital offering compassionate care and basic diagnostic services.' 
+        },
+        { 
+            name: 'LifeCare Clinic', 
+            rating: 4.6, 
+            address: 'Saitual Bazar, Saitual 796320', 
+            description: 'Private medical center providing consultations, lab services, and minor treatments.' 
+        },
+        { 
+            name: 'Good Health Diagnostic Centre', 
+            rating: 4.5, 
+            address: 'Town Centre, Saitual 796320', 
+            description: 'Reliable pathology and diagnostic center known for prompt service and accuracy.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Tamdil Lake', 
+            rating: 4.9, 
+            address: '8 km from Saitual 796320', 
+            description: 'Popular freshwater lake surrounded by dense forests, ideal for boating and picnicking.' 
+        },
+        { 
+            name: 'Saitual Viewpoint', 
+            rating: 4.7, 
+            address: 'Saitual Town Hilltop 796320', 
+            description: 'Panoramic viewpoint offering breathtaking views of valleys and rolling hills.' 
+        },
+        { 
+            name: 'Hmuifang Village', 
+            rating: 4.6, 
+            address: 'Near Saitual 796320', 
+            description: 'Scenic village known for traditional Mizo culture, handcrafts, and natural beauty.' 
+        },
+        { 
+            name: 'Tamdil Eco Park', 
+            rating: 4.5, 
+            address: 'Near Tamdil Lake, Saitual 796320', 
+            description: 'Eco-tourism spot with picnic areas, walking trails, and boating facilities.' 
+        }
+    ]
+}
+,'hnahthial': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Hnahthial', 
+            rating: 4.8, 
+            address: 'Near DC Office, Hnahthial 796571', 
+            description: 'Central school under CBSE offering high-quality education and holistic development.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Hnahthial', 
+            rating: 4.7, 
+            address: 'College Road, Hnahthial 796571', 
+            description: 'Premier government institution providing science, arts, and commerce streams with excellent results.' 
+        },
+        { 
+            name: 'St. Joseph’s School', 
+            rating: 4.6, 
+            address: 'Hnahthial Town 796571', 
+            description: 'Catholic missionary school focused on academics, discipline, and value-based education.' 
+        },
+        { 
+            name: 'Hnahthial High School', 
+            rating: 4.5, 
+            address: 'Main Road, Hnahthial 796571', 
+            description: 'Local high school known for dedicated teaching and student-friendly environment.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Zonun’s Kitchen', 
+            rating: 4.8, 
+            address: 'Hnahthial Bazar, Hnahthial 796571', 
+            description: 'Top-rated restaurant serving local Mizo food and Indian cuisine with a homely touch.' 
+        },
+        { 
+            name: 'Hill View Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Hnahthial 796571', 
+            description: 'Popular café offering coffee, snacks, and light meals overlooking the scenic valley.' 
+        },
+        { 
+            name: 'Taste Hub Restaurant', 
+            rating: 4.6, 
+            address: 'DC Complex Area, Hnahthial 796571', 
+            description: 'Family-friendly restaurant serving multi-cuisine dishes at affordable prices.' 
+        },
+        { 
+            name: 'Mizo Spice Dine', 
+            rating: 4.5, 
+            address: 'College Road, Hnahthial 796571', 
+            description: 'Casual eatery offering Mizo, Chinese, and Indian dishes in a relaxed setting.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Hnahthial', 
+            rating: 4.8, 
+            address: 'Near DC Office, Hnahthial 796571', 
+            description: 'Main healthcare institution equipped with modern medical facilities and 24-hour emergency care.' 
+        },
+        { 
+            name: 'Hnahthial Christian Hospital', 
+            rating: 4.7, 
+            address: 'Mission Compound, Hnahthial 796571', 
+            description: 'Mission-run hospital known for quality treatment, compassionate service, and medical outreach.' 
+        },
+        { 
+            name: 'LifeCare Clinic', 
+            rating: 4.6, 
+            address: 'Main Road, Hnahthial 796571', 
+            description: 'Private clinic offering diagnostic, consultation, and outpatient services.' 
+        },
+        { 
+            name: 'Hnahthial Diagnostic Centre', 
+            rating: 4.5, 
+            address: 'Town Centre, Hnahthial 796571', 
+            description: 'Trusted pathology and imaging lab known for fast and accurate results.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Thenzawl Deer Park', 
+            rating: 4.8, 
+            address: 'Near Hnahthial 796571', 
+            description: 'Scenic wildlife park featuring deer, birds, and picnic areas surrounded by forest.' 
+        },
+        { 
+            name: 'Zobawk Viewpoint', 
+            rating: 4.7, 
+            address: '8 km from Hnahthial 796571', 
+            description: 'Hilltop viewpoint offering stunning vistas of valleys, mountains, and the Hnahthial landscape.' 
+        },
+        { 
+            name: 'Vathuampui Village', 
+            rating: 4.6, 
+            address: 'South of Hnahthial 796571', 
+            description: 'Traditional Mizo village offering insights into local culture and lifestyle.' 
+        },
+        { 
+            name: 'Hnahthial Heritage Park', 
+            rating: 4.5, 
+            address: 'Town Outskirts, Hnahthial 796571', 
+            description: 'Peaceful park featuring walking paths, local flora, and scenic viewpoints.' 
+        }
+    ]
+}
+,'thenzawl': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Thenzawl', 
+            rating: 4.8, 
+            address: 'Near DC Office, Thenzawl 796186', 
+            description: 'CBSE-affiliated central school providing holistic education with modern facilities and experienced staff.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Thenzawl', 
+            rating: 4.7, 
+            address: 'College Road, Thenzawl 796186', 
+            description: 'Leading state-run institution offering science, commerce, and arts streams with excellent results.' 
+        },
+        { 
+            name: 'St. Peter’s School', 
+            rating: 4.6, 
+            address: 'Thenzawl Town 796186', 
+            description: 'Missionary school focused on quality academics, discipline, and extracurricular development.' 
+        },
+        { 
+            name: 'Thenzawl High School', 
+            rating: 4.5, 
+            address: 'Main Road, Thenzawl 796186', 
+            description: 'Established local school known for community involvement and consistent academic performance.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Chaltlang Kitchen', 
+            rating: 4.8, 
+            address: 'Thenzawl Bazar, Thenzawl 796186', 
+            description: 'Highly rated restaurant serving authentic Mizo and Indian dishes in a family-friendly environment.' 
+        },
+        { 
+            name: 'The Loom Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Thenzawl 796186', 
+            description: 'Popular café offering coffee, fast food, and bakery items with cozy interiors.' 
+        },
+        { 
+            name: 'Mizo Delight Restaurant', 
+            rating: 4.6, 
+            address: 'College Road, Thenzawl 796186', 
+            description: 'Casual eatery known for local cuisine, Chinese dishes, and courteous service.' 
+        },
+        { 
+            name: 'Eco Park Dine', 
+            rating: 4.5, 
+            address: 'Near Thenzawl Deer Park, Thenzawl 796186', 
+            description: 'Tourist-favorite restaurant surrounded by nature, serving regional delicacies.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Thenzawl Hospital', 
+            rating: 4.8, 
+            address: 'Main Road, Thenzawl 796186', 
+            description: 'Primary healthcare centre providing inpatient, outpatient, and emergency services.' 
+        },
+        { 
+            name: 'St. Paul’s Health Centre', 
+            rating: 4.7, 
+            address: 'Mission Compound, Thenzawl 796186', 
+            description: 'Christian medical centre providing general healthcare and diagnostic services.' 
+        },
+        { 
+            name: 'LifeCare Diagnostic Clinic', 
+            rating: 4.6, 
+            address: 'Thenzawl Bazar, Thenzawl 796186', 
+            description: 'Modern diagnostic lab and clinic known for efficient and accurate medical testing.' 
+        },
+        { 
+            name: 'Community Health Clinic', 
+            rating: 4.5, 
+            address: 'College Road, Thenzawl 796186', 
+            description: 'Local clinic providing preventive care, vaccination, and basic treatments.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Thenzawl Deer Park', 
+            rating: 4.9, 
+            address: 'Thenzawl 796186', 
+            description: 'Famous tourist attraction featuring deer, natural trails, and eco-tourism facilities.' 
+        },
+        { 
+            name: 'Vantawng Falls', 
+            rating: 4.8, 
+            address: 'Near Thenzawl 796186', 
+            description: 'Mizoram’s highest and most spectacular waterfall surrounded by dense forest.' 
+        },
+        { 
+            name: 'Thenzawl Golf Course', 
+            rating: 4.7, 
+            address: 'Thenzawl Town Outskirts 796186', 
+            description: 'Picturesque 18-hole golf course nestled in lush greenery, popular with visitors.' 
+        },
+        { 
+            name: 'Thenzawl Handloom Centre', 
+            rating: 4.6, 
+            address: 'Town Centre, Thenzawl 796186', 
+            description: 'Cultural site showcasing traditional Mizo weaving and local handicrafts.' 
+        }
+    ]
+}
+,'zawlnuam': {
+    schools: [
+        { 
+            name: 'Zawlnuam Government High School', 
+            rating: 4.7, 
+            address: 'Zawlnuam, Mamit District 796471', 
+            description: 'Leading government school providing secondary education with dedicated teaching staff and strong community reputation.' 
+        },
+        { 
+            name: 'Kendriya Vidyalaya Zawlnuam', 
+            rating: 4.8, 
+            address: 'Near PWD Complex, Zawlnuam 796471', 
+            description: 'Central school offering CBSE curriculum and holistic student development programs.' 
+        },
+        { 
+            name: 'St. Mary’s School', 
+            rating: 4.6, 
+            address: 'Mission Compound, Zawlnuam 796471', 
+            description: 'Christian missionary school known for discipline, academics, and extracurricular excellence.' 
+        },
+        { 
+            name: 'Zawlnuam Public School', 
+            rating: 4.5, 
+            address: 'Main Road, Zawlnuam 796471', 
+            description: 'Private institution focusing on foundational education and value-based learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hill View Restaurant', 
+            rating: 4.7, 
+            address: 'Zawlnuam Bazar, Zawlnuam 796471', 
+            description: 'Local favorite serving authentic Mizo dishes and Indian-style thalis in a homely atmosphere.' 
+        },
+        { 
+            name: 'Bamboo Café', 
+            rating: 4.6, 
+            address: 'Main Market, Zawlnuam 796471', 
+            description: 'Small but cozy café offering tea, snacks, and fast food popular among students and travelers.' 
+        },
+        { 
+            name: 'Taste of Zawlnuam', 
+            rating: 4.5, 
+            address: 'College Road, Zawlnuam 796471', 
+            description: 'Known for regional delicacies, momos, and quick service in a family-friendly setting.' 
+        },
+        { 
+            name: 'Mizolicious Dine', 
+            rating: 4.4, 
+            address: 'Zawlnuam Town Centre 796471', 
+            description: 'Casual dining restaurant serving multi-cuisine meals with great hospitality.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Zawlnuam Community Health Centre', 
+            rating: 4.8, 
+            address: 'Zawlnuam, Mamit District 796471', 
+            description: 'Primary government health facility offering outpatient, emergency, and maternal care services.' 
+        },
+        { 
+            name: 'St. Mary’s Health Unit', 
+            rating: 4.6, 
+            address: 'Mission Compound, Zawlnuam 796471', 
+            description: 'Missionary-run health unit providing general checkups and preventive healthcare.' 
+        },
+        { 
+            name: 'LifePoint Clinic', 
+            rating: 4.5, 
+            address: 'Bazar Road, Zawlnuam 796471', 
+            description: 'Private clinic providing diagnostic, pharmacy, and basic treatment services.' 
+        },
+        { 
+            name: 'Care Plus Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Main Market, Zawlnuam 796471', 
+            description: 'Modern diagnostic lab offering pathology and blood testing services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Dampa Tiger Reserve', 
+            rating: 4.9, 
+            address: 'Near Zawlnuam, Mamit District 796471', 
+            description: 'Mizoram’s largest wildlife sanctuary, home to tigers, elephants, and rare bird species.' 
+        },
+        { 
+            name: 'Zawlnuam Viewpoint', 
+            rating: 4.7, 
+            address: 'Zawlnuam Hilltop 796471', 
+            description: 'Popular spot offering panoramic views of lush hills and valleys.' 
+        },
+        { 
+            name: 'Rengdil Lake', 
+            rating: 4.6, 
+            address: '25 km from Zawlnuam 796471', 
+            description: 'Beautiful natural lake surrounded by forest — a peaceful picnic and photography location.' 
+        },
+        { 
+            name: 'Tuirihiau Falls', 
+            rating: 4.5, 
+            address: 'Zawlnuam Outskirts 796471', 
+            description: 'Hidden waterfall near the town, known for its serene and untouched surroundings.' 
+        }
+    ]
+}
+,'n_vanlaiphai': {
+    schools: [
+        { 
+            name: 'N. Vanlaiphai Government Higher Secondary School', 
+            rating: 4.8, 
+            address: 'N. Vanlaiphai, Serchhip District 796181', 
+            description: 'Leading government school offering science, arts, and commerce streams with excellent faculty and academic performance.' 
+        },
+        { 
+            name: 'St. Joseph’s School', 
+            rating: 4.7, 
+            address: 'Mission Veng, N. Vanlaiphai 796181', 
+            description: 'Missionary school focused on academic discipline and moral education for holistic student growth.' 
+        },
+        { 
+            name: 'Mount Valley School', 
+            rating: 4.6, 
+            address: 'College Road, N. Vanlaiphai 796181', 
+            description: 'Private English-medium institution promoting creative learning and extracurricular engagement.' 
+        },
+        { 
+            name: 'N. Vanlaiphai Public School', 
+            rating: 4.5, 
+            address: 'Main Street, N. Vanlaiphai 796181', 
+            description: 'Emerging private school offering quality primary and middle school education in a friendly environment.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Taste Valley Restaurant', 
+            rating: 4.7, 
+            address: 'Main Bazaar, N. Vanlaiphai 796181', 
+            description: 'Famous for its local Mizo dishes, thalis, and warm hospitality in a homely atmosphere.' 
+        },
+        { 
+            name: 'Highland Café', 
+            rating: 4.6, 
+            address: 'Bus Stand Area, N. Vanlaiphai 796181', 
+            description: 'Popular café serving snacks, beverages, and fast food to travelers and locals alike.' 
+        },
+        { 
+            name: 'Heritage Dine', 
+            rating: 4.5, 
+            address: 'Market Road, N. Vanlaiphai 796181', 
+            description: 'Cozy restaurant offering traditional and Indian fusion dishes with scenic hill views.' 
+        },
+        { 
+            name: 'Bamboo Hut Eatery', 
+            rating: 4.4, 
+            address: 'Village Centre, N. Vanlaiphai 796181', 
+            description: 'Local restaurant specializing in bamboo shoot dishes and authentic tribal flavors.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'N. Vanlaiphai Primary Health Centre', 
+            rating: 4.8, 
+            address: 'N. Vanlaiphai, Serchhip District 796181', 
+            description: 'Government-run health facility providing outpatient, emergency, and maternal care services.' 
+        },
+        { 
+            name: 'St. Joseph’s Health Unit', 
+            rating: 4.6, 
+            address: 'Mission Veng, N. Vanlaiphai 796181', 
+            description: 'Mission-based healthcare unit offering general medical treatment and minor surgery facilities.' 
+        },
+        { 
+            name: 'LifeCare Clinic', 
+            rating: 4.5, 
+            address: 'Main Bazaar, N. Vanlaiphai 796181', 
+            description: 'Private clinic offering diagnostic and pharmacy services with skilled local doctors.' 
+        },
+        { 
+            name: 'Good Health Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Market Road, N. Vanlaiphai 796181', 
+            description: 'Modern diagnostic centre known for precise lab results and quick service.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Vanlaiphai Viewpoint', 
+            rating: 4.8, 
+            address: 'N. Vanlaiphai Hilltop 796181', 
+            description: 'Panoramic viewpoint offering stunning vistas of green valleys and the Tlawng River below.' 
+        },
+        { 
+            name: 'Tlawng Riverbank', 
+            rating: 4.7, 
+            address: 'Near N. Vanlaiphai 796181', 
+            description: 'Beautiful riverside location ideal for picnics, photography, and nature walks.' 
+        },
+        { 
+            name: 'Thenzawl Waterfall', 
+            rating: 4.6, 
+            address: '30 km from N. Vanlaiphai 796181', 
+            description: 'Popular natural waterfall surrounded by forest — perfect for short excursions.' 
+        },
+        { 
+            name: 'Serchhip Eco Park', 
+            rating: 4.5, 
+            address: 'Near Serchhip Town, 35 km from N. Vanlaiphai 796181', 
+            description: 'Lush eco-park featuring walking trails, picnic spots, and rare flora.' 
+        }
+    ]
+}
+,'biate': {
+    schools: [
+        { 
+            name: 'Biate Government Higher Secondary School', 
+            rating: 4.8, 
+            address: 'Biate, Saitual District 796370', 
+            description: 'Leading government institution offering science, arts, and commerce education with experienced faculty and excellent results.' 
+        },
+        { 
+            name: 'St. Peter’s School', 
+            rating: 4.7, 
+            address: 'Mission Compound, Biate 796370', 
+            description: 'Mission-run English-medium school emphasizing moral education, discipline, and co-curricular excellence.' 
+        },
+        { 
+            name: 'Mount Horizon School', 
+            rating: 4.6, 
+            address: 'College Road, Biate 796370', 
+            description: 'Private school known for interactive teaching methods and modern academic facilities.' 
+        },
+        { 
+            name: 'Biate Public School', 
+            rating: 4.5, 
+            address: 'Main Street, Biate 796370', 
+            description: 'Emerging private institution providing quality education from nursery to high school level.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hillside Restaurant', 
+            rating: 4.7, 
+            address: 'Main Bazaar, Biate 796370', 
+            description: 'Popular eatery offering Mizo thalis, noodles, and Indian meals in a friendly local setting.' 
+        },
+        { 
+            name: 'Highland Café', 
+            rating: 4.6, 
+            address: 'Market Square, Biate 796370', 
+            description: 'Modern café serving coffee, snacks, and fast food with a scenic hill view atmosphere.' 
+        },
+        { 
+            name: 'Taste of Biate', 
+            rating: 4.5, 
+            address: 'College Road, Biate 796370', 
+            description: 'Family-friendly restaurant known for local delicacies and fresh organic meals.' 
+        },
+        { 
+            name: 'Mizo Delight Restaurant', 
+            rating: 4.4, 
+            address: 'Biate Town Centre 796370', 
+            description: 'Cozy spot serving traditional tribal cuisine and fusion dishes with local ingredients.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Biate Community Health Centre', 
+            rating: 4.8, 
+            address: 'Biate, Saitual District 796370', 
+            description: 'Government-run medical facility offering outpatient, maternity, and emergency care services.' 
+        },
+        { 
+            name: 'St. Peter’s Health Unit', 
+            rating: 4.6, 
+            address: 'Mission Compound, Biate 796370', 
+            description: 'Missionary healthcare unit providing primary treatment and preventive care to locals.' 
+        },
+        { 
+            name: 'Hope Medical Clinic', 
+            rating: 4.5, 
+            address: 'Market Road, Biate 796370', 
+            description: 'Private clinic offering diagnostics, minor surgery, and pharmacy services.' 
+        },
+        { 
+            name: 'LifeScan Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Main Bazaar, Biate 796370', 
+            description: 'Diagnostic center offering modern lab testing and health check-up packages.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Lengteng Wildlife Sanctuary', 
+            rating: 4.9, 
+            address: 'Near Biate, Saitual District 796370', 
+            description: 'Biodiversity hotspot with lush forests, exotic birds, and trekking routes through scenic hills.' 
+        },
+        { 
+            name: 'Biate Heritage Village', 
+            rating: 4.7, 
+            address: 'Biate Town 796370', 
+            description: 'Cultural heritage site preserving Mizo traditional houses, customs, and handicrafts.' 
+        },
+        { 
+            name: 'Reiek Tlang Viewpoint', 
+            rating: 4.6, 
+            address: '20 km from Biate 796370', 
+            description: 'Breathtaking viewpoint offering wide views of the surrounding valleys and mountains.' 
+        },
+        { 
+            name: 'Khawzawl Hills', 
+            rating: 4.5, 
+            address: 'Near Biate, Saitual District 796370', 
+            description: 'Serene hilly area ideal for hiking, nature walks, and camping activities.' 
+        }
+    ]
+}
+,'tuipang': {
+    schools: [
+        { 
+            name: 'Tuipang Government Higher Secondary School', 
+            rating: 4.8, 
+            address: 'Tuipang, Saiha District 796901', 
+            description: 'Prominent government school providing science, commerce, and arts streams with skilled faculty and good academic performance.' 
+        },
+        { 
+            name: 'St. Paul’s School', 
+            rating: 4.7, 
+            address: 'Mission Compound, Tuipang 796901', 
+            description: 'Missionary-run school focusing on value-based education and extracurricular excellence.' 
+        },
+        { 
+            name: 'Mount Zion English School', 
+            rating: 4.6, 
+            address: 'College Road, Tuipang 796901', 
+            description: 'Private English-medium school emphasizing quality education, discipline, and digital learning.' 
+        },
+        { 
+            name: 'Tuipang Public School', 
+            rating: 4.5, 
+            address: 'Main Street, Tuipang 796901', 
+            description: 'Emerging private institution known for innovative teaching and nurturing learning atmosphere.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'South Hill Restaurant', 
+            rating: 4.7, 
+            address: 'Main Bazaar, Tuipang 796901', 
+            description: 'Famous for authentic Mizo cuisine and homestyle thalis with a comfortable family ambiance.' 
+        },
+        { 
+            name: 'Valley View Café', 
+            rating: 4.6, 
+            address: 'Market Area, Tuipang 796901', 
+            description: 'Popular café serving snacks, beverages, and fast food with a great hill view setting.' 
+        },
+        { 
+            name: 'Flavours of Tuipang', 
+            rating: 4.5, 
+            address: 'College Road, Tuipang 796901', 
+            description: 'Family-friendly restaurant offering traditional, Indian, and fusion dishes prepared fresh.' 
+        },
+        { 
+            name: 'Tribal Tastes', 
+            rating: 4.4, 
+            address: 'Tuipang Town Centre 796901', 
+            description: 'Local eatery known for bamboo shoot dishes, smoked meats, and regional specialties.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Tuipang Community Health Centre', 
+            rating: 4.8, 
+            address: 'Tuipang, Saiha District 796901', 
+            description: 'Main government hospital offering general healthcare, emergency, and maternity services.' 
+        },
+        { 
+            name: 'St. Paul’s Health Unit', 
+            rating: 4.6, 
+            address: 'Mission Compound, Tuipang 796901', 
+            description: 'Missionary healthcare centre providing outpatient services and community health programs.' 
+        },
+        { 
+            name: 'LifeCare Clinic Tuipang', 
+            rating: 4.5, 
+            address: 'Market Road, Tuipang 796901', 
+            description: 'Private clinic with qualified doctors providing diagnostics, pharmacy, and minor surgery.' 
+        },
+        { 
+            name: 'Wellness Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Main Bazaar, Tuipang 796901', 
+            description: 'Modern diagnostic facility offering blood tests, ECG, and basic lab services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Palak Dil (Palak Lake)', 
+            rating: 4.9, 
+            address: '30 km from Tuipang, Saiha District 796901', 
+            description: 'Largest natural lake in Mizoram surrounded by rich forests and wildlife — perfect for eco-tourism.' 
+        },
+        { 
+            name: 'Pala Wildlife Sanctuary', 
+            rating: 4.7, 
+            address: 'Near Palak Dil, Saiha District 796901', 
+            description: 'Biodiversity hotspot with scenic trails and home to migratory birds and rare species.' 
+        },
+        { 
+            name: 'Tuipang Viewpoint', 
+            rating: 4.6, 
+            address: 'Tuipang Hilltop 796901', 
+            description: 'Panoramic viewpoint offering breathtaking views of valleys, rivers, and distant mountains.' 
+        },
+        { 
+            name: 'Saiha Town', 
+            rating: 4.5, 
+            address: '25 km from Tuipang 796901', 
+            description: 'Nearby town with cultural centers, local markets, and scenic hill roads — ideal for day trips.' 
+        }
+    ]
+}
+,'thingsulthliah': {
+    schools: [
+        { 
+            name: 'Thingsulthliah Government Higher Secondary School', 
+            rating: 4.8, 
+            address: 'Thingsulthliah, Aizawl District 796161', 
+            description: 'Leading government higher secondary school offering science, arts, and commerce streams with a strong academic record.' 
+        },
+        { 
+            name: 'St. Mary’s School', 
+            rating: 4.7, 
+            address: 'Mission Compound, Thingsulthliah 796161', 
+            description: 'Missionary school known for academic discipline, sports participation, and character education.' 
+        },
+        { 
+            name: 'Green Valley English School', 
+            rating: 4.6, 
+            address: 'College Road, Thingsulthliah 796161', 
+            description: 'Private English-medium school providing modern education with extracurricular focus.' 
+        },
+        { 
+            name: 'Thingsulthliah Public School', 
+            rating: 4.5, 
+            address: 'Main Street, Thingsulthliah 796161', 
+            description: 'Well-established local school offering quality education in a community-driven environment.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Taste Garden Restaurant', 
+            rating: 4.7, 
+            address: 'Main Bazaar, Thingsulthliah 796161', 
+            description: 'Popular restaurant serving Mizo thalis, bamboo shoot dishes, and Indian meals with great local taste.' 
+        },
+        { 
+            name: 'Hill Breeze Café', 
+            rating: 4.6, 
+            address: 'Market Area, Thingsulthliah 796161', 
+            description: 'Cozy café offering tea, coffee, snacks, and bakery items with a peaceful atmosphere.' 
+        },
+        { 
+            name: 'Flavours of Thingsul', 
+            rating: 4.5, 
+            address: 'College Road, Thingsulthliah 796161', 
+            description: 'Local eatery serving a mix of regional and North Indian cuisine with friendly service.' 
+        },
+        { 
+            name: 'Tribal Bite Restaurant', 
+            rating: 4.4, 
+            address: 'Town Centre, Thingsulthliah 796161', 
+            description: 'Casual restaurant offering traditional Mizo dishes prepared with authentic local ingredients.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Thingsulthliah Primary Health Centre', 
+            rating: 4.8, 
+            address: 'Thingsulthliah, Aizawl District 796161', 
+            description: 'Main government healthcare facility providing OPD, maternal, and basic emergency services.' 
+        },
+        { 
+            name: 'St. Mary’s Health Unit', 
+            rating: 4.6, 
+            address: 'Mission Compound, Thingsulthliah 796161', 
+            description: 'Mission-based health unit offering primary medical treatment and preventive healthcare services.' 
+        },
+        { 
+            name: 'Hope Clinic', 
+            rating: 4.5, 
+            address: 'Market Road, Thingsulthliah 796161', 
+            description: 'Private clinic providing general medicine, diagnostics, and pharmacy services.' 
+        },
+        { 
+            name: 'LifePoint Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Main Bazaar, Thingsulthliah 796161', 
+            description: 'Diagnostic lab offering accurate testing services with modern medical equipment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Reiek Tlang (Reiek Peak)', 
+            rating: 4.9, 
+            address: 'Near Thingsulthliah, Aizawl District 796161', 
+            description: 'Famous viewpoint offering panoramic views of hills and valleys — a favorite trekking destination.' 
+        },
+        { 
+            name: 'Durtlang Hills', 
+            rating: 4.7, 
+            address: '25 km from Thingsulthliah 796161', 
+            description: 'Picturesque hill range ideal for hiking, picnics, and photography.' 
+        },
+        { 
+            name: 'Tuirial Riverbank', 
+            rating: 4.6, 
+            address: 'Near Thingsulthliah 796161', 
+            description: 'Serene riverside location perfect for nature walks and relaxation.' 
+        },
+        { 
+            name: 'Aizawl City Viewpoint', 
+            rating: 4.5, 
+            address: '30 km from Thingsulthliah 796161', 
+            description: 'Scenic viewpoint offering breathtaking views of Aizawl city and surrounding valleys.' 
+        }
+    ]
+}
+,'reiek': {
+    schools: [
+        { 
+            name: 'Reiek Government High School', 
+            rating: 4.8, 
+            address: 'Reiek Village, Aizawl District 796501', 
+            description: 'Leading government institution providing quality secondary education with a focus on academics and cultural learning.' 
+        },
+        { 
+            name: 'St. Joseph’s School Reiek', 
+            rating: 4.7, 
+            address: 'Mission Veng, Reiek 796501', 
+            description: 'Mission-run English-medium school known for moral education and extracurricular participation.' 
+        },
+        { 
+            name: 'Hill Valley School', 
+            rating: 4.6, 
+            address: 'College Road, Reiek 796501', 
+            description: 'Private institution emphasizing digital learning, student activities, and academic excellence.' 
+        },
+        { 
+            name: 'Reiek Public School', 
+            rating: 4.5, 
+            address: 'Main Street, Reiek 796501', 
+            description: 'Community-driven private school focusing on foundational and holistic education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Reiek Heritage Restaurant', 
+            rating: 4.8, 
+            address: 'Reiek Tourist Complex, Reiek 796501', 
+            description: 'Authentic restaurant offering traditional Mizo cuisine with a panoramic view of the valley.' 
+        },
+        { 
+            name: 'Peak View Café', 
+            rating: 4.7, 
+            address: 'Reiek Peak Road, Reiek 796501', 
+            description: 'Scenic café serving coffee, snacks, and light meals — perfect for trekkers and visitors.' 
+        },
+        { 
+            name: 'Taste of Reiek', 
+            rating: 4.6, 
+            address: 'Village Market, Reiek 796501', 
+            description: 'Local eatery famous for its homemade curries, rice meals, and bamboo shoot dishes.' 
+        },
+        { 
+            name: 'Hill Breeze Restaurant', 
+            rating: 4.5, 
+            address: 'Reiek Centre 796501', 
+            description: 'Cozy restaurant offering Indian, Chinese, and local cuisines with family-friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Reiek Primary Health Centre', 
+            rating: 4.8, 
+            address: 'Reiek, Aizawl District 796501', 
+            description: 'Government-run primary healthcare centre providing outpatient, vaccination, and emergency services.' 
+        },
+        { 
+            name: 'Mission Health Unit', 
+            rating: 4.6, 
+            address: 'Mission Veng, Reiek 796501', 
+            description: 'Missionary-run medical facility offering general care and health awareness programs.' 
+        },
+        { 
+            name: 'GoodLife Clinic', 
+            rating: 4.5, 
+            address: 'Main Bazaar, Reiek 796501', 
+            description: 'Private clinic providing diagnostic, pharmacy, and first-aid treatment services.' 
+        },
+        { 
+            name: 'Wellcare Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Market Road, Reiek 796501', 
+            description: 'Diagnostic and lab testing center offering reliable reports and modern equipment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Reiek Tlang (Reiek Peak)', 
+            rating: 4.9, 
+            address: 'Reiek Village, Aizawl District 796501', 
+            description: 'One of Mizoram’s most famous peaks offering a panoramic view of the plains of Bangladesh and lush green hills.' 
+        },
+        { 
+            name: 'Reiek Heritage Village', 
+            rating: 4.8, 
+            address: 'Near Reiek Peak, Reiek 796501', 
+            description: 'Cultural village displaying traditional Mizo houses and lifestyle — a major tourist attraction.' 
+        },
+        { 
+            name: 'Lungleng Cave', 
+            rating: 4.6, 
+            address: '10 km from Reiek 796501', 
+            description: 'Natural cave formation attracting explorers and nature enthusiasts.' 
+        },
+        { 
+            name: 'Reiek Eco Park', 
+            rating: 4.5, 
+            address: 'Base of Reiek Hill, Reiek 796501', 
+            description: 'Serene park area ideal for picnics, nature walks, and bird watching.' 
+        }
+    ]
+}
+,'phullen': {
+    schools: [
+        { 
+            name: 'Phullen Government High School', 
+            rating: 4.8, 
+            address: 'Phullen Village, Khawzawl District 796310', 
+            description: 'Top government institution offering secondary education with strong academic standards and community involvement.' 
+        },
+        { 
+            name: 'St. Mary’s School Phullen', 
+            rating: 4.7, 
+            address: 'Mission Veng, Phullen 796310', 
+            description: 'Christian missionary school known for quality English-medium education and moral development.' 
+        },
+        { 
+            name: 'Bethel Academy', 
+            rating: 4.6, 
+            address: 'Phullen South, 796310', 
+            description: 'Private school emphasizing holistic growth, digital education, and extracurricular learning.' 
+        },
+        { 
+            name: 'Phullen Middle School', 
+            rating: 4.5, 
+            address: 'Central Phullen, 796310', 
+            description: 'Community-supported middle school focused on foundational education and child development.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Phullen Viewpoint Café', 
+            rating: 4.8, 
+            address: 'Near Market Road, Phullen 796310', 
+            description: 'Small café with panoramic views of the hills, serving tea, snacks, and local dishes.' 
+        },
+        { 
+            name: 'Taste of Phullen', 
+            rating: 4.7, 
+            address: 'Main Bazaar, Phullen 796310', 
+            description: 'Popular eatery serving traditional Mizo food, thalis, and bamboo shoot delicacies.' 
+        },
+        { 
+            name: 'Hilltop Restaurant', 
+            rating: 4.6, 
+            address: 'Phullen North, 796310', 
+            description: 'Family-run restaurant known for warm service and freshly prepared local meals.' 
+        },
+        { 
+            name: 'Zonun Café', 
+            rating: 4.5, 
+            address: 'Market Complex, Phullen 796310', 
+            description: 'Modern-style café offering coffee, momos, and light snacks — popular among youth.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Phullen Primary Health Centre', 
+            rating: 4.8, 
+            address: 'Phullen, Khawzawl District 796310', 
+            description: 'Government-run PHC providing essential healthcare, maternity services, and immunizations.' 
+        },
+        { 
+            name: 'Mission Health Clinic', 
+            rating: 4.6, 
+            address: 'Mission Area, Phullen 796310', 
+            description: 'Missionary healthcare unit known for regular camps and compassionate service.' 
+        },
+        { 
+            name: 'Welllife Clinic', 
+            rating: 4.5, 
+            address: 'Phullen Market Road, 796310', 
+            description: 'Private clinic providing general consultations and pharmacy support.' 
+        },
+        { 
+            name: 'Zoram Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Lower Phullen, 796310', 
+            description: 'Diagnostic lab offering blood tests, scans, and basic medical diagnostics.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Phullen Viewpoint', 
+            rating: 4.9, 
+            address: 'Hilltop, Phullen 796310', 
+            description: 'Scenic spot offering breathtaking views of the rolling hills and valleys of Mizoram.' 
+        },
+        { 
+            name: 'Tuiphal River', 
+            rating: 4.7, 
+            address: 'Near Phullen Village, 796310', 
+            description: 'Beautiful riverside area ideal for small treks and picnics.' 
+        },
+        { 
+            name: 'Phullen Forest Trail', 
+            rating: 4.6, 
+            address: 'Phullen Reserve Forest, 796310', 
+            description: 'Popular trekking route through dense forest, home to diverse flora and fauna.' 
+        },
+        { 
+            name: 'Lengteng Wildlife Sanctuary (Nearby)', 
+            rating: 4.5, 
+            address: 'Approx. 15 km from Phullen, Khawzawl District 796310', 
+            description: 'Protected area known for rich biodiversity and scenic nature trails.' 
+        }
+    ]
+}
+,'vairengte': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Vairengte', 
+            rating: 4.8, 
+            address: 'Assam Rifles Campus, Vairengte 796101', 
+            description: 'Central government CBSE school offering excellent academics, discipline, and co-curricular focus.' 
+        },
+        { 
+            name: 'Vairengte Government Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Main Road, Vairengte 796101', 
+            description: 'Prominent government institution providing science, commerce, and arts education for senior students.' 
+        },
+        { 
+            name: 'St. Paul’s School Vairengte', 
+            rating: 4.6, 
+            address: 'Vairengte Town 796101', 
+            description: 'Private school known for holistic development and English-medium education.' 
+        },
+        { 
+            name: 'Assam Rifles Public School', 
+            rating: 4.5, 
+            address: 'CISJW Complex, Vairengte 796101', 
+            description: 'Reputed institution run by Assam Rifles focusing on discipline, academics, and physical education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Highland Café', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Vairengte 796101', 
+            description: 'Popular café serving coffee, sandwiches, and local snacks in a cozy setting.' 
+        },
+        { 
+            name: 'The Bamboo Hut', 
+            rating: 4.7, 
+            address: 'Near Highway Junction, Vairengte 796101', 
+            description: 'Authentic Mizo restaurant offering traditional dishes made with fresh local ingredients.' 
+        },
+        { 
+            name: 'Ridge View Restaurant', 
+            rating: 4.6, 
+            address: 'NH-306, Vairengte 796101', 
+            description: 'Family restaurant famous for rice platters, meat curries, and warm hospitality.' 
+        },
+        { 
+            name: 'Zopar Café', 
+            rating: 4.5, 
+            address: 'Market Area, Vairengte 796101', 
+            description: 'Trendy café offering fast food, beverages, and bakery items — a hit among young locals.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Vairengte Community Health Centre', 
+            rating: 4.8, 
+            address: 'Main Town, Vairengte 796101', 
+            description: 'Major government health facility providing primary and emergency medical services.' 
+        },
+        { 
+            name: 'Assam Rifles Hospital', 
+            rating: 4.7, 
+            address: 'Assam Rifles Campus, Vairengte 796101', 
+            description: 'Military hospital serving personnel and civilians with modern healthcare facilities.' 
+        },
+        { 
+            name: 'Grace Clinic', 
+            rating: 4.6, 
+            address: 'Market Road, Vairengte 796101', 
+            description: 'Private clinic providing general consultation, maternity care, and diagnostics.' 
+        },
+        { 
+            name: 'Hillcare Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Vairengte Bazaar 796101', 
+            description: 'Diagnostic and pathology center known for reliability and efficient lab services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Counter Insurgency and Jungle Warfare School (CIJWS)', 
+            rating: 4.9, 
+            address: 'Assam Rifles Campus, Vairengte 796101', 
+            description: 'World-renowned military training institute known for its jungle warfare expertise and discipline.' 
+        },
+        { 
+            name: 'Tlawng River Viewpoint', 
+            rating: 4.7, 
+            address: 'Near Vairengte Town, 796101', 
+            description: 'Scenic riverside viewpoint offering peaceful surroundings and panoramic views.' 
+        },
+        { 
+            name: 'Vairengte Hilltop Park', 
+            rating: 4.6, 
+            address: 'Hilltop, Vairengte 796101', 
+            description: 'Leisure park ideal for family picnics and enjoying sunset views.' 
+        },
+        { 
+            name: 'Durtlang Hills (Nearby)', 
+            rating: 4.5, 
+            address: 'Approx. 20 km from Vairengte, 796101', 
+            description: 'Hilly area offering trekking routes, lush forests, and stunning natural vistas.' 
+        }
+    ]
+}
+,
+
+
+
+
+
+
+
+
+
+'kohima': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Kohima', 
+            rating: 4.8, 
+            address: 'Midland, Kohima 797001', 
+            description: 'Premier CBSE school providing quality education and co-curricular development under central government.' 
+        },
+        { 
+            name: 'Don Bosco Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Aradura Hill, Kohima 797001', 
+            description: 'Renowned institution focusing on academic excellence, discipline, and sports.' 
+        },
+        { 
+            name: 'Mount Hermon Higher Secondary School', 
+            rating: 4.6, 
+            address: 'New Market, Kohima 797001', 
+            description: 'English-medium school known for strong academics and extracurricular programs.' 
+        },
+        { 
+            name: 'Model Higher Secondary School', 
+            rating: 4.5, 
+            address: 'Kohima Science College Road, Jotsoma 797002', 
+            description: 'Well-known school offering science and arts streams with experienced faculty.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Garden Café', 
+            rating: 4.8, 
+            address: 'Midland, Kohima 797001', 
+            description: 'Popular café offering continental and fusion cuisine in a peaceful garden setting.' 
+        },
+        { 
+            name: 'Orchid Restaurant', 
+            rating: 4.7, 
+            address: 'PR Hill, Kohima 797001', 
+            description: 'Family restaurant serving Indian, Chinese, and Naga dishes with great ambiance.' 
+        },
+        { 
+            name: 'Sakura Restaurant', 
+            rating: 4.6, 
+            address: 'BOC Road, Kohima 797001', 
+            description: 'Known for authentic Asian and Naga fusion dishes and warm hospitality.' 
+        },
+        { 
+            name: 'D Café Kohima', 
+            rating: 4.5, 
+            address: 'Main Town, Kohima 797001', 
+            description: 'Trendy café with coffee, snacks, and desserts popular among youth.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Naga Hospital Authority Kohima', 
+            rating: 4.8, 
+            address: 'Midland, Kohima 797001', 
+            description: 'Leading government hospital offering comprehensive healthcare and emergency services.' 
+        },
+        { 
+            name: 'Bethel Medical Centre', 
+            rating: 4.6, 
+            address: 'Billy Graham Road, Kohima 797001', 
+            description: 'Multi-specialty hospital known for its modern facilities and compassionate care.' 
+        },
+        { 
+            name: 'Oking Hospital & Research Clinic', 
+            rating: 4.5, 
+            address: 'Middle AG Colony, Kohima 797001', 
+            description: 'Private hospital offering advanced medical treatments and diagnostics.' 
+        },
+        { 
+            name: 'Kohima Nursing Home', 
+            rating: 4.4, 
+            address: 'PR Hill, Kohima 797001', 
+            description: 'Trusted healthcare center providing general and maternity services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Kisama Heritage Village', 
+            rating: 4.8, 
+            address: 'Kisama, Kohima 797005', 
+            description: 'Famous site of the Hornbill Festival showcasing Naga culture and heritage.' 
+        },
+        { 
+            name: 'Kohima War Cemetery', 
+            rating: 4.7, 
+            address: 'Midland, Kohima 797001', 
+            description: 'Memorial dedicated to World War II soldiers with serene and historical atmosphere.' 
+        },
+        { 
+            name: 'Dzükou Valley', 
+            rating: 4.6, 
+            address: 'Near Viswema Village, Kohima District', 
+            description: 'Picturesque valley known for its seasonal flowers, trekking routes, and breathtaking views.' 
+        },
+        { 
+            name: 'Japfu Peak', 
+            rating: 4.5, 
+            address: 'Southern Kohima District', 
+            description: 'Second highest peak in Nagaland, famous for trekking and panoramic views.' 
+        }
+    ]
+}
+,'dimapur': {
+    schools: [
+        { 
+            name: 'Delhi Public School Dimapur', 
+            rating: 4.8, 
+            address: 'Darogapathar, Dimapur 797112', 
+            description: 'Top CBSE school offering high academic standards and holistic student development.' 
+        },
+        { 
+            name: 'Holy Cross Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Circular Road, Dimapur 797112', 
+            description: 'Renowned institution providing excellent education with a focus on discipline and values.' 
+        },
+        { 
+            name: 'Pranab Vidyapith Higher Secondary School', 
+            rating: 4.6, 
+            address: 'Bank Colony, Dimapur 797112', 
+            description: 'Well-reputed school emphasizing academics, co-curriculars, and moral education.' 
+        },
+        { 
+            name: 'Bethesda Higher Secondary School', 
+            rating: 4.5, 
+            address: 'Walford, Dimapur 797112', 
+            description: 'English-medium institution providing modern education and strong cultural grounding.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Maple Tree Café', 
+            rating: 4.8, 
+            address: 'City Tower, Dimapur 797112', 
+            description: 'Trendy café offering international cuisine, desserts, and coffee in a cozy setting.' 
+        },
+        { 
+            name: 'Ethnic Table', 
+            rating: 4.7, 
+            address: 'Khermahal, Dimapur 797112', 
+            description: 'Popular restaurant serving authentic Naga, Indian, and Asian dishes with warm service.' 
+        },
+        { 
+            name: 'Infinity Restaurant & Lounge', 
+            rating: 4.6, 
+            address: 'Purana Bazaar, Dimapur 797112', 
+            description: 'Upscale dining spot featuring multi-cuisine dishes and great ambiance for families.' 
+        },
+        { 
+            name: 'Saramati Hotel Restaurant', 
+            rating: 4.5, 
+            address: 'Golaghat Road, Dimapur 797112', 
+            description: 'Classic restaurant offering Indian and Continental meals in a peaceful atmosphere.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Dimapur District Hospital', 
+            rating: 4.7, 
+            address: 'Bank Colony, Dimapur 797112', 
+            description: 'Major government hospital offering comprehensive healthcare and emergency facilities.' 
+        },
+        { 
+            name: 'Faith Hospital', 
+            rating: 4.6, 
+            address: 'Khermahal, Dimapur 797112', 
+            description: 'Multi-specialty hospital with advanced medical services and experienced doctors.' 
+        },
+        { 
+            name: 'Zion Hospital & Research Centre', 
+            rating: 4.5, 
+            address: 'Purana Bazaar, Dimapur 797112', 
+            description: 'Private hospital known for high-quality care, diagnostics, and patient support.' 
+        },
+        { 
+            name: 'Eden Medical Centre', 
+            rating: 4.4, 
+            address: 'Dimapur 797112', 
+            description: 'Well-equipped healthcare facility providing surgery, maternity, and diagnostic services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Kachari Ruins', 
+            rating: 4.8, 
+            address: 'Ruin Park, Dimapur 797112', 
+            description: 'Historical monument of the ancient Dimasa Kachari kingdom, featuring mysterious monoliths.' 
+        },
+        { 
+            name: 'Nagaland Science Centre', 
+            rating: 4.7, 
+            address: 'Pherima, Dimapur 797112', 
+            description: 'Interactive science museum and learning center for students and visitors.' 
+        },
+        { 
+            name: 'Diezephe Craft Village', 
+            rating: 4.6, 
+            address: 'Near Dimapur, Nagaland 797112', 
+            description: 'Traditional village promoting local crafts, weaving, and handmade Naga products.' 
+        },
+        { 
+            name: 'Triple Falls', 
+            rating: 4.5, 
+            address: 'Seithekema Village, Dimapur 797112', 
+            description: 'Beautiful waterfall surrounded by lush greenery, ideal for picnics and photography.' 
+        }
+    ]
+}
+,'mokokchung': {
+    schools: [
+        { 
+            name: 'Mayangnokcha Government Higher Secondary School', 
+            rating: 4.8, 
+            address: 'Town Area, Mokokchung 798601', 
+            description: 'Historic and prestigious government school offering science, arts, and commerce streams.' 
+        },
+        { 
+            name: 'Queen Mary Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Arkong Ward, Mokokchung 798601', 
+            description: 'Well-known private school providing quality CBSE education and extracurricular programs.' 
+        },
+        { 
+            name: 'Mokokchung Government College', 
+            rating: 4.6, 
+            address: 'Yimyu Ward, Mokokchung 798601', 
+            description: 'Leading higher education institution offering undergraduate courses in multiple disciplines.' 
+        },
+        { 
+            name: 'Jubilee Memorial School', 
+            rating: 4.5, 
+            address: 'Sungkomen Ward, Mokokchung 798601', 
+            description: 'English-medium school focused on holistic learning and moral values.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Süngratsü Kitchen', 
+            rating: 4.8, 
+            address: 'Town Centre, Mokokchung 798601', 
+            description: 'Local favorite serving authentic Naga cuisine in a cozy atmosphere.' 
+        },
+        { 
+            name: 'Café Millennium', 
+            rating: 4.7, 
+            address: 'Alongsen Ward, Mokokchung 798601', 
+            description: 'Trendy café offering coffee, bakery items, and fusion meals popular among youth.' 
+        },
+        { 
+            name: 'The White Table Restaurant', 
+            rating: 4.6, 
+            address: 'Arkong Ward, Mokokchung 798601', 
+            description: 'Multi-cuisine family restaurant with excellent service and homely vibes.' 
+        },
+        { 
+            name: 'The Heritage Kitchen', 
+            rating: 4.5, 
+            address: 'Mokokchung Main Town 798601', 
+            description: 'Elegant restaurant known for serving both local and continental dishes.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Imkongliba Memorial District Hospital', 
+            rating: 4.7, 
+            address: 'Mokokchung 798601', 
+            description: 'Major government hospital providing essential medical care and emergency services.' 
+        },
+        { 
+            name: 'Faith Hospital Mokokchung', 
+            rating: 4.6, 
+            address: 'Yimyu Ward, Mokokchung 798601', 
+            description: 'Multi-specialty hospital offering quality healthcare and modern facilities.' 
+        },
+        { 
+            name: 'Eden Nursing Home', 
+            rating: 4.5, 
+            address: 'Arkong Ward, Mokokchung 798601', 
+            description: 'Private healthcare center providing surgical, diagnostic, and maternity services.' 
+        },
+        { 
+            name: 'LifeCare Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Town Area, Mokokchung 798601', 
+            description: 'Diagnostic and pathology center with modern testing and imaging equipment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Longkhum Village', 
+            rating: 4.8, 
+            address: 'Near Mokokchung 798601', 
+            description: 'Picturesque hilltop village known as the “Vanguard of Ao Country,” offering scenic views.' 
+        },
+        { 
+            name: 'Ungma Village', 
+            rating: 4.7, 
+            address: '5 km from Mokokchung 798601', 
+            description: 'Oldest and largest Ao Naga village preserving rich culture and traditional architecture.' 
+        },
+        { 
+            name: 'Mokokchung Village Heritage Park', 
+            rating: 4.6, 
+            address: 'Mokokchung 798601', 
+            description: 'Cultural site exhibiting traditional Naga houses, artifacts, and lifestyle displays.' 
+        },
+        { 
+            name: 'Impur Mission Centre', 
+            rating: 4.5, 
+            address: 'Impur, near Mokokchung 798601', 
+            description: 'Historic mission center and church complex, a key landmark in Nagaland’s Christian history.' 
+        }
+    ]
+}
+,'wokha': {
+    schools: [
+        { 
+            name: 'Mount Tiyi College', 
+            rating: 4.8, 
+            address: 'Wokha Town, Nagaland 797111', 
+            description: 'Leading college in Wokha providing undergraduate programs in arts and science streams.' 
+        },
+        { 
+            name: 'Government Higher Secondary School Wokha', 
+            rating: 4.7, 
+            address: 'Police Colony, Wokha 797111', 
+            description: 'Renowned government school offering quality education and extracurricular programs.' 
+        },
+        { 
+            name: 'Don Bosco Higher Secondary School Wokha', 
+            rating: 4.6, 
+            address: 'Mount Tiyi Ward, Wokha 797111', 
+            description: 'Christian mission school focusing on discipline, academics, and character development.' 
+        },
+        { 
+            name: 'Fernbrook School', 
+            rating: 4.5, 
+            address: 'Old Town, Wokha 797111', 
+            description: 'English-medium private school known for modern teaching methods and holistic learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Tiyi Restaurant', 
+            rating: 4.8, 
+            address: 'Main Town, Wokha 797111', 
+            description: 'Popular local restaurant serving traditional Naga cuisine and Indian dishes.' 
+        },
+        { 
+            name: 'Hill View Café', 
+            rating: 4.7, 
+            address: 'Police Colony, Wokha 797111', 
+            description: 'Cozy café offering fast food, snacks, and coffee with a scenic hill view.' 
+        },
+        { 
+            name: 'The Bamboo House', 
+            rating: 4.6, 
+            address: 'Wokha Market Road, Wokha 797111', 
+            description: 'Rustic-style eatery offering authentic Naga and Asian delicacies.' 
+        },
+        { 
+            name: 'Taste Buds Restaurant', 
+            rating: 4.5, 
+            address: 'Town Centre, Wokha 797111', 
+            description: 'Family restaurant featuring Indian, Chinese, and Continental cuisines.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Wokha', 
+            rating: 4.7, 
+            address: 'Police Colony, Wokha 797111', 
+            description: 'Major government hospital providing general medical and emergency care for the district.' 
+        },
+        { 
+            name: 'Hillside Nursing Home', 
+            rating: 4.6, 
+            address: 'Main Road, Wokha 797111', 
+            description: 'Private hospital known for surgical care, maternity, and diagnostics.' 
+        },
+        { 
+            name: 'Life Care Hospital Wokha', 
+            rating: 4.5, 
+            address: 'New Colony, Wokha 797111', 
+            description: 'Multi-specialty healthcare center offering modern facilities and experienced doctors.' 
+        },
+        { 
+            name: 'Wokha Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Town Area, Wokha 797111', 
+            description: 'Reliable pathology and imaging service provider with quality medical testing.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mount Tiyi', 
+            rating: 4.8, 
+            address: 'Near Wokha Town, 797111', 
+            description: 'Sacred hill offering stunning views, trekking trails, and cultural legends of the Lotha tribe.' 
+        },
+        { 
+            name: 'Doyang Hydro Project Lake', 
+            rating: 4.7, 
+            address: 'Near Doyang River, Wokha District', 
+            description: 'Beautiful lake and dam area famous for birdwatching, especially Amur Falcons.' 
+        },
+        { 
+            name: 'Totsu Cliff', 
+            rating: 4.6, 
+            address: 'Wokha District, Nagaland', 
+            description: 'Majestic cliff offering panoramic views and popular among local adventurers.' 
+        },
+        { 
+            name: 'Liphanyan Governor’s Camp', 
+            rating: 4.5, 
+            address: 'Near Doyang River, Wokha 797111', 
+            description: 'Serene riverside picnic spot with rich biodiversity and scenic surroundings.' 
+        }
+    ]
+}
+,'zunheboto': {
+    schools: [
+        { 
+            name: 'Zunheboto Government College', 
+            rating: 4.8, 
+            address: 'Project Colony, Zunheboto 798620', 
+            description: 'Prominent government college providing undergraduate programs in arts and science streams.' 
+        },
+        { 
+            name: 'Lerinet Christian Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Mission Compound, Zunheboto 798620', 
+            description: 'Popular mission school known for academic excellence and value-based education.' 
+        },
+        { 
+            name: 'Town Higher Secondary School Zunheboto', 
+            rating: 4.6, 
+            address: 'Zunheboto Town, 798620', 
+            description: 'Well-established institution offering quality education and extracurricular opportunities.' 
+        },
+        { 
+            name: 'Sunrise School Zunheboto', 
+            rating: 4.5, 
+            address: 'DC Hill, Zunheboto 798620', 
+            description: 'English-medium private school providing modern facilities and student-centered learning.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Sumi Kitchen', 
+            rating: 4.8, 
+            address: 'Main Town, Zunheboto 798620', 
+            description: 'Highly rated restaurant serving traditional Sumi Naga dishes and local favorites.' 
+        },
+        { 
+            name: 'Café 64', 
+            rating: 4.7, 
+            address: 'Project Colony, Zunheboto 798620', 
+            description: 'Trendy café offering coffee, snacks, and fusion food with a youthful vibe.' 
+        },
+        { 
+            name: 'Highland Restaurant', 
+            rating: 4.6, 
+            address: 'Old Town, Zunheboto 798620', 
+            description: 'Family-friendly restaurant offering Indian and Chinese cuisine with pleasant ambiance.' 
+        },
+        { 
+            name: 'The Corner Dine', 
+            rating: 4.5, 
+            address: 'Town Centre, Zunheboto 798620', 
+            description: 'Casual eatery popular for its fast food, tea, and Naga-style thalis.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Zunheboto', 
+            rating: 4.7, 
+            address: 'Project Colony, Zunheboto 798620', 
+            description: 'Main government hospital providing comprehensive healthcare and emergency services.' 
+        },
+        { 
+            name: 'Good Samaritan Hospital', 
+            rating: 4.6, 
+            address: 'Zunheboto Town 798620', 
+            description: 'Multi-specialty mission hospital known for dedicated medical care and community service.' 
+        },
+        { 
+            name: 'Bethel Nursing Home', 
+            rating: 4.5, 
+            address: 'DC Hill, Zunheboto 798620', 
+            description: 'Private nursing home offering maternity, surgery, and diagnostic services.' 
+        },
+        { 
+            name: 'Zunheboto Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Town Area, Zunheboto 798620', 
+            description: 'Diagnostic center offering pathology, imaging, and health check-up facilities.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Satoi Range', 
+            rating: 4.8, 
+            address: 'Satoi, Zunheboto District 798620', 
+            description: 'Famous biodiversity hotspot known for its scenic hills, forests, and rare bird species.' 
+        },
+        { 
+            name: 'Ghosu Bird Sanctuary', 
+            rating: 4.7, 
+            address: 'Atoizu, Zunheboto District 798620', 
+            description: 'Natural sanctuary providing shelter to various migratory and native bird species.' 
+        },
+        { 
+            name: 'Zunheboto Town Viewpoint', 
+            rating: 4.6, 
+            address: 'Town Centre, Zunheboto 798620', 
+            description: 'Beautiful viewpoint offering panoramic views of the town and surrounding hills.' 
+        },
+        { 
+            name: 'Zunheboto Sumi Baptist Church', 
+            rating: 4.5, 
+            address: 'Project Colony, Zunheboto 798620', 
+            description: 'One of Asia’s largest Baptist churches, an architectural and spiritual landmark.' 
+        }
+    ]
+}
+,'tuensang': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Tuensang', 
+            rating: 4.8, 
+            address: 'Police Point, Tuensang 798612', 
+            description: 'Leading government school providing science, arts, and commerce education with a strong academic record.' 
+        },
+        { 
+            name: 'St. John’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Tuensang Town 798612', 
+            description: 'Renowned private institution known for quality education, discipline, and extracurricular activities.' 
+        },
+        { 
+            name: 'Sacred Heart Higher Secondary School', 
+            rating: 4.6, 
+            address: 'Old Tuensang 798612', 
+            description: 'Mission-run school offering holistic education and character development.' 
+        },
+        { 
+            name: 'Government College Tuensang', 
+            rating: 4.5, 
+            address: 'Tuensang HQ 798612', 
+            description: 'Major higher education institute providing undergraduate courses in various disciplines.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Tribal Kitchen', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Tuensang 798612', 
+            description: 'Authentic Naga restaurant offering local cuisine and traditional delicacies.' 
+        },
+        { 
+            name: 'Hillside Café', 
+            rating: 4.7, 
+            address: 'Police Point, Tuensang 798612', 
+            description: 'Popular café serving coffee, fast food, and light meals with a relaxed vibe.' 
+        },
+        { 
+            name: 'The Naga Flavour', 
+            rating: 4.6, 
+            address: 'Town Centre, Tuensang 798612', 
+            description: 'Family restaurant providing a blend of Indian and local tribal cuisines.' 
+        },
+        { 
+            name: 'Blue Leaf Restaurant', 
+            rating: 4.5, 
+            address: 'Old Town, Tuensang 798612', 
+            description: 'Well-known eatery famous for its noodles, rice dishes, and friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Tuensang', 
+            rating: 4.7, 
+            address: 'Police Point, Tuensang 798612', 
+            description: 'Main government hospital providing general and emergency healthcare services.' 
+        },
+        { 
+            name: 'Mother’s Care Hospital', 
+            rating: 4.6, 
+            address: 'Tuensang Town 798612', 
+            description: 'Private hospital offering maternity, surgical, and diagnostic care.' 
+        },
+        { 
+            name: 'Tuensang Christian Hospital', 
+            rating: 4.5, 
+            address: 'Near Town Centre, Tuensang 798612', 
+            description: 'Mission-based healthcare facility with multi-specialty services and modern amenities.' 
+        },
+        { 
+            name: 'LifeLine Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Old Town, Tuensang 798612', 
+            description: 'Diagnostic and laboratory service provider known for accuracy and prompt reporting.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Changsangmongko Village', 
+            rating: 4.8, 
+            address: 'Near Tuensang Town 798612', 
+            description: 'Historic Ao Naga village known for its heritage, folklore, and scenic beauty.' 
+        },
+        { 
+            name: 'Longtrok Heritage Village', 
+            rating: 4.7, 
+            address: '6 km from Tuensang 798612', 
+            description: 'Archaeological and cultural site believed to be the birthplace of Ao civilization.' 
+        },
+        { 
+            name: 'Tsadang Village', 
+            rating: 4.6, 
+            address: 'Tuensang District 798612', 
+            description: 'Traditional village preserving ancient Naga culture and local crafts.' 
+        },
+        { 
+            name: 'Hakchang Village Viewpoint', 
+            rating: 4.5, 
+            address: 'Hakchang, Tuensang 798612', 
+            description: 'Scenic viewpoint offering panoramic views of hills, forests, and valleys.' 
+        }
+    ]
+}
+,'mon': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Mon', 
+            rating: 4.8, 
+            address: 'Mon Town, Nagaland 798621', 
+            description: 'Reputed government school offering science, arts, and commerce streams with qualified teachers.' 
+        },
+        { 
+            name: 'St. John’s School Mon', 
+            rating: 4.7, 
+            address: 'Mon Town 798621', 
+            description: 'Private missionary school known for discipline, academic excellence, and holistic development.' 
+        },
+        { 
+            name: 'Don Bosco Higher Secondary School Mon', 
+            rating: 4.6, 
+            address: 'Don Bosco Colony, Mon 798621', 
+            description: 'Missionary-run institution providing quality education with strong moral values.' 
+        },
+        { 
+            name: 'Walo Lower Primary School', 
+            rating: 4.5, 
+            address: 'Mon Village 798621', 
+            description: 'Primary school focusing on foundational learning and extracurricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Frontier Kitchen', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Mon Town 798621', 
+            description: 'Famous for authentic Konyak tribal dishes and traditional Naga cuisine.' 
+        },
+        { 
+            name: 'Hilltop Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Mon 798621', 
+            description: 'A cozy café offering tea, snacks, and meals with scenic hill views.' 
+        },
+        { 
+            name: 'Tribal Flavours', 
+            rating: 4.6, 
+            address: 'Market Area, Mon 798621', 
+            description: 'Restaurant serving a mix of Indian, Chinese, and local delicacies.' 
+        },
+        { 
+            name: 'The Bamboo Eatery', 
+            rating: 4.5, 
+            address: 'Mon Bazaar 798621', 
+            description: 'Small family-run eatery known for Naga thalis and smoked meat dishes.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Mon', 
+            rating: 4.7, 
+            address: 'Mon Town 798621', 
+            description: 'Primary government hospital offering general medicine, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Mon Christian Hospital', 
+            rating: 4.6, 
+            address: 'Church Road, Mon 798621', 
+            description: 'Faith-based medical centre providing outpatient and inpatient services with community outreach.' 
+        },
+        { 
+            name: 'Konyak Mission Hospital', 
+            rating: 4.5, 
+            address: 'Mon HQ 798621', 
+            description: 'Healthcare centre offering general and preventive medical care to nearby villages.' 
+        },
+        { 
+            name: 'Grace Diagnostic Clinic', 
+            rating: 4.4, 
+            address: 'Main Road, Mon Town 798621', 
+            description: 'Private clinic specializing in diagnostics and laboratory testing.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Veda Peak (Pak Koi)', 
+            rating: 4.8, 
+            address: '20 km from Mon Town, Nagaland', 
+            description: 'Highest peak in Mon district offering breathtaking views of mountains and Myanmar plains.' 
+        },
+        { 
+            name: 'Shangnyu Village', 
+            rating: 4.7, 
+            address: '8 km from Mon Town 798621', 
+            description: 'Historic Konyak village famous for its ancient wooden monuments and tribal heritage.' 
+        },
+        { 
+            name: 'Longwa Village', 
+            rating: 4.7, 
+            address: '42 km from Mon Town, on Indo-Myanmar border', 
+            description: 'Unique village where the Indo-Myanmar border passes through the Angh’s house.' 
+        },
+        { 
+            name: 'Chui Village', 
+            rating: 4.6, 
+            address: 'Near Mon Town 798621', 
+            description: 'Traditional Konyak settlement known for its tattooed warriors and morungs (youth dormitories).' 
+        }
+    ]
+}
+,'phek': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Phek', 
+            rating: 4.8, 
+            address: 'Phek Town, Nagaland 797108', 
+            description: 'Well-known government school offering arts, science, and commerce streams with experienced faculty.' 
+        },
+        { 
+            name: 'Sacred Heart Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Christian Colony, Phek 797108', 
+            description: 'Missionary-run institution providing quality education and character development.' 
+        },
+        { 
+            name: 'St. Xavier’s School Phek', 
+            rating: 4.6, 
+            address: 'Near DC Office, Phek 797108', 
+            description: 'English-medium CBSE-affiliated school known for academic excellence and co-curricular focus.' 
+        },
+        { 
+            name: 'Phek Government College', 
+            rating: 4.5, 
+            address: 'College Road, Phek 797108', 
+            description: 'Government-run college offering undergraduate programs in arts and sciences.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Taste of Phek', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Phek 797108', 
+            description: 'Popular local restaurant serving authentic Naga food and Indian cuisine.' 
+        },
+        { 
+            name: 'Hillside Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Phek 797108', 
+            description: 'Cozy café offering snacks, tea, and homemade baked goods with a beautiful hillside view.' 
+        },
+        { 
+            name: 'Evergreen Restaurant', 
+            rating: 4.6, 
+            address: 'Phek Bazaar, Phek 797108', 
+            description: 'Casual dining spot offering thalis, noodles, and local Naga delicacies.' 
+        },
+        { 
+            name: 'Blue Pine Dine', 
+            rating: 4.5, 
+            address: 'Old Market Road, Phek 797108', 
+            description: 'Modern eatery serving multi-cuisine dishes and beverages in a comfortable setting.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Phek', 
+            rating: 4.7, 
+            address: 'Hospital Colony, Phek 797108', 
+            description: 'Main government hospital providing general medicine, maternity, and surgical care.' 
+        },
+        { 
+            name: 'Phek Christian Hospital', 
+            rating: 4.6, 
+            address: 'Mission Compound, Phek 797108', 
+            description: 'Mission-based hospital known for community service and outpatient care.' 
+        },
+        { 
+            name: 'Grace Clinic Phek', 
+            rating: 4.5, 
+            address: 'Main Road, Phek 797108', 
+            description: 'Private healthcare clinic offering diagnostics and minor surgical services.' 
+        },
+        { 
+            name: 'Bethel Medical Centre', 
+            rating: 4.4, 
+            address: 'Lower Phek, Nagaland 797108', 
+            description: 'Clinic offering affordable healthcare and emergency treatment to residents.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Shilloi Lake', 
+            rating: 4.9, 
+            address: 'Lutsam Village, Phek District 797108', 
+            description: 'Beautiful natural lake surrounded by hills, considered sacred by locals.' 
+        },
+        { 
+            name: 'Kapamodzu Peak', 
+            rating: 4.8, 
+            address: 'Chizami area, Phek District 797108', 
+            description: 'Scenic trekking destination offering panoramic views of the valley and forests.' 
+        },
+        { 
+            name: 'Khezhakeno Village', 
+            rating: 4.7, 
+            address: '25 km from Phek Town, Nagaland', 
+            description: 'Historic Naga village believed to be the ancestral home of several Naga tribes.' 
+        },
+        { 
+            name: 'Pfutsero Town Viewpoint', 
+            rating: 4.6, 
+            address: 'Pfutsero, Phek District 797107', 
+            description: 'Famous hilltop spot offering misty views and cold weather throughout the year.' 
+        }
+    ]
+}
+,'kiphire': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Kiphire', 
+            rating: 4.8, 
+            address: 'Kiphire Town, Nagaland 798611', 
+            description: 'Prominent government school offering science, arts, and commerce streams with experienced teachers.' 
+        },
+        { 
+            name: 'Holy Cross Higher Secondary School Kiphire', 
+            rating: 4.7, 
+            address: 'Holy Cross Colony, Kiphire 798611', 
+            description: 'Missionary-run English-medium school known for academic excellence and moral education.' 
+        },
+        { 
+            name: 'El Shaddai School', 
+            rating: 4.6, 
+            address: 'Middle Colony, Kiphire 798611', 
+            description: 'Private school providing quality education with focus on extracurricular activities.' 
+        },
+        { 
+            name: 'Kiphire Government College', 
+            rating: 4.5, 
+            address: 'College Road, Kiphire 798611', 
+            description: 'Leading higher education institution offering undergraduate courses in arts and science.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hillview Restaurant', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Kiphire 798611', 
+            description: 'Popular spot for Naga and Indian cuisine with beautiful hilltop views.' 
+        },
+        { 
+            name: 'Taste Junction', 
+            rating: 4.7, 
+            address: 'Town Centre, Kiphire 798611', 
+            description: 'Casual eatery offering Chinese, Indian, and local dishes with good ambiance.' 
+        },
+        { 
+            name: 'Naga Delight', 
+            rating: 4.6, 
+            address: 'Kiphire Market 798611', 
+            description: 'Known for serving traditional Naga meals and freshly prepared thalis.' 
+        },
+        { 
+            name: 'Urban Bite Café', 
+            rating: 4.5, 
+            address: 'Opposite DC Office, Kiphire 798611', 
+            description: 'Modern café serving snacks, coffee, and fast food in a cozy setting.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Kiphire', 
+            rating: 4.7, 
+            address: 'Hospital Colony, Kiphire 798611', 
+            description: 'Main government hospital offering emergency care, maternity, and general medicine.' 
+        },
+        { 
+            name: 'Kiphire Christian Hospital', 
+            rating: 4.6, 
+            address: 'Mission Compound, Kiphire 798611', 
+            description: 'Mission-based healthcare center known for quality outpatient and inpatient services.' 
+        },
+        { 
+            name: 'Good Samaritan Clinic', 
+            rating: 4.5, 
+            address: 'Main Road, Kiphire 798611', 
+            description: 'Private clinic providing diagnostics, consultation, and pharmacy services.' 
+        },
+        { 
+            name: 'LifeCare Diagnostics', 
+            rating: 4.4, 
+            address: 'Kiphire Town 798611', 
+            description: 'Diagnostic center offering modern lab testing and health checkups.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mount Saramati', 
+            rating: 4.9, 
+            address: 'Near Thanamir Village, Kiphire District 798611', 
+            description: 'Highest peak in Nagaland, offering adventurous treks and stunning panoramic views.' 
+        },
+        { 
+            name: 'Thanamir Apple Village', 
+            rating: 4.8, 
+            address: 'Thanamir, Kiphire District 798611', 
+            description: 'Scenic village known for its apple orchards and proximity to Mount Saramati.' 
+        },
+        { 
+            name: 'Mimi Caves', 
+            rating: 4.7, 
+            address: 'Mimi Village, Kiphire District 798611', 
+            description: 'Network of natural limestone caves popular among explorers and nature enthusiasts.' 
+        },
+        { 
+            name: 'Siphi River Valley', 
+            rating: 4.6, 
+            address: 'Siphi area, Kiphire District 798611', 
+            description: 'Beautiful valley offering breathtaking views, picnic spots, and trekking trails.' 
+        }
+    ]
+}
+,'chumoukedima': {
+    schools: [
+        { 
+            name: 'Kendriya Vidyalaya Chümoukedima', 
+            rating: 4.8, 
+            address: 'Near Police Complex, Chümoukedima 797103', 
+            description: 'Central government school offering CBSE curriculum with strong focus on academics and discipline.' 
+        },
+        { 
+            name: 'Patkai Christian College (Autonomous)', 
+            rating: 4.8, 
+            address: 'Seithekema, Chümoukedima 797103', 
+            description: 'Renowned college affiliated to Nagaland University, offering UG and PG programs in arts and science.' 
+        },
+        { 
+            name: 'St. Xavier Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Chümoukedima Town 797103', 
+            description: 'Top English-medium school providing quality education with emphasis on values and extracurriculars.' 
+        },
+        { 
+            name: 'Delhi Public School Chümoukedima', 
+            rating: 4.6, 
+            address: 'Sukhovi Area, Chümoukedima 797103', 
+            description: 'CBSE-affiliated school offering modern infrastructure and holistic education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Ethnic Table', 
+            rating: 4.8, 
+            address: 'NH-29, Chümoukedima 797103', 
+            description: 'Modern restaurant offering Naga, North Indian, and Continental dishes with a cozy atmosphere.' 
+        },
+        { 
+            name: 'The Garden Café', 
+            rating: 4.7, 
+            address: 'Sodzulhou Village, Chümoukedima 797103', 
+            description: 'Peaceful garden café serving coffee, pastries, and light meals amidst greenery.' 
+        },
+        { 
+            name: 'Blue Hill Restaurant', 
+            rating: 4.6, 
+            address: 'Town Centre, Chümoukedima 797103', 
+            description: 'Casual dining restaurant known for family meals, tandoori dishes, and fast food.' 
+        },
+        { 
+            name: 'Tribal Roots Kitchen', 
+            rating: 4.5, 
+            address: 'Near Police Complex, Chümoukedima 797103', 
+            description: 'Authentic restaurant offering traditional Naga smoked meat and local specialties.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Chümoukedima', 
+            rating: 4.7, 
+            address: 'Hospital Road, Chümoukedima 797103', 
+            description: 'Primary government hospital providing general medicine, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Eden Medical Centre', 
+            rating: 4.8, 
+            address: '5th Mile, Chümoukedima 797103', 
+            description: 'Advanced multi-specialty hospital offering diagnostic, surgical, and outpatient services.' 
+        },
+        { 
+            name: 'Hope Clinic and Diagnostics', 
+            rating: 4.5, 
+            address: 'Town Area, Chümoukedima 797103', 
+            description: 'Private clinic providing general consultation, diagnostics, and pharmacy services.' 
+        },
+        { 
+            name: 'Healing Touch Hospital', 
+            rating: 4.4, 
+            address: 'Near 6th Mile, Chümoukedima 797103', 
+            description: 'Modern hospital with departments in internal medicine, surgery, and pediatrics.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Triple Falls', 
+            rating: 4.9, 
+            address: 'Seithekima Village, Chümoukedima 797103', 
+            description: 'Spectacular natural waterfall surrounded by lush forest, a popular tourist destination.' 
+        },
+        { 
+            name: 'Diezephe Craft Village', 
+            rating: 4.8, 
+            address: 'Diezephe Village, Chümoukedima 797103', 
+            description: 'Village known for traditional handloom and handicraft work by local artisans.' 
+        },
+        { 
+            name: 'Naga Heritage Village (Kisama)', 
+            rating: 4.7, 
+            address: 'Near Chümoukedima, Kohima Road 797103', 
+            description: 'Cultural site showcasing Naga tribes, traditions, and Hornbill Festival celebrations.' 
+        },
+        { 
+            name: 'Stone Garden Viewpoint', 
+            rating: 4.6, 
+            address: 'Hilltop, Chümoukedima 797103', 
+            description: 'Scenic viewpoint offering panoramic views of valleys and surrounding hills.' 
+        }
+    ]
+},
+'longleng': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Longleng', 
+            rating: 4.8, 
+            address: 'Longleng Town, Nagaland 798625', 
+            description: 'Leading government institution offering science, arts, and commerce streams with dedicated teachers.' 
+        },
+        { 
+            name: 'St. Joseph’s Higher Secondary School', 
+            rating: 4.7, 
+            address: 'Near DC Office, Longleng 798625', 
+            description: 'Missionary-run English-medium school known for discipline, academics, and co-curricular activities.' 
+        },
+        { 
+            name: 'Model School Longleng', 
+            rating: 4.6, 
+            address: 'Ward 3, Longleng Town 798625', 
+            description: 'CBSE-based institution focused on holistic development and modern learning methods.' 
+        },
+        { 
+            name: 'Longleng Government College', 
+            rating: 4.5, 
+            address: 'College Road, Longleng 798625', 
+            description: 'Government college offering undergraduate courses in arts and social sciences.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hill View Restaurant', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Longleng 798625', 
+            description: 'Popular restaurant serving authentic Naga and Indian dishes with scenic views.' 
+        },
+        { 
+            name: 'Valley Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Longleng 798625', 
+            description: 'Café offering tea, snacks, and light meals in a cozy setting.' 
+        },
+        { 
+            name: 'Highland Kitchen', 
+            rating: 4.6, 
+            address: 'Ward 2, Longleng 798625', 
+            description: 'Local eatery known for Naga thalis, rice meals, and smoked meat dishes.' 
+        },
+        { 
+            name: 'Food Corner', 
+            rating: 4.5, 
+            address: 'Market Road, Longleng 798625', 
+            description: 'Casual spot for fast food, noodles, and momos with friendly service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Longleng', 
+            rating: 4.7, 
+            address: 'Hospital Area, Longleng 798625', 
+            description: 'Main government hospital offering general, maternity, and emergency healthcare services.' 
+        },
+        { 
+            name: 'Longleng Christian Hospital', 
+            rating: 4.6, 
+            address: 'Mission Compound, Longleng 798625', 
+            description: 'Faith-based hospital known for compassionate care and community outreach.' 
+        },
+        { 
+            name: 'Grace Medical Clinic', 
+            rating: 4.5, 
+            address: 'Main Road, Longleng 798625', 
+            description: 'Private clinic offering diagnostics, consultation, and pharmacy services.' 
+        },
+        { 
+            name: 'Longleng Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Town Centre, Longleng 798625', 
+            description: 'Facility providing blood tests, imaging, and health checkups.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mount Yongyimsen', 
+            rating: 4.8, 
+            address: 'Yongyimsen area, Longleng District 798625', 
+            description: 'Beautiful hill area known for panoramic views and pleasant trekking routes.' 
+        },
+        { 
+            name: 'Borduria Village', 
+            rating: 4.7, 
+            address: 'Near Longleng Town 798625', 
+            description: 'Cultural Naga village famous for traditional houses and tribal heritage.' 
+        },
+        { 
+            name: 'Tangha Village', 
+            rating: 4.6, 
+            address: '10 km from Longleng Town, Nagaland', 
+            description: 'Picturesque village surrounded by hills, ideal for exploring rural Naga life.' 
+        },
+        { 
+            name: 'Phom Heritage Centre', 
+            rating: 4.5, 
+            address: 'Longleng Town 798625', 
+            description: 'Cultural site preserving and showcasing Phom Naga traditions and artifacts.' 
+        }
+    ]
+}
+,'tseminyu': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Tseminyu', 
+            rating: 4.8, 
+            address: 'Tseminyu Town, Nagaland 797109', 
+            description: 'Leading government institution offering arts and science streams with experienced teaching staff.' 
+        },
+        { 
+            name: 'St. Paul’s School Tseminyu', 
+            rating: 4.7, 
+            address: 'Town Area, Tseminyu 797109', 
+            description: 'Private English-medium school known for its strong academic foundation and extracurricular programs.' 
+        },
+        { 
+            name: 'Baptist Mission School', 
+            rating: 4.6, 
+            address: 'Mission Compound, Tseminyu 797109', 
+            description: 'Missionary-run school providing holistic education with emphasis on values and discipline.' 
+        },
+        { 
+            name: 'Tseminyu Government College', 
+            rating: 4.5, 
+            address: 'College Road, Tseminyu 797109', 
+            description: 'Government college offering undergraduate programs in arts and humanities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Highland Treat', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Tseminyu 797109', 
+            description: 'Local favorite offering authentic Naga dishes and Indian meals in a relaxed setting.' 
+        },
+        { 
+            name: 'Naga Essence Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Tseminyu 797109', 
+            description: 'Charming café serving coffee, snacks, and traditional delicacies with modern flair.' 
+        },
+        { 
+            name: 'Valley View Restaurant', 
+            rating: 4.6, 
+            address: 'Tseminyu Road 797109', 
+            description: 'Popular for its scenic location and freshly prepared homemade food.' 
+        },
+        { 
+            name: 'Hillside Eatery', 
+            rating: 4.5, 
+            address: 'Market Area, Tseminyu 797109', 
+            description: 'Casual family restaurant offering Naga thalis, rice meals, and momos.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Tseminyu', 
+            rating: 4.7, 
+            address: 'Hospital Colony, Tseminyu 797109', 
+            description: 'Primary government hospital providing general healthcare, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Mission Health Centre', 
+            rating: 4.6, 
+            address: 'Mission Area, Tseminyu 797109', 
+            description: 'Faith-based healthcare facility serving local residents with dedication and care.' 
+        },
+        { 
+            name: 'Grace Clinic Tseminyu', 
+            rating: 4.5, 
+            address: 'Main Road, Tseminyu 797109', 
+            description: 'Private medical clinic providing outpatient services and diagnostic tests.' 
+        },
+        { 
+            name: 'Hope Diagnostic Centre', 
+            rating: 4.4, 
+            address: 'Town Area, Tseminyu 797109', 
+            description: 'Diagnostic facility offering lab testing, X-rays, and routine checkups.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Zhukeru Peak', 
+            rating: 4.8, 
+            address: 'Near Tseminyu Town, Nagaland', 
+            description: 'Beautiful hilltop offering panoramic views of valleys and surrounding forests.' 
+        },
+        { 
+            name: 'Rengma Heritage Village', 
+            rating: 4.7, 
+            address: 'Tseminyu District 797109', 
+            description: 'Cultural site preserving the rich traditions and architecture of the Rengma Naga tribe.' 
+        },
+        { 
+            name: 'Bapen River Viewpoint', 
+            rating: 4.6, 
+            address: '5 km from Tseminyu Town, Nagaland', 
+            description: 'Peaceful riverside spot ideal for picnics and nature walks.' 
+        },
+        { 
+            name: 'Tseminyu Heritage Trail', 
+            rating: 4.5, 
+            address: 'Tseminyu Town Area 797109', 
+            description: 'Historical walking route showcasing traditional homes and tribal craftsmanship.' 
+        }
+    ]
+}
+,'noklak': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Noklak', 
+            rating: 4.8, 
+            address: 'Noklak Town, Noklak District, Nagaland 798626', 
+            description: 'Reputed government school offering science, arts, and commerce streams with excellent faculty.' 
+        },
+        { 
+            name: 'Christian Mission School Noklak', 
+            rating: 4.7, 
+            address: 'Church Road, Noklak 798626', 
+            description: 'Mission-run English-medium institution promoting moral education and discipline.' 
+        },
+        { 
+            name: 'Little Flower School', 
+            rating: 4.6, 
+            address: 'Main Bazaar, Noklak 798626', 
+            description: 'Private school focusing on foundational learning, extracurricular growth, and English fluency.' 
+        },
+        { 
+            name: 'Jawahar Navodaya Vidyalaya Noklak', 
+            rating: 4.7, 
+            address: 'Noklak, Nagaland 798626', 
+            description: 'Central government CBSE school providing high-quality education with hostel facilities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Frontier Flavours', 
+            rating: 4.8, 
+            address: 'Town Centre, Noklak 798626', 
+            description: 'Top-rated restaurant serving Naga specialties and Indo-Chinese cuisine in a cozy setting.' 
+        },
+        { 
+            name: 'The Bamboo Café', 
+            rating: 4.7, 
+            address: 'Main Road, Noklak 798626', 
+            description: 'Charming café offering local teas, coffee, and traditional snacks.' 
+        },
+        { 
+            name: 'Eastern Hills Restaurant', 
+            rating: 4.6, 
+            address: 'Noklak Bazaar, Nagaland 798626', 
+            description: 'Family-friendly eatery popular for rice meals, pork curries, and Naga thalis.' 
+        },
+        { 
+            name: 'Tribal Essence Kitchen', 
+            rating: 4.5, 
+            address: 'Noklak Town 798626', 
+            description: 'Authentic Naga food spot highlighting local flavors and organic produce.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'District Hospital Noklak', 
+            rating: 4.7, 
+            address: 'Hospital Colony, Noklak 798626', 
+            description: 'Main government hospital providing general care, maternity, and emergency facilities.' 
+        },
+        { 
+            name: 'Hope Health Centre', 
+            rating: 4.6, 
+            address: 'Noklak Town, Nagaland 798626', 
+            description: 'Community health centre offering outpatient and minor surgical services.' 
+        },
+        { 
+            name: 'St. Mary’s Clinic', 
+            rating: 4.5, 
+            address: 'Market Area, Noklak 798626', 
+            description: 'Private clinic known for patient care and diagnostic services.' 
+        },
+        { 
+            name: 'Noklak Wellness Centre', 
+            rating: 4.4, 
+            address: 'Town Road, Noklak 798626', 
+            description: 'Health centre promoting preventive healthcare and traditional healing practices.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mount Saramati Viewpoint', 
+            rating: 4.9, 
+            address: 'Near Noklak Town, Nagaland', 
+            description: 'Scenic viewpoint offering breathtaking views of the Saramati range and Myanmar border.' 
+        },
+        { 
+            name: 'Khiamniungan Heritage Village', 
+            rating: 4.8, 
+            address: 'Noklak District, Nagaland', 
+            description: 'Cultural site preserving Khiamniungan tribal art, architecture, and customs.' 
+        },
+        { 
+            name: 'Tsuwao Caves', 
+            rating: 4.6, 
+            address: '10 km from Noklak, Nagaland', 
+            description: 'Series of natural caves surrounded by dense forest, ideal for exploration and photography.' 
+        },
+        { 
+            name: 'Choklangan Forest Trail', 
+            rating: 4.5, 
+            address: 'Outskirts of Noklak, Nagaland', 
+            description: 'Nature trail known for its biodiversity, birdwatching, and peaceful trekking paths.' 
+        }
+    ]
+}
+,'jalukie': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Jalukie', 
+            rating: 4.8, 
+            address: 'Jalukie Town, Peren District, Nagaland 797110', 
+            description: 'Leading government school offering arts, commerce, and science streams with well-qualified staff.' 
+        },
+        { 
+            name: 'St. Xavier’s School Jalukie', 
+            rating: 4.7, 
+            address: 'Ward 3, Jalukie 797110', 
+            description: 'Catholic institution providing holistic education and value-based learning in English medium.' 
+        },
+        { 
+            name: 'Don Bosco Higher Secondary School', 
+            rating: 4.6, 
+            address: 'Don Bosco Colony, Jalukie 797110', 
+            description: 'Renowned private school promoting discipline, academics, and co-curricular excellence.' 
+        },
+        { 
+            name: 'Baptist High School Jalukie', 
+            rating: 4.5, 
+            address: 'Jalukie Town Centre, Peren District 797110', 
+            description: 'Mission school with focus on Christian values, discipline, and modern education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Zeliang Kitchen', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Jalukie 797110', 
+            description: 'Popular restaurant offering traditional Zeliang and Naga dishes in a warm, homely setting.' 
+        },
+        { 
+            name: 'The Green Leaf Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Jalukie 797110', 
+            description: 'Eco-themed café serving organic teas, snacks, and fusion cuisine.' 
+        },
+        { 
+            name: 'Taste of Nagaland', 
+            rating: 4.6, 
+            address: 'Peren Road, Jalukie 797110', 
+            description: 'Local favourite serving smoked pork, rice meals, and spicy bamboo shoot curries.' 
+        },
+        { 
+            name: 'Food Court Jalukie', 
+            rating: 4.5, 
+            address: 'Market Area, Jalukie 797110', 
+            description: 'Family-friendly eatery known for Indian and Chinese fast food with great service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Jalukie', 
+            rating: 4.7, 
+            address: 'Hospital Colony, Jalukie 797110', 
+            description: 'Government hospital providing general and maternity healthcare facilities.' 
+        },
+        { 
+            name: 'Jalukie Mission Hospital', 
+            rating: 4.6, 
+            address: 'Mission Compound, Jalukie 797110', 
+            description: 'Christian mission-run hospital known for dedicated staff and patient-centered care.' 
+        },
+        { 
+            name: 'LifeCare Clinic', 
+            rating: 4.5, 
+            address: 'Main Road, Jalukie 797110', 
+            description: 'Private clinic offering diagnostics, consultation, and general medicine services.' 
+        },
+        { 
+            name: 'Grace Nursing Home', 
+            rating: 4.4, 
+            address: 'Ward 2, Jalukie 797110', 
+            description: 'Nursing home providing outpatient and minor surgical treatments.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Mt. Paona Viewpoint', 
+            rating: 4.8, 
+            address: 'Near Jalukie, Peren District, Nagaland', 
+            description: 'Scenic viewpoint overlooking lush valleys and forested mountains.' 
+        },
+        { 
+            name: 'Peren Heritage Village', 
+            rating: 4.7, 
+            address: '12 km from Jalukie, Nagaland', 
+            description: 'Cultural site showcasing Zeliang tribal traditions, morungs, and wooden carvings.' 
+        },
+        { 
+            name: 'Ntangki National Park', 
+            rating: 4.9, 
+            address: 'Near Jalukie, Peren District, Nagaland', 
+            description: 'Famous wildlife sanctuary home to elephants, hoolock gibbons, and rich biodiversity.' 
+        },
+        { 
+            name: 'Jalukie River Bank', 
+            rating: 4.5, 
+            address: 'Jalukie Town, Nagaland', 
+            description: 'Peaceful riverside picnic spot ideal for relaxation and scenic photography.' 
+        }
+    ]
+}
+,'pfutsero': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Pfutsero', 
+            rating: 4.8, 
+            address: 'Pfutsero Town, Phek District, Nagaland 797107', 
+            description: 'Leading government institution providing quality education in science, arts, and commerce streams.' 
+        },
+        { 
+            name: 'Nazareth School Pfutsero', 
+            rating: 4.7, 
+            address: 'Ward 2, Pfutsero 797107', 
+            description: 'Catholic mission school known for its excellent academics and discipline.' 
+        },
+        { 
+            name: 'Christian Mission School Pfutsero', 
+            rating: 4.6, 
+            address: 'Main Bazaar, Pfutsero 797107', 
+            description: 'Reputed English-medium school emphasizing holistic development and moral education.' 
+        },
+        { 
+            name: 'St. John’s School Pfutsero', 
+            rating: 4.5, 
+            address: 'Church Colony, Pfutsero 797107', 
+            description: 'Private school offering modern education with a strong focus on co-curricular activities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Highland Treat', 
+            rating: 4.8, 
+            address: 'Town Centre, Pfutsero 797107', 
+            description: 'Top-rated restaurant serving local Naga, Indian, and Chinese dishes with great ambience.' 
+        },
+        { 
+            name: 'The Chill Café', 
+            rating: 4.7, 
+            address: 'Market Road, Pfutsero 797107', 
+            description: 'Cozy café offering hot coffee, bakery items, and scenic hill views.' 
+        },
+        { 
+            name: 'Pfutsero Kitchen', 
+            rating: 4.6, 
+            address: 'Ward 3, Pfutsero 797107', 
+            description: 'Popular eatery for authentic Naga cuisine, smoked pork, and bamboo shoot curry.' 
+        },
+        { 
+            name: 'Blueberry Bistro', 
+            rating: 4.5, 
+            address: 'Main Road, Pfutsero 797107', 
+            description: 'Family-friendly restaurant serving fusion meals and local delicacies.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Pfutsero', 
+            rating: 4.7, 
+            address: 'Hospital Area, Pfutsero 797107', 
+            description: 'Government hospital offering essential medical and maternity care services.' 
+        },
+        { 
+            name: 'Nazareth Mission Hospital', 
+            rating: 4.6, 
+            address: 'Nazareth Colony, Pfutsero 797107', 
+            description: 'Mission-run hospital providing quality healthcare and diagnostics at affordable rates.' 
+        },
+        { 
+            name: 'Pfutsero Clinic', 
+            rating: 4.5, 
+            address: 'Town Centre, Pfutsero 797107', 
+            description: 'Private clinic offering consultations, lab testing, and minor treatment facilities.' 
+        },
+        { 
+            name: 'Hope Medical Care', 
+            rating: 4.4, 
+            address: 'Ward 1, Pfutsero 797107', 
+            description: 'Clinic providing general health services and preventive healthcare awareness.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Pfutsero Viewpoint', 
+            rating: 4.9, 
+            address: 'Hilltop, Pfutsero, Nagaland', 
+            description: 'Highest altitude town in Nagaland offering panoramic views and cold weather.' 
+        },
+        { 
+            name: 'Simi Khe Lake', 
+            rating: 4.7, 
+            address: 'Near Pfutsero Town, Nagaland', 
+            description: 'Beautiful natural lake ideal for picnics, boating, and photography.' 
+        },
+        { 
+            name: 'Khezhakeno Heritage Village', 
+            rating: 4.8, 
+            address: '15 km from Pfutsero, Phek District', 
+            description: 'Ancient Angami heritage village showcasing traditional homes and folklore sites.' 
+        },
+        { 
+            name: 'Mount Khelia Trail', 
+            rating: 4.5, 
+            address: 'Pfutsero Outskirts, Nagaland', 
+            description: 'Adventure trekking trail surrounded by pine forests and misty hills.' 
+        }
+    ]
+}
+,'meluri': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Meluri', 
+            rating: 4.8, 
+            address: 'Meluri Town, Phek District, Nagaland 797114', 
+            description: 'Prominent government school offering science, commerce, and arts education with experienced teachers.' 
+        },
+        { 
+            name: 'St. Xavier’s School Meluri', 
+            rating: 4.7, 
+            address: 'Ward 2, Meluri 797114', 
+            description: 'Mission school known for quality academics, discipline, and co-curricular involvement.' 
+        },
+        { 
+            name: 'Holy Cross School', 
+            rating: 4.6, 
+            address: 'Meluri Bazaar, Phek District 797114', 
+            description: 'English-medium private school providing strong foundational education and extracurricular focus.' 
+        },
+        { 
+            name: 'Baptist Mission School Meluri', 
+            rating: 4.5, 
+            address: 'Church Colony, Meluri 797114', 
+            description: 'Mission-run institution emphasizing moral values and academic excellence.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Taste of Phek', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Meluri 797114', 
+            description: 'Highly rated restaurant serving local Naga cuisine and homely meals.' 
+        },
+        { 
+            name: 'The Hillside Café', 
+            rating: 4.7, 
+            address: 'Town Centre, Meluri 797114', 
+            description: 'Peaceful café offering tea, snacks, and views of the rolling green hills.' 
+        },
+        { 
+            name: 'Meluri Delight', 
+            rating: 4.6, 
+            address: 'Ward 3, Meluri 797114', 
+            description: 'Local favourite known for rice meals, smoked meat, and spicy bamboo curry.' 
+        },
+        { 
+            name: 'Frontier Food Corner', 
+            rating: 4.5, 
+            address: 'Meluri Town 797114', 
+            description: 'Casual eatery providing Indian and Indo-Chinese food with excellent service.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Meluri', 
+            rating: 4.7, 
+            address: 'Hospital Road, Meluri 797114', 
+            description: 'Main healthcare facility in the region providing general and maternity services.' 
+        },
+        { 
+            name: 'Mission Hospital Meluri', 
+            rating: 4.6, 
+            address: 'Church Compound, Meluri 797114', 
+            description: 'Christian mission hospital offering quality patient care and diagnostics.' 
+        },
+        { 
+            name: 'Meluri Medical Centre', 
+            rating: 4.5, 
+            address: 'Market Area, Meluri 797114', 
+            description: 'Private healthcare unit with outpatient and laboratory services.' 
+        },
+        { 
+            name: 'Hope Clinic', 
+            rating: 4.4, 
+            address: 'Ward 1, Meluri 797114', 
+            description: 'Local clinic providing essential medical checkups and preventive healthcare.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Shilloi Lake', 
+            rating: 4.9, 
+            address: 'Near Meluri, Phek District, Nagaland', 
+            description: 'Heart-shaped natural lake surrounded by picturesque mountains; one of Nagaland’s top attractions.' 
+        },
+        { 
+            name: 'Meluri Heritage Village', 
+            rating: 4.7, 
+            address: 'Meluri Town, Nagaland', 
+            description: 'Cultural site showcasing Chakesang tribal houses, crafts, and traditions.' 
+        },
+        { 
+            name: 'Phek–Meluri Trek Route', 
+            rating: 4.6, 
+            address: 'Meluri Region, Nagaland', 
+            description: 'Popular trail for trekking and nature walks with scenic forest views.' 
+        },
+        { 
+            name: 'Khuza Caves', 
+            rating: 4.5, 
+            address: '10 km from Meluri, Nagaland', 
+            description: 'Series of mysterious caves known for legends and natural formations.' 
+        }
+    ]
+}
+,'aboi': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Aboi', 
+            rating: 4.8, 
+            address: 'Aboi Town, Mon District, Nagaland 798603', 
+            description: 'Top government school offering quality education in science, commerce, and arts streams.' 
+        },
+        { 
+            name: 'St. John’s School Aboi', 
+            rating: 4.7, 
+            address: 'Ward 2, Aboi 798603', 
+            description: 'Christian mission school known for strong academics, discipline, and English-medium education.' 
+        },
+        { 
+            name: 'Mount Carmel School', 
+            rating: 4.6, 
+            address: 'Aboi Bazaar, Mon District 798603', 
+            description: 'Private institution providing holistic learning and co-curricular engagement for students.' 
+        },
+        { 
+            name: 'Aboi Baptist School', 
+            rating: 4.5, 
+            address: 'Church Colony, Aboi 798603', 
+            description: 'Mission-run school emphasizing moral development and high-quality teaching.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Frontier Kitchen', 
+            rating: 4.8, 
+            address: 'Town Centre, Aboi 798603', 
+            description: 'Well-known restaurant serving authentic Naga dishes, smoked pork, and Indian meals.' 
+        },
+        { 
+            name: 'The Bamboo Plate', 
+            rating: 4.7, 
+            address: 'Aboi Bazaar, Nagaland 798603', 
+            description: 'Charming eatery offering traditional food and locally sourced ingredients.' 
+        },
+        { 
+            name: 'Aboi Food Point', 
+            rating: 4.6, 
+            address: 'Main Road, Aboi 798603', 
+            description: 'Casual dining spot with delicious thalis, noodles, and tandoori items.' 
+        },
+        { 
+            name: 'Sky View Café', 
+            rating: 4.5, 
+            address: 'Hilltop Road, Aboi 798603', 
+            description: 'Scenic café with great tea, snacks, and panoramic views of the hills.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Aboi', 
+            rating: 4.7, 
+            address: 'Hospital Road, Aboi 798603', 
+            description: 'Government healthcare facility providing essential and emergency medical services.' 
+        },
+        { 
+            name: 'Mission Hospital Aboi', 
+            rating: 4.6, 
+            address: 'Church Compound, Aboi 798603', 
+            description: 'Mission-run hospital offering general care, maternity, and diagnostic services.' 
+        },
+        { 
+            name: 'Aboi Health Clinic', 
+            rating: 4.5, 
+            address: 'Market Area, Aboi 798603', 
+            description: 'Private clinic known for personalized care and reliable treatment.' 
+        },
+        { 
+            name: 'Wellcare Medical Centre', 
+            rating: 4.4, 
+            address: 'Ward 3, Aboi 798603', 
+            description: 'Small health centre providing outpatient and preventive health services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Shangnyu Village', 
+            rating: 4.9, 
+            address: 'Near Aboi, Mon District, Nagaland', 
+            description: 'Historic Konyak village known for traditional wooden carvings and ancient relics.' 
+        },
+        { 
+            name: 'Veda Peak', 
+            rating: 4.8, 
+            address: '20 km from Aboi, Mon District, Nagaland', 
+            description: 'Highest point in Mon district offering stunning panoramic views and natural beauty.' 
+        },
+        { 
+            name: 'Aboi Hill Viewpoint', 
+            rating: 4.6, 
+            address: 'Aboi Town, Nagaland', 
+            description: 'Scenic spot perfect for photography, sunrise views, and peaceful surroundings.' 
+        },
+        { 
+            name: 'Longwa Village', 
+            rating: 4.7, 
+            address: '35 km from Aboi, Mon District, Nagaland', 
+            description: 'Unique border village where half lies in India and half in Myanmar, known for Konyak tribal culture.' 
+        }
+    ]
+}
+,'tuli': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Tuli', 
+            rating: 4.8, 
+            address: 'Tuli Town, Mokokchung District, Nagaland 798618', 
+            description: 'Leading government institution offering science, commerce, and arts streams with quality teaching.' 
+        },
+        { 
+            name: 'St. John’s School Tuli', 
+            rating: 4.7, 
+            address: 'Ward 2, Tuli 798618', 
+            description: 'Christian mission school known for its disciplined environment and academic excellence.' 
+        },
+        { 
+            name: 'Don Bosco School Tuli', 
+            rating: 4.6, 
+            address: 'Don Bosco Colony, Tuli 798618', 
+            description: 'Renowned private school focusing on moral values, academics, and co-curricular development.' 
+        },
+        { 
+            name: 'Baptist English School', 
+            rating: 4.5, 
+            address: 'Main Road, Tuli 798618', 
+            description: 'English-medium institution offering strong foundational education and extracurricular opportunities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Riverside Kitchen', 
+            rating: 4.8, 
+            address: 'Tuli Bazaar, Mokokchung District, Nagaland 798618', 
+            description: 'Top-rated restaurant serving local Naga food and Indian cuisine with riverside views.' 
+        },
+        { 
+            name: 'Tuli Café House', 
+            rating: 4.7, 
+            address: 'Main Market, Tuli 798618', 
+            description: 'Modern café offering coffee, snacks, and local delicacies in a cozy setup.' 
+        },
+        { 
+            name: 'Smoky Bamboo Restaurant', 
+            rating: 4.6, 
+            address: 'Ward 1, Tuli 798618', 
+            description: 'Local favourite specializing in smoked pork, bamboo shoot curry, and rice meals.' 
+        },
+        { 
+            name: 'Nagaland Spice Corner', 
+            rating: 4.5, 
+            address: 'Town Centre, Tuli 798618', 
+            description: 'Casual eatery providing tasty Indo-Chinese and traditional Naga dishes.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Tuli', 
+            rating: 4.7, 
+            address: 'Hospital Road, Tuli 798618', 
+            description: 'Primary government healthcare facility providing general and emergency services.' 
+        },
+        { 
+            name: 'Tuli Mission Hospital', 
+            rating: 4.6, 
+            address: 'Mission Compound, Tuli 798618', 
+            description: 'Mission-run hospital offering quality care and essential medical treatments.' 
+        },
+        { 
+            name: 'Grace Polyclinic', 
+            rating: 4.5, 
+            address: 'Market Area, Tuli 798618', 
+            description: 'Private clinic with diagnostic and consultation facilities.' 
+        },
+        { 
+            name: 'Healing Touch Clinic', 
+            rating: 4.4, 
+            address: 'Ward 3, Tuli 798618', 
+            description: 'Health centre offering outpatient services and basic laboratory support.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Tuli Paper Mill', 
+            rating: 4.8, 
+            address: 'Tuli Town, Mokokchung District, Nagaland', 
+            description: 'One of Nagaland’s oldest industrial landmarks surrounded by lush greenery and scenic beauty.' 
+        },
+        { 
+            name: 'Langpangkong Caves', 
+            rating: 4.9, 
+            address: 'Near Tuli, Mokokchung District', 
+            description: 'Historical caves believed to have sheltered Ahom kings; popular for exploration and nature trails.' 
+        },
+        { 
+            name: 'Milak River Viewpoint', 
+            rating: 4.6, 
+            address: 'Riverside, Tuli 798618', 
+            description: 'Peaceful viewpoint offering scenic river views and picnic spots.' 
+        },
+        { 
+            name: 'Tzudikong Township', 
+            rating: 4.5, 
+            address: '5 km from Tuli, Mokokchung District', 
+            description: 'Beautiful township known for its scenic setting and serene environment.' 
+        }
+    ]
+}
+,'changtongya': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Changtongya', 
+            rating: 4.8, 
+            address: 'Changtongya Town, Mokokchung District, Nagaland 798613', 
+            description: 'Reputed government institution offering science, arts, and commerce with qualified faculty.' 
+        },
+        { 
+            name: 'St. Paul’s School Changtongya', 
+            rating: 4.7, 
+            address: 'Ward 2, Changtongya 798613', 
+            description: 'Mission school providing CBSE-based education with focus on moral values and discipline.' 
+        },
+        { 
+            name: 'Baptist English School Changtongya', 
+            rating: 4.6, 
+            address: 'Main Road, Changtongya 798613', 
+            description: 'English-medium institution emphasizing both academics and extracurricular activities.' 
+        },
+        { 
+            name: 'Cornerstone Academy', 
+            rating: 4.5, 
+            address: 'Ward 1, Changtongya Town, Nagaland 798613', 
+            description: 'Private school offering quality education and modern teaching facilities.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Taste of Changtongya', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Changtongya 798613', 
+            description: 'Local favourite restaurant known for authentic Naga dishes and family-friendly service.' 
+        },
+        { 
+            name: 'Highland Café', 
+            rating: 4.7, 
+            address: 'Ward 3, Changtongya Town, Nagaland 798613', 
+            description: 'Charming café offering coffee, snacks, and fusion meals in a relaxed setting.' 
+        },
+        { 
+            name: 'Bamboo Delight', 
+            rating: 4.6, 
+            address: 'Near Bus Stop, Changtongya 798613', 
+            description: 'Restaurant serving smoked pork, bamboo shoot curry, and spicy local favourites.' 
+        },
+        { 
+            name: 'Valley View Restaurant', 
+            rating: 4.5, 
+            address: 'Hill Road, Changtongya 798613', 
+            description: 'Known for its scenic views, peaceful ambiance, and quality traditional cuisine.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Primary Health Centre Changtongya', 
+            rating: 4.7, 
+            address: 'Hospital Area, Changtongya 798613', 
+            description: 'Government-run health facility offering outpatient, maternity, and basic emergency services.' 
+        },
+        { 
+            name: 'Mission Health Clinic', 
+            rating: 4.6, 
+            address: 'Ward 2, Changtongya Town, Nagaland 798613', 
+            description: 'Mission-based medical centre providing general consultations and minor treatments.' 
+        },
+        { 
+            name: 'LifeCare Clinic', 
+            rating: 4.5, 
+            address: 'Main Market Road, Changtongya 798613', 
+            description: 'Private clinic known for good service and diagnostic support.' 
+        },
+        { 
+            name: 'Community Health Unit', 
+            rating: 4.4, 
+            address: 'Ward 1, Changtongya 798613', 
+            description: 'Local health unit providing preventive care and awareness services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Langpangkong Range', 
+            rating: 4.8, 
+            address: 'Near Changtongya, Mokokchung District, Nagaland', 
+            description: 'Scenic mountain range ideal for trekking, photography, and birdwatching.' 
+        },
+        { 
+            name: 'Changtongya Viewpoint', 
+            rating: 4.7, 
+            address: 'Hilltop, Changtongya 798613', 
+            description: 'Panoramic viewpoint offering breathtaking views of the surrounding valleys and hills.' 
+        },
+        { 
+            name: 'Tzüla Riverbank', 
+            rating: 4.6, 
+            address: 'Riverside, Changtongya Town', 
+            description: 'Peaceful riverside spot perfect for picnics and short nature walks.' 
+        },
+        { 
+            name: 'Historic Mission Compound', 
+            rating: 4.5, 
+            address: 'Old Town, Changtongya 798613', 
+            description: 'One of the earliest mission areas of Mokokchung district with rich cultural significance.' 
+        }
+    ]
+}
+,'naginimora': {
+    schools: [
+        { 
+            name: 'Government High School Naginimora', 
+            rating: 4.8, 
+            address: 'Naginimora Town, Mon District, Nagaland 798622', 
+            description: 'Leading government school offering secondary education with dedicated teachers and co-curricular programs.' 
+        },
+        { 
+            name: 'St. Xavier’s School Naginimora', 
+            rating: 4.7, 
+            address: 'Ward 2, Naginimora 798622', 
+            description: 'Mission school focusing on academic excellence and value-based education under experienced faculty.' 
+        },
+        { 
+            name: 'Holy Cross English School', 
+            rating: 4.6, 
+            address: 'Main Bazaar Road, Naginimora 798622', 
+            description: 'English-medium institution known for disciplined environment and emphasis on moral education.' 
+        },
+        { 
+            name: 'Don Bosco School Naginimora', 
+            rating: 4.5, 
+            address: 'Ward 3, Naginimora Town, Nagaland 798622', 
+            description: 'Well-reputed private school emphasizing academic and extracurricular development of students.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hillside Dhaba', 
+            rating: 4.8, 
+            address: 'Main Road, Naginimora 798622', 
+            description: 'Popular spot serving Indian and local Naga cuisines with a family-friendly setting.' 
+        },
+        { 
+            name: 'Evergreen Restaurant', 
+            rating: 4.7, 
+            address: 'Near Market Junction, Naginimora Town', 
+            description: 'Cozy restaurant known for delicious smoked pork, chutneys, and rice-based dishes.' 
+        },
+        { 
+            name: 'Valley Café', 
+            rating: 4.6, 
+            address: 'Bus Stand Area, Naginimora 798622', 
+            description: 'Modern café offering snacks, coffee, and local meals with good ambiance.' 
+        },
+        { 
+            name: 'The Naga Kitchen', 
+            rating: 4.5, 
+            address: 'Main Bazaar, Naginimora Town, Nagaland', 
+            description: 'Restaurant offering authentic regional delicacies and fresh local produce dishes.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Naginimora', 
+            rating: 4.7, 
+            address: 'Hospital Road, Naginimora 798622', 
+            description: 'Government-run health centre offering outpatient, maternal, and basic surgical services.' 
+        },
+        { 
+            name: 'Mission Health Dispensary', 
+            rating: 4.6, 
+            address: 'Ward 1, Naginimora Town', 
+            description: 'Mission-run facility providing basic health check-ups and consultations.' 
+        },
+        { 
+            name: 'CarePoint Clinic', 
+            rating: 4.5, 
+            address: 'Main Road, Naginimora 798622', 
+            description: 'Private clinic offering general healthcare and diagnostic support.' 
+        },
+        { 
+            name: 'Dr. Lima’s Clinic', 
+            rating: 4.4, 
+            address: 'Near Church Colony, Naginimora 798622', 
+            description: 'Private medical practitioner known for dedicated patient care and treatment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Tizit Riverbank', 
+            rating: 4.8, 
+            address: 'Near Naginimora Town, Mon District', 
+            description: 'Beautiful riverside area offering boating, fishing, and peaceful natural views.' 
+        },
+        { 
+            name: 'Coal Mining Area', 
+            rating: 4.7, 
+            address: 'Outskirts of Naginimora, Mon District', 
+            description: 'Scenic view of coal mining operations and the surrounding valley, attracting local visitors.' 
+        },
+        { 
+            name: 'Naginimora Viewpoint', 
+            rating: 4.6, 
+            address: 'Hilltop, Naginimora 798622', 
+            description: 'Panoramic spot providing stunning views of the hills and rivers bordering Assam.' 
+        },
+        { 
+            name: 'Mon Tribal Villages', 
+            rating: 4.5, 
+            address: 'Around Naginimora, Mon District, Nagaland', 
+            description: 'Experience Konyak tribal heritage, traditional houses, and cultural craftsmanship nearby.' 
+        }
+    ]
+}
+,
+'pungro': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Pungro', 
+            rating: 4.8, 
+            address: 'Pungro Town, Kiphire District, Nagaland 798611', 
+            description: 'Renowned government school offering arts, science, and commerce streams with experienced faculty.' 
+        },
+        { 
+            name: 'St. Xavier’s School Pungro', 
+            rating: 4.7, 
+            address: 'Ward 3, Pungro 798611', 
+            description: 'Mission-run institution providing holistic education and emphasizing discipline and academic quality.' 
+        },
+        { 
+            name: 'Mount View Academy', 
+            rating: 4.6, 
+            address: 'Main Road, Pungro Town, Nagaland 798611', 
+            description: 'Private school known for English-medium education and extracurricular programs.' 
+        },
+        { 
+            name: 'Don Bosco School Pungro', 
+            rating: 4.5, 
+            address: 'Church Colony, Pungro 798611', 
+            description: 'Respected educational institution focusing on student development through academics and sports.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Taste of Pungro', 
+            rating: 4.8, 
+            address: 'Main Bazaar Road, Pungro 798611', 
+            description: 'Famous local restaurant offering authentic Naga delicacies and North Indian meals.' 
+        },
+        { 
+            name: 'Highland Kitchen', 
+            rating: 4.7, 
+            address: 'Near Pungro Bus Stand, Nagaland 798611', 
+            description: 'Casual dining spot serving traditional dishes and fast food in a relaxed atmosphere.' 
+        },
+        { 
+            name: 'Smoky Hills Café', 
+            rating: 4.6, 
+            address: 'Ward 2, Pungro Town', 
+            description: 'Trendy café offering coffee, snacks, and fusion food with a scenic view of the hills.' 
+        },
+        { 
+            name: 'Bamboo Leaf Restaurant', 
+            rating: 4.5, 
+            address: 'Market Area, Pungro 798611', 
+            description: 'Known for bamboo shoot curries, smoked meat, and other authentic tribal cuisines.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Pungro', 
+            rating: 4.7, 
+            address: 'Hospital Road, Pungro Town, Kiphire District', 
+            description: 'Government hospital providing essential healthcare, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Good Shepherd Clinic', 
+            rating: 4.6, 
+            address: 'Ward 1, Pungro Town', 
+            description: 'Private clinic offering outpatient care, diagnostics, and general medical services.' 
+        },
+        { 
+            name: 'LifeLine Medical Centre', 
+            rating: 4.5, 
+            address: 'Main Road, Pungro 798611', 
+            description: 'Well-equipped healthcare centre with general physicians and lab facilities.' 
+        },
+        { 
+            name: 'Mission Dispensary Pungro', 
+            rating: 4.4, 
+            address: 'Church Area, Pungro Town', 
+            description: 'Missionary healthcare unit providing free consultations and primary care services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Saramati Peak', 
+            rating: 4.9, 
+            address: 'Near Pungro, Kiphire District, Nagaland', 
+            description: 'Highest peak in Nagaland offering breathtaking views, trekking trails, and scenic beauty.' 
+        },
+        { 
+            name: 'Thanamir Village (Village of Apples)', 
+            rating: 4.8, 
+            address: 'Thanamir, near Pungro 798611', 
+            description: 'Picturesque village known for apple orchards and stunning Himalayan views.' 
+        },
+        { 
+            name: 'Likhimro Hydro Project Site', 
+            rating: 4.6, 
+            address: 'Near Pungro Town, Kiphire District', 
+            description: 'Scenic spot with a dam and surrounding hills, popular for short hikes and picnics.' 
+        },
+        { 
+            name: 'Pungro Valley Viewpoint', 
+            rating: 4.5, 
+            address: 'Hilltop, Pungro 798611', 
+            description: 'Beautiful viewpoint overlooking the lush green valleys of eastern Nagaland.' 
+        }
+    ]
+}
+,'tobu': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Tobu', 
+            rating: 4.8, 
+            address: 'Tobu Town, Mon District, Nagaland 798621', 
+            description: 'Leading government institution offering quality education with experienced teachers and co-curricular programs.' 
+        },
+        { 
+            name: 'St. John’s School Tobu', 
+            rating: 4.7, 
+            address: 'Ward 2, Tobu 798621', 
+            description: 'Missionary school known for discipline, moral education, and strong academic results.' 
+        },
+        { 
+            name: 'Don Bosco School Tobu', 
+            rating: 4.6, 
+            address: 'Main Road, Tobu Town, Mon District', 
+            description: 'Reputed private school emphasizing all-round development and English-medium education.' 
+        },
+        { 
+            name: 'Sunrise Academy', 
+            rating: 4.5, 
+            address: 'Ward 1, Tobu Town, Nagaland', 
+            description: 'Emerging educational institution focusing on innovative learning and student engagement.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Tobu Food Corner', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Tobu 798621', 
+            description: 'Popular local eatery serving authentic Naga food and light snacks with a homely atmosphere.' 
+        },
+        { 
+            name: 'Hilltop Restaurant', 
+            rating: 4.7, 
+            address: 'Ward 3, Tobu Town, Mon District', 
+            description: 'Scenic restaurant offering traditional meals and North Indian cuisine with valley views.' 
+        },
+        { 
+            name: 'The Bamboo Café', 
+            rating: 4.6, 
+            address: 'Bus Stand Road, Tobu 798621', 
+            description: 'Café serving tea, coffee, and freshly made local and continental dishes.' 
+        },
+        { 
+            name: 'Chili Pepper Dhaba', 
+            rating: 4.5, 
+            address: 'Highway Road, Tobu Town', 
+            description: 'Family-friendly dhaba offering spicy regional curries and tandoori items.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Primary Health Centre Tobu', 
+            rating: 4.7, 
+            address: 'Hospital Road, Tobu Town, Nagaland', 
+            description: 'Government healthcare centre providing general, maternity, and emergency services.' 
+        },
+        { 
+            name: 'Mission Health Clinic', 
+            rating: 4.6, 
+            address: 'Ward 1, Tobu 798621', 
+            description: 'Community-based clinic offering consultations and child care services.' 
+        },
+        { 
+            name: 'Dr. Konyak’s Clinic', 
+            rating: 4.5, 
+            address: 'Near Market Area, Tobu Town', 
+            description: 'Private medical clinic providing general medicine and diagnostic services.' 
+        },
+        { 
+            name: 'Grace Medical Centre', 
+            rating: 4.4, 
+            address: 'Main Road, Tobu 798621', 
+            description: 'Small private healthcare centre focused on preventive care and outpatient treatment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Shangnyu Village', 
+            rating: 4.9, 
+            address: 'Near Tobu, Mon District, Nagaland', 
+            description: 'Historic village of the Konyak tribe, known for the Angh’s wooden palace and tribal heritage.' 
+        },
+        { 
+            name: 'Tobu Hill Viewpoint', 
+            rating: 4.8, 
+            address: 'Hilltop, Tobu Town 798621', 
+            description: 'Offers panoramic views of the surrounding forested hills and distant villages.' 
+        },
+        { 
+            name: 'Chenmoho Village', 
+            rating: 4.6, 
+            address: 'Outskirts of Tobu, Mon District', 
+            description: 'Cultural site representing Konyak traditions, wood carvings, and unique architecture.' 
+        },
+        { 
+            name: 'Tobu Heritage Park', 
+            rating: 4.5, 
+            address: 'Ward 2, Tobu Town, Nagaland', 
+            description: 'Recreational area highlighting local art, culture, and scenic landscapes.' 
+        }
+    ]
+}
+,'chozuba': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Chozuba', 
+            rating: 4.8, 
+            address: 'Chozuba Town, Phek District, Nagaland 797104', 
+            description: 'Top government school offering science, arts, and commerce streams with qualified staff and co-curricular focus.' 
+        },
+        { 
+            name: 'St. Andrew’s School Chozuba', 
+            rating: 4.7, 
+            address: 'Ward 3, Chozuba 797104', 
+            description: 'Missionary school providing CBSE curriculum with emphasis on discipline and all-round development.' 
+        },
+        { 
+            name: 'Baptist Mission School Chozuba', 
+            rating: 4.6, 
+            address: 'Church Area, Chozuba Town', 
+            description: 'English-medium school known for moral education and good academic performance.' 
+        },
+        { 
+            name: 'Phek Modern Academy', 
+            rating: 4.5, 
+            address: 'Main Road, Chozuba 797104', 
+            description: 'Private institution promoting interactive learning and extracurricular excellence.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'The Hill View Restaurant', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Chozuba 797104', 
+            description: 'Popular restaurant known for authentic Naga dishes, smoked pork, and bamboo shoot curries.' 
+        },
+        { 
+            name: 'Tasty Treat Café', 
+            rating: 4.7, 
+            address: 'Bus Stand Area, Chozuba Town', 
+            description: 'Cozy café offering tea, coffee, snacks, and local specialties.' 
+        },
+        { 
+            name: 'Bamboo Hut Dhaba', 
+            rating: 4.6, 
+            address: 'Highway Road, Chozuba 797104', 
+            description: 'Casual dining place serving traditional Naga and Indian meals with quick service.' 
+        },
+        { 
+            name: 'Nagaland Flavour House', 
+            rating: 4.5, 
+            address: 'Ward 2, Chozuba Town, Nagaland', 
+            description: 'Family restaurant offering regional cuisine and a pleasant environment.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Chozuba', 
+            rating: 4.7, 
+            address: 'Hospital Road, Chozuba 797104', 
+            description: 'Government healthcare centre offering general medicine, maternity, and minor surgery services.' 
+        },
+        { 
+            name: 'LifeCare Clinic', 
+            rating: 4.6, 
+            address: 'Ward 1, Chozuba Town', 
+            description: 'Private healthcare clinic known for patient care and diagnostics.' 
+        },
+        { 
+            name: 'St. Mary’s Health Unit', 
+            rating: 4.5, 
+            address: 'Church Colony, Chozuba 797104', 
+            description: 'Mission-based medical unit providing consultations and maternal healthcare.' 
+        },
+        { 
+            name: 'Hope Medical Centre', 
+            rating: 4.4, 
+            address: 'Main Market, Chozuba Town', 
+            description: 'Small clinic offering outpatient and first aid services to locals.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Chozuba Viewpoint', 
+            rating: 4.8, 
+            address: 'Hilltop, Chozuba Town, Phek District', 
+            description: 'Scenic viewpoint offering panoramic views of the Phek valleys and distant ridges.' 
+        },
+        { 
+            name: 'Chozuba Baptist Church', 
+            rating: 4.7, 
+            address: 'Central Ward, Chozuba 797104', 
+            description: 'Architecturally significant church and cultural landmark in the town.' 
+        },
+        { 
+            name: 'Pfutsero Ridge Trail', 
+            rating: 4.6, 
+            address: 'Near Chozuba, Phek District', 
+            description: 'Picturesque hiking trail connecting Chozuba with Pfutsero through lush landscapes.' 
+        },
+        { 
+            name: 'Local Tribal Handicraft Centre', 
+            rating: 4.5, 
+            address: 'Main Bazaar, Chozuba Town', 
+            description: 'Cultural site showcasing local crafts, traditional attire, and handmade items.' 
+        }
+    ]
+}
+,'tamlu': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Tamlu', 
+            rating: 4.8, 
+            address: 'Tamlu Town, Longleng District, Nagaland 798625', 
+            description: 'Prominent government school offering arts and science streams with strong academic discipline and community involvement.' 
+        },
+        { 
+            name: 'St. Peter’s School Tamlu', 
+            rating: 4.7, 
+            address: 'Ward 2, Tamlu 798625', 
+            description: 'Mission-run English-medium school known for quality education and moral guidance.' 
+        },
+        { 
+            name: 'Don Bosco School Tamlu', 
+            rating: 4.6, 
+            address: 'Main Road, Tamlu Town', 
+            description: 'Private institution focusing on academics, extracurricular activities, and character building.' 
+        },
+        { 
+            name: 'Model English School', 
+            rating: 4.5, 
+            address: 'Ward 1, Tamlu 798625', 
+            description: 'Emerging school offering modern teaching facilities and student-friendly learning environment.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Tamlu Food Plaza', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Tamlu Town 798625', 
+            description: 'Popular restaurant serving local Naga food, snacks, and beverages with quick service.' 
+        },
+        { 
+            name: 'Highland Café Tamlu', 
+            rating: 4.7, 
+            address: 'Bus Stand Area, Tamlu Town', 
+            description: 'Cozy café offering tea, coffee, fast food, and local delicacies with a homely vibe.' 
+        },
+        { 
+            name: 'The Naga Kitchen', 
+            rating: 4.6, 
+            address: 'Market Road, Tamlu 798625', 
+            description: 'Authentic eatery offering smoked pork, bamboo shoot curry, and spicy regional dishes.' 
+        },
+        { 
+            name: 'Sunrise Restaurant', 
+            rating: 4.5, 
+            address: 'Ward 3, Tamlu Town', 
+            description: 'Family-friendly restaurant known for North Indian, Chinese, and Naga cuisines.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Primary Health Centre Tamlu', 
+            rating: 4.7, 
+            address: 'Hospital Road, Tamlu 798625', 
+            description: 'Government-run healthcare facility offering general treatment, immunization, and maternity care.' 
+        },
+        { 
+            name: 'Mission Health Clinic Tamlu', 
+            rating: 4.6, 
+            address: 'Ward 2, Tamlu Town', 
+            description: 'Faith-based medical centre providing outpatient services and community healthcare programs.' 
+        },
+        { 
+            name: 'Lifeline Medical Centre', 
+            rating: 4.5, 
+            address: 'Main Road, Tamlu Town, Longleng District', 
+            description: 'Private clinic offering diagnostic, dental, and minor surgical services.' 
+        },
+        { 
+            name: 'CarePoint Clinic', 
+            rating: 4.4, 
+            address: 'Market Area, Tamlu 798625', 
+            description: 'Small private clinic with good reputation for personal care and treatment.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Tamlu Viewpoint', 
+            rating: 4.8, 
+            address: 'Hilltop, Tamlu Town, Nagaland', 
+            description: 'Scenic viewpoint offering panoramic views of the surrounding green valleys and mountains.' 
+        },
+        { 
+            name: 'Longleng Eco Park', 
+            rating: 4.7, 
+            address: 'Near Tamlu, Longleng District', 
+            description: 'Beautiful park featuring natural trails, flora, and picnic areas ideal for nature lovers.' 
+        },
+        { 
+            name: 'Yongam Village', 
+            rating: 4.6, 
+            address: '3 km from Tamlu Town', 
+            description: 'Historic Phom Naga village showcasing traditional huts and cultural heritage.' 
+        },
+        { 
+            name: 'Tamlu Riverbank', 
+            rating: 4.5, 
+            address: 'Riverside, Tamlu 798625', 
+            description: 'Tranquil natural spot perfect for fishing, photography, and relaxation.' 
+        }
+    ]
+}
+,'noksen': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Noksen', 
+            rating: 4.8, 
+            address: 'Noksen Town, Tuensang District, Nagaland 798613', 
+            description: 'Leading government school in Noksen offering arts and science streams with qualified faculty and strong community involvement.' 
+        },
+        { 
+            name: 'St. John’s School Noksen', 
+            rating: 4.7, 
+            address: 'Ward 2, Noksen 798613', 
+            description: 'Mission school focusing on holistic education, discipline, and co-curricular development.' 
+        },
+        { 
+            name: 'Christian High School Noksen', 
+            rating: 4.6, 
+            address: 'Main Road, Noksen Town', 
+            description: 'Private English-medium school known for academic performance and spiritual growth.' 
+        },
+        { 
+            name: 'Model English School Noksen', 
+            rating: 4.5, 
+            address: 'Ward 1, Noksen 798613', 
+            description: 'Emerging educational institution offering modern teaching techniques and digital learning support.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Noksen Food Corner', 
+            rating: 4.8, 
+            address: 'Market Area, Noksen Town 798613', 
+            description: 'Popular restaurant offering traditional Naga dishes, tea, and snacks with a local touch.' 
+        },
+        { 
+            name: 'Taste of Hills Café', 
+            rating: 4.7, 
+            address: 'Main Bazaar, Noksen Town', 
+            description: 'Cozy café offering fast food, coffee, and baked items in a friendly environment.' 
+        },
+        { 
+            name: 'Highland Kitchen', 
+            rating: 4.6, 
+            address: 'Ward 3, Noksen 798613', 
+            description: 'Known for delicious local pork, smoked meat, and bamboo shoot delicacies.' 
+        },
+        { 
+            name: 'Blue Star Restaurant', 
+            rating: 4.5, 
+            address: 'Noksen Bus Stand Area', 
+            description: 'Simple eatery serving North Indian, Chinese, and Naga-style dishes with generous portions.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Primary Health Centre Noksen', 
+            rating: 4.7, 
+            address: 'Hospital Road, Noksen 798613', 
+            description: 'Government health facility offering essential medical care, immunization, and emergency aid.' 
+        },
+        { 
+            name: 'Mission Clinic Noksen', 
+            rating: 4.6, 
+            address: 'Ward 2, Noksen Town', 
+            description: 'Non-profit clinic providing outpatient and maternal health services with dedicated staff.' 
+        },
+        { 
+            name: 'Carewell Medical Centre', 
+            rating: 4.5, 
+            address: 'Main Road, Noksen 798613', 
+            description: 'Private clinic offering basic diagnostics, dental care, and routine treatment.' 
+        },
+        { 
+            name: 'Faith Health Point', 
+            rating: 4.4, 
+            address: 'Ward 1, Noksen Town', 
+            description: 'Community-based clinic offering personalized healthcare and first aid.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Noksen Heritage Village', 
+            rating: 4.8, 
+            address: 'Near Noksen Town, Tuensang District', 
+            description: 'Traditional Ao Naga village preserving cultural heritage, wood carvings, and folk traditions.' 
+        },
+        { 
+            name: 'Tsongphong Peak', 
+            rating: 4.7, 
+            address: '2 km from Noksen Town', 
+            description: 'Hilltop viewpoint offering stunning vistas of valleys and surrounding mountains.' 
+        },
+        { 
+            name: 'Langpangkong Caves', 
+            rating: 4.6, 
+            address: 'Near Noksen, Tuensang District', 
+            description: 'Historic cave system believed to have been used by ancient Naga tribes and explorers.' 
+        },
+        { 
+            name: 'Noksen Riverbank', 
+            rating: 4.5, 
+            address: 'Riverside, Noksen 798613', 
+            description: 'Peaceful spot for relaxation, fishing, and picnicking surrounded by lush forests.' 
+        }
+    ]
+}
+,'tizit': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Tizit', 
+            rating: 4.8, 
+            address: 'Tizit Town, Mon District, Nagaland 798602', 
+            description: 'Premier government school in Tizit offering science and arts streams with good academic results and co-curricular focus.' 
+        },
+        { 
+            name: 'St. John’s School Tizit', 
+            rating: 4.7, 
+            address: 'Ward 2, Tizit 798602', 
+            description: 'Catholic institution providing English-medium education with emphasis on discipline and moral development.' 
+        },
+        { 
+            name: 'Model English School Tizit', 
+            rating: 4.6, 
+            address: 'Main Road, Tizit Town', 
+            description: 'Private school offering modern curriculum, extracurricular clubs, and digital classrooms.' 
+        },
+        { 
+            name: 'Grace Academy Tizit', 
+            rating: 4.5, 
+            address: 'Tizit Bazaar Area, Mon District', 
+            description: 'CBSE-affiliated school promoting academic excellence and co-curricular engagement.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hill View Restaurant', 
+            rating: 4.8, 
+            address: 'Main Road, Tizit Town 798602', 
+            description: 'Popular eatery known for traditional Naga dishes, smoked pork, and spicy chutneys.' 
+        },
+        { 
+            name: 'Tizit Food Point', 
+            rating: 4.7, 
+            address: 'Market Area, Tizit', 
+            description: 'Local restaurant serving Indian, Chinese, and local cuisines at affordable prices.' 
+        },
+        { 
+            name: 'The Naga Table', 
+            rating: 4.6, 
+            address: 'Ward 3, Tizit 798602', 
+            description: 'Modern family restaurant known for clean ambiance and traditional recipes.' 
+        },
+        { 
+            name: 'Heritage Café Tizit', 
+            rating: 4.5, 
+            address: 'Near Bus Stand, Tizit Town', 
+            description: 'Cozy café serving coffee, snacks, and fusion dishes in a warm environment.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Tizit', 
+            rating: 4.7, 
+            address: 'Hospital Road, Tizit 798602', 
+            description: 'Major healthcare center offering OPD, maternity, and emergency medical services.' 
+        },
+        { 
+            name: 'Mon District Hospital Branch – Tizit Unit', 
+            rating: 4.6, 
+            address: 'Tizit Town, Mon District', 
+            description: 'Extension of district hospital offering general healthcare and laboratory services.' 
+        },
+        { 
+            name: 'Faith Clinic Tizit', 
+            rating: 4.5, 
+            address: 'Ward 2, Tizit 798602', 
+            description: 'Private clinic known for personal patient care and diagnostic facilities.' 
+        },
+        { 
+            name: 'Healing Touch Medical Centre', 
+            rating: 4.4, 
+            address: 'Main Market, Tizit', 
+            description: 'Well-equipped medical center offering outpatient care and basic pharmacy services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Tizit Viewpoint', 
+            rating: 4.8, 
+            address: 'Hilltop, Tizit Town, Mon District', 
+            description: 'Scenic point offering panoramic views of lush valleys and Myanmar border landscapes.' 
+        },
+        { 
+            name: 'Chui Village', 
+            rating: 4.7, 
+            address: 'Near Tizit, Mon District', 
+            description: 'Traditional Konyak Naga village known for its wood carvings and headhunting history.' 
+        },
+        { 
+            name: 'Tizit Riverbank', 
+            rating: 4.6, 
+            address: 'Along Tizit River, Mon District', 
+            description: 'Peaceful spot for picnics, fishing, and photography surrounded by green hills.' 
+        },
+        { 
+            name: 'Veda Heritage Trail', 
+            rating: 4.5, 
+            address: '5 km from Tizit Town', 
+            description: 'Nature trail ideal for short hikes and exploring the biodiversity of the region.' 
+        }
+    ]
+}
+,'bhandari': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Bhandari', 
+            rating: 4.8, 
+            address: 'Bhandari Town, Wokha District, Nagaland 797111', 
+            description: 'Leading government institution in Bhandari offering arts and science streams with experienced teachers and community programs.' 
+        },
+        { 
+            name: 'Mount Carmel School Bhandari', 
+            rating: 4.7, 
+            address: 'Ward 2, Bhandari Town 797111', 
+            description: 'English-medium school focused on holistic education and personality development of students.' 
+        },
+        { 
+            name: 'St. Peter’s School Bhandari', 
+            rating: 4.6, 
+            address: 'Church Road, Bhandari Town', 
+            description: 'Missionary school offering quality education, moral training, and extracurricular activities.' 
+        },
+        { 
+            name: 'Model English School Bhandari', 
+            rating: 4.5, 
+            address: 'Main Road, Bhandari 797111', 
+            description: 'Growing private school known for digital learning tools and innovative teaching methods.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hill Top Restaurant', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Bhandari Town 797111', 
+            description: 'Popular restaurant known for Naga, Indian, and Chinese cuisine with a great hill view.' 
+        },
+        { 
+            name: 'Bhandari Food Point', 
+            rating: 4.7, 
+            address: 'Ward 3, Bhandari 797111', 
+            description: 'Casual eatery offering thalis, momos, noodles, and local delicacies.' 
+        },
+        { 
+            name: 'Taste & Dine', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Bhandari', 
+            description: 'Modern restaurant with clean interiors serving multi-cuisine dishes and beverages.' 
+        },
+        { 
+            name: 'Café Hillside', 
+            rating: 4.5, 
+            address: 'Market Area, Bhandari Town', 
+            description: 'Charming café serving coffee, snacks, and bakery items with local hospitality.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Bhandari', 
+            rating: 4.7, 
+            address: 'Hospital Road, Bhandari 797111', 
+            description: 'Primary government health centre providing emergency, maternity, and general medical care.' 
+        },
+        { 
+            name: 'CarePoint Medical Clinic', 
+            rating: 4.6, 
+            address: 'Ward 1, Bhandari Town', 
+            description: 'Private clinic offering outpatient services, checkups, and minor treatments.' 
+        },
+        { 
+            name: 'St. John’s Health Centre', 
+            rating: 4.5, 
+            address: 'Church Compound, Bhandari', 
+            description: 'Faith-based clinic providing healthcare with focus on community wellness.' 
+        },
+        { 
+            name: 'Wellcare Diagnostics Bhandari', 
+            rating: 4.4, 
+            address: 'Main Market, Bhandari 797111', 
+            description: 'Diagnostic facility providing blood tests, ECG, and health screening services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Bhandari View Point', 
+            rating: 4.8, 
+            address: 'Hilltop, Bhandari Town, Wokha District', 
+            description: 'Scenic viewpoint offering breathtaking views of the Doyang River and surrounding hills.' 
+        },
+        { 
+            name: 'Doyang Hydro Project', 
+            rating: 4.7, 
+            address: 'Near Bhandari, Wokha District', 
+            description: 'Famous for its dam, river view, and birdwatching—especially migratory Amur Falcons.' 
+        },
+        { 
+            name: 'Bhandari Heritage Village', 
+            rating: 4.6, 
+            address: '3 km from Bhandari Town', 
+            description: 'Traditional Lotha Naga village preserving cultural artifacts, log drums, and bamboo houses.' 
+        },
+        { 
+            name: 'Doyang Riverbank', 
+            rating: 4.5, 
+            address: 'Bhandari Area, Wokha District', 
+            description: 'Peaceful riverside spot perfect for picnics, fishing, and nature walks.' 
+        }
+    ]
+}
+,'bhandari': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Bhandari', 
+            rating: 4.8, 
+            address: 'Bhandari Town, Wokha District, Nagaland 797111', 
+            description: 'Leading government institution in Bhandari offering arts and science streams with experienced teachers and community programs.' 
+        },
+        { 
+            name: 'Mount Carmel School Bhandari', 
+            rating: 4.7, 
+            address: 'Ward 2, Bhandari Town 797111', 
+            description: 'English-medium school focused on holistic education and personality development of students.' 
+        },
+        { 
+            name: 'St. Peter’s School Bhandari', 
+            rating: 4.6, 
+            address: 'Church Road, Bhandari Town', 
+            description: 'Missionary school offering quality education, moral training, and extracurricular activities.' 
+        },
+        { 
+            name: 'Model English School Bhandari', 
+            rating: 4.5, 
+            address: 'Main Road, Bhandari 797111', 
+            description: 'Growing private school known for digital learning tools and innovative teaching methods.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Hill Top Restaurant', 
+            rating: 4.8, 
+            address: 'Main Bazaar, Bhandari Town 797111', 
+            description: 'Popular restaurant known for Naga, Indian, and Chinese cuisine with a great hill view.' 
+        },
+        { 
+            name: 'Bhandari Food Point', 
+            rating: 4.7, 
+            address: 'Ward 3, Bhandari 797111', 
+            description: 'Casual eatery offering thalis, momos, noodles, and local delicacies.' 
+        },
+        { 
+            name: 'Taste & Dine', 
+            rating: 4.6, 
+            address: 'Near Bus Stand, Bhandari', 
+            description: 'Modern restaurant with clean interiors serving multi-cuisine dishes and beverages.' 
+        },
+        { 
+            name: 'Café Hillside', 
+            rating: 4.5, 
+            address: 'Market Area, Bhandari Town', 
+            description: 'Charming café serving coffee, snacks, and bakery items with local hospitality.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Community Health Centre Bhandari', 
+            rating: 4.7, 
+            address: 'Hospital Road, Bhandari 797111', 
+            description: 'Primary government health centre providing emergency, maternity, and general medical care.' 
+        },
+        { 
+            name: 'CarePoint Medical Clinic', 
+            rating: 4.6, 
+            address: 'Ward 1, Bhandari Town', 
+            description: 'Private clinic offering outpatient services, checkups, and minor treatments.' 
+        },
+        { 
+            name: 'St. John’s Health Centre', 
+            rating: 4.5, 
+            address: 'Church Compound, Bhandari', 
+            description: 'Faith-based clinic providing healthcare with focus on community wellness.' 
+        },
+        { 
+            name: 'Wellcare Diagnostics Bhandari', 
+            rating: 4.4, 
+            address: 'Main Market, Bhandari 797111', 
+            description: 'Diagnostic facility providing blood tests, ECG, and health screening services.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Bhandari View Point', 
+            rating: 4.8, 
+            address: 'Hilltop, Bhandari Town, Wokha District', 
+            description: 'Scenic viewpoint offering breathtaking views of the Doyang River and surrounding hills.' 
+        },
+        { 
+            name: 'Doyang Hydro Project', 
+            rating: 4.7, 
+            address: 'Near Bhandari, Wokha District', 
+            description: 'Famous for its dam, river view, and birdwatching—especially migratory Amur Falcons.' 
+        },
+        { 
+            name: 'Bhandari Heritage Village', 
+            rating: 4.6, 
+            address: '3 km from Bhandari Town', 
+            description: 'Traditional Lotha Naga village preserving cultural artifacts, log drums, and bamboo houses.' 
+        },
+        { 
+            name: 'Doyang Riverbank', 
+            rating: 4.5, 
+            address: 'Bhandari Area, Wokha District', 
+            description: 'Peaceful riverside spot perfect for picnics, fishing, and nature walks.' 
+        }
+    ]
+}
+,'seyochung': {
+    schools: [
+        { 
+            name: 'Government Higher Secondary School Seyochung', 
+            rating: 4.8, 
+            address: 'Seyochung Town, Kiphire District, Nagaland 798611', 
+            description: 'Main educational institution offering arts and science streams with dedicated staff and strong academic results.' 
+        },
+        { 
+            name: 'St. Mary’s School Seyochung', 
+            rating: 4.7, 
+            address: 'Ward 2, Seyochung Town 798611', 
+            description: 'Missionary-run English-medium school promoting value-based education and extracurricular activities.' 
+        },
+        { 
+            name: 'Model English School Seyochung', 
+            rating: 4.6, 
+            address: 'Main Road, Seyochung Town', 
+            description: 'Private school providing modern learning techniques and a strong focus on student participation.' 
+        },
+        { 
+            name: 'Holy Cross School Seyochung', 
+            rating: 4.5, 
+            address: 'Ward 3, Seyochung 798611', 
+            description: 'Well-reputed school emphasizing academics, discipline, and cultural education.' 
+        }
+    ],
+    restaurants: [
+        { 
+            name: 'Seyochung Food Plaza', 
+            rating: 4.8, 
+            address: 'Market Area, Seyochung Town 798611', 
+            description: 'Popular restaurant serving Naga, Indian, and Chinese dishes with excellent service and hygiene.' 
+        },
+        { 
+            name: 'Taste of Hills Restaurant', 
+            rating: 4.7, 
+            address: 'Ward 1, Seyochung Town', 
+            description: 'Local eatery offering traditional Naga food and freshly cooked local meats.' 
+        },
+        { 
+            name: 'Valley View Café', 
+            rating: 4.6, 
+            address: 'Main Road, Seyochung 798611', 
+            description: 'Cozy café offering snacks, tea, coffee, and scenic views of the valley.' 
+        },
+        { 
+            name: 'Seyochung Delight Kitchen', 
+            rating: 4.5, 
+            address: 'Bus Stand Area, Seyochung', 
+            description: 'Simple, family-friendly restaurant serving regional specialties and Indian thalis.' 
+        }
+    ],
+    hospitals: [
+        { 
+            name: 'Primary Health Centre Seyochung', 
+            rating: 4.7, 
+            address: 'Hospital Road, Seyochung 798611', 
+            description: 'Government-run healthcare facility providing essential health services, maternity care, and emergency aid.' 
+        },
+        { 
+            name: 'Seyochung Community Clinic', 
+            rating: 4.6, 
+            address: 'Ward 2, Seyochung Town', 
+            description: 'Private clinic known for general consultations and patient care services.' 
+        },
+        { 
+            name: 'Grace Medical Centre', 
+            rating: 4.5, 
+            address: 'Main Market, Seyochung 798611', 
+            description: 'Healthcare center offering diagnostics, pharmacy, and outpatient treatment.' 
+        },
+        { 
+            name: 'Life Line Health Point', 
+            rating: 4.4, 
+            address: 'Ward 3, Seyochung Town', 
+            description: 'Private medical unit providing basic healthcare and routine checkups.' 
+        }
+    ],
+    touristSpots: [
+        { 
+            name: 'Seyochung View Point', 
+            rating: 4.8, 
+            address: 'Hilltop, Seyochung Town, Kiphire District', 
+            description: 'Scenic viewpoint overlooking mountain ranges and dense green valleys.' 
+        },
+        { 
+            name: 'Seyochung Heritage Village', 
+            rating: 4.7, 
+            address: '2 km from Seyochung Town', 
+            description: 'Traditional Sangtam Naga village known for bamboo architecture and cultural artifacts.' 
+        },
+        { 
+            name: 'Seyochung River Valley', 
+            rating: 4.6, 
+            address: 'Near Seyochung, Kiphire District', 
+            description: 'Beautiful riverbank ideal for picnics, trekking, and photography.' 
+        },
+        { 
+            name: 'Mount Kapamodzu Trail', 
+            rating: 4.5, 
+            address: 'Seyochung Region, Kiphire District', 
+            description: 'Trekking route offering adventure trails and spectacular panoramic views.' 
+        }
+    ]
+}
+,
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7405,12 +20725,13 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!currentCity || !currentCategory) return;
         if (currentCategory === 'weather') return;
         
-        // Map singular category names to plural database keys
+        // Map category names to database keys (normalize variations)
         const categoryMap = {
             'school': 'schools',
             'restaurant': 'restaurants',
             'hospital': 'hospitals',
-            'touristspot': 'touristspots'
+            'touristspot': 'touristSpots',
+            'touristspots': 'touristSpots'
         };
         
         const dbCategory = categoryMap[currentCategory] || currentCategory;
@@ -7534,4 +20855,3 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 });
-
